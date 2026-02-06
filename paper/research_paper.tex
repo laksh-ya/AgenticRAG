@@ -1,0 +1,80 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+
+% Layout settings
+\geometry{
+    a4paper,
+    total={170mm, 257mm},
+    left=20mm,
+    top=20mm,
+}
+
+% Title Formatting
+\title{\textbf{AgenticRAG: An Active Knowledge-Base Driven Multi-Agent Framework for Financial Investment Decisions}}
+\author{AgenticRAG Team}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The integration of Large Language Models (LLMs) into financial decision-making has been hindered by hallucinations, lack of temporal memory, and the "black box" nature of reasoning. While Retrieval-Augmented Generation (RAG) addresses the knowledge gap, traditional implementations remain "passive"—merely retrieving static documents upon request. This paper introduces \textbf{AgenticRAG}, a novel multi-agent framework featuring an \textbf{Active Knowledge Base Agent} that functions as the system's hippocampus. Unlike standard RAG architectures, our Knowledge Base Agent actively acts before, during, and after the decision lifecycle: \textit{pre-querying} historical context, \textit{storing} structured decision logic, and \textit{reflecting} on market outcomes to update long-term memory. We demonstrate how this active learning loop creates a self-improving investment system that learns from its successes and failures.
+\end{abstract}
+
+\section{Introduction}
+
+The financial domain presents unique challenges for Artificial Intelligence, characterized by high volatility and data heterogeneity. LLMs like GPT-4 have shown promise but suffer from: (1) \textbf{Memory Amnesia}, treating every analysis as isolated; (2) \textbf{Static Knowledge}; and (3) \textbf{Lack of Reflection} on past predictions.
+
+Existing solutions often employ "Passive RAG," providing external knowledge but lacking \textbf{agency} over the memory itself. We propose \textbf{AgenticRAG}, a framework that transforms the RAG system into an active agent. The core novelty is the \textbf{Knowledge Base (KB) Agent}, which orchestrates memory. It proactively retrieves lessons before analysis and reflects on outcomes after the fact, closing the learning loop.
+
+\section{Literature Review}
+
+\subsection{Retrieval-Augmented Generation (RAG) in Finance}
+RAG combines parametric and non-parametric memory. In finance, typical implementations are read-only retrieval systems (Lewis et al., 2020). Our approach creates a \textbf{read-write} memory system gated by intelligent reflection.
+
+\subsection{Agentic Workflows}
+Moving from linear chains to cyclic graphs (LangGraph) allows sophisticated multi-agent behaviors. While systems like TradingGPT divide labor (Analyst, Trader), they often lack a centralized, evolving memory. AgenticRAG integrates a persistent meta-memory that spans across trading sessions.
+
+\subsection{Cognitive Architectures}
+Inspired by the human \textbf{hippocampus}, our KB Agent consolidates short-term experience into long-term memory, similar to "Generative Agents" (Park et al., 2023) but applied to financial performance reinforcement.
+
+\section{System Architecture}
+
+AgenticRAG is a modular Multi-Agent architecture orchestrated via a state graph, featuring diverse data flows and a central Multi-RAG memory system.
+
+\subsection{The Core Novelty: Active Knowledge Base Agent}
+The KB Agent is the distinctive component:
+\begin{itemize}
+    \item \textbf{Pre-Analysis Query (Recall)}: Before analysts run, it queries the Multi-RAG stores to synthesize a \textit{Historical Context} report (Insights, Trade History, Lessons). This grounds analysis in collective experience.
+    \item \textbf{Post-Decision Storage (Consolidation)}: Upon decision, it captures the full state (Debate, Risk, Reasoning) as a structured \textit{Trade Record}.
+    \item \textbf{Outcome Reflection (Learning)}: The critical feedback loop. When outcomes are known, it compares Decision vs. Actual Return to generate a \textit{Lesson} (e.g., "What went wrong?"), which is stored for future retrieval.
+\end{itemize}
+
+\subsection{Multi-RAG Knowledge Stores}
+Three distinct ChromaDB vector collections:
+\begin{enumerate}
+    \item \textbf{market\_insights}: General market behavior patterns.
+    \item \textbf{trade\_history}: Immutable log of decisions.
+    \item \textbf{lessons\_learned}: Principles derived from reflection.
+\end{enumerate}
+
+\subsection{Agent Team Structure}
+The workflow follows a directed graph:
+\begin{enumerate}
+    \item \textbf{KB Agent}: Pre-queries context.
+    \item \textbf{Analyst Team} (Parallel): Fundamentals, Market, News, Social Media.
+    \item \textbf{Research Team} (Debate): Bull/Bear Researchers and Manager.
+    \item \textbf{Risk Manager}: Assesses position sizing.
+    \item \textbf{Trader Agent}: Makes final BUY/HOLD/SELL decision.
+    \item \textbf{KB Agent}: Stores result.
+\end{enumerate}
+
+\section{Conclusion}
+AgenticRAG demonstrates that giving an agent active control over its memory enriches decision-making. By moving from passive retrieval to active reflection, the system evolves into a learning partner capable of accumulating financial wisdom over time.
+
+\end{document}

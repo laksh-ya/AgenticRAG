@@ -1,0 +1,75 @@
+# ═══════════════════════════════════════════════════════════════
+#  AgenticRAG .gitignore
+# ═══════════════════════════════════════════════════════════════
+
+# ── Secrets (NEVER commit these) ──────────────────────────────
+.env
+*.pem
+*.key
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# ── Virtual environments ─────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── ChromaDB / Knowledge Base (local vector stores) ──────────
+# These are machine-specific and get rebuilt on first run
+knowledge_base/*/chroma.sqlite3
+knowledge_base/*/*/
+
+# ── Cached data (JSON fetched from APIs) ─────────────────────
+# Keep the directories (via .gitkeep), ignore fetched data
+data/fundamentals/*.json
+data/stock_data/*.json
+data/news/*.json
+data/social_media/*.json
+
+# ── Data ingestion output (teammate's scripts) ───────────────
+data_ingestion/output/
+data_ingestion/__pycache__/
+
+# ── Results & Logs (generated at runtime) ────────────────────
+results/
+logs/
+
+# ── IDE / Editor ─────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# ── macOS ────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ── Jupyter ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Reference repo (don't ship someone else's code) ─────────
+TradingAgents/
+
+# ── Internal notes (don't push planning docs) ───────────────
+Analyzing AgenticRAG Gaps.md
+
+# ── Misc ─────────────────────────────────────────────────────
+*.log
+*.tmp
+*.bak
