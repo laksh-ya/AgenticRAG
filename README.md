@@ -47,12 +47,13 @@ AgenticRAG/
 ├── graphs/
 │   └── trading_graph.py        # LangGraph workflow orchestrator
 │
-├── streamlit_apps/             # 5 Streamlit UIs
+├── streamlit_apps/             # 6 Streamlit UIs
 │   ├── app_main.py             # Full analysis with live agent reasoning
 │   ├── app_data_test.py        # Test all data sources + cache
 │   ├── app_kb_train.py         # Teach outcomes, upload data, browse KB
 │   ├── app_rag_test.py         # Query RAG directly
-│   └── app_backtest.py         # Rolling backtest
+│   ├── app_backtest.py         # Rolling backtest
+│   └── app_metrics.py          # Metrics dashboard + outcome tracking
 │
 ├── data_ingestion/             # Teammate's standalone scripts (reference)
 ├── evaluation/                 # Backtesting module
@@ -114,8 +115,8 @@ The `DataLoader` handles everything — agents just call `loader.load(ticker, da
 |-----------|----------|----------|----------|
 | fundamentals | yfinance | alpha_vantage | — |
 | market | yfinance (prices) | yfinance (report) | — |
-| news | alpha_vantage | yahoo_rss | — |
-| social | reddit | stocktwits | yahoo_rss |
+| news | google_rss | alpha_vantage | — |
+| social | reddit | stocktwits | — |
 
 **Cache TTLs:** fundamentals=7 days, market=1 day, news/social=6 hours.
 
@@ -128,7 +129,7 @@ Everything is in **`preferences.py`** — no hardcoded values anywhere else.
 ```python
 # Switch LLM provider
 CONFIG["llm_provider"] = "openai"       # or "gemini" or "ollama"
-CONFIG["deep_model"]   = "gpt-4o-mini"  # for research manager + trader
+CONFIG["deep_model"]   = "gpt-4o"      # for research manager + trader
 CONFIG["quick_model"]  = "gpt-4o-mini"  # for analysts + risk
 
 # Switch embedding provider
@@ -149,6 +150,7 @@ SUPPORTED_TICKERS = ["AAPL", "MSFT", "GOOGL", "NVDA", "AMZN"]
 | **KB Training** | `streamlit run streamlit_apps/app_kb_train.py` | Teach outcomes, upload data, browse KB |
 | **RAG Test** | `streamlit run streamlit_apps/app_rag_test.py` | Query RAG collections directly |
 | **Backtest** | `streamlit run streamlit_apps/app_backtest.py` | Rolling 30-day backtest |
+| **Metrics** | `streamlit run streamlit_apps/app_metrics.py` | Decision log, outcomes, win rate, charts |
 
 ---
 

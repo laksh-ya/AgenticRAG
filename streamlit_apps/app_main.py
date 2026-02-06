@@ -163,7 +163,7 @@ def run_with_streaming(ticker, date_str, portfolio):
                 current_agent_label.markdown(f"**Last completed: {agent_name}**")
                 report_container.text_area(
                     "",
-                    value=str(updates[output_key])[:2000],
+                    value=str(updates[output_key]),
                     height=350,
                     disabled=True,
                     key=f"report_{agent_name}_{time.time()}",
@@ -252,7 +252,13 @@ if "result" in st.session_state:
         agent_outputs = st.session_state.get("agent_outputs", {})
         for agent_name, output in agent_outputs.items():
             with st.expander(f"📄 {agent_name}", expanded=False):
-                st.text(str(output)[:1500])
+                st.text_area(
+                    agent_name,
+                    value=str(output),
+                    height=400,
+                    disabled=True,
+                    key=f"agent_report_{agent_name}",
+                )
 
     with tab_explain:
         report = result.get("explainability_report", "")

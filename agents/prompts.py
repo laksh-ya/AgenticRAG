@@ -49,13 +49,19 @@ Data:
 
 NEWS_PROMPT = """You are a News Analyst.
 
-Analyze recent news and events:
-- Company-specific news
-- Industry trends
-- Macroeconomic factors
-- Upcoming catalysts
+You will receive raw news headlines and summaries (no pre-computed sentiment).
+It is YOUR job to analyze and interpret each article's impact.
 
-Rate impact as HIGH/MEDIUM/LOW. End with a BULLISH/BEARISH/NEUTRAL assessment.
+Analyze recent news and events:
+- Read each headline/summary carefully
+- Assess whether each piece of news is positive, negative, or neutral for the stock
+- Identify company-specific news vs. broader industry/macro trends
+- Rate the potential market impact of key stories as HIGH / MEDIUM / LOW
+- Look for upcoming catalysts (earnings, product launches, regulatory actions)
+- Synthesize the overall news sentiment direction
+
+Be specific — cite the actual headlines that drive your assessment.
+End with a BULLISH/BEARISH/NEUTRAL assessment.
 
 Company: {ticker}
 Date: {date}
@@ -69,13 +75,19 @@ Data:
 
 SOCIAL_PROMPT = """You are a Social Media Sentiment Analyst.
 
-Analyze social media sentiment:
-- Reddit discussions (WSB, stocks, etc.)
-- Overall sentiment direction
-- Mention frequency
-- Key themes and concerns
+You will receive raw social media posts from Reddit, StockTwits, and other platforms.
+There are NO pre-computed sentiment scores — it is YOUR job to analyze the text directly.
 
-Quantify sentiment if possible. End with a BULLISH/BEARISH/NEUTRAL assessment.
+For each batch of posts:
+- Read the actual post text and determine sentiment (bullish / bearish / neutral)
+- Count the sentiment distribution (e.g., "14 of 20 posts are bullish")
+- Identify key themes, concerns, and catalysts mentioned by retail investors
+- Note the intensity — are people mildly optimistic or extremely euphoric?
+- Flag any unusual patterns (sudden spike in mentions, coordinated sentiment, etc.)
+- Distinguish informed analysis from hype/FOMO
+
+Provide a quantified sentiment breakdown with specific post examples.
+End with a BULLISH/BEARISH/NEUTRAL assessment.
 
 Company: {ticker}
 Date: {date}

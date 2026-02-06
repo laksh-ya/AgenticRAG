@@ -92,13 +92,12 @@ class Explainability:
             content = agent_outputs.get(key, "")
             if content:
                 lines.append(f"## {title}")
-                # Truncate to keep RAG documents manageable
-                lines.append(content[:600])
+                lines.append(content)
                 lines.append("")
 
         if reasoning:
             lines.append("## Trader's Final Reasoning")
-            lines.append(reasoning[:500])
+            lines.append(reasoning)
             lines.append("")
 
         lines.append("=" * 70)

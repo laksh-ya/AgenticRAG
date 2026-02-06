@@ -69,8 +69,8 @@ FALLBACK_CHAINS = {
     "fundamentals": ["yfinance", "alpha_vantage"],
     "market":       ["yfinance", "yfinance_report"],
     "technical":    ["yfinance"],
-    "news":         ["alpha_vantage", "yahoo_rss"],
-    "social":       ["reddit", "stocktwits", "yahoo_rss"],
+    "news":         ["google_rss", "alpha_vantage"],
+    "social":       ["reddit", "stocktwits"],
 }
 
 # =============================================================================
@@ -90,7 +90,7 @@ CACHE_TTL = {
 CONFIG = {
     # LLM Settings
     "llm_provider": "openai",
-    "deep_model": "gpt-4o-mini",
+    "deep_model": "gpt-4o",
     "quick_model": "gpt-4o-mini",
     
     # Embedding Settings

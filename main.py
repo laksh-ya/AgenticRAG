@@ -40,11 +40,11 @@ def main():
     print(f"RESULT: {result['decision']}")
     print(f"Confidence: {result['confidence']:.1%}")
     print(f"{'=' * 60}")
-    print(f"\nReasoning:\n{result['reasoning'][:500]}...")
+    print(f"\nReasoning:\n{result['reasoning']}")
 
     # Explainability report
     if result.get("explainability_report"):
-        print(f"\n{result['explainability_report'][:800]}...")
+        print(f"\n{result['explainability_report']}")
 
     # Save result
     path = trading.save_result(result)

@@ -26,6 +26,126 @@ st.title("🔌 Data Pipeline Test")
 
 loader = DataLoader()
 
+
+# ═══════════════════════════════════════════════════════════════════════════
+#  Pretty renderer — shows data by type (news → articles, social → posts, etc.)
+# ═══════════════════════════════════════════════════════════════════════════
+
+def _render_data_pretty(parsed: dict, data_type: str):
+    """
+    Render fetched data in a human-readable way depending on data_type.
+    Shows articles as clickable cards, posts as a table, fundamentals as metrics, etc.
+    """
+    # ── NEWS: show article cards ──
+    if data_type == "news" or "articles" in parsed:
+        articles = parsed.get("articles", [])
+        st.metric("📰 Articles", len(articles))
+
+        for i, a in enumerate(articles):
+            headline = a.get("headline", "No headline")
+            source = a.get("source", "")
+            date = a.get("date", "")
+            summary = a.get("summary", "")
+            link = a.get("link", "")
+            av_sent = a.get("av_sentiment", "")
+
+            badge = f" · `{av_sent}`" if av_sent else ""
+            link_md = f"  [🔗 Open]({link})" if link else ""
+
+            with st.expander(f"**{headline}**  _{source}_{badge}", expanded=False):
+                cols = st.columns([3, 1])
+                with cols[0]:
+                    if summary:
+                        st.markdown(summary)
+                    else:
+                        st.caption("No summary available")
+                with cols[1]:
+                    if date:
+                        st.caption(f"📅 {date[:10]}")
+                    if link:
+                        st.markdown(f"[🔗 Open article]({link})")
+
+    # ── SOCIAL: show posts table + expandable text ──
+    elif data_type == "social" or "posts" in parsed:
+        posts = parsed.get("posts", [])
+        st.metric("💬 Posts", len(posts))
+
+        # Summary table
+        table_rows = []
+        for p in posts:
+            table_rows.append({
+                "Platform": p.get("platform", ""),
+                "Subreddit": p.get("subreddit", ""),
+                "Date": p.get("date", ""),
+                "Text": p.get("text", "")[:120] + ("…" if len(p.get("text", "")) > 120 else ""),
+            })
+        if table_rows:
+            st.dataframe(table_rows, use_container_width=True)
+
+        # Full posts
+        with st.expander(f"📝 Full post text ({len(posts)} posts)", expanded=False):
+            for i, p in enumerate(posts):
+                platform = p.get("platform", "unknown")
+                sub = f" r/{p['subreddit']}" if p.get("subreddit") else ""
+                st.markdown(f"**{i+1}. [{platform}{sub}]** — {p.get('date', '')}")
+                st.text(p.get("text", ""))
+                st.markdown("---")
+
+    # ── MARKET: show price summary + chart-ready data ──
+    elif data_type == "market" or "summary" in parsed:
+        summary = parsed.get("summary", {})
+        if summary:
+            cols = st.columns(4)
+            cols[0].metric("Start Price", f"${summary.get('start_price', 0):.2f}")
+            cols[1].metric("End Price", f"${summary.get('end_price', 0):.2f}")
+            cols[2].metric("Change", f"{summary.get('change_pct', 0):.2f}%")
+            cols[3].metric("Trend", summary.get("trend", "—").upper())
+
+            if summary.get("annualized_volatility"):
+                st.caption(f"Annualized Volatility: {summary['annualized_volatility']:.4f}")
+
+        # Price table
+        prices = parsed.get("prices", [])
+        if prices:
+            with st.expander(f"📊 Price data ({len(prices)} days)", expanded=False):
+                st.dataframe(prices, use_container_width=True)
+
+        # Market report extras
+        if "stock_performance" in parsed:
+            st.json(parsed["stock_performance"])
+        if "sector_performance" in parsed:
+            st.json(parsed["sector_performance"])
+        if "risk_context" in parsed:
+            st.json(parsed["risk_context"])
+
+    # ── FUNDAMENTALS: show key metrics as cards ──
+    elif data_type == "fundamentals" or "fundamentals" in parsed:
+        fdata = parsed.get("fundamentals", parsed.get("overview", {}))
+        company = parsed.get("company", parsed.get("ticker", ""))
+        st.markdown(f"**{company}** — as of {parsed.get('as_of', 'N/A')}")
+
+        if isinstance(fdata, dict):
+            for section_name, section_data in fdata.items():
+                if isinstance(section_data, dict):
+                    with st.expander(f"📊 {section_name.replace('_', ' ').title()}", expanded=True):
+                        cols = st.columns(min(len(section_data), 4))
+                        for j, (k, v) in enumerate(section_data.items()):
+                            with cols[j % len(cols)]:
+                                label = k.replace("_", " ").title()
+                                if isinstance(v, float):
+                                    st.metric(label, f"{v:.4f}")
+                                else:
+                                    st.metric(label, str(v) if v is not None else "N/A")
+
+    # ── FALLBACK: raw JSON ──
+    else:
+        st.json(parsed)
+
+    # Always offer raw JSON at the bottom
+    with st.expander("🔧 Raw JSON", expanded=False):
+        st.json(parsed)
+
+
 # ═══════════════════════════════════════════════════════════════════════════
 #  Tabs
 # ═══════════════════════════════════════════════════════════════════════════
@@ -63,24 +183,11 @@ with tab_quick:
         else:
             st.success(f"✅ Loaded in {elapsed:.2f}s — {len(data):,} chars")
 
-            # Try to parse as JSON for pretty display
             try:
                 parsed = json.loads(data)
                 source = parsed.get("data_source", "json cache")
                 st.info(f"**Source:** {source}")
-
-                # Show summary metrics if available
-                if "summary" in parsed:
-                    st.json(parsed["summary"])
-                elif "fundamentals" in parsed:
-                    st.json(parsed["fundamentals"].get("valuation", {}))
-                elif "article_count" in parsed:
-                    st.metric("Articles", parsed["article_count"])
-                elif "post_count" in parsed:
-                    st.metric("Posts", parsed["post_count"])
-
-                with st.expander("📄 Full JSON", expanded=False):
-                    st.json(parsed)
+                _render_data_pretty(parsed, qt_type)
             except json.JSONDecodeError:
                 st.code(data[:3000])
 
@@ -121,7 +228,7 @@ with tab_sources:
             st.error(f"❌ Source `{se_source}` returned None for {se_ticker}")
         else:
             st.success(f"✅ Got data in {elapsed:.2f}s — {len(result)} keys")
-            st.json(result)
+            _render_data_pretty(result, se_type)
 
     st.markdown("---")
     st.subheader("📋 Source Registry")
@@ -161,11 +268,32 @@ with tab_cache:
 
             for f in info["files"]:
                 fresh_icon = "🟢" if f["fresh"] else "🔴"
-                st.markdown(
-                    f"{fresh_icon} **{f['file']}** — "
-                    f"{f['age_hours']}h old — "
-                    f"{f['size_kb']} KB"
-                )
+                col_info, col_btn = st.columns([4, 1])
+                with col_info:
+                    st.markdown(
+                        f"{fresh_icon} **{f['file']}** — "
+                        f"{f['age_hours']}h old — "
+                        f"{f['size_kb']} KB"
+                    )
+                with col_btn:
+                    if st.button("👁️ View", key=f"view_{data_type}_{f['file']}"):
+                        st.session_state[f"preview_{data_type}_{f['file']}"] = True
+
+                # Show preview if button was clicked
+                if st.session_state.get(f"preview_{data_type}_{f['file']}", False):
+                    file_path = os.path.join(
+                        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                        "data", info["dir"], f["file"]
+                    )
+                    try:
+                        with open(file_path, "r") as fp:
+                            cached_data = json.load(fp)
+                        _render_data_pretty(cached_data, data_type)
+                        if st.button("🔽 Collapse", key=f"collapse_{data_type}_{f['file']}"):
+                            st.session_state[f"preview_{data_type}_{f['file']}"] = False
+                            st.rerun()
+                    except Exception as e:
+                        st.error(f"Could not load file: {e}")
 
     st.markdown("---")
     col_clear1, col_clear2, col_clear3 = st.columns(3)

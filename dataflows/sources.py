@@ -10,7 +10,10 @@ Sources integrated:
   - Reddit JSON   : social posts from finance subreddits
   - StockTwits    : social sentiment stream
   - Yahoo RSS     : news + social headlines via feedparser
-  - VADER         : sentiment scoring for social/news text
+  - Google News   : free news via RSS (no API key needed)
+
+Raw text is returned without pre-computed sentiment scores.
+LLM agents are responsible for their own sentiment analysis.
 
 Each source function is named:  <source>_<data_type>
     e.g.  yfinance_stock(), alphavantage_news(), reddit_social()
@@ -40,7 +43,7 @@ def _safe_import(module_name: str):
 
 
 # ═══════════════════════════════════════════════════════════════════════════
-#  SENTIMENT HELPERS  (used by social + news sources)
+#  TEXT FILTERING HELPERS  (noise reduction for social + news)
 # ═══════════════════════════════════════════════════════════════════════════
 
 # Investment-relevant keywords for filtering noise
@@ -70,48 +73,6 @@ FINANCE_SUBREDDITS = {
 def _is_investment_text(text: str) -> bool:
     t = text.lower()
     return any(k in t for k in INVESTMENT_KEYWORDS)
-
-
-def _vader_sentiment(text: str) -> tuple:
-    """Return (label, score) using VADER. Falls back to (Neutral, 0) if unavailable."""
-    vs = _safe_import("vaderSentiment.vaderSentiment")
-    if vs is None:
-        return "Neutral", 0.0
-    analyzer = vs.SentimentIntensityAnalyzer()
-    score = analyzer.polarity_scores(text)["compound"]
-    if score >= 0.05:
-        return "Bullish", round(score, 3)
-    elif score <= -0.05:
-        return "Bearish", round(score, 3)
-    return "Neutral", round(score, 3)
-
-
-# Rule-based sentiment from teammate's news lexicon (lighter than VADER)
-_BULLISH_TERMS = [
-    "buy", "strong buy", "outperform", "overweight", "upgrade",
-    "undervalued", "attractive valuation", "earnings beat", "beat estimates",
-    "revenue growth", "strong earnings", "raised guidance", "bullish",
-    "margin expansion", "institutional buying", "rally", "surge", "breakout",
-    "record high", "share buyback", "dividend increase",
-]
-_BEARISH_TERMS = [
-    "sell", "strong sell", "underperform", "downgrade", "overvalued",
-    "earnings miss", "miss estimates", "weak earnings", "declining revenue",
-    "margin pressure", "lowered guidance", "bearish", "selloff", "plunge",
-    "downtrend", "high debt", "lawsuit", "regulatory probe", "dividend cut",
-]
-
-
-def _rule_sentiment(text: str) -> tuple:
-    t = text.lower()
-    bull = sum(1 for w in _BULLISH_TERMS if w in t)
-    bear = sum(1 for w in _BEARISH_TERMS if w in t)
-    score = bull - bear
-    if score >= 1:
-        return "Bullish", min(score / 6, 1.0)
-    elif score <= -1:
-        return "Bearish", max(score / 6, -1.0)
-    return "Neutral", score / 6
 
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -413,19 +374,17 @@ def alphavantage_news(ticker: str, months: int = 3) -> Optional[Dict]:
             if any(k in text for k in EXCLUDE_KEYWORDS):
                 continue
 
-            sentiment = item.get("overall_sentiment_label")
-            score = item.get("overall_sentiment_score")
-            if sentiment is None or score is None:
-                sentiment, score = _rule_sentiment(text)
-
-            articles.append({
+            article = {
                 "source": "Alpha Vantage",
                 "headline": item.get("title"),
                 "summary": item.get("summary"),
-                "sentiment": sentiment,
-                "sentiment_score": round(float(score), 3),
                 "date": item.get("time_published"),
-            })
+            }
+            # Keep AV's own sentiment if provided (it's API-derived, not ours)
+            av_sentiment = item.get("overall_sentiment_label")
+            if av_sentiment:
+                article["av_sentiment"] = av_sentiment
+            articles.append(article)
 
         if not articles:
             return None
@@ -526,13 +485,10 @@ def reddit_social(ticker: str, months: int = 3) -> Optional[Dict]:
             if not _is_investment_text(title):
                 continue
 
-            sentiment, score = _vader_sentiment(title)
             posts.append({
                 "platform": "reddit",
                 "subreddit": subreddit,
                 "text": title,
-                "sentiment": sentiment,
-                "sentiment_score": score,
                 "date": created.strftime("%Y-%m-%d"),
             })
 
@@ -581,12 +537,9 @@ def stocktwits_social(ticker: str) -> Optional[Dict]:
             if not _is_investment_text(body):
                 continue
 
-            sentiment, score = _vader_sentiment(body)
             posts.append({
                 "platform": "stocktwits",
                 "text": body,
-                "sentiment": sentiment,
-                "sentiment_score": score,
                 "date": created.strftime("%Y-%m-%d"),
             })
 
@@ -630,12 +583,9 @@ def yahoo_social(ticker: str) -> Optional[Dict]:
             if not _is_investment_text(text):
                 continue
 
-            sentiment, score = _vader_sentiment(text)
             posts.append({
                 "platform": "yahoo_finance",
                 "text": entry.title,
-                "sentiment": sentiment,
-                "sentiment_score": score,
                 "date": published.strftime("%Y-%m-%d"),
             })
 
@@ -657,9 +607,102 @@ def yahoo_social(ticker: str) -> Optional[Dict]:
 #  NEWS SOURCES
 # ═══════════════════════════════════════════════════════════════════════════
 
+# Ticker → company name for better Google News searches
+_TICKER_COMPANY = {
+    "AAPL": "Apple", "MSFT": "Microsoft", "GOOGL": "Google Alphabet",
+    "NVDA": "NVIDIA", "AMZN": "Amazon", "TSLA": "Tesla", "META": "Meta",
+    "SPY": "S&P 500", "QQQ": "Nasdaq", "AMD": "AMD",
+}
+
+
+def googlenews_rss(ticker: str, days: int = 30) -> Optional[Dict]:
+    """
+    Fetch news from Google News RSS — free, no API key needed.
+    Searches for '{company_name} stock' to get relevant financial news.
+    """
+    fp = _safe_import("feedparser")
+    requests_mod = _safe_import("requests")
+    if fp is None:
+        return None
+
+    try:
+        cutoff = datetime.utcnow() - timedelta(days=days)
+        company = _TICKER_COMPANY.get(ticker, ticker)
+        query = f"{company} {ticker} stock"
+
+        # Google News RSS endpoint — free, no auth
+        url = f"https://news.google.com/rss/search?q={query.replace(' ', '+')}&hl=en-US&gl=US&ceid=US:en"
+
+        # feedparser can fetch directly, but Google sometimes blocks
+        # Try with a proper User-Agent header first
+        feed = None
+        if requests_mod:
+            try:
+                resp = requests_mod.get(url, headers={
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                                  "Chrome/120.0.0.0 Safari/537.36"
+                }, timeout=10)
+                if resp.status_code == 200:
+                    feed = fp.parse(resp.text)
+            except Exception:
+                pass
+
+        # Fallback: let feedparser fetch directly
+        if feed is None or not feed.entries:
+            feed = fp.parse(url)
+
+        if not feed.entries:
+            logger.warning("Google News RSS returned 0 entries for %s", ticker)
+            return None
+
+        articles = []
+        for entry in feed.entries:
+            # Parse date
+            published = None
+            if hasattr(entry, "published_parsed") and entry.published_parsed:
+                published = datetime(*entry.published_parsed[:6])
+            elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
+                published = datetime(*entry.updated_parsed[:6])
+
+            if published and published < cutoff:
+                continue
+
+            headline = entry.get("title", "").strip()
+            # Google News titles often end with " - Source Name"
+            summary = getattr(entry, "summary", "")
+            source_name = ""
+            if " - " in headline:
+                parts = headline.rsplit(" - ", 1)
+                headline = parts[0].strip()
+                source_name = parts[1].strip() if len(parts) > 1 else ""
+
+            articles.append({
+                "source": source_name or "Google News",
+                "headline": headline,
+                "summary": summary,
+                "date": published.strftime("%Y-%m-%dT%H:%M:%S") if published else "",
+                "link": entry.get("link", ""),
+            })
+
+        if not articles:
+            return None
+
+        return {
+            "ticker": ticker,
+            "data_source": "google_rss",
+            "time_window": f"last_{days}_days",
+            "article_count": len(articles),
+            "articles": articles,
+        }
+    except Exception as e:
+        logger.warning("googlenews_rss failed for %s: %s", ticker, e)
+        return None
+
+
 def yahoo_news(ticker: str) -> Optional[Dict]:
     """
-    Fetch news from Yahoo Finance RSS and score with rule-based sentiment.
+    Fetch news from Yahoo Finance RSS.
     """
     fp = _safe_import("feedparser")
     if fp is None:
@@ -686,13 +729,10 @@ def yahoo_news(ticker: str) -> Optional[Dict]:
             if any(k in text for k in EXCLUDE_KEYWORDS):
                 continue
 
-            sentiment, score = _rule_sentiment(text)
             articles.append({
                 "source": "Yahoo Finance",
                 "headline": entry.title,
                 "summary": getattr(entry, "summary", ""),
-                "sentiment": sentiment,
-                "sentiment_score": round(score, 3),
                 "date": published.strftime("%Y-%m-%dT%H:%M:%S"),
             })
 
@@ -725,6 +765,7 @@ SOURCE_REGISTRY = {
     ("fundamentals", "alpha_vantage"):  alphavantage_fundamentals,
 
     # News
+    ("news", "google_rss"):            googlenews_rss,
     ("news", "alpha_vantage"):          alphavantage_news,
     ("news", "yahoo_rss"):             yahoo_news,
 
