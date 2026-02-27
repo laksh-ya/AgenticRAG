@@ -10,22 +10,12 @@ def create_risk_manager(llm):
 
     def risk_node(state: Dict[str, Any]) -> Dict[str, Any]:
         proposal = state.get("research_summary", "No proposal available")
+        portfolio_summary = state.get("portfolio_summary", "No portfolio context.")
 
-        # Add portfolio context if available
-        portfolio = state.get("portfolio", [])
-        portfolio_info = ""
-        if portfolio:
-            portfolio_info = "\n\nCurrent Portfolio Holdings:\n"
-            for h in portfolio:
-                portfolio_info += (
-                    f"  - {h['ticker']}: {h['shares']} shares @ ${h['avg_price']:.2f}\n"
-                )
-            portfolio_info += (
-                "\nConsider existing exposure, concentration risk, "
-                "and how this trade affects the overall portfolio."
-            )
-
-        prompt = RISK_PROMPT.format(proposal=proposal) + portfolio_info
+        prompt = RISK_PROMPT.format(
+            proposal=proposal,
+            portfolio_summary=portfolio_summary,
+        )
         response = llm.invoke(prompt)
         assessment = response.content if hasattr(response, "content") else str(response)
 

@@ -20,6 +20,7 @@ class AgentState(TypedDict):
     lessons: List[str]
     # Portfolio (optional)
     portfolio: List[PortfolioHolding]
+    portfolio_summary: str
     # Analyst reports
     fundamentals_report: str
     market_report: str
@@ -47,6 +48,7 @@ def create_state(ticker: str, date: str, portfolio: list = None) -> AgentState:
         historical_context="",
         lessons=[],
         portfolio=portfolio or [],
+        portfolio_summary="",
         fundamentals_report="",
         market_report="",
         news_report="",
