@@ -49,6 +49,7 @@ class Explainability:
         agent_outputs: Dict[str, str],
         reasoning: str = "",
         portfolio: list = None,
+        portfolio_summary: str = "",
     ) -> str:
         """
         Build a structured explainability report from all agent outputs.
@@ -67,7 +68,11 @@ class Explainability:
             "",
         ]
 
-        if portfolio:
+        if portfolio_summary:
+            lines.append("## Portfolio Context")
+            lines.append(portfolio_summary)
+            lines.append("")
+        elif portfolio:
             matching = [h for h in portfolio if h.get("ticker") == ticker]
             if matching:
                 h = matching[0]

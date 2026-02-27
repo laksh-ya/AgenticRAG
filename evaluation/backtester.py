@@ -18,10 +18,15 @@ class Backtester:
         from graphs.trading_graph import TradingGraph
         self.trading = TradingGraph()
     
-    def run_single(self, ticker: str, date: str) -> Dict[str, Any]:
-        """Run analysis for a single day."""
+    def run_single(self, ticker: str, date: str, portfolio: list = None) -> Dict[str, Any]:
+        """Run analysis for a single day.
+        
+        Args:
+            portfolio: Holdings list. Pass [] for a fresh-entry (no holdings)
+                       backtest. Pass None to use the system default preset.
+        """
         try:
-            result = self.trading.run(ticker, date)
+            result = self.trading.run(ticker, date, portfolio=portfolio)
             return {
                 "ticker": ticker,
                 "date": date,
@@ -40,14 +45,19 @@ class Backtester:
                 "success": False
             }
     
-    def run_backtest(self, ticker: str, end_date: str, days: int = 30) -> List[Dict]:
-        """Run backtest over multiple days."""
+    def run_backtest(self, ticker: str, end_date: str, days: int = 30, portfolio: list = None) -> List[Dict]:
+        """Run backtest over multiple days.
+        
+        Args:
+            portfolio: Holdings list. Pass [] for fresh-entry backtests.
+                       Pass None to use the system default preset.
+        """
         results = []
         end = datetime.strptime(end_date, "%Y-%m-%d")
         
         for i in range(days):
             date = (end - timedelta(days=days - i - 1)).strftime("%Y-%m-%d")
-            result = self.run_single(ticker, date)
+            result = self.run_single(ticker, date, portfolio=portfolio)
             results.append(result)
         
         return results

@@ -3,25 +3,49 @@ Portfolio Utilities — Builds a formatted portfolio summary with live prices,
 allocation percentages, PnL, and concentration warnings.
 """
 import logging
-from typing import List, Dict
+from datetime import datetime, timedelta
+from typing import List, Dict, Tuple
 
 logger = logging.getLogger(__name__)
 
-CONCENTRATION_THRESHOLD = 0.25  # 25%
+CONCENTRATION_THRESHOLD = 25.0  # percentage points (e.g. 25.0 means 25%)
+
+# Module-level price cache: (ticker, date_str) → price
+# Avoids redundant yfinance calls within the same session/day.
+_price_cache: Dict[str, float] = {}
 
 
-def _fetch_current_price(ticker: str, fallback_price: float) -> float:
-    """Fetch the latest price via yfinance; fall back to avg_price on failure."""
+def _fetch_current_price(ticker: str, fallback_price: float) -> Tuple[float, bool]:
+    """
+    Fetch the latest price via yfinance; fall back to avg_price on failure.
+
+    Returns (price, is_stale) where is_stale=True means we couldn't get
+    a live price and fell back.
+    """
+    cache_key = f"{ticker}_{datetime.now().strftime('%Y-%m-%d')}"
+    if cache_key in _price_cache:
+        return _price_cache[cache_key], False
+
     try:
         import yfinance as yf
-        data = yf.Ticker(ticker).history(period="1d")
+
+        # Use 5d window so weekends/holidays still return the last trading day
+        data = yf.Ticker(ticker).history(period="5d")
         if data.empty:
-            logger.warning("yfinance returned no data for %s, using fallback $%.2f", ticker, fallback_price)
-            return fallback_price
-        return float(data["Close"].iloc[-1])
+            logger.warning(
+                "yfinance returned no data for %s, using fallback $%.2f",
+                ticker, fallback_price,
+            )
+            return fallback_price, True
+        price = float(data["Close"].iloc[-1])
+        _price_cache[cache_key] = price
+        return price, False
     except Exception as e:
-        logger.warning("yfinance fetch failed for %s (%s), using fallback $%.2f", ticker, e, fallback_price)
-        return fallback_price
+        logger.warning(
+            "yfinance fetch failed for %s (%s), using fallback $%.2f",
+            ticker, e, fallback_price,
+        )
+        return fallback_price, True
 
 
 def build_portfolio_summary(holdings: List[Dict], target_ticker: str) -> str:
@@ -55,11 +79,14 @@ def build_portfolio_summary(holdings: List[Dict], target_ticker: str) -> str:
 
     # Fetch current prices and compute per-holding metrics
     enriched = []
+    any_stale = False
     for h in active:
         ticker = h["ticker"]
         shares = h["shares"]
         avg_price = h["avg_price"]
-        current_price = _fetch_current_price(ticker, avg_price)
+        current_price, is_stale = _fetch_current_price(ticker, avg_price)
+        if is_stale:
+            any_stale = True
         market_value = shares * current_price
         cost_basis = shares * avg_price
         unrealized_pnl = market_value - cost_basis
@@ -69,6 +96,7 @@ def build_portfolio_summary(holdings: List[Dict], target_ticker: str) -> str:
             "shares": shares,
             "avg_price": avg_price,
             "current_price": current_price,
+            "is_stale": is_stale,
             "market_value": market_value,
             "cost_basis": cost_basis,
             "unrealized_pnl": unrealized_pnl,
@@ -84,11 +112,14 @@ def build_portfolio_summary(holdings: List[Dict], target_ticker: str) -> str:
     # Build the text
     lines = ["PORTFOLIO SUMMARY"]
     lines.append(f"Total Value: ${total_value:,.2f}")
+    if any_stale:
+        lines.append("⚠️ Note: Some prices could not be fetched live and use the avg purchase price as fallback.")
     lines.append("Holdings:")
     for e in enriched:
         pnl_sign = "+" if e["unrealized_pnl"] >= 0 else ""
+        stale_tag = " [stale]" if e["is_stale"] else ""
         lines.append(
-            f"  {e['ticker']}: {e['shares']:.0f} shares @ ${e['current_price']:.2f} current "
+            f"  {e['ticker']}: {e['shares']:.0f} shares @ ${e['current_price']:.2f} current{stale_tag} "
             f"| ${e['market_value']:,.2f} value | {e['allocation_pct']:.1f}% of portfolio "
             f"| {pnl_sign}${e['unrealized_pnl']:,.2f} unrealized ({pnl_sign}{e['pnl_pct']:.1f}%)"
         )
@@ -108,10 +139,10 @@ def build_portfolio_summary(holdings: List[Dict], target_ticker: str) -> str:
     # Concentration warnings (check every holding)
     warnings = []
     for e in enriched:
-        if e["allocation_pct"] / 100 >= CONCENTRATION_THRESHOLD:
+        if e["allocation_pct"] >= CONCENTRATION_THRESHOLD:
             warnings.append(
                 f"  ⚠️ CONCENTRATION WARNING: {e['ticker']} is {e['allocation_pct']:.1f}% "
-                f"of portfolio — above {CONCENTRATION_THRESHOLD:.0%} threshold"
+                f"of portfolio — above {CONCENTRATION_THRESHOLD:.0f}% threshold"
             )
     if warnings:
         for w in warnings:

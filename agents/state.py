@@ -41,14 +41,16 @@ class AgentState(TypedDict):
     agent_log: List[Dict[str, Any]]
 
 
-def create_state(ticker: str, date: str, portfolio: list = None) -> AgentState:
+def create_state(
+    ticker: str, date: str, portfolio: list = None, portfolio_summary: str = ""
+) -> AgentState:
     return AgentState(
         ticker=ticker,
         date=date,
         historical_context="",
         lessons=[],
         portfolio=portfolio or [],
-        portfolio_summary="",
+        portfolio_summary=portfolio_summary,
         fundamentals_report="",
         market_report="",
         news_report="",

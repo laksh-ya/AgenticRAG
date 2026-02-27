@@ -171,6 +171,7 @@ class TradingGraph:
                 agent_outputs=agent_outputs,
                 reasoning=state.get("reasoning", ""),
                 portfolio=state.get("portfolio"),
+                portfolio_summary=state.get("portfolio_summary", ""),
             )
             # Store report in RAG
             self.explainability.store_report(state["ticker"], state["date"], report)
@@ -245,8 +246,7 @@ class TradingGraph:
             portfolio = PRESET_PORTFOLIOS[DEFAULT_PORTFOLIO_KEY]["holdings"]
         portfolio_summary = build_portfolio_summary(portfolio, ticker)
 
-        initial_state = create_state(ticker, date, portfolio)
-        initial_state["portfolio_summary"] = portfolio_summary
+        initial_state = create_state(ticker, date, portfolio, portfolio_summary)
         final_state = self.graph.invoke(initial_state)
         return {
             "ticker": ticker,
@@ -255,6 +255,7 @@ class TradingGraph:
             "confidence": final_state.get("confidence", 0.5),
             "reasoning": final_state.get("reasoning", ""),
             "explainability_report": final_state.get("explainability_report", ""),
+            "portfolio_summary": portfolio_summary,
             "agent_log": final_state.get("agent_log", []),
             "state": final_state,
         }
@@ -266,8 +267,7 @@ class TradingGraph:
             portfolio = PRESET_PORTFOLIOS[DEFAULT_PORTFOLIO_KEY]["holdings"]
         portfolio_summary = build_portfolio_summary(portfolio, ticker)
 
-        initial_state = create_state(ticker, date, portfolio)
-        initial_state["portfolio_summary"] = portfolio_summary
+        initial_state = create_state(ticker, date, portfolio, portfolio_summary)
         for chunk in self.graph.stream(initial_state):
             yield chunk
 
