@@ -161,3 +161,48 @@ def validate_config() -> list:
         issues.append(f"Missing {env_var}")
     
     return issues
+
+
+# =============================================================================
+# PRESET PORTFOLIOS - For quick selection in the UI
+# =============================================================================
+PRESET_PORTFOLIOS = {
+    "fresh_entry": {
+        "label": "Fresh Entry (No Holdings)",
+        "holdings": [],
+    },
+    "light_holder": {
+        "label": "Light Holder",
+        "holdings": [
+            {"ticker": "AAPL", "shares": 5, "avg_price": 190.00},
+            {"ticker": "MSFT", "shares": 5, "avg_price": 410.00},
+            {"ticker": "GOOGL", "shares": 5, "avg_price": 175.00},
+            {"ticker": "NVDA", "shares": 5, "avg_price": 850.00},
+            {"ticker": "AMZN", "shares": 5, "avg_price": 195.00},
+        ],
+    },
+    "heavy_tech": {
+        "label": "Heavy Tech (Concentration Risk Test)",
+        "holdings": [
+            {"ticker": "AAPL", "shares": 40, "avg_price": 190.00},
+            {"ticker": "NVDA", "shares": 30, "avg_price": 850.00},
+            {"ticker": "MSFT", "shares": 2, "avg_price": 410.00},
+        ],
+    },
+    "balanced_tech": {
+        "label": "Balanced Tech Portfolio",
+        "holdings": [
+            {"ticker": "AAPL", "shares": 10, "avg_price": 190.00},
+            {"ticker": "MSFT", "shares": 8, "avg_price": 410.00},
+            {"ticker": "GOOGL", "shares": 12, "avg_price": 175.00},
+            {"ticker": "NVDA", "shares": 8, "avg_price": 850.00},
+            {"ticker": "AMZN", "shares": 10, "avg_price": 195.00},
+        ],
+    },
+    "custom": {
+        "label": "Custom Portfolio",
+        "holdings": [],
+    },
+}
+
+DEFAULT_PORTFOLIO_KEY = "balanced_tech"

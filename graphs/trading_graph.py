@@ -37,7 +37,8 @@ from multi_rag.rag_manager import RAGManager
 from multi_rag.explainability import Explainability
 from dataflows.data_loader import DataLoader
 from utils.llm_factory import get_quick_llm, get_deep_llm
-from preferences import CONFIG
+from utils.portfolio_utils import build_portfolio_summary
+from preferences import CONFIG, PRESET_PORTFOLIOS, DEFAULT_PORTFOLIO_KEY
 
 logger = logging.getLogger(__name__)
 
@@ -239,7 +240,13 @@ class TradingGraph:
     # ------------------------------------------------------------------
     def run(self, ticker: str, date: str, portfolio: list = None) -> Dict[str, Any]:
         """Run the full analysis pipeline."""
+        # Default to preset portfolio if none provided
+        if portfolio is None:
+            portfolio = PRESET_PORTFOLIOS[DEFAULT_PORTFOLIO_KEY]["holdings"]
+        portfolio_summary = build_portfolio_summary(portfolio, ticker)
+
         initial_state = create_state(ticker, date, portfolio)
+        initial_state["portfolio_summary"] = portfolio_summary
         final_state = self.graph.invoke(initial_state)
         return {
             "ticker": ticker,
@@ -254,7 +261,13 @@ class TradingGraph:
 
     def stream(self, ticker: str, date: str, portfolio: list = None):
         """Stream the pipeline step-by-step (for live UI updates)."""
+        # Default to preset portfolio if none provided
+        if portfolio is None:
+            portfolio = PRESET_PORTFOLIOS[DEFAULT_PORTFOLIO_KEY]["holdings"]
+        portfolio_summary = build_portfolio_summary(portfolio, ticker)
+
         initial_state = create_state(ticker, date, portfolio)
+        initial_state["portfolio_summary"] = portfolio_summary
         for chunk in self.graph.stream(initial_state):
             yield chunk
 

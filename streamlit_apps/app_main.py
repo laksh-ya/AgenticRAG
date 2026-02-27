@@ -11,7 +11,7 @@ from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from graphs.trading_graph import TradingGraph
-from preferences import SUPPORTED_TICKERS, CONFIG
+from preferences import SUPPORTED_TICKERS, CONFIG, PRESET_PORTFOLIOS, DEFAULT_PORTFOLIO_KEY
 
 st.set_page_config(page_title="AgenticRAG Trading", page_icon="📈", layout="wide")
 
@@ -26,15 +26,18 @@ date_str = date.strftime("%Y-%m-%d")
 
 st.sidebar.markdown("---")
 
-# Portfolio input
-st.sidebar.subheader("💼 Portfolio (Optional)")
-st.sidebar.caption(
-    "Add current holdings so the Risk Manager can give portfolio-aware advice."
-)
+# Portfolio preset selector
+st.sidebar.subheader("💼 Portfolio")
+preset_keys = list(PRESET_PORTFOLIOS.keys())
+preset_labels = [PRESET_PORTFOLIOS[k]["label"] for k in preset_keys]
+default_idx = preset_keys.index(DEFAULT_PORTFOLIO_KEY)
+
+selected_label = st.sidebar.selectbox("Select portfolio preset", preset_labels, index=default_idx)
+selected_key = preset_keys[preset_labels.index(selected_label)]
+
 portfolio = []
-use_portfolio = st.sidebar.checkbox("Include portfolio holdings")
-if use_portfolio:
-    st.sidebar.markdown("**Format: one holding per line**")
+if selected_key == "custom":
+    st.sidebar.markdown("**Enter your holdings:**")
     for t in SUPPORTED_TICKERS:
         col1, col2 = st.sidebar.columns(2)
         shares = col1.number_input(f"{t} shares", 0.0, key=f"shares_{t}", step=1.0)
@@ -45,6 +48,17 @@ if use_portfolio:
             portfolio.append(
                 {"ticker": t, "shares": shares, "avg_price": avg_price}
             )
+else:
+    portfolio = PRESET_PORTFOLIOS[selected_key]["holdings"]
+
+# Show selected portfolio summary
+if portfolio:
+    summary_lines = []
+    for h in portfolio:
+        summary_lines.append(f"  {h['ticker']}: {h['shares']:.0f} shares @ ${h['avg_price']:.2f} avg")
+    st.sidebar.info("**Current Holdings:**\n" + "\n".join(summary_lines))
+else:
+    st.sidebar.info("No holdings — fresh entry.")
 
 st.sidebar.markdown("---")
 with st.sidebar.expander("🔧 System Info"):
@@ -142,7 +156,7 @@ def run_with_streaming(ticker, date_str, portfolio):
                     st.markdown(f"⏳ {icon} ~~{name}~~")
 
     # Stream execution
-    for chunk in trading.stream(ticker, date_str, portfolio or None):
+    for chunk in trading.stream(ticker, date_str, portfolio):
         # chunk is {node_name: {state_updates}}
         for node_key, updates in chunk.items():
             agent_name = KEY_TO_AGENT.get(node_key, node_key)

@@ -33,6 +33,7 @@ def create_analyst(llm, analyst_type: str, data_loader):
         ticker = state["ticker"]
         date = state["date"]
         context = state.get("historical_context", "No historical context.")
+        portfolio_summary = state.get("portfolio_summary", "No portfolio context.")
         
         # Load data for this analyst
         data = data_loader.load(ticker, date, analyst_type)
@@ -42,7 +43,8 @@ def create_analyst(llm, analyst_type: str, data_loader):
             ticker=ticker,
             date=date,
             context=context,
-            data=data
+            data=data,
+            portfolio_summary=portfolio_summary,
         )
         
         # Get response

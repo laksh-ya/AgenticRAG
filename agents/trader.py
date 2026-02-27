@@ -16,7 +16,8 @@ def create_trader(llm):
         prompt = TRADER_PROMPT.format(
             research=state.get("research_summary", "No research"),
             risk=state.get("risk_assessment", "No risk assessment"),
-            lessons=lessons
+            lessons=lessons,
+            portfolio_summary=state.get("portfolio_summary", "No portfolio context."),
         )
         
         response = llm.invoke(prompt)
