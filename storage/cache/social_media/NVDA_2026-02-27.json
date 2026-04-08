@@ -1,0 +1,31 @@
+{
+  "ticker": "NVDA",
+  "data_source": "reddit",
+  "post_count": 4,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "NVDA earnings play",
+      "date": "2026-02-14"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "NVDA Earnings Predictions?",
+      "date": "2026-02-13"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "valueinvesting",
+      "text": "Everyone's bullish on NVDA but the base case might be the least likely outcome",
+      "date": "2026-02-24"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Sold NVDA today and netted 210K gain, I\u2019d like to think that my sell order caused the price to dip a little",
+      "date": "2026-01-27"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "company": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "data_source": "yfinance",
+  "as_of": "2026-02-27",
+  "fundamentals": {
+    "valuation": {
+      "market_cap": 4501516845056,
+      "pe_ratio": 45.651848,
+      "forward_pe": 17.443655,
+      "peg_ratio": null,
+      "price_to_book": 37.794357,
+      "valuation_signal": "expensive"
+    },
+    "profitability": {
+      "eps": 4.05,
+      "operating_margin": 0.63168997,
+      "net_margin": 0.53007,
+      "roe": 1.07359,
+      "profitability_signal": "strong"
+    },
+    "financial_health": {
+      "free_cash_flow": 53282873344,
+      "debt_to_equity": 9.102,
+      "cash_on_hand": 60608000000,
+      "current_ratio": 4.468,
+      "health_signal": "very strong"
+    },
+    "growth": {
+      "revenue_growth_yoy": 0.625,
+      "eps_growth_yoy": 0.667,
+      "growth_signal": "strong"
+    }
+  }
+}

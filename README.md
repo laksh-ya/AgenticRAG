@@ -1,6 +1,6 @@
-# karma — Multi-Agent Multi-RAG Investment Decision System
+# AgenticRAG — Multi-Agent Multi-RAG Investment Decision System
 
-A multi-agent system where a **Knowledge Base Agent** actively queries, stores, and **learns from its own trading decisions** via RAG — making it *karma*, not passive retrieval.
+A multi-agent system where a **Knowledge Base Agent** actively queries, stores, and **learns from its own trading decisions** via RAG — making it *Agentic RAG*, not passive retrieval.
 
 ---
 
@@ -9,18 +9,18 @@ A multi-agent system where a **Knowledge Base Agent** actively queries, stores, 
 | What | How |
 |------|-----|
 | **Pre-Query** | KB Agent searches RAG for past lessons *before* analysts run |
-| **Post-Learn** | Every decision is stored with full context in the knowledge base |
-| **Outcome Learning** | Feed back real returns → the system reflects and stores lessons |
+| **Post-Learn** | Every intraday decision is stored with full context in the knowledge base |
+| **Outcome Learning** | Feed back real intraday returns → the system reflects and stores lessons |
 | **Explainability** | Every decision gets a structured report explaining *why* |
 
-Over time, the system gets smarter because its RAG remembers what worked and what didn't.
+Over time, the system gets smarter because its RAG remembers what worked and what didn't in intraday trading scenarios.
 
 ---
 
 ## 📁 Project Structure
 
 ```
-karma/
+AgenticRAG/
 ├── preferences.py              # Central config — LLMs, embeddings, data, tickers
 ├── main.py                     # CLI entry point
 │
@@ -82,8 +82,9 @@ cp .env.example .env
 # Optional: ALPHA_VANTAGE_API_KEY for news data
 
 # 5. Run
-python main.py                              # CLI
-streamlit run streamlit_apps/app_main.py    # Web UI
+python main.py
+streamlit run apps/app_main.py
+streamlit run apps/app_essential.py
 ```
 
 ---
@@ -105,11 +106,11 @@ KB Post-Learn  ←  Explainability Report  ←  Trader  ←  Risk Manager  ←  
 The `DataLoader` handles everything — agents just call `loader.load(ticker, date, data_type)`.
 
 **How it works:**
-1. Check JSON cache (`data/<subdir>/TICKER.json`) — instant, no network
+1. Check JSON cache in `storage/cache/<subdir>/...` — instant, no network
 2. Walk the fallback chain for that data type, trying each source in order
 3. First source that returns data → auto-cached as JSON for next time
 
-**Fallback chains** (configurable in `preferences.py`):
+**Fallback chains** (configurable in `src/karma/config.py`):
 
 | Data Type | Source 1 | Source 2 | Source 3 |
 |-----------|----------|----------|----------|
@@ -124,7 +125,7 @@ The `DataLoader` handles everything — agents just call `loader.load(ticker, da
 
 ## ⚙️ Configuration
 
-Everything is in **`preferences.py`** — no hardcoded values anywhere else.
+Everything is in **`src/karma/config.py`** — no hardcoded values anywhere else.
 
 ```python
 # Switch LLM provider
@@ -145,15 +146,12 @@ SUPPORTED_TICKERS = ["AAPL", "MSFT", "GOOGL", "NVDA", "AMZN"]
 
 | App | Command | What it does |
 |-----|---------|-------------|
-| **Main Analysis** | `streamlit run streamlit_apps/app_main.py` | Full pipeline with live agent progress |
-| **Data Test** | `streamlit run streamlit_apps/app_data_test.py` | Test sources, inspect cache, bulk fetch |
-| **KB Training** | `streamlit run streamlit_apps/app_kb_train.py` | Teach outcomes, upload data, browse KB |
-| **RAG Test** | `streamlit run streamlit_apps/app_rag_test.py` | Query RAG collections directly |
-| **Backtest** | `streamlit run streamlit_apps/app_backtest.py` | Rolling 30-day backtest |
-| **Metrics** | `streamlit run streamlit_apps/app_metrics.py` | Decision log, outcomes, win rate, charts |
+| **Essential Lab** | `streamlit run apps/app_essential.py` | View decisions, edit cached data/KB, and learn from outcomes |
+| **Main Analysis** | `streamlit run apps/app_main.py` | Full pipeline with live agent progress |
+| **Master Eval** | `streamlit run apps/app_master_eval.py` | Controlled 5-day KB mode experiment with result tables |
 
 ---
 
 ## 🤝 Contributing
 
-See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full guide on how to edit, where to add things, and what NOT to touch.
+See **[docs/CONTRIBUTING.md](docs/CONTRIBUTING.md)** for the full guide on how to edit, where to add things, and what NOT to touch.

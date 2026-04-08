@@ -1,0 +1,701 @@
+{
+  "ticker": "MSFT",
+  "data_source": "google_rss",
+  "time_window": "last_30_days",
+  "article_count": 99,
+  "articles": [
+    {
+      "source": "The Motley Fool",
+      "headline": "Down 28% From Its Highs, Is Microsoft Stock a Buy?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNN0kyZENyRnJFelAyWXk3MXoydlV0Vnl0WS1aYV9faVRZUTQ4azVrcjBZT0JmT3g5MXpRdXhKV2k0SEVaV0dST2o1QUVYdzJDNkZ6MVhfVDJDcC10YUpaa2dRQktVS2o5YXY5cEpNS1ZhTE52akNXSDRLMTZjVXZFYUNzMENTeHhsWXRybENIX0dhUGEw?oc=5\" target=\"_blank\">Down 28% From Its Highs, Is Microsoft Stock a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-06T02:46:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN0kyZENyRnJFelAyWXk3MXoydlV0Vnl0WS1aYV9faVRZUTQ4azVrcjBZT0JmT3g5MXpRdXhKV2k0SEVaV0dST2o1QUVYdzJDNkZ6MVhfVDJDcC10YUpaa2dRQktVS2o5YXY5cEpNS1ZhTE52akNXSDRLMTZjVXZFYUNzMENTeHhsWXRybENIX0dhUGEw?oc=5"
+    },
+    {
+      "source": "Forbes",
+      "headline": "What Could Drag Microsoft Stock Even Lower?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTdpT2ZjeTZJY0JJc1VPN2taZkgzR0VrTC15TENWS25iMDNFWVFSZmlmV0tKVkFDdXdlTHhYOUV1ajFJby1lM3l1X0NCaG9tbVlldHRjM1o5UVdXcy1ZZFlvSlV4YzdGVVh4YzcyYzV2SXAtNV9IM21uVWNvSFBaRHN2REhlTkxyV1dXZjVhRmVWTDVyVGFWOXdoNXZrQUNRQ0h3?oc=5\" target=\"_blank\">What Could Drag Microsoft Stock Even Lower?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "date": "2026-02-05T19:20:16",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTdpT2ZjeTZJY0JJc1VPN2taZkgzR0VrTC15TENWS25iMDNFWVFSZmlmV0tKVkFDdXdlTHhYOUV1ajFJby1lM3l1X0NCaG9tbVlldHRjM1o5UVdXcy1ZZFlvSlV4YzdGVVh4YzcyYzV2SXAtNV9IM21uVWNvSFBaRHN2REhlTkxyV1dXZjVhRmVWTDVyVGFWOXdoNXZrQUNRQ0h3?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Microsoft Just Showed Why It\u2019s Still a Must-Own Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXNzMXpQWDBGS2Z0aDBWUG9Lb0JTOVRwN2ZZUV9CZExFZE5PY3VKUFJKdmYzaW1SLUM2c3FGMjlyMnBXaGxGWFpvZnlRS2JpOGpDbEV6ajI2aGM4RzlpVWlTWnZ6STgwVVplOXEyLXlwVG15QWp5Z2hPcmlYX0owLTNPTQ?oc=5\" target=\"_blank\">Microsoft Just Showed Why It\u2019s Still a Must-Own Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-04T19:22:37",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXNzMXpQWDBGS2Z0aDBWUG9Lb0JTOVRwN2ZZUV9CZExFZE5PY3VKUFJKdmYzaW1SLUM2c3FGMjlyMnBXaGxGWFpvZnlRS2JpOGpDbEV6ajI2aGM4RzlpVWlTWnZ6STgwVVplOXEyLXlwVG15QWp5Z2hPcmlYX0owLTNPTQ?oc=5"
+    },
+    {
+      "source": "Zacks Investment Research",
+      "headline": "Microsoft Plunges 14% Post Q2 Earnings: Buy, Sell or Hold the Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0xhYll1RzY5c0RWWnExS3BpOW1QSElFemVQVzAtYWQwdHVtenFOVXhoeHhCMmlFaWlWbWJKLXlkaGRyRXVjWUVkWXFkd2o2cW9oUnpzLTBwcURTWTRUU3RlbFhzQWtZbUtPMC1JRHhTa2FJMWF3NFJSdjF2SDdDR01sRXBWRjRTRnYyYnZ2ZWZFdzVCdXlFZGwzZjFqTXNIOXZHRG5qVUU?oc=5\" target=\"_blank\">Microsoft Plunges 14% Post Q2 Earnings: Buy, Sell or Hold the Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+      "date": "2026-02-05T15:33:45",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ0xhYll1RzY5c0RWWnExS3BpOW1QSElFemVQVzAtYWQwdHVtenFOVXhoeHhCMmlFaWlWbWJKLXlkaGRyRXVjWUVkWXFkd2o2cW9oUnpzLTBwcURTWTRUU3RlbFhzQWtZbUtPMC1JRHhTa2FJMWF3NFJSdjF2SDdDR01sRXBWRjRTRnYyYnZ2ZWZFdzVCdXlFZGwzZjFqTXNIOXZHRG5qVUU?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Microsoft: It Is Just A Dip, Not A Bargain (NASDAQ:MSFT)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOS1KdkNIdFBUekdLbU83TWVTdjV2WW5HTkFKMklMZEVXbHZVQUV2eWo3RVFEelMtcHVaS0xlbDZJQ3VucnNTclFrM3c5NUxKcHVSYXFrbXBoalI0SE05c0FqMGxvYXc1T18wa24yZlhDSTN4WnZtbE1ET2tMM25CQXJVUmNRZjJW?oc=5\" target=\"_blank\">Microsoft: It Is Just A Dip, Not A Bargain (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-05T05:41:39",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOS1KdkNIdFBUekdLbU83TWVTdjV2WW5HTkFKMklMZEVXbHZVQUV2eWo3RVFEelMtcHVaS0xlbDZJQ3VucnNTclFrM3c5NUxKcHVSYXFrbXBoalI0SE05c0FqMGxvYXc1T18wa24yZlhDSTN4WnZtbE1ET2tMM25CQXJVUmNRZjJW?oc=5"
+    },
+    {
+      "source": "simplywall.st",
+      "headline": "Assessing Microsoft (MSFT) Valuation After Recent Share Price Pullback",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkVHY2c2bmNRT2c2czJyQkhBWWlJbVhjMjdaZmhKQ3VhQnh0M3hiRmZUME5XSUZKMGRidUd2S3VNYWNWbFdzSG5kRWQ4dWtsYkdiSEZxZ3RkblVuMV9KWWFXWS16amJUMGZTdW9HaEwzWXhTc2pWajJEdUZhby1MdGIyNldQNUtEdE51NTc4QVlZZFU4cEo5dzlTV1JzQWlFM3R2d3dCTGxlcFIxdVZaWXlXbmtpZGR3OWxiYkJQaUtNdjNfMnc?oc=5\" target=\"_blank\">Assessing Microsoft (MSFT) Valuation After Recent Share Price Pullback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "date": "2026-02-05T14:42:47",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkVHY2c2bmNRT2c2czJyQkhBWWlJbVhjMjdaZmhKQ3VhQnh0M3hiRmZUME5XSUZKMGRidUd2S3VNYWNWbFdzSG5kRWQ4dWtsYkdiSEZxZ3RkblVuMV9KWWFXWS16amJUMGZTdW9HaEwzWXhTc2pWajJEdUZhby1MdGIyNldQNUtEdE51NTc4QVlZZFU4cEo5dzlTV1JzQWlFM3R2d3dCTGxlcFIxdVZaWXlXbmtpZGR3OWxiYkJQaUtNdjNfMnc?oc=5"
+    },
+    {
+      "source": "Investor's Business Daily",
+      "headline": "Microsoft Stock Looks For Relief After Brutal Software Sector Sell-Off",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhBU2lLS2ZtdEZKQkNKalNYc2JnN05fNVJFTTNrNmk4X01kUEdjaW9NTVJwUzU5SFRDb1VtX1dMSmVSTm1Oa0JlNE5tbkJPTk1DMlRoT3lNM1JPcmpyY3ZNWEVBcGxNdm9DR3E0enFMWGNFVW42ZS0yc2FuUWYxTzVnR0c2T3g0UDZwd2tzNVF6Zw?oc=5\" target=\"_blank\">Microsoft Stock Looks For Relief After Brutal Software Sector Sell-Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "date": "2026-02-06T18:04:00",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhBU2lLS2ZtdEZKQkNKalNYc2JnN05fNVJFTTNrNmk4X01kUEdjaW9NTVJwUzU5SFRDb1VtX1dMSmVSTm1Oa0JlNE5tbkJPTk1DMlRoT3lNM1JPcmpyY3ZNWEVBcGxNdm9DR3E0enFMWGNFVW42ZS0yc2FuUWYxTzVnR0c2T3g0UDZwd2tzNVF6Zw?oc=5"
+    },
+    {
+      "source": "morningstar.com",
+      "headline": "After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOUG1QVVlUeXRJNUFhZ1RRZHpIUURqdnhxdldkSTFrekJYMk1EUklqdFFFUi05eXVNanlrRGFRaTM5UDF3U0JFM1pFUGFPXzRtRTZ6MUdGNXVNeVlXZVpaWVNBRTU4em5xeEJzV1l0V3N0WUp6YmV4R0RrQ0FsM3h6YlkyaDdDR25pc0RsU0xqQ2hydHdJNnRIZGlyeHg?oc=5\" target=\"_blank\">After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
+      "date": "2026-02-05T11:01:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUG1QVVlUeXRJNUFhZ1RRZHpIUURqdnhxdldkSTFrekJYMk1EUklqdFFFUi05eXVNanlrRGFRaTM5UDF3U0JFM1pFUGFPXzRtRTZ6MUdGNXVNeVlXZVpaWVNBRTU4em5xeEJzV1l0V3N0WUp6YmV4R0RrQ0FsM3h6YlkyaDdDR25pc0RsU0xqQ2hydHdJNnRIZGlyeHg?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Microsoft Stock (NASDAQ:MSFT) Slides After Stifel Downgrades",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0xlMThUZHpLNkNseFFsTGNUX2RfcVpQS1hhd2R3b1JDU0VzV0VQbFdJSEJlX2JGcGloVl92eHpkMXI5MzFpVF94U0d1R1VaMmZpQlItbUl6S25EODZ3bXNwaHE5dThrXy1WWjVJZ1YtWDFvWHhOb0tXbFpsQzR3aU5YZWFhd1ZnQ3VvWm5zVGQ?oc=5\" target=\"_blank\">Microsoft Stock (NASDAQ:MSFT) Slides After Stifel Downgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T18:36:23",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0xlMThUZHpLNkNseFFsTGNUX2RfcVpQS1hhd2R3b1JDU0VzV0VQbFdJSEJlX2JGcGloVl92eHpkMXI5MzFpVF94U0d1R1VaMmZpQlItbUl6S25EODZ3bXNwaHE5dThrXy1WWjVJZ1YtWDFvWHhOb0tXbFpsQzR3aU5YZWFhd1ZnQ3VvWm5zVGQ?oc=5"
+    },
+    {
+      "source": "Watcher Guru",
+      "headline": "US Stocks 12 Months Analysis: Paypal (PYPL) & Microsoft (MSFT)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTFHdE9kR0RINDN6SW9fSVZTbTdhYUZLUDJ1VXplODlITVE2a3RNRWFVY0trNTd5VUhqYUt6blE3V25Ka0pTMEhxZGktcXZLZ2ZvelYxTnhCZFdPRnNhT251SjQyVEViT19XSmduNnJaeURKS1VUbWhEcDBwdGlWRWcwTWVOOFpz?oc=5\" target=\"_blank\">US Stocks 12 Months Analysis: Paypal (PYPL) & Microsoft (MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Watcher Guru</font>",
+      "date": "2026-02-04T16:07:30",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTFHdE9kR0RINDN6SW9fSVZTbTdhYUZLUDJ1VXplODlITVE2a3RNRWFVY0trNTd5VUhqYUt6blE3V25Ka0pTMEhxZGktcXZLZ2ZvelYxTnhCZFdPRnNhT251SjQyVEViT19XSmduNnJaeURKS1VUbWhEcDBwdGlWRWcwTWVOOFpz?oc=5"
+    },
+    {
+      "source": "Benzinga",
+      "headline": "What's Going On With Microsoft Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOallZLXNiQXVFYjNTVUNyNEJVZzBYVEg3Sk1vWWMtc1FtZTR6VzI3eURDU1U2djltUy1zTUk4WDNWc3ZNSFcybnFMdHhmNl9Yd0ZmX3lHSFpjdVB5ZUhNZE4tVng1al9YZnh1UTNfazhnNzNsWDBEX002VUduTi04TlhsVnpFREttSm5vRlJUd1lEWlloaXVnamxScXJjZ0E?oc=5\" target=\"_blank\">What's Going On With Microsoft Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "date": "2026-02-05T17:59:04",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOallZLXNiQXVFYjNTVUNyNEJVZzBYVEg3Sk1vWWMtc1FtZTR6VzI3eURDU1U2djltUy1zTUk4WDNWc3ZNSFcybnFMdHhmNl9Yd0ZmX3lHSFpjdVB5ZUhNZE4tVng1al9YZnh1UTNfazhnNzNsWDBEX002VUduTi04TlhsVnpFREttSm5vRlJUd1lEWlloaXVnamxScXJjZ0E?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Why Microsoft Stock Slumped by 5% on Thursday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGJqQ1pOckc1NGp6dkhJRmphUllOTzRfanFfY0NvaXczSUJlaHJFWVJJWWhwekZKemN5V0JubGpHdUlPYUtKRDJxT2Y2ekE4UDVrOVZFS1pFLTNZa3ZzejBBRnIyeF9nUGJUclBlVFJneFJWR05QTjNoSmNGT2NDRTUtWEp3RlVIWTQtbS1sbm0?oc=5\" target=\"_blank\">Why Microsoft Stock Slumped by 5% on Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-05T23:06:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGJqQ1pOckc1NGp6dkhJRmphUllOTzRfanFfY0NvaXczSUJlaHJFWVJJWWhwekZKemN5V0JubGpHdUlPYUtKRDJxT2Y2ekE4UDVrOVZFS1pFLTNZa3ZzejBBRnIyeF9nUGJUclBlVFJneFJWR05QTjNoSmNGT2NDRTUtWEp3RlVIWTQtbS1sbm0?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "History Says Now Is the Time to Load Up on Microsoft Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3RSNF9iaHloR0Rma3BBRldZU0JKWlJQRXVzdWs2bUh5ZmlFTnBzMjhqQWU1WEYzT3hmamJMMUdwQ1JvemM0Tk1BQ2c0UU82ejZrZm1UMTdiUWFERDB4OHU1T0lKQ3Vyd3hGWl9RX3BRTEtPQWpVczMxYkIzMFpzRV9haEtCb2VFVHdPQ2M2QndRVE13NHc?oc=5\" target=\"_blank\">History Says Now Is the Time to Load Up on Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-04T18:23:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3RSNF9iaHloR0Rma3BBRldZU0JKWlJQRXVzdWs2bUh5ZmlFTnBzMjhqQWU1WEYzT3hmamJMMUdwQ1JvemM0Tk1BQ2c0UU82ejZrZm1UMTdiUWFERDB4OHU1T0lKQ3Vyd3hGWl9RX3BRTEtPQWpVczMxYkIzMFpzRV9haEtCb2VFVHdPQ2M2QndRVE13NHc?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Analysts Cut Microsoft (MSFT) Price Targets",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2pBcTNuend0aUFWcmVOMFZiOC1NempPTWNXZlppOVJCRjByNkVCUFBKTmNxSW1mY3JoeUIzTFFBUmstUm00aV8tVXhOYkZKV3lFd014NVYwRXJBMGhWeDZhWG5XcGdzRTlNbXZqaWpSaEFFZG5XaTRZaFVBc2g5bkRYYkktdw?oc=5\" target=\"_blank\">Analysts Cut Microsoft (MSFT) Price Targets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-03T11:55:34",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2pBcTNuend0aUFWcmVOMFZiOC1NempPTWNXZlppOVJCRjByNkVCUFBKTmNxSW1mY3JoeUIzTFFBUmstUm00aV8tVXhOYkZKV3lFd014NVYwRXJBMGhWeDZhWG5XcGdzRTlNbXZqaWpSaEFFZG5XaTRZaFVBc2g5bkRYYkktdw?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "\u201cRare Downgrade\u201d Hits Microsoft Stock (MSFT) as Stifel Flags Azure Slowdown and Rising AI Costs",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnJUNjZVbjFtWFlISmRxNlZXSm1ocExRZGNWUDdzdW91SW9uQUh4d3g4S0ZBWW9zTUpRQXdVcUtWdzlnWDlGblFxdkJpa3hMZ3NUR0ZiZVB1MVpYemprQms1Snh5X2hEMkFNamFGakRVdDNlS0ZOUUlQY0hhMUJiYUlFaTBIbFZvOFpRYUdlY3EtUm4wT1VDZUVFZ05iY2xYelNJTkpCM0s5M3FwM2dXM21LVHFaamE2cUFqbDJR?oc=5\" target=\"_blank\">\u201cRare Downgrade\u201d Hits Microsoft Stock (MSFT) as Stifel Flags Azure Slowdown and Rising AI Costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T10:16:56",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnJUNjZVbjFtWFlISmRxNlZXSm1ocExRZGNWUDdzdW91SW9uQUh4d3g4S0ZBWW9zTUpRQXdVcUtWdzlnWDlGblFxdkJpa3hMZ3NUR0ZiZVB1MVpYemprQms1Snh5X2hEMkFNamFGakRVdDNlS0ZOUUlQY0hhMUJiYUlFaTBIbFZvOFpRYUdlY3EtUm4wT1VDZUVFZ05iY2xYelNJTkpCM0s5M3FwM2dXM21LVHFaamE2cUFqbDJR?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Microsoft Stock (NASDAQ:MSFT) Notches Up as OpenAI Becomes Liability",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOVElaeC1hWFJOeGtSR2NoeU9LWE0tMnVmQnc5amY1SEdobzNUc3JlYTVuci1EcTcxUU1JcGFyZmFldGczVjFmLTJoNkMtT0JaTE9xVG9Sby04S1J5R3BHZkJXVTVCOTB5U09ualBKbU9MY0phRzhJd29rMnIwTTd0cmItY1JkZlRqa0hiYUp2WmdjMjRjMWFsVVoyNA?oc=5\" target=\"_blank\">Microsoft Stock (NASDAQ:MSFT) Notches Up as OpenAI Becomes Liability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-04T18:39:01",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVElaeC1hWFJOeGtSR2NoeU9LWE0tMnVmQnc5amY1SEdobzNUc3JlYTVuci1EcTcxUU1JcGFyZmFldGczVjFmLTJoNkMtT0JaTE9xVG9Sby04S1J5R3BHZkJXVTVCOTB5U09ualBKbU9MY0phRzhJd29rMnIwTTd0cmItY1JkZlRqa0hiYUp2WmdjMjRjMWFsVVoyNA?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "3 Reasons to Buy the Dip on Microsoft Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTV4aHpYWEQ5Q2RMcmhxZFl6TXRxY0JZeF9rNF9sNEZkQkFnYngzczNZS2VGODVsVHJlamFYNGVWd3FHNGZVSlFwN1BLWU82V3hIOUZ5ZXREYnZ4WG1qcmJzOHdQSEJjLXpxNzBYdllCVXh2ZU50ZzNoOWk5U1psNGVSZk5aanVLR2Zxc3JZRQ?oc=5\" target=\"_blank\">3 Reasons to Buy the Dip on Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-04T00:15:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTV4aHpYWEQ5Q2RMcmhxZFl6TXRxY0JZeF9rNF9sNEZkQkFnYngzczNZS2VGODVsVHJlamFYNGVWd3FHNGZVSlFwN1BLWU82V3hIOUZ5ZXREYnZ4WG1qcmJzOHdQSEJjLXpxNzBYdllCVXh2ZU50ZzNoOWk5U1psNGVSZk5aanVLR2Zxc3JZRQ?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Investors Are Selling, but Is This AI Stock Actually a Screaming Buy?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnVxTURyelFaOVdjYlFtdm5GSkdEUC1ub2FRSkQ1N1hfOW94UXAxa0NJTVN0T1I5UjFMTE5HUWwtZTExTTZLN01oejhJQ1dsT29qSHRoQmhwODlKUzlMcDEyVFlhaG1PYkVaeUozZTl5YXRSZnVFZWo0V1BqRllveTFRX0s3U3JZcTBEN01QS0dJUDFNeXA4aA?oc=5\" target=\"_blank\">Investors Are Selling, but Is This AI Stock Actually a Screaming Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-03T20:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnVxTURyelFaOVdjYlFtdm5GSkdEUC1ub2FRSkQ1N1hfOW94UXAxa0NJTVN0T1I5UjFMTE5HUWwtZTExTTZLN01oejhJQ1dsT29qSHRoQmhwODlKUzlMcDEyVFlhaG1PYkVaeUozZTl5YXRSZnVFZWo0V1BqRllveTFRX0s3U3JZcTBEN01QS0dJUDFNeXA4aA?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "625 Billion Reasons to Buy the Dip in Microsoft Stock Right Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEhJMkFPV2JLeDVDRWFTNFg4dlo1WXRGV2V5YldZVlpaNjdHOGRVbUtKZUpXeTZ2OHNTZFRCSXRVUEhuQk5VRDRZMjJPeDZ0TWpsR2dCdkdjN0syY1RDYVMzOHB4TkZ1YUxEQVZ4djYtV204V3NsdTN1NDRpQkI0UzNrakRpNlFoaTRMOUNBdjRMeV9rMG14MA?oc=5\" target=\"_blank\">625 Billion Reasons to Buy the Dip in Microsoft Stock Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-03T17:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEhJMkFPV2JLeDVDRWFTNFg4dlo1WXRGV2V5YldZVlpaNjdHOGRVbUtKZUpXeTZ2OHNTZFRCSXRVUEhuQk5VRDRZMjJPeDZ0TWpsR2dCdkdjN0syY1RDYVMzOHB4TkZ1YUxEQVZ4djYtV204V3NsdTN1NDRpQkI0UzNrakRpNlFoaTRMOUNBdjRMeV9rMG14MA?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Microsoft Shares Plunge 10%, Wiping Out Nearly $360 Billion in Market Value",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXFldGpnSFdfZUlMQk1IUjc3UjAzcldRYVVYQ0pGcDM1dVpGZ0J4OUs1QWNBdE9aWVhMT3N5VlVOLXFFVW5fOFNJSThmYTlRbXpLVWxiUFExdGlOU1NmV1Fmd1BnVkRXZ0tMbkFRX216ZFNjYlh1T1hoM1dWY0UzNi0zOXp4WVVwUXhF?oc=5\" target=\"_blank\">Microsoft Shares Plunge 10%, Wiping Out Nearly $360 Billion in Market Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-01-29T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXFldGpnSFdfZUlMQk1IUjc3UjAzcldRYVVYQ0pGcDM1dVpGZ0J4OUs1QWNBdE9aWVhMT3N5VlVOLXFFVW5fOFNJSThmYTlRbXpLVWxiUFExdGlOU1NmV1Fmd1BnVkRXZ0tMbkFRX216ZFNjYlh1T1hoM1dWY0UzNi0zOXp4WVVwUXhF?oc=5"
+    },
+    {
+      "source": "CNBC",
+      "headline": "Microsoft stock drops 7% on slowing cloud growth, light margin guidance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZ1aUZtLThVcG9ZS1U3MlNrQzlaWEpFSl82UGttMXYyTGdWWlBrY1BhdkpYcWMzRXVTelphMm80VFpaR0VCU1JNazlVbVRSYVlUdy0zT1NKSmpDMEhERElrQ0ZYODNUeW5ITkFVWnp3MURMbTR5TmhWTGFLdjNjTNIBhgFBVV95cUxOa0QxdXE4VkswdjFwUEJ0OENmRmQ4MFBGSUJkWGdVQXpuY0FkVWpPTk5ES0pvZkd1dHV2RGVGeDUxaklxcXpBRzJYdGUteGxlZzBXS2UxR0R0WGFjVG1qeHNnVU4xMVA2dzhuaXhNT3hyT3RDR3ZVMzdiMnQ1dXFJdF9Ia2xvUQ?oc=5\" target=\"_blank\">Microsoft stock drops 7% on slowing cloud growth, light margin guidance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "date": "2026-01-28T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXZ1aUZtLThVcG9ZS1U3MlNrQzlaWEpFSl82UGttMXYyTGdWWlBrY1BhdkpYcWMzRXVTelphMm80VFpaR0VCU1JNazlVbVRSYVlUdy0zT1NKSmpDMEhERElrQ0ZYODNUeW5ITkFVWnp3MURMbTR5TmhWTGFLdjNjTNIBhgFBVV95cUxOa0QxdXE4VkswdjFwUEJ0OENmRmQ4MFBGSUJkWGdVQXpuY0FkVWpPTk5ES0pvZkd1dHV2RGVGeDUxaklxcXpBRzJYdGUteGxlZzBXS2UxR0R0WGFjVG1qeHNnVU4xMVA2dzhuaXhNT3hyT3RDR3ZVMzdiMnQ1dXFJdF9Ia2xvUQ?oc=5"
+    },
+    {
+      "source": "Morningstar Canada",
+      "headline": "After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWtYTThZcEJURWZtSU5Wam9EajRFNHdWejZQNERzM3V0dTFOZ0NNelA2TEVpMl9UNnBibHR0blY5MFlkR1VZTW1VSGtlQURHWUc2ZF9sZlRWX2tFMDNCcHk0bzVwNXAtNktpYVE3TVFtTFczUmpQZk9aaU5jSVJDR1RuR2ljVTZhbnp1UWktcEUzZEF6ZEJEeVBoXzlaZmU4SjdBQ0tIclA?oc=5\" target=\"_blank\">After Earnings, Is Microsoft Stock a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar Canada</font>",
+      "date": "2026-02-06T10:05:07",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWtYTThZcEJURWZtSU5Wam9EajRFNHdWejZQNERzM3V0dTFOZ0NNelA2TEVpMl9UNnBibHR0blY5MFlkR1VZTW1VSGtlQURHWUc2ZF9sZlRWX2tFMDNCcHk0bzVwNXAtNktpYVE3TVFtTFczUmpQZk9aaU5jSVJDR1RuR2ljVTZhbnp1UWktcEUzZEF6ZEJEeVBoXzlaZmU4SjdBQ0tIclA?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Microsoft Stock Is Down 22%. Should You Buy the Dip, or Run for the Hills??",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXo4S1I2SzBuYWgxQzN0NzdMeG5helNobncyTlhIaU4wVHVYNjktX1lPdlUwczFGd3hpWFc3VHp0czlVdWdSUU8tYUtnRkFmMkFZblZPVUhHYmhFSTdnY0hpNHBRTXN3YnlRRExVdk90WDNrWGpzMXlHTnI3SWxVMmMwNDFPTHFXT3dOVUxxOVhLNU5ZNGc?oc=5\" target=\"_blank\">Microsoft Stock Is Down 22%. Should You Buy the Dip, or Run for the Hills??</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-06T09:20:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXo4S1I2SzBuYWgxQzN0NzdMeG5helNobncyTlhIaU4wVHVYNjktX1lPdlUwczFGd3hpWFc3VHp0czlVdWdSUU8tYUtnRkFmMkFZblZPVUhHYmhFSTdnY0hpNHBRTXN3YnlRRExVdk90WDNrWGpzMXlHTnI3SWxVMmMwNDFPTHFXT3dOVUxxOVhLNU5ZNGc?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Microsoft (MSFT)\u2019s Grooming For Copliot Might Not Be Working, Says Jim Cramer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWJuR1hhU25rcTJtQnpTcUtMM21hY1dMSy1mQzBSZnZpcmw2Tllsb0xfQU9xZlZmZ2Y0b1otZlh3eS1IYWQ4WlFKYTM2cUdKQ0pKNmY1akVqeGN4NTRUazVqb3NuRUw0cTdpY1I4QlNGUnZHR2hnWXN6VnpjMmhKaDVpTW1YSnZnTElv?oc=5\" target=\"_blank\">Microsoft (MSFT)\u2019s Grooming For Copliot Might Not Be Working, Says Jim Cramer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-06T14:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWJuR1hhU25rcTJtQnpTcUtMM21hY1dMSy1mQzBSZnZpcmw2Tllsb0xfQU9xZlZmZ2Y0b1otZlh3eS1IYWQ4WlFKYTM2cUdKQ0pKNmY1akVqeGN4NTRUazVqb3NuRUw0cTdpY1I4QlNGUnZHR2hnWXN6VnpjMmhKaDVpTW1YSnZnTElv?oc=5"
+    },
+    {
+      "source": "Nasdaq",
+      "headline": "Why Microsoft Stock Slumped by 5% on Thursday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBSdzlLRDhtckdGaVg3UjFxZmZuZExkR1ZHNS1GOElMbGNEUTdoeU5XNTBrRG1ubW9STmZwajdZV1pUVE5SS2dWVE4yUFJfN2E2TmxxTmNIaUZDRGlUejRiU2VOenpFMmtiMDVzdFVIOVVvM3RKbFBkSGx3?oc=5\" target=\"_blank\">Why Microsoft Stock Slumped by 5% on Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "date": "2026-02-05T23:26:00",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSdzlLRDhtckdGaVg3UjFxZmZuZExkR1ZHNS1GOElMbGNEUTdoeU5XNTBrRG1ubW9STmZwajdZV1pUVE5SS2dWVE4yUFJfN2E2TmxxTmNIaUZDRGlUejRiU2VOenpFMmtiMDVzdFVIOVVvM3RKbFBkSGx3?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Microsoft stock price today: MSFT steadies near $400 after Stifel\u2019s rare downgrade",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0lmWmZfakc4ZmNuWm41LUxtenB1VFJSaWVJTTg4czBnaHVyZDN4SGpLNWJndGtrUVhoOFBpSm95cW1VNXFaMTMyYXE0b0ozWDlwV3RuM0FjMjZIR0c4QlBydndEcVV3RS1qU3ZiVWQxeEVST21CNmdWYUpkWW56LWZrdmlkLS1zazZGZVZleUktM3VVV2RqSzRwbHk2dGVDcGc?oc=5\" target=\"_blank\">Microsoft stock price today: MSFT steadies near $400 after Stifel\u2019s rare downgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-06T10:39:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0lmWmZfakc4ZmNuWm41LUxtenB1VFJSaWVJTTg4czBnaHVyZDN4SGpLNWJndGtrUVhoOFBpSm95cW1VNXFaMTMyYXE0b0ozWDlwV3RuM0FjMjZIR0c4QlBydndEcVV3RS1qU3ZiVWQxeEVST21CNmdWYUpkWW56LWZrdmlkLS1zazZGZVZleUktM3VVV2RqSzRwbHk2dGVDcGc?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Microsoft Stock (NASDAQ:MSFT) Notches Up as Influencer Push Falters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0dfM1JwZVl2aXFoUXdTaTBPV1ZsUVVIeTljamI1WDUyMzc2RXZ2Si1naGJOTHFuS3piUVJIZU5Hc0FoX1M1NzAzeUs0cGN2aHdyNE9NNnlfYUpCVkdjTzg5LTdzc3hvT2VfcWxneFU2WFBWejFia2oyTG5scTY1Y2dLbTVWSXBxSEFBeEp0aGsyS3ljV1VGWU53?oc=5\" target=\"_blank\">Microsoft Stock (NASDAQ:MSFT) Notches Up as Influencer Push Falters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-06T19:03:31",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0dfM1JwZVl2aXFoUXdTaTBPV1ZsUVVIeTljamI1WDUyMzc2RXZ2Si1naGJOTHFuS3piUVJIZU5Hc0FoX1M1NzAzeUs0cGN2aHdyNE9NNnlfYUpCVkdjTzg5LTdzc3hvT2VfcWxneFU2WFBWejFia2oyTG5scTY1Y2dLbTVWSXBxSEFBeEp0aGsyS3ljV1VGWU53?oc=5"
+    },
+    {
+      "source": "Barron's",
+      "headline": "Microsoft Stock Gets a Downgrade. Why the Azure Maker Is Unlikely to Lead in AI.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwNBVV95cUxPNXhubXdLVmFzZEJMWm53TWhoR1ZvZmdZRFRQd2ZPM1d0TEtWWkxjOEZ1b29BcmFZcUdBeERMYXFjWkVnMWRJZVRhaGdndXRUeEo1OUlpZ0gwMVBKLTVfcGpwckVqc1FEYnRKeE9NSWw2WFRzQk5wRnlKQWVPZ1ZPOFdwSTJ1R2RFbTBBUThsQ01ZSXFFeWhSZklqM3kzbXc1OEU4VFVMaDlSZWZFejRPRUVlQnVDRUtneEtEaUlBYmRldXg1Q2VfcXMtdXVvVnhHYVFnd1c2ZUhLSmdERWxVQURkWnFzVUg3YWFrbi10andrWU5CQlpjdHhRTmFFSGZPTExKUUxrSHd4d3paZTBvWVZ5a3REOXZ3dGkwQzFfNWhCWWh0dG1SU1pjdFhVUS1Fck8xRzNIM2ZlSEpVVWp0M2ppYXppNm1NRkZMTnZPQzAzUDBKS0hEc2JHaHpkM3oyblhLTmxRNUNPX2k2TnZYbTlvVG1kekNwd0s1T1BkRGNoODZjS0lBTk5nX0ZSWEE?oc=5\" target=\"_blank\">Microsoft Stock Gets a Downgrade. Why the Azure Maker Is Unlikely to Lead in AI.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "date": "2026-02-05T20:31:00",
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPNXhubXdLVmFzZEJMWm53TWhoR1ZvZmdZRFRQd2ZPM1d0TEtWWkxjOEZ1b29BcmFZcUdBeERMYXFjWkVnMWRJZVRhaGdndXRUeEo1OUlpZ0gwMVBKLTVfcGpwckVqc1FEYnRKeE9NSWw2WFRzQk5wRnlKQWVPZ1ZPOFdwSTJ1R2RFbTBBUThsQ01ZSXFFeWhSZklqM3kzbXc1OEU4VFVMaDlSZWZFejRPRUVlQnVDRUtneEtEaUlBYmRldXg1Q2VfcXMtdXVvVnhHYVFnd1c2ZUhLSmdERWxVQURkWnFzVUg3YWFrbi10andrWU5CQlpjdHhRTmFFSGZPTExKUUxrSHd4d3paZTBvWVZ5a3REOXZ3dGkwQzFfNWhCWWh0dG1SU1pjdFhVUS1Fck8xRzNIM2ZlSEpVVWp0M2ppYXppNm1NRkZMTnZPQzAzUDBKS0hEc2JHaHpkM3oyblhLTmxRNUNPX2k2TnZYbTlvVG1kekNwd0s1T1BkRGNoODZjS0lBTk5nX0ZSWEE?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "2 Monster Stocks to Hold for the Next 20 Years -- Including Microsoft (MSFT) Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5KVnYxWDhFaGhqUl9UVkZsUlUtemoxRzQtRWJMNl9abmdjWUhxOVZkZzRnaGFqNW1uNm5qRnE4SDVDZ2UtQnQwajNuRkRZT0xJS3VGU2dWeVNGN1Bqdmt6RGxyREZnaDlBak55YVJXT0FaRnFtR2M1RXpOVUQ?oc=5\" target=\"_blank\">2 Monster Stocks to Hold for the Next 20 Years -- Including Microsoft (MSFT) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-01T18:35:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KVnYxWDhFaGhqUl9UVkZsUlUtemoxRzQtRWJMNl9abmdjWUhxOVZkZzRnaGFqNW1uNm5qRnE4SDVDZ2UtQnQwajNuRkRZT0xJS3VGU2dWeVNGN1Bqdmt6RGxyREZnaDlBak55YVJXT0FaRnFtR2M1RXpOVUQ?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Microsoft (MSFT) stock snaps back above $399 after Stifel downgrade, AI spend in focus",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2tsUlZNd3B0UFZiaDVBVV9obk03d2RfOGJaVUNiWXlJWnJYc2Qyb0RaOXRkOHp2c1FmU2FKRzJteHdJZGRiazZLc3FLU19uWFN3ZDVCa1Q5UWtuWWN0Vm1fWFc2dkU5Q054UGd0NlBBenIxS1FRaTNDU2kwMm4xNHJCWkZSZ05ITzhTMU1udnJodEpKaWxCeGVNbTQ3LS1WbUpIaVRn?oc=5\" target=\"_blank\">Microsoft (MSFT) stock snaps back above $399 after Stifel downgrade, AI spend in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-06T21:03:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2tsUlZNd3B0UFZiaDVBVV9obk03d2RfOGJaVUNiWXlJWnJYc2Qyb0RaOXRkOHp2c1FmU2FKRzJteHdJZGRiazZLc3FLU19uWFN3ZDVCa1Q5UWtuWWN0Vm1fWFc2dkU5Q054UGd0NlBBenIxS1FRaTNDU2kwMm4xNHJCWkZSZ05ITzhTMU1udnJodEpKaWxCeGVNbTQ3LS1WbUpIaVRn?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Could Microsoft Stock Hit $600 in 2026 Despite OpenAI Woes?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnA5WUlUdTRXbnk0bm1Fd0lWVFgtQUVfS0RTSHB3Z2xXa0dPVThrN3BrU2pDUC1xUzZtUGhDZEVla1RUX21xcUtGREZaSWR5Z2tzRUZUSks3bUl4bm9ScXFpTnVfdm5scUNlVlRYaXNGb0hQLWJVNWJySDJjVThJNg?oc=5\" target=\"_blank\">Could Microsoft Stock Hit $600 in 2026 Despite OpenAI Woes?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-05T19:42:50",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnA5WUlUdTRXbnk0bm1Fd0lWVFgtQUVfS0RTSHB3Z2xXa0dPVThrN3BrU2pDUC1xUzZtUGhDZEVla1RUX21xcUtGREZaSWR5Z2tzRUZUSks3bUl4bm9ScXFpTnVfdm5scUNlVlRYaXNGb0hQLWJVNWJySDJjVThJNg?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "5 Takeaways From Microsoft's Latest Earnings Report",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObDJTTms5NktyVHY3SjYzMVlFenJ0ekhtSHZfSzVoOGg3S3BMWXJBSnFPU3JHQ3lwU0tKSk5zeVBNYlNYWEJIWUFNSEstNm9HSTdETEdja2VTdW1pY3JZLThSeERWbTg3V1R5THZWT2p0VzJpQnRaSHZnRWVwYk9CdjZfOGJtWXY0V1RYTFhqa2M3SGotYlN4aw?oc=5\" target=\"_blank\">5 Takeaways From Microsoft's Latest Earnings Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-04T13:43:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDJTTms5NktyVHY3SjYzMVlFenJ0ekhtSHZfSzVoOGg3S3BMWXJBSnFPU3JHQ3lwU0tKSk5zeVBNYlNYWEJIWUFNSEstNm9HSTdETEdja2VTdW1pY3JZLThSeERWbTg3V1R5THZWT2p0VzJpQnRaSHZnRWVwYk9CdjZfOGJtWXY0V1RYTFhqa2M3SGotYlN4aw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Microsoft: An OpenAI Problem (Rating Upgrade)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVdBSUg1aHljWGp4YV9JcWdnRUxxY1VBb2hPYzQzTEFrRzhuYzdqV19OMG5oVXhaNVFYbms4UWFuWDBFcUdQLXVSWUlJX21FbERlZUZWRFBtcFRMTng2dzhOOEpSVVFXSDVONlFqang0WDZWb2VmY1dEellLam9Lc3NsOVNlS1g4TVQw?oc=5\" target=\"_blank\">Microsoft: An OpenAI Problem (Rating Upgrade)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T14:49:52",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVdBSUg1aHljWGp4YV9JcWdnRUxxY1VBb2hPYzQzTEFrRzhuYzdqV19OMG5oVXhaNVFYbms4UWFuWDBFcUdQLXVSWUlJX21FbERlZUZWRFBtcFRMTng2dzhOOEpSVVFXSDVONlFqang0WDZWb2VmY1dEellLam9Lc3NsOVNlS1g4TVQw?oc=5"
+    },
+    {
+      "source": "Barchart.com",
+      "headline": "Shorting Microsoft Puts Looks Very Attractive to Value Investors in MSFT Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXpZci1heEM2TjJreVRBZ2R1VE44b0JBU0xTRVlDUmZYWG53RVFuV0pQX0JDbmhqYjZJQ2dmUkVNUEUzdHc2MlIzUEtyaXlOdkRuNE5VWmtsTGlvUWotVjNWYXdtVFVKamFDczR6dGxmNTJWUU10bkJ3aGlGekFPNWxXM2UtRzBQNm14c1BrSGRmbHBNeDJNTklSMFpMOE5aYlJ5NWFySVRvUjEwVjJkNjBiQ1pSSUt5XzBzcGhhUTE?oc=5\" target=\"_blank\">Shorting Microsoft Puts Looks Very Attractive to Value Investors in MSFT Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "date": "2026-02-02T17:54:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXpZci1heEM2TjJreVRBZ2R1VE44b0JBU0xTRVlDUmZYWG53RVFuV0pQX0JDbmhqYjZJQ2dmUkVNUEUzdHc2MlIzUEtyaXlOdkRuNE5VWmtsTGlvUWotVjNWYXdtVFVKamFDczR6dGxmNTJWUU10bkJ3aGlGekFPNWxXM2UtRzBQNm14c1BrSGRmbHBNeDJNTklSMFpMOE5aYlJ5NWFySVRvUjEwVjJkNjBiQ1pSSUt5XzBzcGhhUTE?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Microsoft Stock Forecast: Trending Analysts Split On Upside",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdUR5ekk3Uk9fQ2xUdnNPN2h2dlF5dkRFdFNCVThGd1VHQU9HVmpCVHh6ZUNRQW93bFN0bDVIZi1YRjRLSTNfanplOW9taUFjeVJxeWoyZXdTcHFwanlLQm5EUmJBTS1FRTJ6S250N3NlX21YdWpLd2I3eXVlVkRBcTFJUzhrRFNEOFNhemwtaF91R1ZxZUYtOTRjeWNNcnRGUjg0RDVlZEJUTWx5VGp3?oc=5\" target=\"_blank\">Microsoft Stock Forecast: Trending Analysts Split On Upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-06T14:01:28",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdUR5ekk3Uk9fQ2xUdnNPN2h2dlF5dkRFdFNCVThGd1VHQU9HVmpCVHh6ZUNRQW93bFN0bDVIZi1YRjRLSTNfanplOW9taUFjeVJxeWoyZXdTcHFwanlLQm5EUmJBTS1FRTJ6S250N3NlX21YdWpLd2I3eXVlVkRBcTFJUzhrRFNEOFNhemwtaF91R1ZxZUYtOTRjeWNNcnRGUjg0RDVlZEJUTWx5VGp3?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "With Shares Down 10% After Its Earnings Call, Is Microsoft a Buy?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPLWJiQ3lPOEhDanJRbzdVLURJZURJZEw5UUQteXR3aXJmZGhhRGtVbnpBVmMxWE5aVURGTERrc3pWd09pWmlMS1kyZWtKMnNqS3kxYmVwRzFQbWswcktGZk1vR2RLcVhOTWZUQ2ZKNGl2TGhmUDB0ZS0wNEFrXzlNOHJLUlRKbzZFVkQtY0JjTkU?oc=5\" target=\"_blank\">With Shares Down 10% After Its Earnings Call, Is Microsoft a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-02T14:36:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLWJiQ3lPOEhDanJRbzdVLURJZURJZEw5UUQteXR3aXJmZGhhRGtVbnpBVmMxWE5aVURGTERrc3pWd09pWmlMS1kyZWtKMnNqS3kxYmVwRzFQbWswcktGZk1vR2RLcVhOTWZUQ2ZKNGl2TGhmUDB0ZS0wNEFrXzlNOHJLUlRKbzZFVkQtY0JjTkU?oc=5"
+    },
+    {
+      "source": "FinancialContent",
+      "headline": "The AI Tax: Deciphering Microsoft\u2019s (MSFT) 2026 Valuation Reset and CapEx Surge",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnpDWmxJVi1qOGFrUk9fd3lPSG9ycGlUZkJ6V2JRUFNPaVU5SmJFM1BlRUVKLTJBbTZLcDg2U2pHWTVZQlU2TWdtVS1VT1psVi1LclVJWTlLTnBxdmhLODNYbDhXY1BUeEw2VnJYckdpc01HRE5LZEpaX2hCTUFQRmF2Q2RabFVDY25KR0k3T0NQY0dqajVyWi16SkxKSi1EMmNpdDBnWGxNSlBfM1B3UHFkLVJpX29Wb2dRc0VuWUY1VU80bExnaWFIbUZOZ1laTGNINHVka29sZnQ5UHc?oc=5\" target=\"_blank\">The AI Tax: Deciphering Microsoft\u2019s (MSFT) 2026 Valuation Reset and CapEx Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>",
+      "date": "2026-02-06T14:55:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQnpDWmxJVi1qOGFrUk9fd3lPSG9ycGlUZkJ6V2JRUFNPaVU5SmJFM1BlRUVKLTJBbTZLcDg2U2pHWTVZQlU2TWdtVS1VT1psVi1LclVJWTlLTnBxdmhLODNYbDhXY1BUeEw2VnJYckdpc01HRE5LZEpaX2hCTUFQRmF2Q2RabFVDY25KR0k3T0NQY0dqajVyWi16SkxKSi1EMmNpdDBnWGxNSlBfM1B3UHFkLVJpX29Wb2dRc0VuWUY1VU80bExnaWFIbUZOZ1laTGNINHVka29sZnQ5UHc?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "A $357B Slap in the Face: Why It\u2019s Time to Buy Microsoft Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGtiSWVwQUpuMGVMQ082em5ReXFwSXdDOW1VTDc4bE9FUWpUdFJJS05HSW1PeTJSQkhxWDc2QjRuQTNRbWdXNnF5YWlIcDhrWnVMZ1NZQ0ZFaFlIU0Y0N0ZZQ19yc2VUN1MxazhuUTUwZUJZYk12Tlh1VEZVdTYyNUZvZzhHdkpSVWRnWWc0dkhFa0Eyd285c3RqQWxZNjhJZTZr?oc=5\" target=\"_blank\">A $357B Slap in the Face: Why It\u2019s Time to Buy Microsoft Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-02T13:01:02",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGtiSWVwQUpuMGVMQ082em5ReXFwSXdDOW1VTDc4bE9FUWpUdFJJS05HSW1PeTJSQkhxWDc2QjRuQTNRbWdXNnF5YWlIcDhrWnVMZ1NZQ0ZFaFlIU0Y0N0ZZQ19yc2VUN1MxazhuUTUwZUJZYk12Tlh1VEZVdTYyNUZvZzhHdkpSVWRnWWc0dkhFa0Eyd285c3RqQWxZNjhJZTZr?oc=5"
+    },
+    {
+      "source": "simplywall.st",
+      "headline": "Why Microsoft (MSFT) Is Down 14.4% After Massive AI Capex Overshadows Strong Q2 Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2M3VHlEbmY2a0tMYzZOMGVhSG50VW9ubk5TbjVOSnk1bV9RaTJ0c1FTSmpJSWlNUHhqQ004UE5vRVZ3RU5ZWWY4eGJjZmRnNHNMZnE2RXZnaklXUklSaExBUGZ4MlBaaGhrX3RqRUdhZm1FM0oxV0Z4S3NkRFNsUy0xWHFMZnFoNDNLYlc3T3RFU0l0Vi1RNG5lQXE1WDRmZHNSVG1KNmdLVXlSTWhJaFBjWDNBbmk2WDZhVXZ4eUVYLTJ5dHNn?oc=5\" target=\"_blank\">Why Microsoft (MSFT) Is Down 14.4% After Massive AI Capex Overshadows Strong Q2 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "date": "2026-02-04T13:52:36",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2M3VHlEbmY2a0tMYzZOMGVhSG50VW9ubk5TbjVOSnk1bV9RaTJ0c1FTSmpJSWlNUHhqQ004UE5vRVZ3RU5ZWWY4eGJjZmRnNHNMZnE2RXZnaklXUklSaExBUGZ4MlBaaGhrX3RqRUdhZm1FM0oxV0Z4S3NkRFNsUy0xWHFMZnFoNDNLYlc3T3RFU0l0Vi1RNG5lQXE1WDRmZHNSVG1KNmdLVXlSTWhJaFBjWDNBbmk2WDZhVXZ4eUVYLTJ5dHNn?oc=5"
+    },
+    {
+      "source": "CoinCentral",
+      "headline": "Microsoft (MSFT) Stock: Why Wall Street Dumped Shares After Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTQyUVppd1hLeERSYU9MV1gwSnZlNHlCT0JmNFdPSE11UWpQdDBLNEZVT01iNkEwbzNzbkhrSkROUC1sVzctS0FvdVAyRWYtQ2gyWUZrbWotSGRTMTFlNjJfczVET3ZRXzhPM0ZERkUwOTJjaEU0RU5iR1NuV1poaEhlb1dFelNMaVB4N3owLVFPSV9M?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock: Why Wall Street Dumped Shares After Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "date": "2026-02-06T10:45:31",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTQyUVppd1hLeERSYU9MV1gwSnZlNHlCT0JmNFdPSE11UWpQdDBLNEZVT01iNkEwbzNzbkhrSkROUC1sVzctS0FvdVAyRWYtQ2gyWUZrbWotSGRTMTFlNjJfczVET3ZRXzhPM0ZERkUwOTJjaEU0RU5iR1NuV1poaEhlb1dFelNMaVB4N3owLVFPSV9M?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Microsoft Corporation $MSFT Stock Position Lowered by Prossimo Advisors LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlhBVGl5ZGN4THJPaFJJaEdLVnJNZEJhcmhKOUkwWWpsQ1E5THpfU082dmFEX2g5ZmxOYmxkRW1CTkxwLVFVNk5JVE5WZmxoTXFrWlhVcUlUa3ZyRjhUZ0JoSWk1enpwWUlDWXU4dGdKdWcxOUZfX0ZFcmZNSHdLa0MtX1NoMEU4eHBDSVBMZkJ6Vlo1RE43bnMySlJiek9UVFFlNDdXNmtnbEppelh2Mk80U1NjMEJ5REpSR09qc0FSc2p0NXFpNzVLRW9ibXpN?oc=5\" target=\"_blank\">Microsoft Corporation $MSFT Stock Position Lowered by Prossimo Advisors LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-06T12:55:11",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlhBVGl5ZGN4THJPaFJJaEdLVnJNZEJhcmhKOUkwWWpsQ1E5THpfU082dmFEX2g5ZmxOYmxkRW1CTkxwLVFVNk5JVE5WZmxoTXFrWlhVcUlUa3ZyRjhUZ0JoSWk1enpwWUlDWXU4dGdKdWcxOUZfX0ZFcmZNSHdLa0MtX1NoMEU4eHBDSVBMZkJ6Vlo1RE43bnMySlJiek9UVFFlNDdXNmtnbEppelh2Mk80U1NjMEJ5REpSR09qc0FSc2p0NXFpNzVLRW9ibXpN?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Microsoft slides as Stifel downgrades on AI spending, Azure issues (MSFT:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNR29menE1T2ZmUi1uM1dEa2REUzZ5XzBvS2lVRkpQWE5Kc0s4RnFETllNNzlqNUF3VDFkYXAyNDFTZzRERjkzY3dFRWFMSG9Icl9JRlRkSWdobjR0VXg3YVdhTk9OV3RNc3UxT25Fd01fVzVoLWRZY2RPa3A4TjNHMkt4eTZsT0ZmUjltMjhGYzU1VzlIMUhULVB3ZmMzNzVlVGUxcGFn?oc=5\" target=\"_blank\">Microsoft slides as Stifel downgrades on AI spending, Azure issues (MSFT:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-05T13:30:39",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR29menE1T2ZmUi1uM1dEa2REUzZ5XzBvS2lVRkpQWE5Kc0s4RnFETllNNzlqNUF3VDFkYXAyNDFTZzRERjkzY3dFRWFMSG9Icl9JRlRkSWdobjR0VXg3YVdhTk9OV3RNc3UxT25Fd01fVzVoLWRZY2RPa3A4TjNHMkt4eTZsT0ZmUjltMjhGYzU1VzlIMUhULVB3ZmMzNzVlVGUxcGFn?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Here's Why Microsoft Fell After Earnings, Despite Beating Expectations",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkdTUFo0MkxKZ2QzbUdzbC00bHl5Uy13ZU5UOGw1MGFrbnlWcmVpQ0tGWHJhUXZrQkpZYzBNdUNhQmJ4RkdXUlhocFBsdmNOZVpwZHFqYjZLZmxBdEVLdGdoU3Q3TTVWZmVCRkVaVUlVbndrVGtldWVyQkowcFpuMS1GQk5KY1RZSUpYcEcxTEVTaFJPR19hTw?oc=5\" target=\"_blank\">Here's Why Microsoft Fell After Earnings, Despite Beating Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-03T12:32:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkdTUFo0MkxKZ2QzbUdzbC00bHl5Uy13ZU5UOGw1MGFrbnlWcmVpQ0tGWHJhUXZrQkpZYzBNdUNhQmJ4RkdXUlhocFBsdmNOZVpwZHFqYjZLZmxBdEVLdGdoU3Q3TTVWZmVCRkVaVUlVbndrVGtldWVyQkowcFpuMS1GQk5KY1RZSUpYcEcxTEVTaFJPR19hTw?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Why Microsoft Stock Dropped This Week",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTJwNEctUG9tTHBUbnYta1FFbEtQR0Z5a2stcm40S3NYX2VzbHhEOUp1cnl6R3JraUN0TG9ubkpvcUdVaUZfUVFoVWpfY0RIVW9md3dVenFnRWRFNjNJS2xoUm9YbTByNWNGLUpBWFgtSndreGhBR3FlMHl6ZTBlYmxDa2lwNE0?oc=5\" target=\"_blank\">Why Microsoft Stock Dropped This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-01T22:11:00",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTJwNEctUG9tTHBUbnYta1FFbEtQR0Z5a2stcm40S3NYX2VzbHhEOUp1cnl6R3JraUN0TG9ubkpvcUdVaUZfUVFoVWpfY0RIVW9md3dVenFnRWRFNjNJS2xoUm9YbTByNWNGLUpBWFgtSndreGhBR3FlMHl6ZTBlYmxDa2lwNE0?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Microsoft (MSFT) Stock Is Up, What You Need To Know",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5hM2d5QUVNa0xPNlp2QmZucVJldkJjOF9PVGF1N0RsNzFzQW5FYTA3WDVNZjFyNXNwY3dOVmd2OWhJOTAtbFZnczF5ZlVRWG5oVEU3OWpvaXpyX2ZRU184eURvUVhibDNHLTNXYTE1eUFUTFI4bE9LTUdOdw?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock Is Up, What You Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-23T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hM2d5QUVNa0xPNlp2QmZucVJldkJjOF9PVGF1N0RsNzFzQW5FYTA3WDVNZjFyNXNwY3dOVmd2OWhJOTAtbFZnczF5ZlVRWG5oVEU3OWpvaXpyX2ZRU184eURvUVhibDNHLTNXYTE1eUFUTFI4bE9LTUdOdw?oc=5"
+    },
+    {
+      "source": "Trefis",
+      "headline": "Microsoft Stock on the Edge: 3 Threats You Need to Know",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnhocjBkdlhNUUpoa3F1elU2c1RSbHhqQTRRMGZKM19rcDF4M1d0ODh3b3VUVzJUbTBnZ2ZVQzRsUjVQUkdtdi1mbXBwbk5DM2QtNC15S0JJR3Zta0YzSWY5QTE1aHRJMnROdmNnaGYxWlM3T3dEMFhZM1NUMFktV1djZkt3X08wWW9QLVhxVE4wUTg1Y3I2bHZzdDVJWE1iU0N4UVNzMVJOYURzV1hrWGRVamhaUVRkSldBdHNQbUNGdw?oc=5\" target=\"_blank\">Microsoft Stock on the Edge: 3 Threats You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+      "date": "2026-02-05T06:33:45",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnhocjBkdlhNUUpoa3F1elU2c1RSbHhqQTRRMGZKM19rcDF4M1d0ODh3b3VUVzJUbTBnZ2ZVQzRsUjVQUkdtdi1mbXBwbk5DM2QtNC15S0JJR3Zta0YzSWY5QTE1aHRJMnROdmNnaGYxWlM3T3dEMFhZM1NUMFktV1djZkt3X08wWW9QLVhxVE4wUTg1Y3I2bHZzdDVJWE1iU0N4UVNzMVJOYURzV1hrWGRVamhaUVRkSldBdHNQbUNGdw?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "Alphabet and Microsoft: Billion Dollar AI Bettors",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMEV4VUo1X3Rwb25EbUg5NjNJeG11bThHTTR2aEs2RE5yNWJmZmJKdUg5Yy1jdlpXSTRjUC1wVmlIRjdxSHBqMWl3LUYtT1hUanVhMXJMZlBhTllHNEhVSnZlLXVPRzlXVGFVZUhmbVRIeHp5LTc5TjV0bjN3OGYyOGVhREczYTY4Z0NCWFVOZHRHcjBoUlJGR000V1R3REo2bWlweVg2dVhvUXRJVGV1bEVfVFhXOS1JU2YteWdJa3dCc0prczRISERkWQ?oc=5\" target=\"_blank\">Alphabet and Microsoft: Billion Dollar AI Bettors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-02-06T17:28:22",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMEV4VUo1X3Rwb25EbUg5NjNJeG11bThHTTR2aEs2RE5yNWJmZmJKdUg5Yy1jdlpXSTRjUC1wVmlIRjdxSHBqMWl3LUYtT1hUanVhMXJMZlBhTllHNEhVSnZlLXVPRzlXVGFVZUhmbVRIeHp5LTc5TjV0bjN3OGYyOGVhREczYTY4Z0NCWFVOZHRHcjBoUlJGR000V1R3REo2bWlweVg2dVhvUXRJVGV1bEVfVFhXOS1JU2YteWdJa3dCc0prczRISERkWQ?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Microsoft Spent Billions on AI -- But One Start-Up Just Proved Speed Beats Scale",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZuUlRpQnhGeTNFQVpyaXVydWU1RUdNNDlINWIxeC1kZ1QzOC1jTnBOd19iY3kyUm5xU3g2ZVZ5V1BSdXlxUHNoazBaMmJYSVFET2w0ZC1tX2tJU21fZkpQZi1mYXl1V25LTU9VaEs5U3gyLUpvRFJyeC1mODhXT0NQUk1ZbEFLWVlLN2c0ZEw3MTVFLVlHQw?oc=5\" target=\"_blank\">Microsoft Spent Billions on AI -- But One Start-Up Just Proved Speed Beats Scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-04T02:45:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHZuUlRpQnhGeTNFQVpyaXVydWU1RUdNNDlINWIxeC1kZ1QzOC1jTnBOd19iY3kyUm5xU3g2ZVZ5V1BSdXlxUHNoazBaMmJYSVFET2w0ZC1tX2tJU21fZkpQZi1mYXl1V25LTU9VaEs5U3gyLUpvRFJyeC1mODhXT0NQUk1ZbEFLWVlLN2c0ZEw3MTVFLVlHQw?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Following a $750 Million Deal with Perplexity, Is Microsoft Stock a Buy, Sell, or Hold?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd29NSWtHTS1WcWticlJXYXVIMTRqQ21FVkhaaXVCeWlCbHltdlZJVmx4d1JFcVM0RDJkc1VRTzl1c3BnV3huRkZGRnRNYUlvMVZ4M3JFSS0wamRMUlVteHZWR1p5NkVLcS1TTDIwcHVqTUVKVkpTUkxLczQ4UXc3bFdoUlhMbnE4S1pv?oc=5\" target=\"_blank\">Following a $750 Million Deal with Perplexity, Is Microsoft Stock a Buy, Sell, or Hold?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-02T18:49:51",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd29NSWtHTS1WcWticlJXYXVIMTRqQ21FVkhaaXVCeWlCbHltdlZJVmx4d1JFcVM0RDJkc1VRTzl1c3BnV3huRkZGRnRNYUlvMVZ4M3JFSS0wamRMUlVteHZWR1p5NkVLcS1TTDIwcHVqTUVKVkpTUkxLczQ4UXc3bFdoUlhMbnE4S1pv?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Why Microsoft (MSFT) Shares Are Falling Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjZzblNkUkZnblc2a0t4ZTNHZDNFNHJDRHFOMVZfR3djSFBQVU5IbW1wNG9kRlNtbDZCM2dma3Y0RnpkSTlKNFh5LWU3dklwamtZOHV1dVNJS0FMdlFpZndxSjRMblRMNEw0SnQ5WnNRX0xtNXRIbUpFZ3JPdk5uUzJ6S1pYQQ?oc=5\" target=\"_blank\">Why Microsoft (MSFT) Shares Are Falling Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-29T17:30:40",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjZzblNkUkZnblc2a0t4ZTNHZDNFNHJDRHFOMVZfR3djSFBQVU5IbW1wNG9kRlNtbDZCM2dma3Y0RnpkSTlKNFh5LWU3dklwamtZOHV1dVNJS0FMdlFpZndxSjRMblRMNEw0SnQ5WnNRX0xtNXRIbUpFZ3JPdk5uUzJ6S1pYQQ?oc=5"
+    },
+    {
+      "source": "Blockonomi",
+      "headline": "Microsoft (MSFT) Stock: Should You Buy After 22% Plunge?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjI1UUFGN3hjLWFqRHBHN21sNFZFYlpmR1Z3b3A3M0tVdkdRQWNaMDJSY1lYY1ZuYk9aVDBCTnk2TjE2bDFWcUFuSTVtNlpEOWFQQmVQamtBN2RyR2tic2FpNFVZblFZZkRJdlVSU284X1I2amxMbWIzS2dqQ3IwNQ?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock: Should You Buy After 22% Plunge?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
+      "date": "2026-02-06T13:44:27",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjI1UUFGN3hjLWFqRHBHN21sNFZFYlpmR1Z3b3A3M0tVdkdRQWNaMDJSY1lYY1ZuYk9aVDBCTnk2TjE2bDFWcUFuSTVtNlpEOWFQQmVQamtBN2RyR2tic2FpNFVZblFZZkRJdlVSU284X1I2amxMbWIzS2dqQ3IwNQ?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Microsoft stock price edges up after Thursday rout, but AI capex worries hang over MSFT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXh3bjFlZDRtWWZUcHU4b1JjX0ZWZUNJT0VSbFpxV1pnNWxENzk1Tm45N29hdElmdEtvbHBRWWMtN2xhNjB0c2otNEIyazNRY2Y4ODV0cVZYYXN6YVNpQmdhMnFtZklNdURQMDNVOXNHT3BndTR4NGxmeEZVVjF3X2htNGV3UGxLUWFXUG5lVlVvWkJ2NFB6RFpSOTl6TnVCcGl2Mm5nQWpaS2M?oc=5\" target=\"_blank\">Microsoft stock price edges up after Thursday rout, but AI capex worries hang over MSFT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-06T14:50:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXh3bjFlZDRtWWZUcHU4b1JjX0ZWZUNJT0VSbFpxV1pnNWxENzk1Tm45N29hdElmdEtvbHBRWWMtN2xhNjB0c2otNEIyazNRY2Y4ODV0cVZYYXN6YVNpQmdhMnFtZklNdURQMDNVOXNHT3BndTR4NGxmeEZVVjF3X2htNGV3UGxLUWFXUG5lVlVvWkJ2NFB6RFpSOTl6TnVCcGl2Mm5nQWpaS2M?oc=5"
+    },
+    {
+      "source": "CoinCentral",
+      "headline": "Microsoft (MSFT) Stock: Slight Surge as Britain Launches Framework With Microsoft to Fight Rising Deepfake Threats",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTzFBQmpXb2tQTzk0RkRET24wV1U0MUpSd18xVmRidHZTVER1SkVFQ0hSeDQxYzZwN2dIdjBoQm1GQ2pCellKYzRpdE9rTFROZkthb1F4c3lkdDVISHdsQnpScDlsakxIVWVBWmcyMGlIcnEteF9FMDdpamFLYzRmQTREeDhkbm9meXp1dTBzRmI2TDJxeWJMVzlob2JKSEc5a251N1Z5NTY0ZTZrUHhGRWZuQ2lyZFNlY01UQmtwTFNzVW5rcEp5MnNVQnpRQ1lHWmc?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock: Slight Surge as Britain Launches Framework With Microsoft to Fight Rising Deepfake Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "date": "2026-02-05T13:53:35",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTzFBQmpXb2tQTzk0RkRET24wV1U0MUpSd18xVmRidHZTVER1SkVFQ0hSeDQxYzZwN2dIdjBoQm1GQ2pCellKYzRpdE9rTFROZkthb1F4c3lkdDVISHdsQnpScDlsakxIVWVBWmcyMGlIcnEteF9FMDdpamFLYzRmQTREeDhkbm9meXp1dTBzRmI2TDJxeWJMVzlob2JKSEc5a251N1Z5NTY0ZTZrUHhGRWZuQ2lyZFNlY01UQmtwTFNzVW5rcEp5MnNVQnpRQ1lHWmc?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "\u2018This is Absurd\u2019: Top Investor Positively Bullish on Microsoft Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2Zoa2lpSnZlMlYyNGFFRlV0R2NWTjVhQnV3UEFWOU93RFRFOEdHSU9BYXZ0NklDaWwzRTBPV3ROYV81bHRGTUJkSmJycHE2X0IzNVplQU9fTjVpY2s0R1NBUmlhT0tnZlYwSkFrMEk3Z1ZKMzAzdEZtNnVjYkZqQ1RsU2g3ZmlQdmFMZzlQZ1dqZ3FOaE1mQmJCMA?oc=5\" target=\"_blank\">\u2018This is Absurd\u2019: Top Investor Positively Bullish on Microsoft Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-04T14:34:04",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM2Zoa2lpSnZlMlYyNGFFRlV0R2NWTjVhQnV3UEFWOU93RFRFOEdHSU9BYXZ0NklDaWwzRTBPV3ROYV81bHRGTUJkSmJycHE2X0IzNVplQU9fTjVpY2s0R1NBUmlhT0tnZlYwSkFrMEk3Z1ZKMzAzdEZtNnVjYkZqQ1RsU2g3ZmlQdmFMZzlQZ1dqZ3FOaE1mQmJCMA?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Microsoft Corporation (MSFT)\u2019s Capital Expenditures Soar, Cloud Revenue Falls Short of Expectations, and Shares Plummet After Hours",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnF0MFdueThMQkZIM0pxZWRxVnczZ3FodXV2Sml6dUdwRGZjcTRDQm1YalhqQTJ1UWViT2Rtb0tnUzF4Y3UxRVlmaWZYM1YtNTBLLVVydExHMjh6a0haOEI4UmNHQ1FGdFQ2Q1BUdUJVZzh4LWJjUmlMRXkzeHppbjMtRXpkbjJkUW90NFRQZnJnQk1TWlVtNA?oc=5\" target=\"_blank\">Microsoft Corporation (MSFT)\u2019s Capital Expenditures Soar, Cloud Revenue Falls Short of Expectations, and Shares Plummet After Hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-02T14:05:55",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnF0MFdueThMQkZIM0pxZWRxVnczZ3FodXV2Sml6dUdwRGZjcTRDQm1YalhqQTJ1UWViT2Rtb0tnUzF4Y3UxRVlmaWZYM1YtNTBLLVVydExHMjh6a0haOEI4UmNHQ1FGdFQ2Q1BUdUJVZzh4LWJjUmlMRXkzeHppbjMtRXpkbjJkUW90NFRQZnJnQk1TWlVtNA?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2026: Where Will It Be in 1 Year",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPaW5jaWUybGhBcFNveGJNdFIzb0VqRWhDWWVDMFVnbS1HN1Z4d3VWd1pmSmh4dXNvY0xfTFZtWkdjcUpyemNjNnpySHpqclVaODdCSXM2SGo4c3JWVVhObnRDU3gxVy1rRVlGY1V1a19WeGZlWUhaTF9DQXlNYkhLQmtqWlpXQQ?oc=5\" target=\"_blank\">Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2026: Where Will It Be in 1 Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-29T12:30:04",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaW5jaWUybGhBcFNveGJNdFIzb0VqRWhDWWVDMFVnbS1HN1Z4d3VWd1pmSmh4dXNvY0xfTFZtWkdjcUpyemNjNnpySHpqclVaODdCSXM2SGo4c3JWVVhObnRDU3gxVy1rRVlGY1V1a19WeGZlWUhaTF9DQXlNYkhLQmtqWlpXQQ?oc=5"
+    },
+    {
+      "source": "MSN",
+      "headline": "2 monster stocks to hold for the next 20 years -- including Microsoft (MSFT) stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcFNYMnRtRzZyVlZhakhRaC1QZ0ZpNVdwNFJkeEpIdjcxTHg4aEZHYm5rR2VoNnVYNkxDX2N4M0s5clZBXzh6NFlSVHU0YmNCOUJJQnV3RURKWkc2X01Ud2JZSDlZQ3hOSTlPSGxMS2VFdkxwMzI2NUItNE9RMU00WWlRZ3hqNWVEQXJNQnFZN2RKUzROd01FT0kybE1GTFhlbS1XOFNweGx3bWhxSWVMMjFzUXYxY0RXWDVWZUJnWENUOFNWYWNqd0trRTBuVkdlcnE0dnEtTUtIM3RTcUFiRGVOVzB6cmItWWRjd0Z3?oc=5\" target=\"_blank\">2 monster stocks to hold for the next 20 years -- including Microsoft (MSFT) stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "date": "2026-02-01T19:15:00",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcFNYMnRtRzZyVlZhakhRaC1QZ0ZpNVdwNFJkeEpIdjcxTHg4aEZHYm5rR2VoNnVYNkxDX2N4M0s5clZBXzh6NFlSVHU0YmNCOUJJQnV3RURKWkc2X01Ud2JZSDlZQ3hOSTlPSGxMS2VFdkxwMzI2NUItNE9RMU00WWlRZ3hqNWVEQXJNQnFZN2RKUzROd01FT0kybE1GTFhlbS1XOFNweGx3bWhxSWVMMjFzUXYxY0RXWDVWZUJnWENUOFNWYWNqd0trRTBuVkdlcnE0dnEtTUtIM3RTcUFiRGVOVzB6cmItWWRjd0Z3?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "TD Cowen Sees Microsoft (MSFT) Shares Range-Bound Ahead of Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB3R1dncU1QWjdlVExDYmYyLUJIVFRMblZjclMwRWNUWkdKZ25uUUtnUFhzd1NZODQtSTItWnRyWFplNURQb2VNOTNHTldzaHVyX0FtMk5qTndfNWVOSmpTM3pXckFiUjdNcTlLNHpYQUZBel9kNDhmN3pTM0gzbDg?oc=5\" target=\"_blank\">TD Cowen Sees Microsoft (MSFT) Shares Range-Bound Ahead of Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-21T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3R1dncU1QWjdlVExDYmYyLUJIVFRMblZjclMwRWNUWkdKZ25uUUtnUFhzd1NZODQtSTItWnRyWFplNURQb2VNOTNHTldzaHVyX0FtMk5qTndfNWVOSmpTM3pXckFiUjdNcTlLNHpYQUZBel9kNDhmN3pTM0gzbDg?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "\u2018Down but Not Out\u2019: Morgan Stanley Sees 50% Upside for Microsoft Stock After Selloff",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHZDUGdGVkJuRkt6b25qTE0zRjFVSFotel8wZzhnX3lSVnQ3eml3alZfaFNjQXVpZFBnMTJZelJiWmt5cFpvWHdtQk9WcHVwVUJTaDZ2VGxrdTF2TUNVVTdNc3picVpVNnpHUnlEY0IxUnJLa20tVUZuY3N5dnAtWDY1TVpqQkp0di01NklGT05kNWc1d2NyQmdaZzhMRTJMZUJSeWpZOHBmMV9Td3M0?oc=5\" target=\"_blank\">\u2018Down but Not Out\u2019: Morgan Stanley Sees 50% Upside for Microsoft Stock After Selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-02T18:10:26",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHZDUGdGVkJuRkt6b25qTE0zRjFVSFotel8wZzhnX3lSVnQ3eml3alZfaFNjQXVpZFBnMTJZelJiWmt5cFpvWHdtQk9WcHVwVUJTaDZ2VGxrdTF2TUNVVTdNc3picVpVNnpHUnlEY0IxUnJLa20tVUZuY3N5dnAtWDY1TVpqQkp0di01NklGT05kNWc1d2NyQmdaZzhMRTJMZUJSeWpZOHBmMV9Td3M0?oc=5"
+    },
+    {
+      "source": "techi.com",
+      "headline": "Microsoft Stock Down 28%: Is MSFT a Buy After the Crash? | 2026 Analysis",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0hfbGZSQXpjNGczeDh1MS1RZVR6d1lvbUEwUm9VNjRyNl9NMThqTjgyQ0s4RWRFdWtuN1FWSW1tSTBZbFA2RTN3cFlONG9vZmplaEc2MVNTVXVDb0RDWXo2c05mYUNoMVFjZFJ3THNEMkd4M1dRYmZSRU1Cd3VtaWpLLU11NG1v?oc=5\" target=\"_blank\">Microsoft Stock Down 28%: Is MSFT a Buy After the Crash? | 2026 Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techi.com</font>",
+      "date": "2026-02-06T10:56:41",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0hfbGZSQXpjNGczeDh1MS1RZVR6d1lvbUEwUm9VNjRyNl9NMThqTjgyQ0s4RWRFdWtuN1FWSW1tSTBZbFA2RTN3cFlONG9vZmplaEc2MVNTVXVDb0RDWXo2c05mYUNoMVFjZFJ3THNEMkd4M1dRYmZSRU1Cd3VtaWpLLU11NG1v?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Octavia Wealth Advisors LLC Raises Stock Position in Microsoft Corporation $MSFT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmt6UkxZbkM2MWlYd3FWYXZUdmtjN2sxaXg1WDRaZGVPN2d5Zkt2OGVYNnlwQnNzVU5RVEI0ZHhkSmN2YXkyd2oxZWxJRy0xSkxpeGhkYlk4d1MxQXJzU3RzbnlPOF9uREF2VW85RGxWWTBXaFdwem5EMW1oSTFSV05admt4aWl1RjNmdExycXZOeHRiTHlVLVRZVHJTQUpqeWJ6eWt0b0tKMlk0eXRMcmcyc2dOVmRzZmROWWpINmNBYTRPWDFxMXZnVlEzdUYzUE1pYXl2MA?oc=5\" target=\"_blank\">Octavia Wealth Advisors LLC Raises Stock Position in Microsoft Corporation $MSFT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-06T08:15:12",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmt6UkxZbkM2MWlYd3FWYXZUdmtjN2sxaXg1WDRaZGVPN2d5Zkt2OGVYNnlwQnNzVU5RVEI0ZHhkSmN2YXkyd2oxZWxJRy0xSkxpeGhkYlk4d1MxQXJzU3RzbnlPOF9uREF2VW85RGxWWTBXaFdwem5EMW1oSTFSV05admt4aWl1RjNmdExycXZOeHRiTHlVLVRZVHJTQUpqeWJ6eWt0b0tKMlk0eXRMcmcyc2dOVmRzZmROWWpINmNBYTRPWDFxMXZnVlEzdUYzUE1pYXl2MA?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Here\u2019s What Hit Microsoft (MSFT) in Q4",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOXdhQW9jMmFPcExta3cyaXFEb0czZ2FSVkl4VzBRVmxpdGFqa2tsV1pDRUlBdUE4ZmZIVG5qLWxIdUZmSjUwZGk5ZmptZ2xkTTlUcW4zWXlIQzcxTkFCdTdwM1lyZ2dSUDNjbThQdVJYMVNjLUE?oc=5\" target=\"_blank\">Here\u2019s What Hit Microsoft (MSFT) in Q4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-14T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOXdhQW9jMmFPcExta3cyaXFEb0czZ2FSVkl4VzBRVmxpdGFqa2tsV1pDRUlBdUE4ZmZIVG5qLWxIdUZmSjUwZGk5ZmptZ2xkTTlUcW4zWXlIQzcxTkFCdTdwM1lyZ2dSUDNjbThQdVJYMVNjLUE?oc=5"
+    },
+    {
+      "source": "TIKR.com",
+      "headline": "Microsoft Stock Falls 6% as Record AI Spending Overshadows Earnings Beat",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPc01XQ0dId3FscEg1a0U0bjBnR2FBNU9lYlAxZ1VzaHdqcnhPUExKTjBSOEZkZVRleXFUbUpiSEh1WldOWDB0YmhKWk1zeHh0aC1yWDZhWWVIVHRuUDNDT1Y0VG5Tb0MxRHppLXZSSUQxN19pSkFDVUZlcHVsb0JpV0NiZ1RPU0xiOEJMNjBpbFpSbVQxTHRZ?oc=5\" target=\"_blank\">Microsoft Stock Falls 6% as Record AI Spending Overshadows Earnings Beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+      "date": "2026-01-29T10:04:44",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc01XQ0dId3FscEg1a0U0bjBnR2FBNU9lYlAxZ1VzaHdqcnhPUExKTjBSOEZkZVRleXFUbUpiSEh1WldOWDB0YmhKWk1zeHh0aC1yWDZhWWVIVHRuUDNDT1Y0VG5Tb0MxRHppLXZSSUQxN19pSkFDVUZlcHVsb0JpV0NiZ1RPU0xiOEJMNjBpbFpSbVQxTHRZ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Microsoft: Pullback Improves The Investment Case (Rating Upgrade) (NASDAQ:MSFT)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUdheWVrQ0RMY2tLQ29KUHQ2MGw4bktkV29hRVQ4a2FxRFJJQ1Z5MmluaEFQSVF5dVFjNkY1VzhFZUtrNjNvdHgwMlJYNmtKMW1lTjNNUC1FTmJWZ0RrZ0VqeGxnX0R5NDA0SU1Ib1VmdmdwdGFtNDhxUE9PVFhTelNHTThkTVFsOWN6dWI5bXJZeFllZ0VhR1RDV1VRdWw5YXo3alJn?oc=5\" target=\"_blank\">Microsoft: Pullback Improves The Investment Case (Rating Upgrade) (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-03T23:43:19",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUdheWVrQ0RMY2tLQ29KUHQ2MGw4bktkV29hRVQ4a2FxRFJJQ1Z5MmluaEFQSVF5dVFjNkY1VzhFZUtrNjNvdHgwMlJYNmtKMW1lTjNNUC1FTmJWZ0RrZ0VqeGxnX0R5NDA0SU1Ib1VmdmdwdGFtNDhxUE9PVFhTelNHTThkTVFsOWN6dWI5bXJZeFllZ0VhR1RDV1VRdWw5YXo3alJn?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Microsoft Stock (MSFT) Slides despite Joining UK Deepfake Detection Push",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzYyanJxQkJ1dWxNb0lKVDkzdXp4UWRwS0steW1qX0ZkRk5kbWs1ZUN6R3I1c0c1bmpYdFZXckNqTlJRdXhhd09YSUJtandNUExPa0ZEaG9iVlBYTUJOamotTmgweFpHTWpDMTB4OWZoYm55OFdPSlAyM0NJRmxMTkREWWc0aEdGemZTVWpJc3EtMllYdmpuN1RmZ2lIUXZoM1E?oc=5\" target=\"_blank\">Microsoft Stock (MSFT) Slides despite Joining UK Deepfake Detection Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T13:40:16",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRzYyanJxQkJ1dWxNb0lKVDkzdXp4UWRwS0steW1qX0ZkRk5kbWs1ZUN6R3I1c0c1bmpYdFZXckNqTlJRdXhhd09YSUJtandNUExPa0ZEaG9iVlBYTUJOamotTmgweFpHTWpDMTB4OWZoYm55OFdPSlAyM0NJRmxMTkREWWc0aEdGemZTVWpJc3EtMllYdmpuN1RmZ2lIUXZoM1E?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Microsoft (NASDAQ:MSFT) Shares Acquired Rep. David Taylor",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE5pN3AybTR1cGNfV2RoQlVUT3FyVDFJUkhWbTRjNTA1NzNqNW5Wdmdrc25yc1UzeGVNSDEyNGJNUDl5ck00ZmF3ZzgxSU53bF8yamFxcUowX0hEYUVJUXdpck1EaGV6UExWMnF0Z1hKdkNObi1YMlJ3VWJMV0p3c3pxb292Wlpia29ObTBrVGEyNGtEdVkxT2c1NVROR2Y2TG5FX01hcTF3THc?oc=5\" target=\"_blank\">Microsoft (NASDAQ:MSFT) Shares Acquired Rep. David Taylor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-04T07:08:15",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE5pN3AybTR1cGNfV2RoQlVUT3FyVDFJUkhWbTRjNTA1NzNqNW5Wdmdrc25yc1UzeGVNSDEyNGJNUDl5ck00ZmF3ZzgxSU53bF8yamFxcUowX0hEYUVJUXdpck1EaGV6UExWMnF0Z1hKdkNObi1YMlJ3VWJMV0p3c3pxb292Wlpia29ObTBrVGEyNGtEdVkxT2c1NVROR2Y2TG5FX01hcTF3THc?oc=5"
+    },
+    {
+      "source": "Investor's Business Daily",
+      "headline": "Microsoft Beats December-Quarter Targets, But Stock Falls Late",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDlXVXBQMU02bHFXZXk4cHYwQWcySXhMVm5RZ0lkR0R5V3R5cnU4a08tdFhtUWJuYk52X3FTTXVDa0RNckU3emlHdEljaVNHNVVLakdObll3cjdTek9DUW91QXZ3MjQzZ1ltUThkVU8wbmpoWjZEZmxEUHBGMC1hQmdMMTlwS3AzMHpLbTlVc3Y?oc=5\" target=\"_blank\">Microsoft Beats December-Quarter Targets, But Stock Falls Late</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "date": "2026-01-28T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDlXVXBQMU02bHFXZXk4cHYwQWcySXhMVm5RZ0lkR0R5V3R5cnU4a08tdFhtUWJuYk52X3FTTXVDa0RNckU3emlHdEljaVNHNVVLakdObll3cjdTek9DUW91QXZ3MjQzZ1ltUThkVU8wbmpoWjZEZmxEUHBGMC1hQmdMMTlwS3AzMHpLbTlVc3Y?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Microsoft (MSFT) Traded Lower as Its Reported Azure Cloud Growth and Forward Guidance Fell Short of Expectations",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMU9aa25yNGNNUEJITXZwWVV6RFNXZy11dFNJT05KUTVkeEFXanpaLWx6Mzd2ekFCbXpkQktnWWhpVnI4N2d3S1ZkejV3by11RlJ6WkkxRDJ1VUkyRldjRDZSNnBham45UWRIcjJCckZ0NndQaGNlQXhrVnkwQm51YUlSNG5tZGcyWHc?oc=5\" target=\"_blank\">Microsoft (MSFT) Traded Lower as Its Reported Azure Cloud Growth and Forward Guidance Fell Short of Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-20T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMU9aa25yNGNNUEJITXZwWVV6RFNXZy11dFNJT05KUTVkeEFXanpaLWx6Mzd2ekFCbXpkQktnWWhpVnI4N2d3S1ZkejV3by11RlJ6WkkxRDJ1VUkyRldjRDZSNnBham45UWRIcjJCckZ0NndQaGNlQXhrVnkwQm51YUlSNG5tZGcyWHc?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Here's Why Microsoft (MSFT) Fell More Than Broader Market",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzBwWlA3a25qWmhaTGsxQkVVaEI2VFMySi1PMTB6TlBZdWVsTXBZUDdLV0R5LVNwUEYycVZnTnAtR3E2cFdkNFVvSnQ5SGpvVlBsVURhMGY5c3JwSHRNU2I1NmNzTk53M1A0Z2ZoQUVidS1jNUlmVm5XeFgwY1dJTw?oc=5\" target=\"_blank\">Here's Why Microsoft (MSFT) Fell More Than Broader Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-14T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzBwWlA3a25qWmhaTGsxQkVVaEI2VFMySi1PMTB6TlBZdWVsTXBZUDdLV0R5LVNwUEYycVZnTnAtR3E2cFdkNFVvSnQ5SGpvVlBsVURhMGY5c3JwSHRNU2I1NmNzTk53M1A0Z2ZoQUVidS1jNUlmVm5XeFgwY1dJTw?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Down 5.6% in 4 Weeks, Here's Why Microsoft (MSFT) Looks Ripe for a Turnaround",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9SRzFVM3BUMDZQMi1GUkxYQ0ppRVVHVUtXazExUjZ3enhCc3U1R0YzQ0p6d1JSQjI5cHFoMW5VbVdtLVlDWk1zY1M4RGM0QUNXTjZLSmtwYmFYei0ta0k4MktXVWtUUzM5UHdsVlhjdw?oc=5\" target=\"_blank\">Down 5.6% in 4 Weeks, Here's Why Microsoft (MSFT) Looks Ripe for a Turnaround</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-16T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SRzFVM3BUMDZQMi1GUkxYQ0ppRVVHVUtXazExUjZ3enhCc3U1R0YzQ0p6d1JSQjI5cHFoMW5VbVdtLVlDWk1zY1M4RGM0QUNXTjZLSmtwYmFYei0ta0k4MktXVWtUUzM5UHdsVlhjdw?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2026: Where Will It Be in 1 Year",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkxzcmpHVzVTWjVLMzVUTE5sS2lnLWJNOXBwMkFJdjdMMXYtV3cyTjdhSDdVb3Y5M2ZVcnprVUlNSEQ1SEJSQjF0NlNScFNfNGdNNEJQc2oxc2ROT3RaNURQSFNfS084dXlVcmdOcWtRX3BDRVY0Vi1wODRtdmNISGtObWU2a3ppRmF4c2Y2anFkaDdUcG10c1gya1VjRDRmWlZuMlNuaUxxbVF4NUk2MG9nT3Z4WGhBQzJIdVhaVjZSQQ?oc=5\" target=\"_blank\">Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2026: Where Will It Be in 1 Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-01-29T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkxzcmpHVzVTWjVLMzVUTE5sS2lnLWJNOXBwMkFJdjdMMXYtV3cyTjdhSDdVb3Y5M2ZVcnprVUlNSEQ1SEJSQjF0NlNScFNfNGdNNEJQc2oxc2ROT3RaNURQSFNfS084dXlVcmdOcWtRX3BDRVY0Vi1wODRtdmNISGtObWU2a3ppRmF4c2Y2anFkaDdUcG10c1gya1VjRDRmWlZuMlNuaUxxbVF4NUk2MG9nT3Z4WGhBQzJIdVhaVjZSQQ?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "Yacktman Asset Management LP trims Microsoft stake significantly",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVRQZ2FVSVh3dXBYdkpReDZyVlRISE5iNzF3TUZSbi1fa1g0RmRUc3lJWEJRUmFYZUgzSnhVQWw0OFJ2cnQ2NWdlcFl6QlJVYWNUQmZRSmdnbl8wODI5Z3NCeUhKcjZQMVB3YndmZWhHcUN1UTJPbFNTWlltR0c0MzdZU2FhaFdiNFBha0Qzb1F6ZHdwTGROSVB5bmdpOWZXZ3VLM1phbGJjM1BtdmpDdm5CVkdXYXY3Ymd6OVNsNkN0X3BqSnV0MGlEWWRSVl83MDgybHQzSWh1MkJEM0dpVg?oc=5\" target=\"_blank\">Yacktman Asset Management LP trims Microsoft stake significantly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-02-06T03:06:46",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVRQZ2FVSVh3dXBYdkpReDZyVlRISE5iNzF3TUZSbi1fa1g0RmRUc3lJWEJRUmFYZUgzSnhVQWw0OFJ2cnQ2NWdlcFl6QlJVYWNUQmZRSmdnbl8wODI5Z3NCeUhKcjZQMVB3YndmZWhHcUN1UTJPbFNTWlltR0c0MzdZU2FhaFdiNFBha0Qzb1F6ZHdwTGROSVB5bmdpOWZXZ3VLM1phbGJjM1BtdmpDdm5CVkdXYXY3Ymd6OVNsNkN0X3BqSnV0MGlEWWRSVl83MDgybHQzSWh1MkJEM0dpVg?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Here's How Much Traders Expect Microsoft Stock to Move After Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTFOQlI3SGpaV3BrYUlXbFR2Y05ic0ZPVk1peU8zMDRUYlFFQXhzRWxXTy1jeGRDSUstS3NUUUNpLUNROVY2cFBEbkxpYTNTeFJnWEZUclpKVENnQ1h3SGNKRWRaa21qTEJLb2k1clM5NVVaNXJIbVNoLUdkaTl6YTdjRi14SXNBbXJvU2t4eDAtUDliRHNEN3hOYVFMNlpaRjAwR3BBNzdyb2JtT2NFWlFaVQ?oc=5\" target=\"_blank\">Here's How Much Traders Expect Microsoft Stock to Move After Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-01-27T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTFOQlI3SGpaV3BrYUlXbFR2Y05ic0ZPVk1peU8zMDRUYlFFQXhzRWxXTy1jeGRDSUstS3NUUUNpLUNROVY2cFBEbkxpYTNTeFJnWEZUclpKVENnQ1h3SGNKRWRaa21qTEJLb2k1clM5NVVaNXJIbVNoLUdkaTl6YTdjRi14SXNBbXJvU2t4eDAtUDliRHNEN3hOYVFMNlpaRjAwR3BBNzdyb2JtT2NFWlFaVQ?oc=5"
+    },
+    {
+      "source": "MSN",
+      "headline": "Microsoft (MSFT) maintains strong AI positioning amid hyperscaler focus",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGtZOGduT2xmT3Z5SFMzTUV2OXc1WlN0MTZNR0xRSi1aVmcteUxtNmVmbEJfWHBTTHRyM3pneTVqMU5Fam5DSm4tN05xcm1TeHk0NVRJSUpOaDJXUkg3cUFaZERwU2pnYm9iU1RrYzVmZFFETjNWcHlKcHlPX1ZwRnJlZlZPMTRzZnpYMjRMVkZkc2VWOEtjSzNPQ2dZNDFLU1VCMmxSUk1DSTE5WkpiMmRSVUJZdmpBSHdxbS1iUW5kTDVQOFQ0VkNQckZjVmQ0TWJ5YUFGV0pqaEo5dUJVTzlWdw?oc=5\" target=\"_blank\">Microsoft (MSFT) maintains strong AI positioning amid hyperscaler focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "date": "2026-02-05T07:21:56",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGtZOGduT2xmT3Z5SFMzTUV2OXc1WlN0MTZNR0xRSi1aVmcteUxtNmVmbEJfWHBTTHRyM3pneTVqMU5Fam5DSm4tN05xcm1TeHk0NVRJSUpOaDJXUkg3cUFaZERwU2pnYm9iU1RrYzVmZFFETjNWcHlKcHlPX1ZwRnJlZlZPMTRzZnpYMjRMVkZkc2VWOEtjSzNPQ2dZNDFLU1VCMmxSUk1DSTE5WkpiMmRSVUJZdmpBSHdxbS1iUW5kTDVQOFQ0VkNQckZjVmQ0TWJ5YUFGV0pqaEo5dUJVTzlWdw?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Microsoft Stock (MSFT) in Focus as Company Shakes Up Cybersecurity Team",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObDBEN1NNaXRhVnZYTDEybkRRQXcxSkJzbzZKdnFJY1JNTnd2NHhTWWFYMm5yQVpta2wyZ3JDM0pMZzBwbnYyWVJoem1iLXNwemdlaU1qWWNweXV5akdaeTdFZVl5RlVjOUQ4bzZsTVRoanphTnNGMzVYWHRCQTdWbmRtMVdLR0JiakVTUV9Kd2lwRGhCbUwzdzFiSlJUX3Vm?oc=5\" target=\"_blank\">Microsoft Stock (MSFT) in Focus as Company Shakes Up Cybersecurity Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-04T19:24:55",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObDBEN1NNaXRhVnZYTDEybkRRQXcxSkJzbzZKdnFJY1JNTnd2NHhTWWFYMm5yQVpta2wyZ3JDM0pMZzBwbnYyWVJoem1iLXNwemdlaU1qWWNweXV5akdaeTdFZVl5RlVjOUQ4bzZsTVRoanphTnNGMzVYWHRCQTdWbmRtMVdLR0JiakVTUV9Kd2lwRGhCbUwzdzFiSlJUX3Vm?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Is It Time to Buy Microsoft Stock as Its Backlog Soars?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2R2SUxEZUZITHFJckJzMzBXNzRaU3oxcWtlalNCVnFwU2hSNGRwVGZIakU2eXpBck5wYUIyMEpuazJMNG9hTmlhMW5mNEY1QkM2anlwNUUzbEU3eW9RQ3V1bV9LNHAyOEZjd09zNm9LWXRwb3RzZXlNRGJJRG10STlvZW5zMm1kS1RVY2pKVFNwV3pYSDhKdQ?oc=5\" target=\"_blank\">Is It Time to Buy Microsoft Stock as Its Backlog Soars?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-01-29T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2R2SUxEZUZITHFJckJzMzBXNzRaU3oxcWtlalNCVnFwU2hSNGRwVGZIakU2eXpBck5wYUIyMEpuazJMNG9hTmlhMW5mNEY1QkM2anlwNUUzbEU3eW9RQ3V1bV9LNHAyOEZjd09zNm9LWXRwb3RzZXlNRGJJRG10STlvZW5zMm1kS1RVY2pKVFNwV3pYSDhKdQ?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Should You Buy Microsoft Stock Before Jan. 28?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBlZjVVTV9BdWNYOGpxMTJlRFhCZlV3bXNHN2NCYTNSaW9aWmdmTEdTMHQwdnAwXy0wSUVSRC1WQ3hUUFFQVURPalFBTnBGNHBpREJ5LTljSzdxT0wtRVBCR3pqRDNEejhfaU1WN3d6eVc2ZWVFd0ZyLUExVVRjNmRyOS05eElLbEJWZVl4MGJrVl9iMFE?oc=5\" target=\"_blank\">Should You Buy Microsoft Stock Before Jan. 28?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-01-25T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBlZjVVTV9BdWNYOGpxMTJlRFhCZlV3bXNHN2NCYTNSaW9aWmdmTEdTMHQwdnAwXy0wSUVSRC1WQ3hUUFFQVURPalFBTnBGNHBpREJ5LTljSzdxT0wtRVBCR3pqRDNEejhfaU1WN3d6eVc2ZWVFd0ZyLUExVVRjNmRyOS05eElLbEJWZVl4MGJrVl9iMFE?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Microsoft Stock Forecast: Trending Mixed Signals From Analysts",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2k2a2R5ZUl4dXBWbmtKTEh6Q1htaVNEOTEyVW1ZMWNXc1Y3WktoNWZXWElfNEw0dlJXZ18zZ2Nma3Z4UTU0WGc0ZGNiblJUcnJnT0FNRjdYWEU1OGhMalNpdlNSaDZjdlZORHJnZEtRb0s5V1B0enZGUUNGM2FnMTItMkx5RnV0ODgxUTJFd2RkMEVmWURoQlUwN2FYdlJoeG1PTE5odXB1WGRyclVaVGxBYw?oc=5\" target=\"_blank\">Microsoft Stock Forecast: Trending Mixed Signals From Analysts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T14:04:48",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2k2a2R5ZUl4dXBWbmtKTEh6Q1htaVNEOTEyVW1ZMWNXc1Y3WktoNWZXWElfNEw0dlJXZ18zZ2Nma3Z4UTU0WGc0ZGNiblJUcnJnT0FNRjdYWEU1OGhMalNpdlNSaDZjdlZORHJnZEtRb0s5V1B0enZGUUNGM2FnMTItMkx5RnV0ODgxUTJFd2RkMEVmWURoQlUwN2FYdlJoeG1PTE5odXB1WGRyclVaVGxBYw?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Microsoft Corporation $MSFT Shares Bought by Cullinan Associates Inc.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQVI1X3h1cWdGSlF6Z0FvR2RJSHRKZ2c5dkpUdmZoT2hnRUE4VFhPTkQzbG5LM29veDVkazF3aVRzb2hZUnUtYTlEa21xbUcxY0x6U2JGLVI5V2EwZy0yNUlTVlh4MFhJMlZXQ0JNSm9ZRVhVOUJyWjA2amtqQzd1SUZ2R2Z1NFp6VFNOQlBHRTJrLWNOQl8xQ0dwWmtUZ196bEd5Q25ZZnhDNUZhM3Nwa3RVVktmR0VlbF84em9UWUFiTmFCZW5R?oc=5\" target=\"_blank\">Microsoft Corporation $MSFT Shares Bought by Cullinan Associates Inc.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-05T08:27:55",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQVI1X3h1cWdGSlF6Z0FvR2RJSHRKZ2c5dkpUdmZoT2hnRUE4VFhPTkQzbG5LM29veDVkazF3aVRzb2hZUnUtYTlEa21xbUcxY0x6U2JGLVI5V2EwZy0yNUlTVlh4MFhJMlZXQ0JNSm9ZRVhVOUJyWjA2amtqQzd1SUZ2R2Z1NFp6VFNOQlBHRTJrLWNOQl8xQ0dwWmtUZ196bEd5Q25ZZnhDNUZhM3Nwa3RVVktmR0VlbF84em9UWUFiTmFCZW5R?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Meta Beats Microsoft At AI Monetization - Here\u2019s Why (NASDAQ:MSFT)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDBJTi1GVjJxWHlMdkM0TzhzdDhfcHBtazEzWW5UdGJpMmZ2ZmxLcU1CUWQ4ZUZTblViZHF1bXY2d3ExMXhsSTZhNEIxMEJaTkhiOEdsUEZlWmU4aEFnek0teEVtQVdVVUFxOTBod2I1Z2s5TlJhNmItYURwaHBhZDBnbi1pZElJYl9VTlp2T3Q4Znoz?oc=5\" target=\"_blank\">Meta Beats Microsoft At AI Monetization - Here\u2019s Why (NASDAQ:MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-04T19:09:38",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDBJTi1GVjJxWHlMdkM0TzhzdDhfcHBtazEzWW5UdGJpMmZ2ZmxLcU1CUWQ4ZUZTblViZHF1bXY2d3ExMXhsSTZhNEIxMEJaTkhiOEdsUEZlWmU4aEFnek0teEVtQVdVVUFxOTBod2I1Z2s5TlJhNmItYURwaHBhZDBnbi1pZElJYl9VTlp2T3Q4Znoz?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Strong Analyst Sentiment on Microsoft (MSFT) Despite Price Target Cuts and Heavy AI Spend",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWJnZkRSekVSUUVFTnlGbzhnUGZmUWhnTU9mTGRXQnJtajh3bjhOSDREYnRmUEczcUxNYnVaQkhHVWF5ekFSRS02cDJ5amJxNkNKSV9rSzVzVWt0VW5EZWpVSzBCcVZLemV4ckZkN3hEcjczQ3NnVVp3RVNqZHM3WGFTMGEweGI2RkxEX1p3?oc=5\" target=\"_blank\">Strong Analyst Sentiment on Microsoft (MSFT) Despite Price Target Cuts and Heavy AI Spend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-18T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWJnZkRSekVSUUVFTnlGbzhnUGZmUWhnTU9mTGRXQnJtajh3bjhOSDREYnRmUEczcUxNYnVaQkhHVWF5ekFSRS02cDJ5amJxNkNKSV9rSzVzVWt0VW5EZWpVSzBCcVZLemV4ckZkN3hEcjczQ3NnVVp3RVNqZHM3WGFTMGEweGI2RkxEX1p3?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Hoertkorn Richard Charles Decreases Stock Position in Microsoft Corporation $MSFT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZEx4TmtjaHpPdEJzbktGYnJVeG5tSFhnY2pKWmdkTldqS0YwM00tYzN5ZG95b1JwYjlJS0ZhVnNyMzEwVUs2Sjg0cXIxbEFtUVNGUUxBeEhDVzBXbE84TTlJYm91TnVTeWVkUFdodTg2c3BLV2cxVVBhaTZpcWU0djZkQlZoaTdTM1dEOTFYUk9ZNVQ2QndtTExucC1lZTgxbEhBNko5LU1pSmNkaVlXLWp2UldJOFpzTjRRU01EOGh3MzhvY0V3Vnc3MmdVZ2JvR3pHYW9sYkw?oc=5\" target=\"_blank\">Hoertkorn Richard Charles Decreases Stock Position in Microsoft Corporation $MSFT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-05T08:27:24",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZEx4TmtjaHpPdEJzbktGYnJVeG5tSFhnY2pKWmdkTldqS0YwM00tYzN5ZG95b1JwYjlJS0ZhVnNyMzEwVUs2Sjg0cXIxbEFtUVNGUUxBeEhDVzBXbE84TTlJYm91TnVTeWVkUFdodTg2c3BLV2cxVVBhaTZpcWU0djZkQlZoaTdTM1dEOTFYUk9ZNVQ2QndtTExucC1lZTgxbEhBNko5LU1pSmNkaVlXLWp2UldJOFpzTjRRU01EOGh3MzhvY0V3Vnc3MmdVZ2JvR3pHYW9sYkw?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Microsoft Corporation $MSFT Shares Bought by Global Wealth Management Investment Advisory Inc.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOajh3cm5Ibl9kNEQ2UG91NTdEdjQ2TDM0cVp5dUlFQWZUZkI0RHIyTlB2eU5JR1NqMmJBQ0pVdUQxYjlpTjJzODdwbnRVVDRCUDlHcWRmcnV6QlE4cWgwWGgzYTlQQ2hib0JXQmQxajI4ZVpzSHA1UU5oOGFsS0ZHcWx4cEJvcExJY093QmtFblZjRzhVcnpxeUk1cW8yREZQR2ZtZHNoUHdRQWhGLWFkck82RWNGTFNwVmJjOEtxX0wzSV8yMW9WNmNBUDVVdFhTVmg5LWJmV2swX0o4bE1qMUR3bmNXcjVV?oc=5\" target=\"_blank\">Microsoft Corporation $MSFT Shares Bought by Global Wealth Management Investment Advisory Inc.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-05T08:27:30",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOajh3cm5Ibl9kNEQ2UG91NTdEdjQ2TDM0cVp5dUlFQWZUZkI0RHIyTlB2eU5JR1NqMmJBQ0pVdUQxYjlpTjJzODdwbnRVVDRCUDlHcWRmcnV6QlE4cWgwWGgzYTlQQ2hib0JXQmQxajI4ZVpzSHA1UU5oOGFsS0ZHcWx4cEJvcExJY093QmtFblZjRzhVcnpxeUk1cW8yREZQR2ZtZHNoUHdRQWhGLWFkck82RWNGTFNwVmJjOEtxX0wzSV8yMW9WNmNBUDVVdFhTVmg5LWJmV2swX0o4bE1qMUR3bmNXcjVV?oc=5"
+    },
+    {
+      "source": "Nasdaq",
+      "headline": "Microsoft (MSFT) Stock Moves -1.10%: What You Should Know",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHlCb0F4ZWx6YzZCRk5tTW5iNzFNNVE3VmJISExPSHJQamlSeE5KUF9kUGVpcXc1QlFSdlZVZktrTVZyUHVDWDVCMWYyWGlTQzByT1JfTDkwVzhHaE01d0Y5SjNUcDJWZjJNaDVwMEJkeFhSV0tQU0FjQlNxZkFnb0NERkZIdVJTTGhR?oc=5\" target=\"_blank\">Microsoft (MSFT) Stock Moves -1.10%: What You Should Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "date": "2026-01-20T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHlCb0F4ZWx6YzZCRk5tTW5iNzFNNVE3VmJISExPSHJQamlSeE5KUF9kUGVpcXc1QlFSdlZVZktrTVZyUHVDWDVCMWYyWGlTQzByT1JfTDkwVzhHaE01d0Y5SjNUcDJWZjJNaDVwMEJkeFhSV0tQU0FjQlNxZkFnb0NERkZIdVJTTGhR?oc=5"
+    },
+    {
+      "source": "Finviz",
+      "headline": "Microsoft (MSFT) Maintains Strong AI Positioning Amid Hyperscaler Focus",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmJaaTlSRGlhSjRlNTh6TG5wbE80Wlc0c0RwQjl1QXdNQlphQ0h3cjlxNTNHSVR6YlFRZmVGTEQ0enNSU21YZmcydXlRa3RsR21OWHNUMENwVVA2c1ByX3l4MmZKOFk2SmZXUjV1V3M0aXNmZE1TRjRqSmdpN3Y3dEFmbklNNFNXb2dtNThmTTZRNGF5cmV5NDQ2eUktMEY4akE?oc=5\" target=\"_blank\">Microsoft (MSFT) Maintains Strong AI Positioning Amid Hyperscaler Focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
+      "date": "2026-02-05T07:13:58",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdmJaaTlSRGlhSjRlNTh6TG5wbE80Wlc0c0RwQjl1QXdNQlphQ0h3cjlxNTNHSVR6YlFRZmVGTEQ0enNSU21YZmcydXlRa3RsR21OWHNUMENwVVA2c1ByX3l4MmZKOFk2SmZXUjV1V3M0aXNmZE1TRjRqSmdpN3Y3dEFmbklNNFNXb2dtNThmTTZRNGF5cmV5NDQ2eUktMEY4akE?oc=5"
+    },
+    {
+      "source": "Investor's Business Daily",
+      "headline": "Microsoft Retakes Key Level Amid New AI Chip Launch, With Earnings On Tap. Is Microsoft A Buy Now?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1sTHBOTWE4VEpfLUl1dnc4MUREQXZZOXJlVGRIa1RqTHRNXzZLRzFNUWRxc2hYSzhSRThrZ2EweHFYalpwVGRrREo3d2J5Q1NhX1VFZE1zNnFzc0N4ZDUzX1dNMGk1cV9uNTdkUXZfU0JSS2hEYUFMa1VSVDBzdw?oc=5\" target=\"_blank\">Microsoft Retakes Key Level Amid New AI Chip Launch, With Earnings On Tap. Is Microsoft A Buy Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "date": "2026-01-27T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sTHBOTWE4VEpfLUl1dnc4MUREQXZZOXJlVGRIa1RqTHRNXzZLRzFNUWRxc2hYSzhSRThrZ2EweHFYalpwVGRrREo3d2J5Q1NhX1VFZE1zNnFzc0N4ZDUzX1dNMGk1cV9uNTdkUXZfU0JSS2hEYUFMa1VSVDBzdw?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Microsoft stock price slips early: MSFT hit by Azure glitches as OpenAI spreads across clouds",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQX29LdG0wUUxjWnExRzNaWE9hclVOMnBNVUJzbzc3UXg3UFU3dHhGUzg4WkdyNUFfb1FBNmNTX3hJQTVlSGVjWFhrajF1S3RLU3FkTjVmemdjY3ZFb3JEVURLaG9ibnR6QWpCNnNTYTZ6b28zUHRvTGgtZl9SV2Q4SEhETUlFcDIyQUxqMkU2U2ZmTHpyc2d0TXlta3ZzdncyQnl3Nm01MGNJb3NPZVktVWI4Zw?oc=5\" target=\"_blank\">Microsoft stock price slips early: MSFT hit by Azure glitches as OpenAI spreads across clouds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-03T14:34:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX29LdG0wUUxjWnExRzNaWE9hclVOMnBNVUJzbzc3UXg3UFU3dHhGUzg4WkdyNUFfb1FBNmNTX3hJQTVlSGVjWFhrajF1S3RLU3FkTjVmemdjY3ZFb3JEVURLaG9ibnR6QWpCNnNTYTZ6b28zUHRvTGgtZl9SV2Q4SEhETUlFcDIyQUxqMkU2U2ZmTHpyc2d0TXlta3ZzdncyQnl3Nm01MGNJb3NPZVktVWI4Zw?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Two Top AI Models Split on Microsoft Stock\u2019s (MSFT) Near-Term Risks after Q2 Results",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1hXeXQ2MVlTcWxVaFFtSG5VRW5jTU9VM2Z0ZFZhdEpWNGZqc2s0WWJ0UU91ZUdHU0xRb3NfZHVjSDdLVnBHWlo5Y3FQazVOQXBGYlIxQlpBdkJHMUpiMmd5TkxGRGNYYjNRLTk2U3hNUkhzb0ZYMUJVb0pzbFVNd0tRSVdkblkzZXFuWjZTNmZWOE5XSjlyeFBtcEdlbnRpQTJzY0J4WGtlTVJ3Q08yLQ?oc=5\" target=\"_blank\">Two Top AI Models Split on Microsoft Stock\u2019s (MSFT) Near-Term Risks after Q2 Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T07:45:43",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS1hXeXQ2MVlTcWxVaFFtSG5VRW5jTU9VM2Z0ZFZhdEpWNGZqc2s0WWJ0UU91ZUdHU0xRb3NfZHVjSDdLVnBHWlo5Y3FQazVOQXBGYlIxQlpBdkJHMUpiMmd5TkxGRGNYYjNRLTk2U3hNUkhzb0ZYMUJVb0pzbFVNd0tRSVdkblkzZXFuWjZTNmZWOE5XSjlyeFBtcEdlbnRpQTJzY0J4WGtlTVJ3Q08yLQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Stephens Inc. AR Buys 11,532 Shares of Microsoft Corporation $MSFT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUwtN1Bud1JTS1l0ajZXZ2lycnJrME1OSFJuOGR4Q1ItSEpDSWFtSG1SOVpBUTJ0bGkyRmlIMGNKeWxpRDZUZDB0ektvYmZ4RGMyYzVFUUpkZ2R1dS12RWVfbWRvSFlULWNzbkdQR3lkaFQ5TzFqWEh3amdFVWVINkUwRjdQaXhOZ2pkTGNqSWl2Uy10SGpJVmxQWk1PajZHYTB5eGZsbjQzNTFyNnJCNXYwcUQ5VVBsd2VvRG1MMjV5dw?oc=5\" target=\"_blank\">Stephens Inc. AR Buys 11,532 Shares of Microsoft Corporation $MSFT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-05T09:26:35",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUwtN1Bud1JTS1l0ajZXZ2lycnJrME1OSFJuOGR4Q1ItSEpDSWFtSG1SOVpBUTJ0bGkyRmlIMGNKeWxpRDZUZDB0ektvYmZ4RGMyYzVFUUpkZ2R1dS12RWVfbWRvSFlULWNzbkdQR3lkaFQ5TzFqWEh3amdFVWVINkUwRjdQaXhOZ2pkTGNqSWl2Uy10SGpJVmxQWk1PajZHYTB5eGZsbjQzNTFyNnJCNXYwcUQ5VVBsd2VvRG1MMjV5dw?oc=5"
+    },
+    {
+      "source": "MSN",
+      "headline": "Microsoft (MSFT) highlights its growing AI capabilities in cloud services with Maia chip launch",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmFLbEt5Zm9BbW1JQmtELTZqdDh5YUM3YklfZ1NzYkpLaHg3MlJ2aVZ1Snh4c2Nqc2x0Ykt0bExxS0ZrbWhhcTRibUlTZFlEX25UajhWc2p1VVd3Q2JWcGJfQ1YxZHlXdlN1MENHa3NRUmN2VE9yWmtoc3E5V1h3OWdjeUc2cWdlZDFMM0QzQnVtODB0eWRMMW1FclJBc0laQUFad2wwdDZTbFlMVWZZSWFadGllMUw4ZmZrTzdRemp4Wm85UWpLWWp1M0F1S0VScDZzWnBlQnh5MmM?oc=5\" target=\"_blank\">Microsoft (MSFT) highlights its growing AI capabilities in cloud services with Maia chip launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "date": "2026-02-03T06:16:19",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmFLbEt5Zm9BbW1JQmtELTZqdDh5YUM3YklfZ1NzYkpLaHg3MlJ2aVZ1Snh4c2Nqc2x0Ykt0bExxS0ZrbWhhcTRibUlTZFlEX25UajhWc2p1VVd3Q2JWcGJfQ1YxZHlXdlN1MENHa3NRUmN2VE9yWmtoc3E5V1h3OWdjeUc2cWdlZDFMM0QzQnVtODB0eWRMMW1FclJBc0laQUFad2wwdDZTbFlMVWZZSWFadGllMUw4ZmZrTzdRemp4Wm85UWpLWWp1M0F1S0VScDZzWnBlQnh5MmM?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "\u201c\u2026Best Pure-Play on AI Adoption Today,\u201d Microsoft Stock (NASDAQ:MSFT) Plunges Despite Piper Sandler Plaudit",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlpsVGRWVWYzbG5vQXJ6cEdXa1cyRmlrN3VLdnNPTXMzMUZlQW00dk5OMmxzZFFWN2lJSmNHZlo4Nk5XY1BtVkdybTJwdDNZdzhtQk53RHN0eEJGVzE1cXFuaXRXQjRvWTA1el8zTVBKOHl0VkhkOV9ycEJkUDVpOEJZd3Ewd2F6cFhwNUcxbkdJZWZCaEZtaXRoVDhXSlBjckJweDMzWWFKVTF5ZjlQZm8wVlFpWUJ0cFRlczNENm9lMXdHMUxZdmJB?oc=5\" target=\"_blank\">\u201c\u2026Best Pure-Play on AI Adoption Today,\u201d Microsoft Stock (NASDAQ:MSFT) Plunges Despite Piper Sandler Plaudit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-03T18:39:21",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlpsVGRWVWYzbG5vQXJ6cEdXa1cyRmlrN3VLdnNPTXMzMUZlQW00dk5OMmxzZFFWN2lJSmNHZlo4Nk5XY1BtVkdybTJwdDNZdzhtQk53RHN0eEJGVzE1cXFuaXRXQjRvWTA1el8zTVBKOHl0VkhkOV9ycEJkUDVpOEJZd3Ewd2F6cFhwNUcxbkdJZWZCaEZtaXRoVDhXSlBjckJweDMzWWFKVTF5ZjlQZm8wVlFpWUJ0cFRlczNENm9lMXdHMUxZdmJB?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Microsoft Corporation $MSFT Stock Position Boosted by Schmidt P J Investment Management Inc.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaDRBZ2M0SmoyM2RjSVdIZHlQTjE2LWNndHF2U3pvSk13NndfSHJuWHdncE9rVE5RNDlEelpjTzA2dEhjNE5ma1hDSjJJZW9rSTFqRHFVZnVTOGswNXlLcFpUTmdKUVhibXJTRlQzdnptdFNVcEpoMXl0Rks3bVQ0Y2xyX1ExS0txdndjQWZYOE9wNE5ySmk1U2J5aEpoaDVnUnJRZ0hrVm5tTGZkQV9OQ0hhNHVSOXZ5YzdSZFctdmNtaURPcmtSQzZZTkk2cy1ySUhJVUw5NEtIeVQ0WFp1NGRMYl93Zw?oc=5\" target=\"_blank\">Microsoft Corporation $MSFT Stock Position Boosted by Schmidt P J Investment Management Inc.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-03T08:19:18",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaDRBZ2M0SmoyM2RjSVdIZHlQTjE2LWNndHF2U3pvSk13NndfSHJuWHdncE9rVE5RNDlEelpjTzA2dEhjNE5ma1hDSjJJZW9rSTFqRHFVZnVTOGswNXlLcFpUTmdKUVhibXJTRlQzdnptdFNVcEpoMXl0Rks3bVQ0Y2xyX1ExS0txdndjQWZYOE9wNE5ySmk1U2J5aEpoaDVnUnJRZ0hrVm5tTGZkQV9OQ0hhNHVSOXZ5YzdSZFctdmNtaURPcmtSQzZZTkk2cy1ySUhJVUw5NEtIeVQ0WFp1NGRMYl93Zw?oc=5"
+    },
+    {
+      "source": "Insider Monkey",
+      "headline": "TD Cowen Keeps Buy on Microsoft (MSFT) Despite Softer Azure Growth",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnpyUjlyT0pWUG9lbGNnZWp3NHVKaHl1dWZUamVwQ0M1bTZ6aUozTHNLa3FJZHlTelJlZjZUbjY4Mi1FUWd4VU1UNEk3RFJoN1pDX0t0R2ZxaTRBLWZ1V3laU2dFVXl4Qk1pLTdaSjc1U1dCRDVmd0RXbmlJdjFia08yZ0prUEJlM2Nsd1FzeVJaTGxJSGkyNkhzbXlhWHpUZ0RrRXdUUFNOOHFG0gG0AUFVX3lxTE1KZWoxMkhNNkFQTDVnbnhlNUN1VTIxOG9WQ3lYaDRMZmxwTC0zNEFIaldmbHVYWHFzTU1OOTZnWDdDTjR3dWJjaHFfcTBGZWlqcWdRQnhTdV83b2xTN1lGQXpxVGpzbFU2cURPYmhRcVhHREJrVHJzYmx0dnVocTlkRlcyNW9mV0FhVFB0UG1TUlAzRGd6dXdFYXdvR0NrOUlLRVJWbW1LNnZQQzN4cjVTMWc5ag?oc=5\" target=\"_blank\">TD Cowen Keeps Buy on Microsoft (MSFT) Despite Softer Azure Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+      "date": "2026-02-05T19:52:31",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnpyUjlyT0pWUG9lbGNnZWp3NHVKaHl1dWZUamVwQ0M1bTZ6aUozTHNLa3FJZHlTelJlZjZUbjY4Mi1FUWd4VU1UNEk3RFJoN1pDX0t0R2ZxaTRBLWZ1V3laU2dFVXl4Qk1pLTdaSjc1U1dCRDVmd0RXbmlJdjFia08yZ0prUEJlM2Nsd1FzeVJaTGxJSGkyNkhzbXlhWHpUZ0RrRXdUUFNOOHFG0gG0AUFVX3lxTE1KZWoxMkhNNkFQTDVnbnhlNUN1VTIxOG9WQ3lYaDRMZmxwTC0zNEFIaldmbHVYWHFzTU1OOTZnWDdDTjR3dWJjaHFfcTBGZWlqcWdRQnhTdV83b2xTN1lGQXpxVGpzbFU2cURPYmhRcVhHREJrVHJzYmx0dnVocTlkRlcyNW9mV0FhVFB0UG1TUlAzRGd6dXdFYXdvR0NrOUlLRVJWbW1LNnZQQzN4cjVTMWc5ag?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "How The Story Behind Microsoft (MSFT) Is Shifting With New Fair Value Assumptions",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVnB6YmoyRWl0elJVT193eElESV91TjB0SDI0MlRWeXVqc3VmUlFwLVoxcEhpSm9uVElZaElGUVNiNlhxWEJLRFgzTkRvRzZPNHlkSzJXV085cVhGaUdCMkR2NlZkbkFPZlJqaUswdnN6RkhZcnBoTFNIT2lwczZBQkNPbDRBU3NzLUE?oc=5\" target=\"_blank\">How The Story Behind Microsoft (MSFT) Is Shifting With New Fair Value Assumptions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-21T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVnB6YmoyRWl0elJVT193eElESV91TjB0SDI0MlRWeXVqc3VmUlFwLVoxcEhpSm9uVElZaElGUVNiNlhxWEJLRFgzTkRvRzZPNHlkSzJXV085cVhGaUdCMkR2NlZkbkFPZlJqaUswdnN6RkhZcnBoTFNIT2lwczZBQkNPbDRBU3NzLUE?oc=5"
+    },
+    {
+      "source": "NerdWallet",
+      "headline": "How to Buy Microsoft Stock (MSFT)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9EeVdKMWdubjZZbVlhMm5GelFqTmNzS0ZqQjd6QmRMcG5VcXhOdElMQ2w1R3d5Y0hhTXdiVmlkcWE1WnRGZjdCOFFrSFY4M2JCUEltLTA3NmZXOWJQOHVNdHE2ck15U21UWkZfV2FxNGc?oc=5\" target=\"_blank\">How to Buy Microsoft Stock (MSFT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NerdWallet</font>",
+      "date": "2026-01-12T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EeVdKMWdubjZZbVlhMm5GelFqTmNzS0ZqQjd6QmRMcG5VcXhOdElMQ2w1R3d5Y0hhTXdiVmlkcWE1WnRGZjdCOFFrSFY4M2JCUEltLTA3NmZXOWJQOHVNdHE2ck15U21UWkZfV2FxNGc?oc=5"
+    },
+    {
+      "source": "Benzinga",
+      "headline": "Deep Dive Into Microsoft Stock: Analyst Perspectives (25 Ratings)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWZGVkZDUjllbE1fQzlKRVdBeFNTT2JSWGZvd0tVM3FFZWlURUJwdU9LT1NWenZRbjhITDZ2UGVsYXVBSlAxMW1KVVV1MG5ubXRtT1FKZHk5amJ3UlpBLXVzUDJ1UnNTM1JSUGkxUWN6LUtFM0l0V2xaUm1DRTBVZTk4N2xldHlhSnpmSmFzM202VmhtUVVHZ2FCYWd6aEZ3NXRKWVlVRTA4czFKVlRmejZDVm1DZlpyNkIxVDdBdFdnZXQtOEE?oc=5\" target=\"_blank\">Deep Dive Into Microsoft Stock: Analyst Perspectives (25 Ratings)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "date": "2026-02-05T22:00:58",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWZGVkZDUjllbE1fQzlKRVdBeFNTT2JSWGZvd0tVM3FFZWlURUJwdU9LT1NWenZRbjhITDZ2UGVsYXVBSlAxMW1KVVV1MG5ubXRtT1FKZHk5amJ3UlpBLXVzUDJ1UnNTM1JSUGkxUWN6LUtFM0l0V2xaUm1DRTBVZTk4N2xldHlhSnpmSmFzM202VmhtUVVHZ2FCYWd6aEZ3NXRKWVlVRTA4czFKVlRmejZDVm1DZlpyNkIxVDdBdFdnZXQtOEE?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Microsoft Corporation $MSFT Shares Acquired by Kera Capital Partners Inc.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkNRRk9uTE93Q3Z4NWtGd194bGxyLVg1bTZ6c2VrTXczZ1JLOUdhZVJHYU5hbTNHYXZZQlRSRmE1U1BPZkk5T0lfejhNQ1BtOWFMeV9rZVVVemN4M3oxN1dFNjFDc3ZlazJhalhiLThfZmQwRDhCN3dKenp1S0dLOGZMb3h4RVR3OG1Sd1cweFpNN3J2SXJ6OWljR1VLZ2o0TUIwc0x4NHJFeXZIbGlEYm1TNWRqRDJKc0xBOFgzUndELXdFMGs4djljR1g?oc=5\" target=\"_blank\">Microsoft Corporation $MSFT Shares Acquired by Kera Capital Partners Inc.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-04T08:11:06",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkNRRk9uTE93Q3Z4NWtGd194bGxyLVg1bTZ6c2VrTXczZ1JLOUdhZVJHYU5hbTNHYXZZQlRSRmE1U1BPZkk5T0lfejhNQ1BtOWFMeV9rZVVVemN4M3oxN1dFNjFDc3ZlazJhalhiLThfZmQwRDhCN3dKenp1S0dLOGZMb3h4RVR3OG1Sd1cweFpNN3J2SXJ6OWljR1VLZ2o0TUIwc0x4NHJFeXZIbGlEYm1TNWRqRDJKc0xBOFgzUndELXdFMGs4djljR1g?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "Davis Selected Advisers boosts Microsoft stake by 8,495 shares",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTzZTS1FGdWRuWk9rQkNxT3pjQWVYUFRiTGN4Vjl6ekplTGhxZ05LR0pqelFWUWYyRVdUWXVEcEh5c1hpM2UwN0FOc2R4UHJvRHAtTFh3WlRXUWNwNTZtNlhlQm5YakhTNExvRTBKNzh4dTNnTFE1VktaUnVzM2hYczdxeGl1WUttaW0wZXp0TVROUHBxV1JxWXplRG9JU2hIeFc0blo3UlF5c0N3Z3NCWGJxeTR6cVp0cTZ5UUZIX2ZiTWEzNUcwYXlFMDh0TzlhYm0xTTB2Z3ZyMkx1?oc=5\" target=\"_blank\">Davis Selected Advisers boosts Microsoft stake by 8,495 shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-02-05T03:27:58",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTzZTS1FGdWRuWk9rQkNxT3pjQWVYUFRiTGN4Vjl6ekplTGhxZ05LR0pqelFWUWYyRVdUWXVEcEh5c1hpM2UwN0FOc2R4UHJvRHAtTFh3WlRXUWNwNTZtNlhlQm5YakhTNExvRTBKNzh4dTNnTFE1VktaUnVzM2hYczdxeGl1WUttaW0wZXp0TVROUHBxV1JxWXplRG9JU2hIeFc0blo3UlF5c0N3Z3NCWGJxeTR6cVp0cTZ5UUZIX2ZiTWEzNUcwYXlFMDh0TzlhYm0xTTB2Z3ZyMkx1?oc=5"
+    },
+    {
+      "source": "TradingView",
+      "headline": "Why Microsoft (MSFT) Shares Are Falling Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTZEZXlFZXA3bmI5dXl0S3BlOEFUYnFTWjQyV3k3cmdacS05X19QNkdYODk2amxDeDB5S0pPSjlhVHdkejVJeEdpUEkxdEMzQkNDTnhjajV5ajhuSXFWV0FsZ0NyU1NxSHM0R2V2bVVzb0Q1SGxkSHEydzJ3c3N4Q203b2FwaHRVRjdINmw1Vkt6OXA1VFN6Tzl3cHA3VUphTXp0S3JDQQ?oc=5\" target=\"_blank\">Why Microsoft (MSFT) Shares Are Falling Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "date": "2026-01-29T17:30:40",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTZEZXlFZXA3bmI5dXl0S3BlOEFUYnFTWjQyV3k3cmdacS05X19QNkdYODk2amxDeDB5S0pPSjlhVHdkejVJeEdpUEkxdEMzQkNDTnhjajV5ajhuSXFWV0FsZ0NyU1NxSHM0R2V2bVVzb0Q1SGxkSHEydzJ3c3N4Q203b2FwaHRVRjdINmw1Vkt6OXA1VFN6Tzl3cHA3VUphTXp0S3JDQQ?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "ticker": "AMZN",
+  "data_source": "google_rss",
+  "time_window": "last_30_days",
+  "article_count": 61,
+  "articles": [
+    {
+      "source": "Forbes",
+      "headline": "How Amazon Stock Rewrote Its Future",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTE14VElhejFueV9aZ1lHdjVZTlV1V2pyb0I4cUV3Ul9EclkxdUZoVWg0UkNVNFI3NzJDY2RUb0t5XzVQYTE1OC0wQk4zT3FmQW9UX0w2LUdlZEE4SlpoVkQxSzIxZzktb2x2dnlTaDZCLVNIQkhNOGxHUFQ3M3pOUVFsLU81bEJoMFcxUkN1MFBZM1p2aG55LWJn?oc=5\" target=\"_blank\">How Amazon Stock Rewrote Its Future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "date": "2026-03-06T14:24:33",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTE14VElhejFueV9aZ1lHdjVZTlV1V2pyb0I4cUV3Ul9EclkxdUZoVWg0UkNVNFI3NzJDY2RUb0t5XzVQYTE1OC0wQk4zT3FmQW9UX0w2LUdlZEE4SlpoVkQxSzIxZzktb2x2dnlTaDZCLVNIQkhNOGxHUFQ3M3pOUVFsLU81bEJoMFcxUkN1MFBZM1p2aG55LWJn?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Is Amazon Stock a Long-Term Buy?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5yNUZUQzJDeEVaMlk4dG9zU3k1Q3JQMlRxYWhXMUNSZmdlSlAtT1UtQW1oMjh3UkNja3VvNXVWUGZRdkZjbXlBWmFiek5PcHp0dmR4NUY1RHNjSWdZWDZPOHpXZml4cGxtNFdQV08tY0ZDZllqaEQ4WE1VZFEyZTQ?oc=5\" target=\"_blank\">Is Amazon Stock a Long-Term Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-03-07T08:15:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yNUZUQzJDeEVaMlk4dG9zU3k1Q3JQMlRxYWhXMUNSZmdlSlAtT1UtQW1oMjh3UkNja3VvNXVWUGZRdkZjbXlBWmFiek5PcHp0dmR4NUY1RHNjSWdZWDZPOHpXZml4cGxtNFdQV08tY0ZDZllqaEQ4WE1VZFEyZTQ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon takes big steps in India with an evolving financial platform (AMZN:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmdrSy0xUGt6RS1aLTA2M1RoOTRYOXY0b0owcTlUMzRBaTRsNDVLVC03cnJhX1l1V0tvcThXN21HUnItQTRfQUswdFJpSGk0Ul9ZMVhYS212UFRUanItNHFQMmdUVHlSU2YwZDZ4TXhWakd2eHNNeUxLSk5yQzdBS0dSNmo0RFRCOE9MbkI3SFFWdkttZFFTYnQ5Zm5YSnhTNGtOY1JXekg?oc=5\" target=\"_blank\">Amazon takes big steps in India with an evolving financial platform (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-09T11:27:39",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmdrSy0xUGt6RS1aLTA2M1RoOTRYOXY0b0owcTlUMzRBaTRsNDVLVC03cnJhX1l1V0tvcThXN21HUnItQTRfQUswdFJpSGk0Ul9ZMVhYS212UFRUanItNHFQMmdUVHlSU2YwZDZ4TXhWakd2eHNNeUxLSk5yQzdBS0dSNmo0RFRCOE9MbkI3SFFWdkttZFFTYnQ5Zm5YSnhTNGtOY1JXekg?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Amazon (AMZN) Stock Trades Up, Here Is Why",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE16TmZhcWhRbUNxVktJcHljM0plWWUzdHlLZDVTWE5CQkdnR3MzMW9Vby1LMm9wRlcwT0hxVHlONndTcTNaTFdobERHWXFSaGhwb0tHcXJqNmRGaFFJbGdoQzg1WFJsYXFfRGg0YXdVdDF6WFdkeHRCNDNzQldGMDQ?oc=5\" target=\"_blank\">Amazon (AMZN) Stock Trades Up, Here Is Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-03-04T20:55:42",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16TmZhcWhRbUNxVktJcHljM0plWWUzdHlLZDVTWE5CQkdnR3MzMW9Vby1LMm9wRlcwT0hxVHlONndTcTNaTFdobERHWXFSaGhwb0tHcXJqNmRGaFFJbGdoQzg1WFJsYXFfRGg0YXdVdDF6WFdkeHRCNDNzQldGMDQ?oc=5"
+    },
+    {
+      "source": "Stock Titan",
+      "headline": "Weight-loss injections at home: Amazon ships Zepbound for $299 a month",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzgtRVl1Ry0wRmJ0aTF2b2x6N3locml2NHdUZWNmUk9jQ1kzNG9UVk8yemNUdHlidHRiazZEUFRiR3lic2tOLXkxblpTclNoNTg5Z1hubF82UGd2NFY1UXFkbTBteUxHQzROZWZXaFhjaXpCVGZ4d2hjVGpST18zbkZFSEVHT3pLLVg0WTBURHZScWx0U1JmS1o5bkhzczRpNkNOR00zRGx4N3FSVGRjYXNOSVg5MUZqamtQVEx0WQ?oc=5\" target=\"_blank\">Weight-loss injections at home: Amazon ships Zepbound for $299 a month</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "date": "2026-03-09T11:32:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzgtRVl1Ry0wRmJ0aTF2b2x6N3locml2NHdUZWNmUk9jQ1kzNG9UVk8yemNUdHlidHRiazZEUFRiR3lic2tOLXkxblpTclNoNTg5Z1hubF82UGd2NFY1UXFkbTBteUxHQzROZWZXaFhjaXpCVGZ4d2hjVGpST18zbkZFSEVHT3pLLVg0WTBURHZScWx0U1JmS1o5bkhzczRpNkNOR00zRGx4N3FSVGRjYXNOSVg5MUZqamtQVEx0WQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon.com, Inc. $AMZN Shares Sold by Lion Street Advisors LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2JVZDNmSXpWOTJZZUpaNEFlWEpwdFRXMW9qSEc0dmR6X0J5M1ZRTnc4SVhKU0F5R0FraFo1a1pwcWtaeVBBOUh4UWpERWZVeFRNZjhhTVAweXNrMlVMZkJjVGVoQmRnelNORHotQk1JTG4yNC15RVZzdGY5NGtvYlNEZ3dYUGVQbFVvd0JVZ1FYOVpIMjg3SVdIZjN1V2FVemQwVzJvVUVuVG5jc1EwUFk5RXNxZDNjU0tF?oc=5\" target=\"_blank\">Amazon.com, Inc. $AMZN Shares Sold by Lion Street Advisors LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-09T09:12:00",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2JVZDNmSXpWOTJZZUpaNEFlWEpwdFRXMW9qSEc0dmR6X0J5M1ZRTnc4SVhKU0F5R0FraFo1a1pwcWtaeVBBOUh4UWpERWZVeFRNZjhhTVAweXNrMlVMZkJjVGVoQmRnelNORHotQk1JTG4yNC15RVZzdGY5NGtvYlNEZ3dYUGVQbFVvd0JVZ1FYOVpIMjg3SVdIZjN1V2FVemQwVzJvVUVuVG5jc1EwUFk5RXNxZDNjU0tF?oc=5"
+    },
+    {
+      "source": "Quiver Quantitative",
+      "headline": "Amazon Stock (AMZN) Opinions on AWS Outage",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkdTZFJkUnBnT1NxMVBRRFJUbDFPWFZZdThwTEpzSkYzRHF0amlNYUpMekZ2N0xIdVhZMGUyOTRUY1JVMzhyOU5hOTVMeHZGWjhHcXRudi1WdU92WU1lWlVKLTctWUZiRVRiZXI2S09VWDd2bGtfaWRITDBuZGxTRGxwNkpBQQ?oc=5\" target=\"_blank\">Amazon Stock (AMZN) Opinions on AWS Outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "date": "2026-03-08T17:33:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkdTZFJkUnBnT1NxMVBRRFJUbDFPWFZZdThwTEpzSkYzRHF0amlNYUpMekZ2N0xIdVhZMGUyOTRUY1JVMzhyOU5hOTVMeHZGWjhHcXRudi1WdU92WU1lWlVKLTctWUZiRVRiZXI2S09VWDd2bGtfaWRITDBuZGxTRGxwNkpBQQ?oc=5"
+    },
+    {
+      "source": "Trefis",
+      "headline": "Why Betting Against Amazon Stock In 2022 Was A Mistake",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmltb1l5S1JRNlh6LTFrdThWdDNqcnBtbnAtZFF3RW5vU1Zsb2xDNEw0ajZ1bTdfX3JrQ3BlZ3ZHaFpKTXJwbHdOQ2IwZm1HUDdwSTdaVTFpMEhoaE5nOXV6RUF6bXlGRmc3Z2JQcFBEQ2JYLWZBSnBtdndjWndSTGQ1TWJrYmZvWkFTR25zZnJmX2xoQkRUSjZKaUxPMWo1UkYya1RUSF9qZW5NQmU3YUxScnY4Zw?oc=5\" target=\"_blank\">Why Betting Against Amazon Stock In 2022 Was A Mistake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+      "date": "2026-03-06T13:20:51",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmltb1l5S1JRNlh6LTFrdThWdDNqcnBtbnAtZFF3RW5vU1Zsb2xDNEw0ajZ1bTdfX3JrQ3BlZ3ZHaFpKTXJwbHdOQ2IwZm1HUDdwSTdaVTFpMEhoaE5nOXV6RUF6bXlGRmc3Z2JQcFBEQ2JYLWZBSnBtdndjWndSTGQ1TWJrYmZvWkFTR25zZnJmX2xoQkRUSjZKaUxPMWo1UkYya1RUSF9qZW5NQmU3YUxScnY4Zw?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "\u2018This Could Change the AWS Story,\u2019 Says BofA about Amazon Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYllDOHJEbXVUS2pIN2p4Sk5nSHYyaFUxT0VoSWJ1OFVPMGJ3MEh3V0RaZmt5b2Q3Tk1YQklkWENTNEo5UmlublVmSmx5WkZtcUNTdGFVVHljaHVVeFVlNHVaY0QxaUlaSm51UVRBcVZXOTVWNnhURWk2WkJWa1Z3Wnc2Q2JzNHlwbndOYk1HczBDVTNo?oc=5\" target=\"_blank\">\u2018This Could Change the AWS Story,\u2019 Says BofA about Amazon Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-03-05T12:10:52",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYllDOHJEbXVUS2pIN2p4Sk5nSHYyaFUxT0VoSWJ1OFVPMGJ3MEh3V0RaZmt5b2Q3Tk1YQklkWENTNEo5UmlublVmSmx5WkZtcUNTdGFVVHljaHVVeFVlNHVaY0QxaUlaSm51UVRBcVZXOTVWNnhURWk2WkJWa1Z3Wnc2Q2JzNHlwbndOYk1HczBDVTNo?oc=5"
+    },
+    {
+      "source": "INDmoney",
+      "headline": "Amazon (AMZN) Live Share Price, Invest From India",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE12dkwzdHI0NXVpb2s2UEE0dmw5YzcwUmtlV3FLMVE2RWw5SDdjUHo1Y0hhc1lXbTRTRkpqOEhfNVBXWXUybVphSzhwQkNrRTNLaVZZOUl0c0pfU1h0NHRaZVQ4Ql9ZV2hFaWxVbFBGemVYM3B0?oc=5\" target=\"_blank\">Amazon (AMZN) Live Share Price, Invest From India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INDmoney</font>",
+      "date": "2026-03-06T20:59:59",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12dkwzdHI0NXVpb2s2UEE0dmw5YzcwUmtlV3FLMVE2RWw5SDdjUHo1Y0hhc1lXbTRTRkpqOEhfNVBXWXUybVphSzhwQkNrRTNLaVZZOUl0c0pfU1h0NHRaZVQ4Ql9ZV2hFaWxVbFBGemVYM3B0?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon advances grocery delivery options in key market of Brazil (AMZN:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONnZYRnJMM2kzaF9EeVVhTjJHRi0zR2VIVzNkNllRWF9BS2ttajk1a3dxbkVMcmVpa1JqUlB6aVA3TjJJWVBQeWVGX1J4Mi1RODNrTEFvcnFONklCLWZ6a0dOalBQd1VzSWNhcDRWMms5Sl84U2w4VUoyWHFqdW1GeWRvV1hTYWdfNmlKT0tRVDhFeHc3elV6NElWcE16d3J2bV9ISg?oc=5\" target=\"_blank\">Amazon advances grocery delivery options in key market of Brazil (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-09T11:11:44",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONnZYRnJMM2kzaF9EeVVhTjJHRi0zR2VIVzNkNllRWF9BS2ttajk1a3dxbkVMcmVpa1JqUlB6aVA3TjJJWVBQeWVGX1J4Mi1RODNrTEFvcnFONklCLWZ6a0dOalBQd1VzSWNhcDRWMms5Sl84U2w4VUoyWHFqdW1GeWRvV1hTYWdfNmlKT0tRVDhFeHc3elV6NElWcE16d3J2bV9ISg?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Hillsdale Investment Management Inc. Increases Stock Position in Amazon.com, Inc. $AMZN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMldrOFU5UU5MUjJBUFUtMDVmQUNYcS1zWlVMcExzaXRFZDB4U2pGdUM4SDBxOXJFeVN0TDRaQ01DRDhEeS1sUFhsYUItQzJNNEQtZUJmeWI3Vm12bTQ5RXhSTUsyWUE0ZlBfbW1lcFlNemlLUjBhaUFzQnZGaVlyMnhRS0hsQlVTMVhuYWIyR01YN2YyT3p4OHB2MmhBUnQ2YXZPMWtERllQOEE3ODhYWXVEVURxMHRfdFdCX0NfaGVmZWswT1NVNFVLeHhRSmtmem92c2VvT3ZUSk0?oc=5\" target=\"_blank\">Hillsdale Investment Management Inc. Increases Stock Position in Amazon.com, Inc. $AMZN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-09T09:09:57",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMldrOFU5UU5MUjJBUFUtMDVmQUNYcS1zWlVMcExzaXRFZDB4U2pGdUM4SDBxOXJFeVN0TDRaQ01DRDhEeS1sUFhsYUItQzJNNEQtZUJmeWI3Vm12bTQ5RXhSTUsyWUE0ZlBfbW1lcFlNemlLUjBhaUFzQnZGaVlyMnhRS0hsQlVTMVhuYWIyR01YN2YyT3p4OHB2MmhBUnQ2YXZPMWtERllQOEE3ODhYWXVEVURxMHRfdFdCX0NfaGVmZWswT1NVNFVLeHhRSmtmem92c2VvT3ZUSk0?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Big Money Sees Big Value in Amazon: Should You Buy AMZN Stock Too?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBfVGV4WmhWVmV6U1k3ZEpsRzg0TVBTM0s4TGpZazZ5eTFoeFdGMDIzX1NTNGY1c3lROGpQRHVQdWc2Vnd4ZldqS0ppUzVtVGdUNEVBdVdHOFo1SFVvUmZ0MFBweGFnUXhZbWpLdzdnSlYtVnVpT25zTGhn?oc=5\" target=\"_blank\">Big Money Sees Big Value in Amazon: Should You Buy AMZN Stock Too?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-19T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfVGV4WmhWVmV6U1k3ZEpsRzg0TVBTM0s4TGpZazZ5eTFoeFdGMDIzX1NTNGY1c3lROGpQRHVQdWc2Vnd4ZldqS0ppUzVtVGdUNEVBdVdHOFo1SFVvUmZ0MFBweGFnUXhZbWpLdzdnSlYtVnVpT25zTGhn?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon Pharmacy expands GLP-1 offerings to Zepbound KwikPen (AMZN:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1NLMDR3Zi1FaGRxVElGMThZdlZMc1QzWmR3dzdZZHc4RmJYZW93NTJmaFZuYjNlZm9YTmx3M0ZnOWdxdkh1UkhOeDZ4Z3NKTjQxUW5ITnlDX1gwWDh5b1R3NzlZdHRjY2VtVkJiby1PUWRhUVV2LWM0RnVISjQtVjFGdk1lLWdnd3k4N05aYUJydU5IempqRDhrbUR3QQ?oc=5\" target=\"_blank\">Amazon Pharmacy expands GLP-1 offerings to Zepbound KwikPen (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-09T12:13:31",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1NLMDR3Zi1FaGRxVElGMThZdlZMc1QzWmR3dzdZZHc4RmJYZW93NTJmaFZuYjNlZm9YTmx3M0ZnOWdxdkh1UkhOeDZ4Z3NKTjQxUW5ITnlDX1gwWDh5b1R3NzlZdHRjY2VtVkJiby1PUWRhUVV2LWM0RnVISjQtVjFGdk1lLWdnd3k4N05aYUJydU5IempqRDhrbUR3QQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon.com, Inc. $AMZN Shares Bought by Mitsubishi UFJ Asset Management UK Ltd.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQUJoSkpWNmJOUl9fRWZ3TkZpWkZrdDFGMGRLQm8xOVJHSHlYZkVOelE2eHd4d0xTT0VqUXFJaXJVWF9mZkJDZVhwSGh2eWF3SEZWVklpUVRHYlNFOWhmRFdldUlaSG5lWkIxaFNCQUhaaVY2d0kxYXUtdjRiekpsd2pvRUZ5NXRzc19wV0Rab1g2aUJjR1pfX0pjdko4eGQ4RGFqMXY3Q3I0NF9pWDc2QWFwSHdKN3dTTThQZDFpY1NYU3c2bmh5MUtjV2NjRzR4?oc=5\" target=\"_blank\">Amazon.com, Inc. $AMZN Shares Bought by Mitsubishi UFJ Asset Management UK Ltd.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-09T09:11:55",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQUJoSkpWNmJOUl9fRWZ3TkZpWkZrdDFGMGRLQm8xOVJHSHlYZkVOelE2eHd4d0xTT0VqUXFJaXJVWF9mZkJDZVhwSGh2eWF3SEZWVklpUVRHYlNFOWhmRFdldUlaSG5lWkIxaFNCQUhaaVY2d0kxYXUtdjRiekpsd2pvRUZ5NXRzc19wV0Rab1g2aUJjR1pfX0pjdko4eGQ4RGFqMXY3Q3I0NF9pWDc2QWFwSHdKN3dTTThQZDFpY1NYU3c2bmh5MUtjV2NjRzR4?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon.com, Inc. $AMZN Shares Purchased by Advyzon Investment Management LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnJwekhEb2tDYjJXQW5ZRTV2b1VnYlcyc3NjYjRnUUhqRkJDVGsxcW5adG5ZQ2VSSEQ2Ty14OFRFZnFjenhidFZsLXloaG9xcUFYSzNuanByTjJDWGMzcUJkRndtc3NvQ3VzeUhoenJfUDFhcjFvWlRWd1A5VklkbTJfYktndDUxV2tBZzhfZmlVMW9mUThJbTBvaVVDM3dDb3duSU9wNXF1UnE5ajRRVjBkWC1xZUVIZXJYNHRJR2R3dkR5cy04R0ZKTlhCdw?oc=5\" target=\"_blank\">Amazon.com, Inc. $AMZN Shares Purchased by Advyzon Investment Management LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-09T07:14:29",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnJwekhEb2tDYjJXQW5ZRTV2b1VnYlcyc3NjYjRnUUhqRkJDVGsxcW5adG5ZQ2VSSEQ2Ty14OFRFZnFjenhidFZsLXloaG9xcUFYSzNuanByTjJDWGMzcUJkRndtc3NvQ3VzeUhoenJfUDFhcjFvWlRWd1A5VklkbTJfYktndDUxV2tBZzhfZmlVMW9mUThJbTBvaVVDM3dDb3duSU9wNXF1UnE5ajRRVjBkWC1xZUVIZXJYNHRJR2R3dkR5cy04R0ZKTlhCdw?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon.com, Inc. (NASDAQ:AMZN) Receives Average Rating of \"Moderate Buy\" from Analysts",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVdEVS1fcXhURVR1RF9TN293b2dBRzNQMWlKN3MteUQ2dlRRWldCeU80Um1LeV9IdTMtMG5ZRjdvdFBHR05IRG54Z0FqMXY0RnVJNmNTNlFpNFFsX3NrYmgzWFRvemp1TU9UaVVVZEhUY3JtMFBOa0NBdUJOeUtNdUxrSTYtVkdKV2N2QU1jVWswS0hZTkRnUHVQNDlBREItdmlWdnF1WEU5TWktQVhPbVR0MHozQ0pWdUw1dGdvMlcxWUNwVDVRckhjZDc?oc=5\" target=\"_blank\">Amazon.com, Inc. (NASDAQ:AMZN) Receives Average Rating of \"Moderate Buy\" from Analysts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-09T06:39:27",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVdEVS1fcXhURVR1RF9TN293b2dBRzNQMWlKN3MteUQ2dlRRWldCeU80Um1LeV9IdTMtMG5ZRjdvdFBHR05IRG54Z0FqMXY0RnVJNmNTNlFpNFFsX3NrYmgzWFRvemp1TU9UaVVVZEhUY3JtMFBOa0NBdUJOeUtNdUxrSTYtVkdKV2N2QU1jVWswS0hZTkRnUHVQNDlBREItdmlWdnF1WEU5TWktQVhPbVR0MHozQ0pWdUw1dGdvMlcxWUNwVDVRckhjZDc?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Stevens Capital Management LP Purchases 7,074 Shares of Amazon.com, Inc. $AMZN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQVGZvQmFPbjNlUGx2WmhjdWRXZnBESkRPWml1YmNoWm9IakQ1bGoyVzczeDdpY3RlUnJ4OWZlZ0RaVjNucWVCdjF3azhELUhaZUVKTlRGV3FaTmRNWWQtS0pZZ0l4aVFGQXBaOGNYR3E0YWYxVV9oSEtXNlBySHhKeWstM1g4S3pfV2JTVEJqSWlGN3NnTzdBblFKTFp0VUlQZXVUVkw3S1pyeEhnV1JfS3B4WmFLcU54SUREd2ZUdUR1TWkzc19JTWp0N1ZJdjA?oc=5\" target=\"_blank\">Stevens Capital Management LP Purchases 7,074 Shares of Amazon.com, Inc. $AMZN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-09T11:37:01",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVGZvQmFPbjNlUGx2WmhjdWRXZnBESkRPWml1YmNoWm9IakQ1bGoyVzczeDdpY3RlUnJ4OWZlZ0RaVjNucWVCdjF3azhELUhaZUVKTlRGV3FaTmRNWWQtS0pZZ0l4aVFGQXBaOGNYR3E0YWYxVV9oSEtXNlBySHhKeWstM1g4S3pfV2JTVEJqSWlGN3NnTzdBblFKTFp0VUlQZXVUVkw3S1pyeEhnV1JfS3B4WmFLcU54SUREd2ZUdUR1TWkzc19JTWp0N1ZJdjA?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon.com, Inc. $AMZN Stock Holdings Lifted by Elefante Mark B",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRG45VVFpY3JheUkyRTFMVDJiV3lNV0QwVEpWeHZfOVA3VUJEUDh1VFpfa2JTM1NzOW9tMk9KQldSNmNMY1BUQ25oZG9fRUxMWVdudFFUNjBJcnoxd3BaY25vOW5NZDZYNTE5QXlUSnNtSy1iQmdFa1djU1BiQ2FVRTd5NVBfQjBubndVNjl0RXRQaTBlSG40RVFlY1NvMzdRX0NoZElZQnVVSGdIdFJvMjNudExxTlE4VTJfdQ?oc=5\" target=\"_blank\">Amazon.com, Inc. $AMZN Stock Holdings Lifted by Elefante Mark B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-08T08:41:30",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRG45VVFpY3JheUkyRTFMVDJiV3lNV0QwVEpWeHZfOVA3VUJEUDh1VFpfa2JTM1NzOW9tMk9KQldSNmNMY1BUQ25oZG9fRUxMWVdudFFUNjBJcnoxd3BaY25vOW5NZDZYNTE5QXlUSnNtSy1iQmdFa1djU1BiQ2FVRTd5NVBfQjBubndVNjl0RXRQaTBlSG40RVFlY1NvMzdRX0NoZElZQnVVSGdIdFJvMjNudExxTlE4VTJfdQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Siligmueller & Norvid Wealth Advisors LLC Grows Stock Holdings in Amazon.com, Inc. $AMZN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkwwbmw4M0k0S2dwUC1DdElUT1NmRDFHU0ZMMlhHbG1IcWZsZEh3RUpKYUxIRGJZcW5DX1FXN0R3YzB4SWkyQWtzRXp5eWZEU1g5SkR6cEwtWGhXVlRrclQ3TlJFTTYtZGthWXB2dUNkWkZTMm9jelF3TFowWGEzOGZRRDNkb3VHakJVTHNJWHRfaG5iT2RxOWFXVmVOTTctWmlDdmt0X2R4UkRhOEJpX0t0anhMM25uZzdaWkt4NlNyWUJRMV9SQnBtNTQxSUtaNDQ4OUx1anZOc1E?oc=5\" target=\"_blank\">Siligmueller & Norvid Wealth Advisors LLC Grows Stock Holdings in Amazon.com, Inc. $AMZN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-09T11:35:08",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkwwbmw4M0k0S2dwUC1DdElUT1NmRDFHU0ZMMlhHbG1IcWZsZEh3RUpKYUxIRGJZcW5DX1FXN0R3YzB4SWkyQWtzRXp5eWZEU1g5SkR6cEwtWGhXVlRrclQ3TlJFTTYtZGthWXB2dUNkWkZTMm9jelF3TFowWGEzOGZRRDNkb3VHakJVTHNJWHRfaG5iT2RxOWFXVmVOTTctWmlDdmt0X2R4UkRhOEJpX0t0anhMM25uZzdaWkt4NlNyWUJRMV9SQnBtNTQxSUtaNDQ4OUx1anZOc1E?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon Just Got Crushed And The Market Is Dead Wrong (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcC1BU1AyYzVucmI5anlXZ2pRcjdKdWd1UF9hMTVzQ1lWYmhBX2U2bFdXRU1BNUJQR3N0VHo5alN4TXdiUkY4WWRoejAwSVZ5cUZLRl9abkpJdXRrQXptYWFVd3cxdW85WHROOWxzY0FKMTNaUENLMXA3X19yc2JBLVNac0htd1JDdjRtTWRiX2RlVkluSXc?oc=5\" target=\"_blank\">Amazon Just Got Crushed And The Market Is Dead Wrong (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-17T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcC1BU1AyYzVucmI5anlXZ2pRcjdKdWd1UF9hMTVzQ1lWYmhBX2U2bFdXRU1BNUJQR3N0VHo5alN4TXdiUkY4WWRoejAwSVZ5cUZLRl9abkpJdXRrQXptYWFVd3cxdW85WHROOWxzY0FKMTNaUENLMXA3X19yc2JBLVNac0htd1JDdjRtTWRiX2RlVkluSXc?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Should You Buy Amazon Stock If It Falls Under $200?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORGY0RGYzVWlrTnNnVl9taG1Rbm5kYmdYZnZrWjZJMGFKV3JMZUhraDhJQ1FMTmhJRHYxamg3OWFQMmtETkFqMmRVVGZScVYzcDJaa0ZacUZBYWFNMUlYMzJHWTYwSEZGQVVpbURvYnJJLVI0WENGVmxhcE1BTVJhaHltU3VKWllLWnBZbXBXQUgwdVdJNGFr?oc=5\" target=\"_blank\">Should You Buy Amazon Stock If It Falls Under $200?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-03-02T22:00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGY0RGYzVWlrTnNnVl9taG1Rbm5kYmdYZnZrWjZJMGFKV3JMZUhraDhJQ1FMTmhJRHYxamg3OWFQMmtETkFqMmRVVGZScVYzcDJaa0ZacUZBYWFNMUlYMzJHWTYwSEZGQVVpbURvYnJJLVI0WENGVmxhcE1BTVJhaHltU3VKWllLWnBZbXBXQUgwdVdJNGFr?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon.com, Inc. $AMZN Stock Position Boosted by ICICI Prudential Asset Management Co Ltd",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmNoUldVaXBjdXN6S0ZZQ1FjYnptLWF4Q0MtZWF0cC1NOF9YQjlCby1WU29sTHhYYVBON0NsOFhTU01uMS15bkd5UUQ2bHVqYlpYMk1RcEV4d1dBMkFZcHlPSVFrT1ZWNG1EX0MyV0JrUmJqWU1vM1lvVGpkREMzYzJUQ0pGM0hDb2NfOWtEbG9CdjVRZFgtZS1nMmdGQnRHZU84VjEzc3JpWW1LVF9NUU9JNUVOOHY1WGF3ckxtcjhDaDI3Tm9iRHVPNGJ6QWsySHlmcjVWUzZFUlVyeVZv?oc=5\" target=\"_blank\">Amazon.com, Inc. $AMZN Stock Position Boosted by ICICI Prudential Asset Management Co Ltd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-08T10:16:23",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmNoUldVaXBjdXN6S0ZZQ1FjYnptLWF4Q0MtZWF0cC1NOF9YQjlCby1WU29sTHhYYVBON0NsOFhTU01uMS15bkd5UUQ2bHVqYlpYMk1RcEV4d1dBMkFZcHlPSVFrT1ZWNG1EX0MyV0JrUmJqWU1vM1lvVGpkREMzYzJUQ0pGM0hDb2NfOWtEbG9CdjVRZFgtZS1nMmdGQnRHZU84VjEzc3JpWW1LVF9NUU9JNUVOOHY1WGF3ckxtcjhDaDI3Tm9iRHVPNGJ6QWsySHlmcjVWUzZFUlVyeVZv?oc=5"
+    },
+    {
+      "source": "Insider Monkey",
+      "headline": "Amazon.com, Inc. (AMZN) Among Bill Ackman\u2019s Top Picks Amid Strong Secular Growth Trends",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFdZMDZpVXplbTNDUjlMVkcwZ1MxOWQ4X194eXg2UDEyMzFLQU5rUVowR2dkMEd2dVVxZlVNemdyMWF6RGI5cmN1NWEwSFZHbVR0NU1BNHM5TlUzejhKU2U5amNBcE9LMFFIbGRqSVU1WFhFdk9YQ2FmQmhiR0RXTk9LQlEtaWQ3UUdpdXk0MTdXTWt0U01DUHBOcFVncDE1UWM4M2NOOUpNZE5aT2ktZ0xLVFROTzlhTEhlWXNzcE40dDJW0gHMAUFVX3lxTFBValNvT1FLWHRjS3hmVzM3YzFaWUtMS3J5TE5rZmR6dkFZLUh4RDlHNDBxRFpGdGpYU0VMbUd5V0JwMU12NW5uVDRHU3EyQVJkVTFPWUtxMU1kTGxDSDhkUzN3a3FQZ09OQlFvbVVVV2lKdUtxQ1ZsZk82SDItbjQzdFpKQmZpVHdCSURabEE1X2RzVTVhSldCX3JiazFWenhqWU5JUzlYN0xVNXpHcllVMndONWxjejI5VmM5WEFtWXdibUVsTjlpNkFEbA?oc=5\" target=\"_blank\">Amazon.com, Inc. (AMZN) Among Bill Ackman\u2019s Top Picks Amid Strong Secular Growth Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+      "date": "2026-03-09T07:01:20",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFdZMDZpVXplbTNDUjlMVkcwZ1MxOWQ4X194eXg2UDEyMzFLQU5rUVowR2dkMEd2dVVxZlVNemdyMWF6RGI5cmN1NWEwSFZHbVR0NU1BNHM5TlUzejhKU2U5amNBcE9LMFFIbGRqSVU1WFhFdk9YQ2FmQmhiR0RXTk9LQlEtaWQ3UUdpdXk0MTdXTWt0U01DUHBOcFVncDE1UWM4M2NOOUpNZE5aT2ktZ0xLVFROTzlhTEhlWXNzcE40dDJW0gHMAUFVX3lxTFBValNvT1FLWHRjS3hmVzM3YzFaWUtMS3J5TE5rZmR6dkFZLUh4RDlHNDBxRFpGdGpYU0VMbUd5V0JwMU12NW5uVDRHU3EyQVJkVTFPWUtxMU1kTGxDSDhkUzN3a3FQZ09OQlFvbVVVV2lKdUtxQ1ZsZk82SDItbjQzdFpKQmZpVHdCSURabEE1X2RzVTVhSldCX3JiazFWenhqWU5JUzlYN0xVNXpHcllVMndONWxjejI5VmM5WEFtWXdibUVsTjlpNkFEbA?oc=5"
+    },
+    {
+      "source": "thestreet.com",
+      "headline": "Bank of America revamps Amazon stock price target",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnlKRW9jMG1McERmVHEydDJ4OGFtRkRxV3BwdUpWN3pES2gzY2tZY2tCWE9fV09kRFdjRG1FcVZPZ21ORjIwcHhqbzZWeDdXcmJFQzdhd0FpQzVIQVVnWlgxdUhCN2JUVGxCdkgzTWNqODdsOU5SXzR4RGt1WTNfQzF6MHJPQUJlWlFydExETFc2UjNMd1cw?oc=5\" target=\"_blank\">Bank of America revamps Amazon stock price target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "date": "2026-02-27T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnlKRW9jMG1McERmVHEydDJ4OGFtRkRxV3BwdUpWN3pES2gzY2tZY2tCWE9fV09kRFdjRG1FcVZPZ21ORjIwcHhqbzZWeDdXcmJFQzdhd0FpQzVIQVVnWlgxdUhCN2JUVGxCdkgzTWNqODdsOU5SXzR4RGt1WTNfQzF6MHJPQUJlWlFydExETFc2UjNMd1cw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon Stock Still Makes No Sense (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9JbkEyak5IS2k4LU04OXdfc3ZKT3gyWlk0aWE4OUFvdHZtRmpMU0dVallZT3Z0SzNNWGRtcVJrWUZEd0owOEJnU3FKdHpHOFV4TTNNd3phSFQtQmIxc19UNm5TVExTRkNFRmZJVjRNWUFORng4V3N0M1A1b0NCME0?oc=5\" target=\"_blank\">Amazon Stock Still Makes No Sense (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-20T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JbkEyak5IS2k4LU04OXdfc3ZKT3gyWlk0aWE4OUFvdHZtRmpMU0dVallZT3Z0SzNNWGRtcVJrWUZEd0owOEJnU3FKdHpHOFV4TTNNd3phSFQtQmIxc19UNm5TVExTRkNFRmZJVjRNWUFORng4V3N0M1A1b0NCME0?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon: Berkshire Hathaway Q4 Trimming And Capital Lease Accounting In Focus (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3JSbWVqaU14V2E4NElDS0ZQQVF0Z3VVMlhkWU5UZDhOMEVSSTJaS3pUSU40bEtYZEcwNld0dW1tZzhCU2h6MmVRWHF1NXBzdXd2emRjMEFXdW5NOVY4VThYRmNKRmMwVDR6NWJyVFVPUTJsNnZ3aGFnX1RrSVZXRVhjR3MxYTYtRVhsMWYwck44WWpVYkxKampYcUFHYzhuTjZURnZOSTNQcFV1eTgwQ0picGxjbWM?oc=5\" target=\"_blank\">Amazon: Berkshire Hathaway Q4 Trimming And Capital Lease Accounting In Focus (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-05T20:48:03",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3JSbWVqaU14V2E4NElDS0ZQQVF0Z3VVMlhkWU5UZDhOMEVSSTJaS3pUSU40bEtYZEcwNld0dW1tZzhCU2h6MmVRWHF1NXBzdXd2emRjMEFXdW5NOVY4VThYRmNKRmMwVDR6NWJyVFVPUTJsNnZ3aGFnX1RrSVZXRVhjR3MxYTYtRVhsMWYwck44WWpVYkxKampYcUFHYzhuTjZURnZOSTNQcFV1eTgwQ0picGxjbWM?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon to cuts jobs in robotics division -- report (AMZN:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUxyV1huNnNmQ3Npc0N3OXdLWGVSX015Mnh5SGc4R19fN0JEZDQ3MXpYeEIzTTlzcWJBYVRMT0tXNkNFbWo5SkZ0UXh2cl9qVVhiYUY4V2R5MlZTR1BwOFBsTl9zeUk2V05USDdLaWwtejJuenpHYTBxcTFIUDJza1A2T2p2MExuZkF6XzlfeFM?oc=5\" target=\"_blank\">Amazon to cuts jobs in robotics division -- report (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-04T21:09:42",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUxyV1huNnNmQ3Npc0N3OXdLWGVSX015Mnh5SGc4R19fN0JEZDQ3MXpYeEIzTTlzcWJBYVRMT0tXNkNFbWo5SkZ0UXh2cl9qVVhiYUY4V2R5MlZTR1BwOFBsTl9zeUk2V05USDdLaWwtejJuenpHYTBxcTFIUDJza1A2T2p2MExuZkF6XzlfeFM?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Amazon Stock: Rebound Ahead or Prolonged Bearish Pressure in 2026?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTZBM0xwZUFfM1hmQmQ4VlNYVGRXdjQtWGJ0REVmTjlhbUd1SUY2SWwxWHhFX1EyQjFPcG83LXZDcEMtSVF0XzE2M0FmalRTNWdtbC1jUDRtVUs4UnVGV0FBVE84ZUwtNG9jTjFHNUNBVzc5alViX1djZ1ZmNXZTMTdXQkp2VlBaMmc?oc=5\" target=\"_blank\">Amazon Stock: Rebound Ahead or Prolonged Bearish Pressure in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-03-04T17:37:48",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTZBM0xwZUFfM1hmQmQ4VlNYVGRXdjQtWGJ0REVmTjlhbUd1SUY2SWwxWHhFX1EyQjFPcG83LXZDcEMtSVF0XzE2M0FmalRTNWdtbC1jUDRtVUs4UnVGV0FBVE84ZUwtNG9jTjFHNUNBVzc5alViX1djZ1ZmNXZTMTdXQkp2VlBaMmc?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Nvidia vs. Amazon: Which AI Stock Is a Better Buy Now?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnJJaEJrWmQxaGp4bEhKajBiT0ZUd0tHaWxDbDFuTFZrYm5JLXBUV2hybmVUaEJCWkFKNlZIVW54WjEtNTlZSWJnZ3VxSUhFRElsUGpLZUxXTlpUWlVva0I1R0FUMnduRE4wV1lSd0w2V1J5VGZ4UmttQ3BwVlRkUFlFdTY5aDV4aS0waFJtMVh0TXFVUzU2dw?oc=5\" target=\"_blank\">Nvidia vs. Amazon: Which AI Stock Is a Better Buy Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-03-05T04:30:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnJJaEJrWmQxaGp4bEhKajBiT0ZUd0tHaWxDbDFuTFZrYm5JLXBUV2hybmVUaEJCWkFKNlZIVW54WjEtNTlZSWJnZ3VxSUhFRElsUGpLZUxXTlpUWlVva0I1R0FUMnduRE4wV1lSd0w2V1J5VGZ4UmttQ3BwVlRkUFlFdTY5aDV4aS0waFJtMVh0TXFVUzU2dw?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "The Best Stocks to Invest $1,000 in Right Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBpdkFQTWZaRUxrZ2hvR2trOWNISDJiOFNKRGZVOVNIUGs2ODlXVzlZdENydU9ZM0lNZXo5LUZBNUF6MnBIMnVUQ1hrZThqdlJWbEVoVjlNRng0VkFXSnJLU2VnME90N0M5UFdFX21zX1RDOUZUZmg5Qy1Iald3dDl3X0h0UlQ4MEJEZHVB?oc=5\" target=\"_blank\">The Best Stocks to Invest $1,000 in Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-03-05T23:34:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdXBpdkFQTWZaRUxrZ2hvR2trOWNISDJiOFNKRGZVOVNIUGs2ODlXVzlZdENydU9ZM0lNZXo5LUZBNUF6MnBIMnVUQ1hrZThqdlJWbEVoVjlNRng0VkFXSnJLU2VnME90N0M5UFdFX21zX1RDOUZUZmg5Qy1Iald3dDl3X0h0UlQ4MEJEZHVB?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon Stock Slide Is An Opportunity To Pounce (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlI2WElzTXRDSjB5S3pxekNzZGlyNmFQR25leDVJMXhKMmxYaDM1dlpFVVo3R1BudUoybURxcmlKRzY4Ui1na1lFS2ZOLTlKVXFGWG5nRmxLMG40WVBMWVVjZEFveXhyNWhwaFZxYk5BRHhnTnVRUWlnb0VkZVA2aTBfd1FrYWx5Tk0zUU81Rmo?oc=5\" target=\"_blank\">Amazon Stock Slide Is An Opportunity To Pounce (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-12T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlI2WElzTXRDSjB5S3pxekNzZGlyNmFQR25leDVJMXhKMmxYaDM1dlpFVVo3R1BudUoybURxcmlKRzY4Ui1na1lFS2ZOLTlKVXFGWG5nRmxLMG40WVBMWVVjZEFveXhyNWhwaFZxYk5BRHhnTnVRUWlnb0VkZVA2aTBfd1FrYWx5Tk0zUU81Rmo?oc=5"
+    },
+    {
+      "source": "Barron's",
+      "headline": "Amazon.com Stock Is Falling Again. This Is Its Worst Run Since 2022.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxPc1hScm9XNk9OcURGemJ5Y1lwTjRJR044dlpGNWxrSVZobS1VdjdYVGJqRHJ0a3dmdE9IMDljeGVod3RnYW92aDJBa1k0cFFCWkRCSVBOemNuSmF5clItVkdyRFBXekdici1ZbWVmZkpUN0I3czJlZjdJdzFXdjhVTUNmbTFmWV8tUFdxWUY5bEgtSUJTY1EySk5ON2h0dFg5ZFRYM0pxcXVFdHVwa1FwMmJwSHJGeFRtd3JVdEt6enFoM01lWFZTS0owaWVIalYxN0h5TElXTlpkMmlOYVpRMDF3eS0wUkNINFdueVUtbmo2N1hscDNyc0JxVWJpS3hQSWdQQnZGR0pNNFdCOV91LUEwQTRxbF9WaG42OGx4blNfVkxEdlNBV2wwek1PQWh1VGJTdGJWWWdpRmdJWnNGaU9ZQk91SWE4UVpoVklSWmllNVhjbFNaSUw2ZTg3YjljT0JmSnRpbVdHUU9WXzVuRHlkNmRVb3ZTanhETw?oc=5\" target=\"_blank\">Amazon.com Stock Is Falling Again. This Is Its Worst Run Since 2022.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "date": "2026-02-11T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPc1hScm9XNk9OcURGemJ5Y1lwTjRJR044dlpGNWxrSVZobS1VdjdYVGJqRHJ0a3dmdE9IMDljeGVod3RnYW92aDJBa1k0cFFCWkRCSVBOemNuSmF5clItVkdyRFBXekdici1ZbWVmZkpUN0I3czJlZjdJdzFXdjhVTUNmbTFmWV8tUFdxWUY5bEgtSUJTY1EySk5ON2h0dFg5ZFRYM0pxcXVFdHVwa1FwMmJwSHJGeFRtd3JVdEt6enFoM01lWFZTS0owaWVIalYxN0h5TElXTlpkMmlOYVpRMDF3eS0wUkNINFdueVUtbmo2N1hscDNyc0JxVWJpS3hQSWdQQnZGR0pNNFdCOV91LUEwQTRxbF9WaG42OGx4blNfVkxEdlNBV2wwek1PQWh1VGJTdGJWWWdpRmdJWnNGaU9ZQk91SWE4UVpoVklSWmllNVhjbFNaSUw2ZTg3YjljT0JmSnRpbVdHUU9WXzVuRHlkNmRVb3ZTanhETw?oc=5"
+    },
+    {
+      "source": "Nasdaq",
+      "headline": "Is Amazon (AMZN) a Buy, Sell, or Hold in 2026?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAtaHMzN19wREtDU1RSdlllTXk5Y2IxV0F6NjFVOTB1U2g5Vk1zZFhkZ3p2OF81aHVVbUprSVFsQzVjZ3hsZjVRVm15c1c4OHktVl9Sd2R4aHVNdFpES0t4bzdmbjQ0LXVoRXZFckUwOFNlZk54QVE?oc=5\" target=\"_blank\">Is Amazon (AMZN) a Buy, Sell, or Hold in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "date": "2026-03-02T19:48:00",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtaHMzN19wREtDU1RSdlllTXk5Y2IxV0F6NjFVOTB1U2g5Vk1zZFhkZ3p2OF81aHVVbUprSVFsQzVjZ3hsZjVRVm15c1c4OHktVl9Sd2R4aHVNdFpES0t4bzdmbjQ0LXVoRXZFckUwOFNlZk54QVE?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Alphabet vs. Amazon vs. Microsoft: Which Big Tech Stock Has the Most Upside Now?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQWGxGTWpfRl9rZmVVUTFGaG1yMktzZUZEUVFsVjg4c0xOMUEtdnVRVkwwVndXN3hXUHc5TVBMZGw3OElQOU56RE5lQ29VUkkwNGkzN0s1dkRZR3FSdkcwa0dJUTYxWThpQ3VWcHRQRVdWS2Ryc09POWs4a2hDeENXZm1NUzdkdmJRbE9feGlZUFFqM19tTXk2Z1A5M3k0MlNiMlQtMF80SDdiZTVXbnFLaVJYYjRpOU5Wb1EtMWRsbmFIZFM1SFY0?oc=5\" target=\"_blank\">Alphabet vs. Amazon vs. Microsoft: Which Big Tech Stock Has the Most Upside Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-03-08T11:33:12",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWGxGTWpfRl9rZmVVUTFGaG1yMktzZUZEUVFsVjg4c0xOMUEtdnVRVkwwVndXN3hXUHc5TVBMZGw3OElQOU56RE5lQ29VUkkwNGkzN0s1dkRZR3FSdkcwa0dJUTYxWThpQ3VWcHRQRVdWS2Ryc09POWs4a2hDeENXZm1NUzdkdmJRbE9feGlZUFFqM19tTXk2Z1A5M3k0MlNiMlQtMF80SDdiZTVXbnFLaVJYYjRpOU5Wb1EtMWRsbmFIZFM1SFY0?oc=5"
+    },
+    {
+      "source": "Investing.com",
+      "headline": "Amazon secures landmark $138B AWS deal as OpenAI bets on Trainium",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPN21YbUxka2E2R2puckI0Nkd1ckt3Q0N0UUdSbTBEYWdEQ01hc0ZmNjB5aFh5dEFFVzg4Q3o5aVpha01aeWdvNWZDWXhBNUtrZDd3bUNpNHhPOGZYT3FVWGRobF96OURScHdlOUw2bHJPd3ZQeU9JekhySF9FMGZFX1d4d2hFak1MbkU3V2J0OUlZOHduQWlwVUpkUXZuSjYwUGgzR3Z4UjhOeURFYWZoYXNTZUJWSW8?oc=5\" target=\"_blank\">Amazon secures landmark $138B AWS deal as OpenAI bets on Trainium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "date": "2026-03-07T05:31:40",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN21YbUxka2E2R2puckI0Nkd1ckt3Q0N0UUdSbTBEYWdEQ01hc0ZmNjB5aFh5dEFFVzg4Q3o5aVpha01aeWdvNWZDWXhBNUtrZDd3bUNpNHhPOGZYT3FVWGRobF96OURScHdlOUw2bHJPd3ZQeU9JekhySF9FMGZFX1d4d2hFak1MbkU3V2J0OUlZOHduQWlwVUpkUXZuSjYwUGgzR3Z4UjhOeURFYWZoYXNTZUJWSW8?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Is Buying Amazon Stock Now a Brilliant Move or a Disaster Waiting to Happen?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1NRZldXSmh4WkhSZ0xfZVdpYlRGdndvS2l5UmE4ckoyV1Y0VU1WbGtySzZUbGxZdExjU3l5dkRMOFRrVk52YjNqazd5RENMSG1sVjI1UW1aOWxLbG8wWUU2cUprcDN0T05rOEJmRXBmbXM4a2xobW5MSm9Pa2hocjQ2Y3VHaF9mRDEwMzdCSmJqWmpYY19meg?oc=5\" target=\"_blank\">Is Buying Amazon Stock Now a Brilliant Move or a Disaster Waiting to Happen?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-12T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1NRZldXSmh4WkhSZ0xfZVdpYlRGdndvS2l5UmE4ckoyV1Y0VU1WbGtySzZUbGxZdExjU3l5dkRMOFRrVk52YjNqazd5RENMSG1sVjI1UW1aOWxLbG8wWUU2cUprcDN0T05rOEJmRXBmbXM4a2xobW5MSm9Pa2hocjQ2Y3VHaF9mRDEwMzdCSmJqWmpYY19meg?oc=5"
+    },
+    {
+      "source": "Forbes",
+      "headline": "Amazon Stock Slump: Is This A Crash Or A Buying Opportunity?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjgzcVpGV1ZuLXZscHNKVUZITERzS2dFNTVmcEN1SjYybEJZTTZ2cTNES016SklCaGpNYnJSNHotS2xkNWdhb2FTZkZyM3UtSVZuNFpkbUxEdkJEd01hSUpaVWtPLXZWQ2xOaE5jckh3eVhDVmJJektUR1lEOHhaOXRyamFEdzhSYlJaOHlIbDYwVW5lb0FpMlBwVXpaZVVYRnU2YXJxVEhwQ0xMczhvZExocWF6UnM2?oc=5\" target=\"_blank\">Amazon Stock Slump: Is This A Crash Or A Buying Opportunity?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "date": "2026-02-12T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdjgzcVpGV1ZuLXZscHNKVUZITERzS2dFNTVmcEN1SjYybEJZTTZ2cTNES016SklCaGpNYnJSNHotS2xkNWdhb2FTZkZyM3UtSVZuNFpkbUxEdkJEd01hSUpaVWtPLXZWQ2xOaE5jckh3eVhDVmJJektUR1lEOHhaOXRyamFEdzhSYlJaOHlIbDYwVW5lb0FpMlBwVXpaZVVYRnU2YXJxVEhwQ0xMczhvZExocWF6UnM2?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Can Amazon Stock Turn $10,000 Into $50,000 in the Next Decade? Here's What History Says.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0dIRURGTDFTVkJxWDNScFZmY2NFci1oNlMxREZJLWo2S1RBXzVxeVRYeHZtdUpDSVFrd3NEQjJBYTRQc21EN3JnUmUyU1FPX3ItNkpHcjdTSUFvYWdMbVVnd1RfVU1mZkxWVUREVjhQbDIybDEwMjY4ZEtQRV92eFlWNDJDa0FPUVJrRmdwTU15b1VBaU1j?oc=5\" target=\"_blank\">Can Amazon Stock Turn $10,000 Into $50,000 in the Next Decade? Here's What History Says.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-11T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0dIRURGTDFTVkJxWDNScFZmY2NFci1oNlMxREZJLWo2S1RBXzVxeVRYeHZtdUpDSVFrd3NEQjJBYTRQc21EN3JnUmUyU1FPX3ItNkpHcjdTSUFvYWdMbVVnd1RfVU1mZkxWVUREVjhQbDIybDEwMjY4ZEtQRV92eFlWNDJDa0FPUVJrRmdwTU15b1VBaU1j?oc=5"
+    },
+    {
+      "source": "Finviz",
+      "headline": "Amazon (AMZN) Buys George Washington University's Virginia Campus for $427 Million",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmhYQnJuOHJvbm9NRGdyN1RaUlhPcVA5b053OXZkc0tSQzlNUnlneUJ4aXQ2NWlKS2JxMG9nQzV3eWktbmJYS1JhM0xacVpCckgzbjZyTkFyRjd3VV96aDR5b1J5Y0FUZTFoNlJMekx2eElaSnM2TG5XOXktWktjVVBtVVdIbWZveDlCR1VpdjBYT3JwV0pLR2ZZZGNKYmJUejhwcjM4YTBqam1ReWc?oc=5\" target=\"_blank\">Amazon (AMZN) Buys George Washington University's Virginia Campus for $427 Million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
+      "date": "2026-03-05T00:58:36",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmhYQnJuOHJvbm9NRGdyN1RaUlhPcVA5b053OXZkc0tSQzlNUnlneUJ4aXQ2NWlKS2JxMG9nQzV3eWktbmJYS1JhM0xacVpCckgzbjZyTkFyRjd3VV96aDR5b1J5Y0FUZTFoNlJMekx2eElaSnM2TG5XOXktWktjVVBtVVdIbWZveDlCR1VpdjBYT3JwV0pLR2ZZZGNKYmJUejhwcjM4YTBqam1ReWc?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon launches Amazon Connect Health (AMZN:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPcng5WjlmdUJnanJCdElYRXB6NXNMdU0yOUQ2TEp1TVVYNEF1cjdINnN0RExVd2dabjR0ZFRoY2E1aDlCUUFOdldOUXJMbVdTVUJ4LTNfTXF4UkZzREVteFFEOGtCLUFQOXItTkdveFNnTnp1TmlsVnA5a2tFbXd4Xw?oc=5\" target=\"_blank\">Amazon launches Amazon Connect Health (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-06T15:10:15",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcng5WjlmdUJnanJCdElYRXB6NXNMdU0yOUQ2TEp1TVVYNEF1cjdINnN0RExVd2dabjR0ZFRoY2E1aDlCUUFOdldOUXJMbVdTVUJ4LTNfTXF4UkZzREVteFFEOGtCLUFQOXItTkdveFNnTnp1TmlsVnA5a2tFbXd4Xw?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "The Last 2 Times Amazon\u2019s RSI Did This, the Stock Rallied 60%",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdENIZDlPZFZBUHBzd2UzTlVNS2h3ZVBTUEF6aklka2JGbC1GbFNMamhXUlJwRDQxTzhIN0V3UWEtUFBRMDh6X2JUOTBCbXlLYjJUb0UtNlFrQVlsZGx3RVRrTGNfYVlpdnpKR1dmbW0wdzBFQVpUMC1qODRjYkxiQWs2VmZBc3A4SzBjMHlHV3FHaXAtQ1dveHM0NG8?oc=5\" target=\"_blank\">The Last 2 Times Amazon\u2019s RSI Did This, the Stock Rallied 60%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-13T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdENIZDlPZFZBUHBzd2UzTlVNS2h3ZVBTUEF6aklka2JGbC1GbFNMamhXUlJwRDQxTzhIN0V3UWEtUFBRMDh6X2JUOTBCbXlLYjJUb0UtNlFrQVlsZGx3RVRrTGNfYVlpdnpKR1dmbW0wdzBFQVpUMC1qODRjYkxiQWs2VmZBc3A4SzBjMHlHV3FHaXAtQ1dveHM0NG8?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Is Amazon Stock a Good Buy?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9feHpZVDBHcmotdGNMLXllNE9NWkVPMlp2ckdXVThYcG5ra01lNkZhTDV6VnU3aVh4YzVBYk9RQnZNYWtsdWl4eE1YTzRxcnJueWlwaGxmWlJOSVFhMFJsMUJGLVd3NHZybHJDUTI4SXlwbWFabmZQUg?oc=5\" target=\"_blank\">Is Amazon Stock a Good Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-13T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9feHpZVDBHcmotdGNMLXllNE9NWkVPMlp2ckdXVThYcG5ra01lNkZhTDV6VnU3aVh4YzVBYk9RQnZNYWtsdWl4eE1YTzRxcnJueWlwaGxmWlJOSVFhMFJsMUJGLVd3NHZybHJDUTI4SXlwbWFabmZQUg?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "\u2018That Doesn\u2019t Make Sense,\u2019 Says Top Investor About Amazon Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUxZYTlqeWZXUG5HXzhkUkhMOTVHa1d5NDR3aXFLNThHU0lLVHRGQzE2XzZseUxCWThMdFhiT3NXTFh1LTdrSUg5cDgzQ1FHd3VWOUFmZWY3QVhvalZ1NVNpcU9nUnkxME51TXFwM0NDUzlQaWVzc2IySDVPT1V1ZzBhNzc1R09Db2JYSWx2RWhuZDg?oc=5\" target=\"_blank\">\u2018That Doesn\u2019t Make Sense,\u2019 Says Top Investor About Amazon Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-22T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUxZYTlqeWZXUG5HXzhkUkhMOTVHa1d5NDR3aXFLNThHU0lLVHRGQzE2XzZseUxCWThMdFhiT3NXTFh1LTdrSUg5cDgzQ1FHd3VWOUFmZWY3QVhvalZ1NVNpcU9nUnkxME51TXFwM0NDUzlQaWVzc2IySDVPT1V1ZzBhNzc1R09Db2JYSWx2RWhuZDg?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon.com, Inc. $AMZN Shares Sold by Seaview Investment Managers LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPRkszYXlTN0wyNGVSUTZRZndUVGZwQm1xMnVPVzVxeEZEN0FwRVEyZjF4Mm5yQjk2Zng5cGoyLVpUejE2OVdGOEF3RERlQjZKME5TRUtaRG1tWUtRRDl2SVUtakhjWVdPTFdEMEVFdVVKVkFrZXFPVGxNcW1zRloteGNKY2dENTU1ZDZ3YV83T0xSR055ZUY1V1AzZXVUX0RfYUpKOEgzeUNkSnVRYXI4eGJhZFRmQUlMbFBrMVZJR0o2Yzh3?oc=5\" target=\"_blank\">Amazon.com, Inc. $AMZN Shares Sold by Seaview Investment Managers LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-05T10:18:59",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRkszYXlTN0wyNGVSUTZRZndUVGZwQm1xMnVPVzVxeEZEN0FwRVEyZjF4Mm5yQjk2Zng5cGoyLVpUejE2OVdGOEF3RERlQjZKME5TRUtaRG1tWUtRRDl2SVUtakhjWVdPTFdEMEVFdVVKVkFrZXFPVGxNcW1zRloteGNKY2dENTU1ZDZ3YV83T0xSR055ZUY1V1AzZXVUX0RfYUpKOEgzeUNkSnVRYXI4eGJhZFRmQUlMbFBrMVZJR0o2Yzh3?oc=5"
+    },
+    {
+      "source": "CNBC",
+      "headline": "Amazon snaps 9-day losing streak during which it lost more than $450 billion in value",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9RVmJ4Ri0yX2cyRXlYVHBEemp6RDBDR2htQ3JqemFzS19LQW96UklvTWlOWlNmMVdILUpKWU5hZnN5OVNMOURFMEt0b1NDV3BNOG16d19OYkczN2dHQzF4M2xyR3dQZEh2eW9DQV9Pd3nSAXZBVV95cUxNS09OeXJfdUlhamZFMGl4cVc4V01IRE1Kd2dzdHJwdi1ObUNRazZfTnNMM2hKMzNQbkdaM3cwbncwRkJXQTViX1BxTXdJV2t4V2RvT3hjdnVTbjJ3cEFXRTJNU0ItT3hHSWY1NW15UFN6RGszTXVn?oc=5\" target=\"_blank\">Amazon snaps 9-day losing streak during which it lost more than $450 billion in value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "date": "2026-02-17T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RVmJ4Ri0yX2cyRXlYVHBEemp6RDBDR2htQ3JqemFzS19LQW96UklvTWlOWlNmMVdILUpKWU5hZnN5OVNMOURFMEt0b1NDV3BNOG16d19OYkczN2dHQzF4M2xyR3dQZEh2eW9DQV9Pd3nSAXZBVV95cUxNS09OeXJfdUlhamZFMGl4cVc4V01IRE1Kd2dzdHJwdi1ObUNRazZfTnNMM2hKMzNQbkdaM3cwbncwRkJXQTViX1BxTXdJV2t4V2RvT3hjdnVTbjJ3cEFXRTJNU0ItT3hHSWY1NW15UFN6RGszTXVn?oc=5"
+    },
+    {
+      "source": "Insider Monkey",
+      "headline": "Compute Capacity Offering Support to Amazon (AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTB0ZTlKR3hfeWdqT3VSU2tpVUx4aGV0STZqY1pkN1M1UFF0SjdfemN1T1FmNDFrd1lacnhxYm9ZODBiQ1htbDZ0X0hKdWhQTzhZQWRfX3lhaEdpZG1zZ0ZSenhKSExxR3BOZEd3QlJvckxyd2dsOGVkajN1bURudHpIRzBMN3hoUlUySXRtM0VJdEtyazdV0gGfAUFVX3lxTFBmRmVRaEpEWGdLbnN0cUYzUE90N183QWJMZkpFUU9nYXJJUWdEc0k4U2ZmNHhBdzEwVjZHdXhlMkpldlB0eXYzTXZzOWM5NjBPYU9jSnRUQXZiRDRVekZfQzc4TFAtSkQ5NlZTSTNtU00yS0ZnUXExcV9LMURxbk10bVlsUDRCekNNaE5vaUxEMW1DNjFhN2s2cHdkRUpFQQ?oc=5\" target=\"_blank\">Compute Capacity Offering Support to Amazon (AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+      "date": "2026-03-08T10:21:04",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTB0ZTlKR3hfeWdqT3VSU2tpVUx4aGV0STZqY1pkN1M1UFF0SjdfemN1T1FmNDFrd1lacnhxYm9ZODBiQ1htbDZ0X0hKdWhQTzhZQWRfX3lhaEdpZG1zZ0ZSenhKSExxR3BOZEd3QlJvckxyd2dsOGVkajN1bURudHpIRzBMN3hoUlUySXRtM0VJdEtyazdV0gGfAUFVX3lxTFBmRmVRaEpEWGdLbnN0cUYzUE90N183QWJMZkpFUU9nYXJJUWdEc0k4U2ZmNHhBdzEwVjZHdXhlMkpldlB0eXYzTXZzOWM5NjBPYU9jSnRUQXZiRDRVekZfQzc4TFAtSkQ5NlZTSTNtU00yS0ZnUXExcV9LMURxbk10bVlsUDRCekNNaE5vaUxEMW1DNjFhN2s2cHdkRUpFQQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon.com, Inc. $AMZN Shares Purchased by Onyx Bridge Wealth Group LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxObW8yZ0U1Ym10bF9Va3dQWEllS0RoTFR1eFFURUZadl9vdkdYUEE2ODQ2UTJmRTBEc1RHSnZzU0RmR2NjajgzU3ZrRTZpaU5NczlqNG53MVYyelZFa3BUOEhlcjNVUE0yWG9NaldPdHQtR1ZOcmtsVExncnNYU3dpbmhQa01rS21sZUpobTZYS3R0S1dxUDk2NG5tcHgtWFBKVTdyRmFZeFB6ZzMtazU3VWdua24teHYzeW8wS3NYMU9uY2Q2TF93?oc=5\" target=\"_blank\">Amazon.com, Inc. $AMZN Shares Purchased by Onyx Bridge Wealth Group LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-05T10:21:06",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObW8yZ0U1Ym10bF9Va3dQWEllS0RoTFR1eFFURUZadl9vdkdYUEE2ODQ2UTJmRTBEc1RHSnZzU0RmR2NjajgzU3ZrRTZpaU5NczlqNG53MVYyelZFa3BUOEhlcjNVUE0yWG9NaldPdHQtR1ZOcmtsVExncnNYU3dpbmhQa01rS21sZUpobTZYS3R0S1dxUDk2NG5tcHgtWFBKVTdyRmFZeFB6ZzMtazU3VWdua24teHYzeW8wS3NYMU9uY2Q2TF93?oc=5"
+    },
+    {
+      "source": "Trefis",
+      "headline": "Amazon.com Stock Drop Looks Sharp, But How Deep Can It Go?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEc4QncyZnhWT2RNWXpHVXowbDJZQ1dJa3ZDS1RhWHRzajRxN0E1QWE5SGwxemduZFdfOVpkT1RpdDJUdVhucU9Za0dwQ2xJcHl5MFJ1aVpBV0hRczAzQmdnTElWY3Z2ZlZPWEFrOVZXejEtRkJZVjBFbk4wbjdvNmgtRmJ4M211Tnc2dW04c3RuVGMwaVhKVEc5c2k0dkJjbjVCNTVzU2lKSk9WRWFfb0gxNC1hQVJIWFE?oc=5\" target=\"_blank\">Amazon.com Stock Drop Looks Sharp, But How Deep Can It Go?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+      "date": "2026-02-10T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbEc4QncyZnhWT2RNWXpHVXowbDJZQ1dJa3ZDS1RhWHRzajRxN0E1QWE5SGwxemduZFdfOVpkT1RpdDJUdVhucU9Za0dwQ2xJcHl5MFJ1aVpBV0hRczAzQmdnTElWY3Z2ZlZPWEFrOVZXejEtRkJZVjBFbk4wbjdvNmgtRmJ4M211Tnc2dW04c3RuVGMwaVhKVEc5c2k0dkJjbjVCNTVzU2lKSk9WRWFfb0gxNC1hQVJIWFE?oc=5"
+    },
+    {
+      "source": "Finviz",
+      "headline": "Amazon.com Inc. (AMZN) Expands Global Connectivity and Strengthens Growth Outlook",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFFOVXN0bHFPV21ndURHYmFfdzJDMEN3R0hvZ0t2YnhvU2ZuZmVUY3A0OHpNTTNmdjVITTJvSDdyeWsyWTBWVXVPNDhuZEZTel9EZzB3TWoyRGJCOXFFQlZXZnlUVmR3ZkowWHE3SEQ0SUFwSEc5akZIMDA3QkV4ZkM3S2hreVhLUDRWdEVSUmVJeTZseXNsQUpZbG5sOUx4eDRwMXh0UnpvMVc4?oc=5\" target=\"_blank\">Amazon.com Inc. (AMZN) Expands Global Connectivity and Strengthens Growth Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
+      "date": "2026-03-05T00:58:36",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFFOVXN0bHFPV21ndURHYmFfdzJDMEN3R0hvZ0t2YnhvU2ZuZmVUY3A0OHpNTTNmdjVITTJvSDdyeWsyWTBWVXVPNDhuZEZTel9EZzB3TWoyRGJCOXFFQlZXZnlUVmR3ZkowWHE3SEQ0SUFwSEc5akZIMDA3QkV4ZkM3S2hreVhLUDRWdEVSUmVJeTZseXNsQUpZbG5sOUx4eDRwMXh0UnpvMVc4?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Amazon\u2019s Epic Losing Streak: Why This Dip Could Be Your Ticket to Riches",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUptejk0MkRZaEU3Nk1VUzJhOEM0SVY0M05zZWJXd0l2ekswV1RWa2lrSDRkS0VzY0ZRVGxiSHotZ2FsM2FWMmlQalNqNmtTTVdXNE95T1lhOXRlUnFOTFpveWVCb1piMjhHMnlGRzItakpWVWJlYVVnOVVRZjdVX1ZTcmJKV3B6S0xYS28xcldXWU1YQmVMNVpSU2dsU1Q4VXdxUnlYa0FMZ0FpMXZFc2RKNUg?oc=5\" target=\"_blank\">Amazon\u2019s Epic Losing Streak: Why This Dip Could Be Your Ticket to Riches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-14T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUptejk0MkRZaEU3Nk1VUzJhOEM0SVY0M05zZWJXd0l2ekswV1RWa2lrSDRkS0VzY0ZRVGxiSHotZ2FsM2FWMmlQalNqNmtTTVdXNE95T1lhOXRlUnFOTFpveWVCb1piMjhHMnlGRzItakpWVWJlYVVnOVVRZjdVX1ZTcmJKV3B6S0xYS28xcldXWU1YQmVMNVpSU2dsU1Q4VXdxUnlYa0FMZ0FpMXZFc2RKNUg?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Why Amazon Stock Dropped This Week",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlhlYXo4Mjd4VFhreDV0NjNqLU1MWGMwWURmcHRtS294QTlDS0lnYU9EUFFENENtdFRDOWdINGtOaFRKZThCLUNSeGN1MXkzdnVrdXlxVEJZd21CeDV6YkUwUHBCcVRVWl9hOTJTVnRIWm51a2dIVmlvVkdYcURtdE5qWQ?oc=5\" target=\"_blank\">Why Amazon Stock Dropped This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-08T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlhlYXo4Mjd4VFhreDV0NjNqLU1MWGMwWURmcHRtS294QTlDS0lnYU9EUFFENENtdFRDOWdINGtOaFRKZThCLUNSeGN1MXkzdnVrdXlxVEJZd21CeDV6YkUwUHBCcVRVWl9hOTJTVnRIWm51a2dIVmlvVkdYcURtdE5qWQ?oc=5"
+    },
+    {
+      "source": "Investing.com",
+      "headline": "Amazon CEO Herrington sells $208k in AMZN stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcW5CU2FJaVBRUWpOcXltbHpPbnc1MUx4b2Mya3djWFdRbzFBNndWYTl0akpmdlBMQUR1TnhvNldxdW11X2ExZ1VYTGxGVkUxeDBLaHBOV21TcmlUQnhSc0MzZVM1LXEyZ1JBWWFwblptbDIxV1d4SS10ZWlXOUt6Q1NjVFJYM3g1SC1ZVUlncjlnNlNXSFNuRjAxd29QVDIyd1g4LVRFWnZzRTVyX2c5Uw?oc=5\" target=\"_blank\">Amazon CEO Herrington sells $208k in AMZN stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "date": "2026-02-14T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcW5CU2FJaVBRUWpOcXltbHpPbnc1MUx4b2Mya3djWFdRbzFBNndWYTl0akpmdlBMQUR1TnhvNldxdW11X2ExZ1VYTGxGVkUxeDBLaHBOV21TcmlUQnhSc0MzZVM1LXEyZ1JBWWFwblptbDIxV1d4SS10ZWlXOUt6Q1NjVFJYM3g1SC1ZVUlncjlnNlNXSFNuRjAxd29QVDIyd1g4LVRFWnZzRTVyX2c5Uw?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon Erases a Year of Gains\u20142 Reasons the Market's Wrong",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGVZbWJjeUh1eWt5ZW5KS0tDT0c2SHlZTmptZ2Z2Z240NWFZRVBDUGt4YkZUdE96ZXg5SURhSUt0Nk5vTzZ5RHBmcmlkSk81U3paMzdOYThqdkJqV3l0ckZLd1ZVVmJudGt1WUFlQVFPcGl4c2NROXdZWHpINnE5RUQ4M0FIOXJfcFczMGwtRzRyaFMtV21Nbml3?oc=5\" target=\"_blank\">Amazon Erases a Year of Gains\u20142 Reasons the Market's Wrong</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-16T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGVZbWJjeUh1eWt5ZW5KS0tDT0c2SHlZTmptZ2Z2Z240NWFZRVBDUGt4YkZUdE96ZXg5SURhSUt0Nk5vTzZ5RHBmcmlkSk81U3paMzdOYThqdkJqV3l0ckZLd1ZVVmJudGt1WUFlQVFPcGl4c2NROXdZWHpINnE5RUQ4M0FIOXJfcFczMGwtRzRyaFMtV21Nbml3?oc=5"
+    },
+    {
+      "source": "Investing.com",
+      "headline": "Amazon\u2019s CEO Garman of web services sells $3.6m in AMZN stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXVtTWlXSG84cldoSFR4Y3l2X1VnQUVGYkJkWWxSUXVBVmZaRG5tN09lR0ZSUXRFRUtIcnpjcVl6a1JvWFVZZ0hDQXZNb2FYbXRWWUJucTE3dzNPZk5oajRrQUYwOWlBdEZWdGV2Umc0N1NSNHZtbENVbHRPSXNBeTVGN0RKX1VQaHVZYjhibjdGd1BhaXFwU21kdllSUnpHQWM5azBBdUt3a3ZxeU5ra3lIOVJYMWR5dVZfTWhCSmE?oc=5\" target=\"_blank\">Amazon\u2019s CEO Garman of web services sells $3.6m in AMZN stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "date": "2026-02-24T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXVtTWlXSG84cldoSFR4Y3l2X1VnQUVGYkJkWWxSUXVBVmZaRG5tN09lR0ZSUXRFRUtIcnpjcVl6a1JvWFVZZ0hDQXZNb2FYbXRWWUJucTE3dzNPZk5oajRrQUYwOWlBdEZWdGV2Umc0N1NSNHZtbENVbHRPSXNBeTVGN0RKX1VQaHVZYjhibjdGd1BhaXFwU21kdllSUnpHQWM5azBBdUt3a3ZxeU5ra3lIOVJYMWR5dVZfTWhCSmE?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon draws mixed signals as hedge funds place opposing bets",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0puLWZwZGh6dmJqb01iZi1lTDgwSGd1cjA2RXFGNGN6cHhJM3dHQk82aUpvM2VvR2VSZERJcXY3SWNUXzlyc3QyZFVyOVZIM1kzbHU2UjdFcXd0VzRMVlhuRFIxZXVrWUFFM2hEZm1ib1NXa1FPRklpRVpmTVBnVVpXdnhCRk9EVmcwb2FEX2pVVXc2REtkczd4MEJQTXlNS0E?oc=5\" target=\"_blank\">Amazon draws mixed signals as hedge funds place opposing bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-21T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0puLWZwZGh6dmJqb01iZi1lTDgwSGd1cjA2RXFGNGN6cHhJM3dHQk82aUpvM2VvR2VSZERJcXY3SWNUXzlyc3QyZFVyOVZIM1kzbHU2UjdFcXd0VzRMVlhuRFIxZXVrWUFFM2hEZm1ib1NXa1FPRklpRVpmTVBnVVpXdnhCRk9EVmcwb2FEX2pVVXc2REtkczd4MEJQTXlNS0E?oc=5"
+    },
+    {
+      "source": "thestreet.com",
+      "headline": "Amazon stock fires rare technical signal after $470B tumble | AMZN",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU1XNkJUMmk0aC1MdUxTNW9TdXdHNkRpVU9ENHVMQ1ppbFBTZmxMci1UY1BURXNEQ1NyaERSbkptTWJNck1jNmxna1hIM1FZRW5UR0hzaUp1UDJQcGhfTXZCUEZCNWJQWmtDVWFVTExoRGZ2TjhoS1l0ZUYxQkd3VHRFaG1wT3V1bEVGZDB6Y0pLaFBNb2pySWRGVGV5Z0VHTUlfS2I0VQ?oc=5\" target=\"_blank\">Amazon stock fires rare technical signal after $470B tumble | AMZN</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "date": "2026-02-17T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNU1XNkJUMmk0aC1MdUxTNW9TdXdHNkRpVU9ENHVMQ1ppbFBTZmxMci1UY1BURXNEQ1NyaERSbkptTWJNck1jNmxna1hIM1FZRW5UR0hzaUp1UDJQcGhfTXZCUEZCNWJQWmtDVWFVTExoRGZ2TjhoS1l0ZUYxQkd3VHRFaG1wT3V1bEVGZDB6Y0pLaFBNb2pySWRGVGV5Z0VHTUlfS2I0VQ?oc=5"
+    },
+    {
+      "source": "Barchart.com",
+      "headline": "Amazon (AMZN) Stock Trades Up, Here Is Why",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPZklhbFFFNzlqMWdDVW5NR1J6VlIyM1VGMGRlM05nYWtRUFRoWnpBOFdHLXhwOFhRSTVGVngtNnZhVjhSNzk4Y1p1Qzd6cVVHVzltbk5kdmIwVVhBdUxWUzY1ODk2cERDTzlvTDJKVnlvMnU4MFA2X0l3SWhDN2RBTVduM05POWQyQlE?oc=5\" target=\"_blank\">Amazon (AMZN) Stock Trades Up, Here Is Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "date": "2026-03-04T20:20:54",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZklhbFFFNzlqMWdDVW5NR1J6VlIyM1VGMGRlM05nYWtRUFRoWnpBOFdHLXhwOFhRSTVGVngtNnZhVjhSNzk4Y1p1Qzd6cVVHVzltbk5kdmIwVVhBdUxWUzY1ODk2cERDTzlvTDJKVnlvMnU4MFA2X0l3SWhDN2RBTVduM05POWQyQlE?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Amazon Stock (AMZN) Suffers Biggest Decline Since 2022",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkgtRlk4d2EtdHh0NFkzYTVwalBqMFZmcjg5cDRWSk5QX0VqcHc2Yjl4UE5BQnJnem5XSWM3dC1OYmUyVmFpczZkREx0U3JnLTBTSHVGTldDZkd4UVVVYTVBcFotbGFtVVljZUpMakx5R3BfSEZTNUs0Ti1ubGZua1lvVVFaR1VKcXc?oc=5\" target=\"_blank\">Amazon Stock (AMZN) Suffers Biggest Decline Since 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-11T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkgtRlk4d2EtdHh0NFkzYTVwalBqMFZmcjg5cDRWSk5QX0VqcHc2Yjl4UE5BQnJnem5XSWM3dC1OYmUyVmFpczZkREx0U3JnLTBTSHVGTldDZkd4UVVVYTVBcFotbGFtVVljZUpMakx5R3BfSEZTNUs0Ti1ubGZua1lvVVFaR1VKcXc?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Is Amazon Plateauing? What to Know Before You Buy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2diSlFWMmNrbDVLUmVwdmY0MzVfNUhEbFhnaXRrTEtGLWNZR19xNDlPSFFPOV9JeEdvbzRWVkZ0VjIxWk1CaktXbktSQWxKQzdJLURqSFo2SG9vaG90dHc0OGdFMGJjb0NWZ0dvWlYzTVV6NGxSeTNfcXNodkhjclRfek1pYVNKVHE5VzU4Mllza2JmZ3VJ?oc=5\" target=\"_blank\">Is Amazon Plateauing? What to Know Before You Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-09T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2diSlFWMmNrbDVLUmVwdmY0MzVfNUhEbFhnaXRrTEtGLWNZR19xNDlPSFFPOV9JeEdvbzRWVkZ0VjIxWk1CaktXbktSQWxKQzdJLURqSFo2SG9vaG90dHc0OGdFMGJjb0NWZ0dvWlYzTVV6NGxSeTNfcXNodkhjclRfek1pYVNKVHE5VzU4Mllza2JmZ3VJ?oc=5"
+    },
+    {
+      "source": "Insider Monkey",
+      "headline": "What Makes Amazon (AMZN) an Overall High-Quality Growth Compounder?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1ViZzBEOXlVZ3VKWFhwZDBqSWVNQlZuT3BacDFHRDNzQnJLLWVzLUdmWVRhYzRSalB2bmVYUFlHNlczQzg4LWtCZlJxb0ZjMkRWUnI1dDNXQnFLLTlHeExqWFZhWmhzZzhMUWlKWTRsbnNMVVdYS0tjZ0lDTU42WEk5NS16M2p0RC00eHNPUXNkeDNjcHhsYTdlenpYclNRb1h5U3B2dXdySnVR0gG0AUFVX3lxTE9pUTdDb1g5ZkNUdml5TWVYUmNyc1hqenhqV0Nac2dhNU40VG5EZ1poXzZwRkhic29fLU9hblZSTmdZQWhzUXdvZzJXdmtZS3dYb2x2dEJBMzJzQVdERGVxQmZVd0pzWnh4ODNZVkdHTTBfRTNkNlRCNGdJdHowazhBWlBPV1ZXXzBLcVpRNkxiZEo1emhjdjRDZ0Y3aW9OWkNBWGpuSlp6UmlVWkRwX0JtdnRjMg?oc=5\" target=\"_blank\">What Makes Amazon (AMZN) an Overall High-Quality Growth Compounder?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+      "date": "2026-03-06T14:09:38",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1ViZzBEOXlVZ3VKWFhwZDBqSWVNQlZuT3BacDFHRDNzQnJLLWVzLUdmWVRhYzRSalB2bmVYUFlHNlczQzg4LWtCZlJxb0ZjMkRWUnI1dDNXQnFLLTlHeExqWFZhWmhzZzhMUWlKWTRsbnNMVVdYS0tjZ0lDTU42WEk5NS16M2p0RC00eHNPUXNkeDNjcHhsYTdlenpYclNRb1h5U3B2dXdySnVR0gG0AUFVX3lxTE9pUTdDb1g5ZkNUdml5TWVYUmNyc1hqenhqV0Nac2dhNU40VG5EZ1poXzZwRkhic29fLU9hblZSTmdZQWhzUXdvZzJXdmtZS3dYb2x2dEJBMzJzQVdERGVxQmZVd0pzWnh4ODNZVkdHTTBfRTNkNlRCNGdJdHowazhBWlBPV1ZXXzBLcVpRNkxiZEo1emhjdjRDZ0Y3aW9OWkNBWGpuSlp6UmlVWkRwX0JtdnRjMg?oc=5"
+    }
+  ]
+}
