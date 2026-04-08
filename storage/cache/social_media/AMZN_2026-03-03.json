@@ -1,0 +1,55 @@
+{
+  "ticker": "AMZN",
+  "data_source": "reddit",
+  "post_count": 8,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Buy the dip AMZN",
+      "date": "2026-02-09"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "valueinvesting",
+      "text": "Amazon at 205. Down 9% ytd and 14% the last 12 months. Is it a buy?",
+      "date": "2026-02-06"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "valueinvesting",
+      "text": "AMZN is down almost 20% YOY and only up 30% in 5 years - no dividends!",
+      "date": "2026-02-06"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "GOOG: I'm spending $180b on Capex. AMZN: \"Hold my beer\"",
+      "date": "2026-02-05"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "Big Six (AAPL, AMZN, GOOGL, META, MSFT, NVDA): Combined Quarterly Revenue $680 billion and Net Income $202 billion",
+      "date": "2026-02-26"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "Why has AMZN been the most underperforming MAG7 stock in past 5 years?",
+      "date": "2026-02-06"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "AMZN Quarterly Revenue $213.4 billion (up 13.6% YoY)",
+      "date": "2026-02-05"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "I expect AMZN to materially beat their Q4 '25 Earnings",
+      "date": "2026-02-05"
+    }
+  ]
+}

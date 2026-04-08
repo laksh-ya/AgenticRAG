@@ -1,0 +1,43 @@
+{
+  "ticker": "NVDA",
+  "data_source": "reddit",
+  "post_count": 6,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "CSCO my ass, holding NVDA since 2008",
+      "date": "2025-11-26"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Softbank sells all of its NVDA holdings",
+      "date": "2025-11-11"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "NVDA Quarterly Revenue $57 billion (up 62% YoY)",
+      "date": "2025-11-19"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "(NVDA) NVIDIA Q3 2026 Earnings Call | Live Transcript at 5:00pm ET",
+      "date": "2025-11-19"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Sold NVDA today and netted 210K gain, I\u2019d like to think that my sell order caused the price to dip a little",
+      "date": "2026-01-27"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "NVDA Earnings with the Double Beat",
+      "date": "2025-11-19"
+    }
+  ]
+}

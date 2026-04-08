@@ -5,14 +5,15 @@ import pytest
 import sys
 import os
 
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Add src to path
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "src"))
 
 
 class TestRAGManager:
     """Test Multi-RAG system."""
     
     def setup_method(self):
-        from multi_rag.rag_manager import RAGManager
+        from karma.rag.rag_manager import RAGManager
         self.rag = RAGManager()  # In-memory
     
     def test_add_and_query(self):

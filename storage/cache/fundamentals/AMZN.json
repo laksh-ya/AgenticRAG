@@ -1,0 +1,35 @@
+{
+  "company": "Amazon.com, Inc.",
+  "ticker": "AMZN",
+  "data_source": "yfinance",
+  "as_of": "2026-03-26",
+  "fundamentals": {
+    "valuation": {
+      "market_cap": 2262599204864,
+      "pe_ratio": 29.355154,
+      "forward_pe": 22.467945,
+      "peg_ratio": null,
+      "price_to_book": 5.502271,
+      "valuation_signal": "fair"
+    },
+    "profitability": {
+      "eps": 7.18,
+      "operating_margin": 0.10533,
+      "net_margin": 0.108339995,
+      "roe": 0.22286,
+      "profitability_signal": "weak"
+    },
+    "financial_health": {
+      "free_cash_flow": 23793125376,
+      "debt_to_equity": 43.435,
+      "cash_on_hand": 123028996096,
+      "current_ratio": 1.051,
+      "health_signal": "very strong"
+    },
+    "growth": {
+      "revenue_growth_yoy": 0.136,
+      "eps_growth_yoy": 0.05,
+      "growth_signal": "strong"
+    }
+  }
+}

@@ -5,7 +5,8 @@ import pytest
 import sys
 import os
 
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Add src to path
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "src"))
 
 
 class TestKBAgent:
@@ -13,8 +14,8 @@ class TestKBAgent:
     
     def setup_method(self):
         """Setup for each test."""
-        from multi_rag.rag_manager import RAGManager
-        from agents.kb_agent import KnowledgeBaseAgent
+        from karma.rag.rag_manager import RAGManager
+        from karma.agents.kb_agent import KnowledgeBaseAgent
         
         self.rag = RAGManager()  # In-memory for tests
         self.kb = KnowledgeBaseAgent(self.rag)

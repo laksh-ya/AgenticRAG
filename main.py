@@ -1,16 +1,23 @@
 """
-AgenticRAG - Main Entry Point
-Simple example usage
+KARMA - Main Entry Point
+Knowledge-Aware Reinforced Multi-Agent Framework for Autonomous Financial Investment Decision-Making
+Simple example usage for intraday trading analysis
 """
 import sys
-from graphs.trading_graph import TradingGraph
-from preferences import SUPPORTED_TICKERS, PRESET_PORTFOLIOS, DEFAULT_PORTFOLIO_KEY
+import os
+
+# Add src to path for imports
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
+
+from karma.graph.trading_graph import TradingGraph
+from karma.config import SUPPORTED_TICKERS, PRESET_PORTFOLIOS, DEFAULT_PORTFOLIO_KEY
 
 
 def main():
-    """Run a trading analysis."""
+    """Run an intraday trading analysis."""
     print("=" * 60)
-    print("AgenticRAG - Investment Decision System")
+    print("KARMA — Intraday Investment Decision System")
+    print("Knowledge-Aware Reinforced Multi-Agent Framework")
     print("=" * 60)
 
     # Parse optional --portfolio flag (e.g. --portfolio heavy_tech)

@@ -1,6 +1,8 @@
-# AgenticRAG — Multi-Agent Multi-RAG Investment Decision System
+# KARMA — Knowledge-Aware Reinforced Multi-Agent Framework for Autonomous Financial Investment Decision-Making
 
-A multi-agent system where a **Knowledge Base Agent** actively queries, stores, and **learns from its own trading decisions** via RAG — making it *Agentic RAG*, not passive retrieval.
+A multi-agent system where a **Knowledge Base Agent** actively queries, stores, and **learns from its own intraday trading decisions** via RAG — making it *Agentic RAG*, not passive retrieval.
+
+> **Focus:** Intraday trading decisions for US equities. Each analysis generates a BUY/HOLD/SELL recommendation for same-day or next-day action.
 
 ---
 
@@ -9,11 +11,11 @@ A multi-agent system where a **Knowledge Base Agent** actively queries, stores, 
 | What | How |
 |------|-----|
 | **Pre-Query** | KB Agent searches RAG for past lessons *before* analysts run |
-| **Post-Learn** | Every decision is stored with full context in the knowledge base |
-| **Outcome Learning** | Feed back real returns → the system reflects and stores lessons |
+| **Post-Learn** | Every intraday decision is stored with full context in the knowledge base |
+| **Outcome Learning** | Feed back real intraday returns → the system reflects and stores lessons |
 | **Explainability** | Every decision gets a structured report explaining *why* |
 
-Over time, the system gets smarter because its RAG remembers what worked and what didn't.
+Over time, the system gets smarter because its RAG remembers what worked and what didn't in intraday trading scenarios.
 
 ---
 
@@ -21,45 +23,28 @@ Over time, the system gets smarter because its RAG remembers what worked and wha
 
 ```
 AgenticRAG/
-├── preferences.py              # Central config — LLMs, embeddings, data, tickers
-├── main.py                     # CLI entry point
-│
-├── agents/                     # All agent logic
-│   ├── kb_agent.py             # ★ THE NOVELTY — Knowledge Base Agent
-│   ├── analysts.py             # 4 analysts (fundamentals, market, news, social)
-│   ├── researchers.py          # Bull + Bear researchers + Research Manager
-│   ├── risk_manager.py         # Portfolio-aware risk assessment
-│   ├── trader.py               # Final decision maker
-│   ├── prompts.py              # All LLM prompts
-│   └── state.py                # Shared TypedDict state
-│
-├── multi_rag/                  # RAG system (ChromaDB)
-│   ├── rag_manager.py          # 3 collections: insights, history, lessons
-│   ├── knowledge_store.py      # Low-level ChromaDB wrapper
-│   ├── embeddings.py           # OpenAI / Gemini / Ollama embeddings
-│   └── explainability.py       # 2-phase: snapshot report + outcome learning
-│
-├── dataflows/                  # ★ Unified data pipeline
-│   ├── sources.py              # Every data fetcher (yfinance, Reddit, AV, RSS)
-│   ├── data_loader.py          # Cache + fallback chain loader
-│   └── yfinance_source.py      # Legacy yfinance helpers
-│
-├── graphs/
-│   └── trading_graph.py        # LangGraph workflow orchestrator
-│
-├── streamlit_apps/             # 6 Streamlit UIs
-│   ├── app_main.py             # Full analysis with live agent reasoning
-│   ├── app_data_test.py        # Test all data sources + cache
-│   ├── app_kb_train.py         # Teach outcomes, upload data, browse KB
-│   ├── app_rag_test.py         # Query RAG directly
-│   ├── app_backtest.py         # Rolling backtest
-│   └── app_metrics.py          # Metrics dashboard + outcome tracking
-│
-├── data_ingestion/             # Teammate's standalone scripts (reference)
-├── evaluation/                 # Backtesting module
-├── paper/                      # Research paper (LaTeX + Markdown)
-├── tests/                      # Unit tests
-└── utils/                      # LLM factory
+├── main.py
+├── requirements.txt
+├── apps/                       # Streamlit apps
+│   ├── app_essential.py
+│   ├── app_main.py
+│   └── app_master_eval.py
+├── src/karma/
+│   ├── config.py               # Central config (single source of truth)
+│   ├── agents/
+│   ├── data/
+│   ├── rag/
+│   ├── graph/
+│   ├── evaluation/
+│   └── utils/
+├── storage/
+│   ├── cache/                  # JSON cache
+│   ├── kb/                     # Chroma knowledge stores
+│   ├── results/                # Analysis + eval outputs
+│   └── logs/
+├── data/                       # Input dataset snapshots
+├── docs/
+└── tests/
 ```
 
 ---
@@ -82,8 +67,9 @@ cp .env.example .env
 # Optional: ALPHA_VANTAGE_API_KEY for news data
 
 # 5. Run
-python main.py                              # CLI
-streamlit run streamlit_apps/app_main.py    # Web UI
+python main.py
+streamlit run apps/app_main.py
+streamlit run apps/app_essential.py
 ```
 
 ---
@@ -105,11 +91,11 @@ KB Post-Learn  ←  Explainability Report  ←  Trader  ←  Risk Manager  ←  
 The `DataLoader` handles everything — agents just call `loader.load(ticker, date, data_type)`.
 
 **How it works:**
-1. Check JSON cache (`data/<subdir>/TICKER.json`) — instant, no network
+1. Check JSON cache in `storage/cache/<subdir>/...` — instant, no network
 2. Walk the fallback chain for that data type, trying each source in order
 3. First source that returns data → auto-cached as JSON for next time
 
-**Fallback chains** (configurable in `preferences.py`):
+**Fallback chains** (configurable in `src/karma/config.py`):
 
 | Data Type | Source 1 | Source 2 | Source 3 |
 |-----------|----------|----------|----------|
@@ -124,7 +110,7 @@ The `DataLoader` handles everything — agents just call `loader.load(ticker, da
 
 ## ⚙️ Configuration
 
-Everything is in **`preferences.py`** — no hardcoded values anywhere else.
+Everything is in **`src/karma/config.py`** — no hardcoded values anywhere else.
 
 ```python
 # Switch LLM provider
@@ -145,15 +131,12 @@ SUPPORTED_TICKERS = ["AAPL", "MSFT", "GOOGL", "NVDA", "AMZN"]
 
 | App | Command | What it does |
 |-----|---------|-------------|
-| **Main Analysis** | `streamlit run streamlit_apps/app_main.py` | Full pipeline with live agent progress |
-| **Data Test** | `streamlit run streamlit_apps/app_data_test.py` | Test sources, inspect cache, bulk fetch |
-| **KB Training** | `streamlit run streamlit_apps/app_kb_train.py` | Teach outcomes, upload data, browse KB |
-| **RAG Test** | `streamlit run streamlit_apps/app_rag_test.py` | Query RAG collections directly |
-| **Backtest** | `streamlit run streamlit_apps/app_backtest.py` | Rolling 30-day backtest |
-| **Metrics** | `streamlit run streamlit_apps/app_metrics.py` | Decision log, outcomes, win rate, charts |
+| **Essential Lab** | `streamlit run apps/app_essential.py` | View decisions, edit cached data/KB, and learn from outcomes |
+| **Main Analysis** | `streamlit run apps/app_main.py` | Full pipeline with live agent progress |
+| **Master Eval** | `streamlit run apps/app_master_eval.py` | Controlled 5-day KB mode experiment with result tables |
 
 ---
 
 ## 🤝 Contributing
 
-See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the full guide on how to edit, where to add things, and what NOT to touch.
+See **[docs/CONTRIBUTING.md](docs/CONTRIBUTING.md)** for the full guide on how to edit, where to add things, and what NOT to touch.

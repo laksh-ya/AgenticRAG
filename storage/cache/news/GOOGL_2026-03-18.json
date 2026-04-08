@@ -1,0 +1,183 @@
+{
+  "ticker": "GOOGL",
+  "data_source": "google_rss",
+  "time_window": "last_30_days",
+  "article_count": 25,
+  "articles": [
+    {
+      "source": "Yahoo Finance",
+      "headline": "Alphabet Inc. (GOOGL) Stock Price, News, Quote & History",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5\" target=\"_blank\">Alphabet Inc. (GOOGL) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-03-16T14:22:03",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5"
+    },
+    {
+      "source": "TradingView",
+      "headline": "Is Alphabet Stock's 25.55X PE Still Worth it? Buy, Sell, or Hold?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMmQ5LWJsY0RjTGotZ0lGSldQR28tbExydVRzSHlDRnVMQUp0cEhyYmdUV1NjZV80SjdkbmFkdzRYczZoYWpELWRGVHRGTUtXY2RNcl9hX3VxVmZkVnc3QXdQOVpCeVM4OUc5dDhzUVlETnlmSlFyTlJ2V0hHS2ctNDc0MXl3MUFlQTV6eDZBQXp0TTVGWmFkTGhXcU9YU2hCMVZFcmZrdEQ5YkQwRDZsOUNfazhfZEpL?oc=5\" target=\"_blank\">Is Alphabet Stock's 25.55X PE Still Worth it? Buy, Sell, or Hold?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "date": "2026-03-17T16:53:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMmQ5LWJsY0RjTGotZ0lGSldQR28tbExydVRzSHlDRnVMQUp0cEhyYmdUV1NjZV80SjdkbmFkdzRYczZoYWpELWRGVHRGTUtXY2RNcl9hX3VxVmZkVnc3QXdQOVpCeVM4OUc5dDhzUVlETnlmSlFyTlJ2V0hHS2ctNDc0MXl3MUFlQTV6eDZBQXp0TTVGWmFkTGhXcU9YU2hCMVZFcmZrdEQ5YkQwRDZsOUNfazhfZEpL?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "GOOGL's Wiz Buyout Expands Cloud Security Portfolio: What's Ahead?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdl9Md2ltNVpTSGF4ZFRuV2drSTlPbmZyLWljRzJVc0JqUVNxZDZJUDg0X0dLX0lfQXU3cVg3ZmJReERQX2VNR1lpNFZjX1p1a0FobDNYRjVrRFNHdmY0Rmg4ZHY0Y2RuQmp5OXZ0TjZERFlJMlNQSjZ2OUpsei1mR0JYa2ZSckhwM2FBTVdvUkR1RFJqZmtnbWF4ZUtKdTFjVjlrUm5ZeEZMSEVPVk5Cd0Nza1d1WWlHcmlaNFVhODdyalRJZ0IyNlJOR1hjbHc1bmkxeWlNTU9LN1VSMVlV?oc=5\" target=\"_blank\">GOOGL's Wiz Buyout Expands Cloud Security Portfolio: What's Ahead?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-03-18T17:39:15",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdl9Md2ltNVpTSGF4ZFRuV2drSTlPbmZyLWljRzJVc0JqUVNxZDZJUDg0X0dLX0lfQXU3cVg3ZmJReERQX2VNR1lpNFZjX1p1a0FobDNYRjVrRFNHdmY0Rmg4ZHY0Y2RuQmp5OXZ0TjZERFlJMlNQSjZ2OUpsei1mR0JYa2ZSckhwM2FBTVdvUkR1RFJqZmtnbWF4ZUtKdTFjVjlrUm5ZeEZMSEVPVk5Cd0Nza1d1WWlHcmlaNFVhODdyalRJZ0IyNlJOR1hjbHc1bmkxeWlNTU9LN1VSMVlV?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Alphabet: Inside Google Cloud's New Growth Pillars (NASDAQ:GOOGL)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWG9zQTFYTnUxakd3T21HWUVXRVA3cVQ2ay1MY1dIQ1A2V3JPQjVjVU9kN3c0ckJQODRkTWtCOWFVVFF6NV9aaEFneklPMmRYck9EcTRFZUVOOGNnR1ZxWXQ5RmM3YVkwTHFrZFg3VHdsTzF2ZURSOHZhSll2Ri1GbWpsNnRIbkQyaTlITDdJUFRkQQ?oc=5\" target=\"_blank\">Alphabet: Inside Google Cloud's New Growth Pillars (NASDAQ:GOOGL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-16T14:51:17",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWG9zQTFYTnUxakd3T21HWUVXRVA3cVQ2ay1MY1dIQ1A2V3JPQjVjVU9kN3c0ckJQODRkTWtCOWFVVFF6NV9aaEFneklPMmRYck9EcTRFZUVOOGNnR1ZxWXQ5RmM3YVkwTHFrZFg3VHdsTzF2ZURSOHZhSll2Ri1GbWpsNnRIbkQyaTlITDdJUFRkQQ?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Google Stock Gains on Expansion of Personal Intelligence Feature in the U.S.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV25HMGw3THladkdXSlF6Nk8tZDBOczd5MHlsMzI5Sm90bXRkRFdsUkgtcENKNmhhNkFPR2xRRU1XOHkwVkVxckxOME9ObHJ6Z00yWWdZMzhhNEF3aTdDQU5WY2M5cDhTOExhdjFMcGh4X0pIVzZhc1ZSbnlzV0xpNHBtOXRoOWIyT0VCcDNYUUJpVFdJY3NWQVRwUVhDWE1DVmZITVZXM2M?oc=5\" target=\"_blank\">Google Stock Gains on Expansion of Personal Intelligence Feature in the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-03-17T18:25:22",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV25HMGw3THladkdXSlF6Nk8tZDBOczd5MHlsMzI5Sm90bXRkRFdsUkgtcENKNmhhNkFPR2xRRU1XOHkwVkVxckxOME9ObHJ6Z00yWWdZMzhhNEF3aTdDQU5WY2M5cDhTOExhdjFMcGh4X0pIVzZhc1ZSbnlzV0xpNHBtOXRoOWIyT0VCcDNYUUJpVFdJY3NWQVRwUVhDWE1DVmZITVZXM2M?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Why Did Alphabet Stock Drop Today?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0lWSG53ejZpbmxDZW1OSE9SY01mN2RlX0d4ZUFjN1Z3Zl90VWNZZEIzVWI0M01aQzRLaVF6RmVlZ1RieVRfRTR3dWI0N1Bra05oLXpTWjItcjlSeGlFcktXd1FqeFI1MzVLZGNtdEtBSHZFQWVxYjNYTUVsUHplMGlB?oc=5\" target=\"_blank\">Why Did Alphabet Stock Drop Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-03-02T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0lWSG53ejZpbmxDZW1OSE9SY01mN2RlX0d4ZUFjN1Z3Zl90VWNZZEIzVWI0M01aQzRLaVF6RmVlZ1RieVRfRTR3dWI0N1Bra05oLXpTWjItcjlSeGlFcktXd1FqeFI1MzVLZGNtdEtBSHZFQWVxYjNYTUVsUHplMGlB?oc=5"
+    },
+    {
+      "source": "Forbes",
+      "headline": "How To Buy Google Stock At A 30% Discount?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHZvTndQRHdrY1ZkMnY4U1R0SVBXdTZ6cy05b2djdjRzZ3FFOG1jeHVENzk2Si1sbXk5ZFVkY2pWUktZTlVvTEdaYkJuUzJ0QzZtTlA4R0hXb2pOUXFPTVRoVUNmbWFXWGtqNFhXaXd0a0hxTWsxbDl6YTNvNDU0Y0RfUnUyTVFYMUp3Vjh4aDdTa1ZhLTdOQkU4NjhhSXl4?oc=5\" target=\"_blank\">How To Buy Google Stock At A 30% Discount?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "date": "2026-02-23T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHZvTndQRHdrY1ZkMnY4U1R0SVBXdTZ6cy05b2djdjRzZ3FFOG1jeHVENzk2Si1sbXk5ZFVkY2pWUktZTlVvTEdaYkJuUzJ0QzZtTlA4R0hXb2pOUXFPTVRoVUNmbWFXWGtqNFhXaXd0a0hxTWsxbDl6YTNvNDU0Y0RfUnUyTVFYMUp3Vjh4aDdTa1ZhLTdOQkU4NjhhSXl4?oc=5"
+    },
+    {
+      "source": "Traders Union",
+      "headline": "Alphabet stock edges higher as $311.91 Ichimoku Kijun resistance holds",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQalh4YmxlNzQ3N1lHMDNocHhtV0thNEE4Sjd6YVY0c3FmeWl2SlR3eDE4UThUZ1g2OVk3TVg2NGIza3RRV3UtTGRrRDFNSEhPclliVnNmcm1wNklHektrTUxGZUh1X0NtTWNsdXBabHMtVXhXNFRBeThqYTVaQjRSeFNzMkE5NzRwblBHMWZGLTNoS01qWWN5bVpWcXNQSDg?oc=5\" target=\"_blank\">Alphabet stock edges higher as $311.91 Ichimoku Kijun resistance holds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Traders Union</font>",
+      "date": "2026-03-17T16:14:15",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalh4YmxlNzQ3N1lHMDNocHhtV0thNEE4Sjd6YVY0c3FmeWl2SlR3eDE4UThUZ1g2OVk3TVg2NGIza3RRV3UtTGRrRDFNSEhPclliVnNmcm1wNklHektrTUxGZUh1X0NtTWNsdXBabHMtVXhXNFRBeThqYTVaQjRSeFNzMkE5NzRwblBHMWZGLTNoS01qWWN5bVpWcXNQSDg?oc=5"
+    },
+    {
+      "source": "Meyka",
+      "headline": "GOOGL Stock Today: March 16 Gemini opens to all Hong Kong users",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWp0ajNrNGt3Y051eG1tWERCRmxPTWQxbmNnYkN6Nm5NUmJrd1FBZDdwRzZvT1lMWE9MMFpTUU1NWTVWeEhvcFhockVZM2ttVHZJWWExWWtRLWl4UkE1YWQyZDBhRVBiRVVheHQ1UndDb3Nlcm43WHMwOVdlcnlFS3BadEN4bVNnendGTmlfSEFJSUI3MUE?oc=5\" target=\"_blank\">GOOGL Stock Today: March 16 Gemini opens to all Hong Kong users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+      "date": "2026-03-16T12:41:14",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWp0ajNrNGt3Y051eG1tWERCRmxPTWQxbmNnYkN6Nm5NUmJrd1FBZDdwRzZvT1lMWE9MMFpTUU1NWTVWeEhvcFhockVZM2ttVHZJWWExWWtRLWl4UkE1YWQyZDBhRVBiRVVheHQ1UndDb3Nlcm43WHMwOVdlcnlFS3BadEN4bVNnendGTmlfSEFJSUI3MUE?oc=5"
+    },
+    {
+      "source": "Benzinga",
+      "headline": "Google Stock Price: 2026 and Beyond",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBnaERCTXRIVV9qbGx5YlNLX0NqY29hRmV0VUtlSXczT3paWDhVZWNvVDZ6MW9aaFRCbC1TcHZ2d0NCU3ZpSFFrQWluVkwzSk93TXpjcXBkUENRSmVjbFA2bVBHaWZDOEFEOTU0akxMUQ?oc=5\" target=\"_blank\">Google Stock Price: 2026 and Beyond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "date": "2026-03-13T07:00:00",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnaERCTXRIVV9qbGx5YlNLX0NqY29hRmV0VUtlSXczT3paWDhVZWNvVDZ6MW9aaFRCbC1TcHZ2d0NCU3ZpSFFrQWluVkwzSk93TXpjcXBkUENRSmVjbFA2bVBHaWZDOEFEOTU0akxMUQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Alphabet (NASDAQ:GOOG) Stock Price Down 1.9% - What's Next?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUNFSEQwTjVHcjRhOG5zTVFVb2lhOG5HOVQyOXVHUjl3YUcyWEd5cENLbDRXd1F5c3lvRUtmdDY1X09fN1hTSDBXUTltM01jeWVYRGRxRnNWNjY3OTdJcTJKMGdvUFRYdFZzNXEtSmpoUndaWWVpekMxelRpZTZhX0xIbnRVbTNMcEtSZTJmaXl3WUw2dXNibzNJQzNpakd0RDk0M0Rtcw?oc=5\" target=\"_blank\">Alphabet (NASDAQ:GOOG) Stock Price Down 1.9% - What's Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-26T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLUNFSEQwTjVHcjRhOG5zTVFVb2lhOG5HOVQyOXVHUjl3YUcyWEd5cENLbDRXd1F5c3lvRUtmdDY1X09fN1hTSDBXUTltM01jeWVYRGRxRnNWNjY3OTdJcTJKMGdvUFRYdFZzNXEtSmpoUndaWWVpekMxelRpZTZhX0xIbnRVbTNMcEtSZTJmaXl3WUw2dXNibzNJQzNpakd0RDk0M0Rtcw?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Up More Than 70% in 12 Months, Is It Too Late to Buy Alphabet Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTlXRGppNUtrelRXM2JfT0pBVk1mZmhkOWR0blhmV2Z5cnVTNGJVY2dFSk9mMHJRNFI4czFsLUt6VlhKdXFlMWd5VEt0Z2dGcmx5OXNCeVhDcHZIamh0blJWalB4cGgta2JxS05kUWJwZlFySUl6eWtwMk5vOWdXdDRXNVhpQldnQVE5WWdfd0VlZUFMRWxUeQ?oc=5\" target=\"_blank\">Up More Than 70% in 12 Months, Is It Too Late to Buy Alphabet Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-25T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTlXRGppNUtrelRXM2JfT0pBVk1mZmhkOWR0blhmV2Z5cnVTNGJVY2dFSk9mMHJRNFI4czFsLUt6VlhKdXFlMWd5VEt0Z2dGcmx5OXNCeVhDcHZIamh0blJWalB4cGgta2JxS05kUWJwZlFySUl6eWtwMk5vOWdXdDRXNVhpQldnQVE5WWdfd0VlZUFMRWxUeQ?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Needham Stays Bullish on GOOGL Stock, Says Alphabet Shouldn\u2019t Cut Capex",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm41Y3lmMG1CanU3MWphcDJNR0VHVThfZXpKQ2lELVAyb1k1YkJzSUVsRVV6czdVWGdjdTVoOENhS1prQTBNbERWTmExUU12am1HZjhZeE1UaFZnbkNfTHVEdnRacGVQMlM3SHZQaUc3X3k1elRxODJoYnVjMmdUZnBSWFdGMGtSYXZCY3N5TU5UUDdVS19vRWhkR2ZheGxa?oc=5\" target=\"_blank\">Needham Stays Bullish on GOOGL Stock, Says Alphabet Shouldn\u2019t Cut Capex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-03-16T13:51:53",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm41Y3lmMG1CanU3MWphcDJNR0VHVThfZXpKQ2lELVAyb1k1YkJzSUVsRVV6czdVWGdjdTVoOENhS1prQTBNbERWTmExUU12am1HZjhZeE1UaFZnbkNfTHVEdnRacGVQMlM3SHZQaUc3X3k1elRxODJoYnVjMmdUZnBSWFdGMGtSYXZCY3N5TU5UUDdVS19vRWhkR2ZheGxa?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Alphabet Stock: Respect The Capex Cycle (NASDAQ:GOOG)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8tZGdCTWhNWXJseXR6dzRIRzFhU0ZzMVA5M1V5d1RoUFRjOTEtY3B2cTNzQmZwbUZVSENBbHFwaTZQMzRwMFQ3b0pUMnJ1MDBubEZDNFE2T2kzTkVHQXJRampyaWN1WXV6Tm5rU3hwSVFFSnFiMUtEdWVQRGFGUQ?oc=5\" target=\"_blank\">Alphabet Stock: Respect The Capex Cycle (NASDAQ:GOOG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-02T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tZGdCTWhNWXJseXR6dzRIRzFhU0ZzMVA5M1V5d1RoUFRjOTEtY3B2cTNzQmZwbUZVSENBbHFwaTZQMzRwMFQ3b0pUMnJ1MDBubEZDNFE2T2kzTkVHQXJRampyaWN1WXV6Tm5rU3hwSVFFSnFiMUtEdWVQRGFGUQ?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Is Alphabet Stock a Buy?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1JcG5tbl9KZjBRSXNNNWRQa2xDb1RGcVphWVlNZERhUllNYTlmdzNKSU9CXzBWaDBkTzEzbUZrMElaVlpFQ1JGMmRuZ1dOcDhNOE5FeHlYbXFrR3Z0MFpPdGJ2N0F5MkV6S0J5ZGZFVmt4d0FU?oc=5\" target=\"_blank\">Is Alphabet Stock a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-03-02T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JcG5tbl9KZjBRSXNNNWRQa2xDb1RGcVphWVlNZERhUllNYTlmdzNKSU9CXzBWaDBkTzEzbUZrMElaVlpFQ1JGMmRuZ1dOcDhNOE5FeHlYbXFrR3Z0MFpPdGJ2N0F5MkV6S0J5ZGZFVmt4d0FU?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Alphabet: Google Cloud Is On Fire - Reiterate Buy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcklUejBsc1h1RV9UX1IwSnhwZ3M2UFg4TXkyUTVucUdnX2hndzI3dXp2OGhOVnBiQ2J5YzBTVG1pcHNodHNuemVaSmFlOTVMaHNELTI3b3ZpUFdUOXJRaHc5QlRVeUZiMkU3VlpJYmF0XzVLRHFuWHlrZk9teFhPeWs0bDNnZE9hYkh5b3A0NTE?oc=5\" target=\"_blank\">Alphabet: Google Cloud Is On Fire - Reiterate Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-28T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcklUejBsc1h1RV9UX1IwSnhwZ3M2UFg4TXkyUTVucUdnX2hndzI3dXp2OGhOVnBiQ2J5YzBTVG1pcHNodHNuemVaSmFlOTVMaHNELTI3b3ZpUFdUOXJRaHc5QlRVeUZiMkU3VlpJYmF0XzVLRHFuWHlrZk9teFhPeWs0bDNnZE9hYkh5b3A0NTE?oc=5"
+    },
+    {
+      "source": "Insider Monkey",
+      "headline": "Is Alphabet Inc. (GOOGL) A Good Stock To Buy Now?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGp1VTJhTDY0Qnp4SnkxeUpMUGhqZmpxU05NUnZLSldiS1kwRF9uX0FfUkdHNmsxbDJtcXFxeDlVNmRaYkxuLTFta2h1VWNjQUFGbGVMX1pqb0VWcmZIaWd4OTM4M1RpVnNjS3Q2SS1Nd3VZS19ySF9kVFQtRXJSVnZPM3pQUS1hclp2Z1oyTXFKWVnSAZsBQVVfeXFMUFlFcjhzQ2FOR0FvWFpua0dOUzNlQmhzWVhOWTJTcXJncUl0N2JqdDZDUVo5R0tLZzhvZDlyZGFTWFA4X3ZDYkxjRlpsVzRGUjdqZDJFYjRtbE0tdzlmSzV3blltSFB1TFhSYjdrQ2dwNWZPOGJCRHRKSTA2MGxMc3UxeFpCVmk5NFF3NDlwTkpOUFMzNDJVY251ZUU?oc=5\" target=\"_blank\">Is Alphabet Inc. (GOOGL) A Good Stock To Buy Now?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Monkey</font>",
+      "date": "2026-03-16T01:21:40",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGp1VTJhTDY0Qnp4SnkxeUpMUGhqZmpxU05NUnZLSldiS1kwRF9uX0FfUkdHNmsxbDJtcXFxeDlVNmRaYkxuLTFta2h1VWNjQUFGbGVMX1pqb0VWcmZIaWd4OTM4M1RpVnNjS3Q2SS1Nd3VZS19ySF9kVFQtRXJSVnZPM3pQUS1hclp2Z1oyTXFKWVnSAZsBQVVfeXFMUFlFcjhzQ2FOR0FvWFpua0dOUzNlQmhzWVhOWTJTcXJncUl0N2JqdDZDUVo5R0tLZzhvZDlyZGFTWFA4X3ZDYkxjRlpsVzRGUjdqZDJFYjRtbE0tdzlmSzV3blltSFB1TFhSYjdrQ2dwNWZPOGJCRHRKSTA2MGxMc3UxeFpCVmk5NFF3NDlwTkpOUFMzNDJVY251ZUU?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Alphabet vs. Meta Platforms: Which One Will Dominate the Next Decade?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNMW45aUpfb0Z0WEhZeHRlRHBrTGx4LXZyelNYX3NvSHh5ai1ob0pYdU9sbWI1OGRxeHZhdjJyOFBaMUJOVExNMnZ5WDZTSU1tcVU4Yk1LQ2hoWWdvcUtncHNETWJxMlRNNEpsMmJVeHRrSGotb3BwOThwOHpaMjBmdnk5d0VqRDVFa1NsTUJocjBNcXJrNjRCYw?oc=5\" target=\"_blank\">Alphabet vs. Meta Platforms: Which One Will Dominate the Next Decade?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-24T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMW45aUpfb0Z0WEhZeHRlRHBrTGx4LXZyelNYX3NvSHh5ai1ob0pYdU9sbWI1OGRxeHZhdjJyOFBaMUJOVExNMnZ5WDZTSU1tcVU4Yk1LQ2hoWWdvcUtncHNETWJxMlRNNEpsMmJVeHRrSGotb3BwOThwOHpaMjBmdnk5d0VqRDVFa1NsTUJocjBNcXJrNjRCYw?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Got $5,000? 1 Tech Stock to Buy and Hold for the Long Term.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2wwSHljSDlUWlBRckxHT3dEZGh4UDhITjBEMEprcVZ5QURWMDBhMWV3LUF5eXp0NmZIZjJJVkpqYU9RMDdqbm15ZGJKdW9IbjgtQnBxU3p5TUJnbTJhM3dObjZqS05SQ2VnS0d5dDBMall3b2JEM0gtWE01NW90V2ZhTDBCMDE4eWxicGo4Yk9mcS1EY1lxeA?oc=5\" target=\"_blank\">Got $5,000? 1 Tech Stock to Buy and Hold for the Long Term.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-28T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2wwSHljSDlUWlBRckxHT3dEZGh4UDhITjBEMEprcVZ5QURWMDBhMWV3LUF5eXp0NmZIZjJJVkpqYU9RMDdqbm15ZGJKdW9IbjgtQnBxU3p5TUJnbTJhM3dObjZqS05SQ2VnS0d5dDBMall3b2JEM0gtWE01NW90V2ZhTDBCMDE4eWxicGo4Yk9mcS1EY1lxeA?oc=5"
+    },
+    {
+      "source": "Kiplinger",
+      "headline": "If You'd Put $1,000 Into Google Stock 20 Years Ago, Here's What You'd Have Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMzJjVGI2d1IxRC05TEI1UHVrQjNBZm96OW5BSjhFOWIzSVVhRmR2UVlvcjd5UDRiRWVLTHlwcHlmbDVFZGNFeE54cUVOUXgxM0wwTUhRLWIzdEduNE1IRHJHZ1VjNzRuV2I3eHRwSEJ2MFdhU01DUzdPQkotYVhLaklJTW14TEFfU2NHSjczM04xZGpsZ3FScFo1WENqdVpDY0Y5TkR5NmdzU0k1bGJJRDNnVTM?oc=5\" target=\"_blank\">If You'd Put $1,000 Into Google Stock 20 Years Ago, Here's What You'd Have Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kiplinger</font>",
+      "date": "2026-02-26T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMzJjVGI2d1IxRC05TEI1UHVrQjNBZm96OW5BSjhFOWIzSVVhRmR2UVlvcjd5UDRiRWVLTHlwcHlmbDVFZGNFeE54cUVOUXgxM0wwTUhRLWIzdEduNE1IRHJHZ1VjNzRuV2I3eHRwSEJ2MFdhU01DUzdPQkotYVhLaklJTW14TEFfU2NHSjczM04xZGpsZ3FScFo1WENqdVpDY0Y5TkR5NmdzU0k1bGJJRDNnVTM?oc=5"
+    },
+    {
+      "source": "CoinCentral",
+      "headline": "Alphabet (GOOGL) Stock: Google Eyes Chinese Suppliers as AI Cooling Demand Surges",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXc2RnQ4VEI5b0hwYXBwWlpPUS1EQ0ZwTVpBMVJyc0hEUmh1azc1UzZ0b3VmT2JpZk1Ic0hVMDMwdDZMZVhuSnFRMTFnaUt4bl9BUWJFQnJ4MDNQWWpXYm9zRWN2SUpURVljVVota1FiUVEzOHZhY3ZOVFBWeEFJMFlhRVlGaGk5VFVybTBDT0xVX3A5d0VHNHZTMVltaDhtMFE1UGdR?oc=5\" target=\"_blank\">Alphabet (GOOGL) Stock: Google Eyes Chinese Suppliers as AI Cooling Demand Surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "date": "2026-03-17T10:21:18",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXc2RnQ4VEI5b0hwYXBwWlpPUS1EQ0ZwTVpBMVJyc0hEUmh1azc1UzZ0b3VmT2JpZk1Ic0hVMDMwdDZMZVhuSnFRMTFnaUt4bl9BUWJFQnJ4MDNQWWpXYm9zRWN2SUpURVljVVota1FiUVEzOHZhY3ZOVFBWeEFJMFlhRVlGaGk5VFVybTBDT0xVX3A5d0VHNHZTMVltaDhtMFE1UGdR?oc=5"
+    },
+    {
+      "source": "Investor's Business Daily",
+      "headline": "High-Probability Opportunities Available On Google Stock Options",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHF3SmVKdk8wNDBJZmM3ZlROcjFpcU5HMk5rSi1zRnZoMUdiRE5IckwxRkVpMFdIdTVDN2drZ2pVcEdNUVh3R25SdUJhS3NLSWZrck10N1RkZ1l6aWVnMzJGam9FbTJZczRZTF90Y1h5UmFOWVhWNDY4WVRkOU9uQUxQV3RhTjEzR3hnMGt6UmZiaHR3Q3ZZUHJmMA?oc=5\" target=\"_blank\">High-Probability Opportunities Available On Google Stock Options</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "date": "2026-02-26T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNHF3SmVKdk8wNDBJZmM3ZlROcjFpcU5HMk5rSi1zRnZoMUdiRE5IckwxRkVpMFdIdTVDN2drZ2pVcEdNUVh3R25SdUJhS3NLSWZrck10N1RkZ1l6aWVnMzJGam9FbTJZczRZTF90Y1h5UmFOWVhWNDY4WVRkOU9uQUxQV3RhTjEzR3hnMGt6UmZiaHR3Q3ZZUHJmMA?oc=5"
+    },
+    {
+      "source": "Capital.com",
+      "headline": "Alphabet Stock Forecast 2026\u20132030 | Future Outlook",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjNUODdxNnhNZjRjdGlBb0UzRDBDQ0FXMGsxQk9mdGkxRnc3YkVYNzJ3MGJNRUUwUlRwaXpHT2swTlp5SmNXR3kxcFpXaTd5aUFGczZzMmlJV0hkQnBFcURGYkRxMWM3TzhScnhlamlGQXp0QWlrcURQeXVoQVhyTXFvUHhLaEZud2c?oc=5\" target=\"_blank\">Alphabet Stock Forecast 2026\u20132030 | Future Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Capital.com</font>",
+      "date": "2026-02-17T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjNUODdxNnhNZjRjdGlBb0UzRDBDQ0FXMGsxQk9mdGkxRnc3YkVYNzJ3MGJNRUUwUlRwaXpHT2swTlp5SmNXR3kxcFpXaTd5aUFGczZzMmlJV0hkQnBFcURGYkRxMWM3TzhScnhlamlGQXp0QWlrcURQeXVoQVhyTXFvUHhLaEZud2c?oc=5"
+    },
+    {
+      "source": "StockStory",
+      "headline": "Alphabet (GOOGL) Stock Trades Up, Here Is Why",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjl2QmhGR2FyZXZjdlZCWm9Ja19QSlJHNUxnNFlURWFXekFRUnR3SWRqdG54d0huMHFGemJ1S3JLQ201ZnJxOExHeDk2WG5ydjVGRUdjX05pNkF6WXZoVFhKWHFBYk5Ja3Y1UXlZUURVZFUyNVUza3ZPTmpNV2RzWndPOHdnTVdNcHkwVVNFUkRZSGVRX1R2ZmJTR2FPMS1uQkdJcGV6TlNWbms?oc=5\" target=\"_blank\">Alphabet (GOOGL) Stock Trades Up, Here Is Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StockStory</font>",
+      "date": "2026-02-20T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjl2QmhGR2FyZXZjdlZCWm9Ja19QSlJHNUxnNFlURWFXekFRUnR3SWRqdG54d0huMHFGemJ1S3JLQ201ZnJxOExHeDk2WG5ydjVGRUdjX05pNkF6WXZoVFhKWHFBYk5Ja3Y1UXlZUURVZFUyNVUza3ZPTmpNV2RzWndPOHdnTVdNcHkwVVNFUkRZSGVRX1R2ZmJTR2FPMS1uQkdJcGV6TlNWbms?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Alphabet GOOG stock price rises on Meta AI chip deal, then slips after hours amid new Google ads probe",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEx2VWtBRXBzWGxXZG8za25tTEdaRzBjdjhQOFJyVXlCd0VOU0JuUWQySkZmMG9LRGx1N2ZDT1dxeEoyRVh3cTVtb3hJbkhYMDc0eEFBX1hkVXhLdU5oTWtCdVNhZUowbk5oLVBlTkxKTExnZVJ5U1lSX3pLSzB2N3VTRm41TFp3b3VXQ3dnUWpXYzJkTWNINjlTT1dwcUtZdFBpUEVoY2pHVnJXTWNpUzBSOXdhM2E4QldhNDJpcw?oc=5\" target=\"_blank\">Alphabet GOOG stock price rises on Meta AI chip deal, then slips after hours amid new Google ads probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-27T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEx2VWtBRXBzWGxXZG8za25tTEdaRzBjdjhQOFJyVXlCd0VOU0JuUWQySkZmMG9LRGx1N2ZDT1dxeEoyRVh3cTVtb3hJbkhYMDc0eEFBX1hkVXhLdU5oTWtCdVNhZUowbk5oLVBlTkxKTExnZVJ5U1lSX3pLSzB2N3VTRm41TFp3b3VXQ3dnUWpXYzJkTWNINjlTT1dwcUtZdFBpUEVoY2pHVnJXTWNpUzBSOXdhM2E4QldhNDJpcw?oc=5"
+    }
+  ]
+}
