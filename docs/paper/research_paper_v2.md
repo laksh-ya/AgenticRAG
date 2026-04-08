@@ -181,9 +181,9 @@ The Explainability module operates in two phases aligned with the KB Agent:
 
 ### 4.1 Experimental Setup
 
-We evaluated KARMA on a portfolio of five major U.S. equities: AAPL, MSFT, GOOGL, NVDA, and AMZN. The system was configured with GPT-4o as the deep reasoning model and GPT-4o-mini for analyst agents. ChromaDB served as the vector store with OpenAI `text-embedding-3-small` embeddings. Data was sourced from yFinance (market data and fundamentals), Google News RSS (50–100 articles per ticker), and Reddit/StockTwits (social sentiment).
+We evaluated KARMA using logged runs in `storage/results/_eval_sessions.json` and `storage/results/_outcomes.json`. The system used GPT-4o for deep-reasoning nodes (Research Manager, Trader) and GPT-4o-mini for analyst nodes, with ChromaDB plus OpenAI `text-embedding-3-small` embeddings. Data inputs came from yFinance, Google News RSS, and Reddit/StockTwits.
 
-The evaluation followed a **5-day rolling protocol** conducted over two rounds (Round 1: March 3–9, 2026; Round 2: March 9–13, 2026). In each round, three tickers (AAPL, GOOGL, AMZN) were analyzed daily using the `balanced_tech` portfolio preset (10 AAPL, 8 MSFT, 12 GOOGL, 8 NVDA, 10 AMZN). For each daily decision, the T+1 closing price was fetched the following trading day to compute actual returns and evaluate correctness.
+The evaluation used a rolling protocol over four session groups between March 3 and March 27, 2026. Most runs analyzed AAPL, GOOGL, and AMZN under two portfolio contexts: `balanced_tech` (existing concentrated holdings) and `fresh_entry` (no initial holdings). For this paper, we report metrics only for entries with available T+1 outcomes (`was_correct` not null), yielding 16 checked decisions.
 
 ### 4.2 Pipeline Execution Analysis
 
@@ -206,51 +206,36 @@ Each full pipeline execution traverses all 12 LangGraph nodes. Table 1 shows the
 | 11 | Explainability | — | Full report generated (untruncated) |
 | 12 | KB Post-Learn | — | Decision stored in trade_history |
 
-### 4.3 5-Day Rolling Evaluation Results
+### 4.3 Rolling Evaluation Results
 
-The system was evaluated across two 5-day rounds with T+1 outcome checking. Table 2 presents the complete results from both rounds.
+Table 2 summarizes checked outcomes from the logged sessions.
 
-**Table 2a.** Round 1 evaluation results (March 3–9, 2026).
-
-| Day | Date | Ticker | Entry Price | Decision | Conf. | T+1 Price | T+1 Return | Correct? |
-|-----|------|--------|-------------|----------|-------|-----------|------------|----------|
-| 1 | Mar 03 | AAPL | $263.74 | HOLD | 0.85 | $257.68 | −2.30% | ✓ |
-| 1 | Mar 03 | GOOGL | $298.63 | HOLD | 0.85 | $300.24 | +0.54% | ✓ |
-| 1 | Mar 03 | AMZN | $203.77 | HOLD | 0.70 | $210.18 | +3.15% | ✓ |
-
-**Table 2b.** Round 2 evaluation results (March 9–12, 2026).
-
-| Day | Date | Ticker | Entry Price | Decision | Conf. | T+1 Price | T+1 Return | Correct? |
-|-----|------|--------|-------------|----------|-------|-----------|------------|----------|
-| 1 | Mar 09 | AAPL | $257.68 | HOLD | 0.85 | $261.55 | +1.50% | ✓ |
-| 1 | Mar 09 | GOOGL | $300.24 | HOLD | 0.75 | $308.30 | +2.68% | ✓ |
-| 1 | Mar 09 | AMZN | $210.18 | HOLD | 0.85 | $215.19 | +2.38% | ✓ |
-| 2 | Mar 10 | AAPL | $261.55 | HOLD | 0.80 | $260.62 | −0.36% | ✓ |
-| 2 | Mar 10 | GOOGL | $308.30 | HOLD | 0.70 | $308.80 | +0.16% | ✓ |
-| 2 | Mar 10 | AMZN | $215.19 | HOLD | 0.85 | $210.04 | −2.39% | ✓ |
-| 4 | Mar 12 | AAPL | $255.69 | HOLD | 0.75 | — | — | — |
-| 4 | Mar 12 | GOOGL | $303.75 | HOLD | 0.75 | — | — | — |
-| 4 | Mar 12 | AMZN | $210.04 | HOLD | 0.85 | — | — | — |
-
-Additionally, earlier standalone analyses produced:
-- **AAPL 2026-02-07**: HOLD @ 0.75 → T+1 return +1.8% → ✓ Correct
-- **AAPL 2026-02-13**: HOLD @ 0.75 → T+1 return −0.9% → ✓ Correct
-- **GOOGL 2026-02-17**: BUY @ 0.75 (sole BUY signal in the evaluation)
-
-**Table 2c.** Aggregate evaluation metrics.
+**Table 2.** Aggregate results from logged sessions with T+1 outcomes.
 
 | Metric | Value |
 |--------|-------|
-| Total decisions logged | 11 (with T+1 data) |
-| Decisions checked | 9 |
-| Win rate (correct predictions) | **100%** (9/9) |
-| Average T+1 return (HOLD decisions) | +0.60% |
-| Average confidence | 0.79 |
-| HOLD decisions | 10/11 (91%) |
-| BUY decisions | 1/11 (9%) |
-| SELL decisions | 0/11 (0%) |
+| Decisions checked | 16 |
+| Correct decisions | 14 |
+| Accuracy | **87.5%** |
+| Mean T+1 return (all checked) | −0.30% |
+| Mean T+1 return (HOLD) | −0.13% |
+| Mean T+1 return (BUY) | −1.04% |
+| HOLD decisions | 13/16 (81.3%) |
+| BUY decisions | 3/16 (18.7%) |
+| SELL decisions | 0/16 (0%) |
 
-The system exhibited a strong conservative bias, predominantly issuing HOLD decisions. This behavior stemmed from the portfolio's existing tech-sector concentration — GOOGL exceeded the 25% concentration threshold, triggering warnings that propagated through analyst, risk, and trader prompts. The HOLD decisions proved correct across all checked outcomes, as T+1 returns ranged from −2.39% to +3.15%, consistent with normal market volatility rather than directional conviction.
+To preserve traceability, we also report per-session snapshots from `_eval_sessions.json`:
+
+**Table 2a.** Per-session checked outcomes.
+
+| Session Slice | Checked | Correct | Accuracy | Decision Mix |
+|--------------|---------|---------|----------|--------------|
+| Round 1 Day 1 (balanced_tech) | 3 | 3 | 100% | 3 HOLD |
+| Round 2 Days 1,2,4 (balanced_tech) | 9 | 9 | 100% | 9 HOLD |
+| Round 3 Day 1 (fresh_entry, partial) | 1 | 1 | 100% | 1 BUY |
+| Round 4 Day 1 (fresh_entry) | 3 | 1 | 33.3% | 2 BUY, 1 HOLD |
+
+The key pattern is that HOLD recommendations remained robust in concentrated-risk settings, while BUY decisions were more sensitive to short-term drawdowns in fresh-entry settings.
 
 ### 4.4 Knowledge Base Evolution
 
@@ -275,21 +260,23 @@ We evaluate decision quality through case studies across multiple sessions:
 
 **Case 1 — AAPL 2026-02-07 (Early Session, Empty KB):** The Trader's HOLD decision at 0.75 confidence demonstrated integration of conflicting signals. Despite bullish momentum (+7.37% 30-day return) and positive news (Tim Cook announcement, analyst price targets at $300), the agent correctly weighed concerning fundamentals: a debt-to-equity ratio of 102.63 and a current ratio below 1.0 (0.974). The T+1 return of +1.8% validated the HOLD — the stock moved within normal range, confirming no strong directional signal.
 
-**Case 2 — GOOGL 2026-02-17 (Single BUY Signal):** This was the only BUY decision in the evaluation. The Research Manager overrode bearish technical signals (RSI at 32, 5% monthly decline) in favor of strong fundamentals ($126.84B cash, 18% YoY revenue growth, ROE 35.71%). The Bull Researcher's argument citing oversold conditions and cloud growth potential was deemed stronger than the Bear's concerns about capital expenditure overhangs.
+**Case 2 — GOOGL 2026-02-17 (Early BUY Signal):** In this standalone run, the Research Manager overrode bearish technical signals (RSI at 32, 5% monthly decline) in favor of strong fundamentals ($126.84B cash, 18% YoY revenue growth, ROE 35.71%). The Bull Researcher's argument citing oversold conditions and cloud growth potential was deemed stronger than the Bear's concerns about capital expenditure overhangs.
 
-**Case 3 — Round 2 Day 1 (KB-Enriched Session):** By Round 2, the KB Pre-Query retrieved historical context including Round 1's decisions and outcomes. All three tickers received HOLD recommendations, but with more nuanced reasoning that explicitly referenced prior analyses: "The portfolio is heavily weighted towards technology stocks, with AAPL and GOOGL together comprising nearly half of the total value." This portfolio-aware reasoning emerged from the interaction between KB context and concentration warnings.
+**Case 3 — Round 4 Day 1 (Fresh-Entry Stress Case):** With no prior holdings, the system produced two BUY signals (AAPL, GOOGL) that were both incorrect at T+1, while HOLD on AMZN was correct. This contrast highlights that directional calls become less reliable when concentration constraints are removed and the agent shifts from risk containment to opportunity-seeking behavior.
+
+**Case 4 — Round 2 Day 1 (KB-Enriched Session):** By Round 2, the KB Pre-Query retrieved historical context including Round 1's decisions and outcomes. All three tickers received HOLD recommendations, with reasoning that explicitly referenced prior analyses: "The portfolio is heavily weighted towards technology stocks, with AAPL and GOOGL together comprising nearly half of the total value." This portfolio-aware reasoning emerged from the interaction between KB context and concentration warnings.
 
 **Explainability:** Every generated report provided full transparency into each agent's contribution, enabling a human analyst to trace the decision logic from raw data through analyst interpretations to the final recommendation. No output was truncated, ensuring complete auditability.
 
 ### 4.6 Outcome Learning Demonstration
 
-The feedback loop was demonstrated across the two evaluation rounds:
+The feedback loop was demonstrated across the logged rounds:
 
 1. **Round 1, Day 1**: KARMA issues HOLD for AAPL, GOOGL, and AMZN with 0.70–0.85 confidence.
 2. **Outcome Check**: T+1 returns computed: AAPL −2.30%, GOOGL +0.54%, AMZN +3.15%.
 3. **Reflection**: The system generates lessons for each: "✅ CORRECT HOLD for AAPL (−2.30% return). The cautious approach was validated — the stock declined next day, consistent with the mixed signals identified by the analysis pipeline."
 4. **Round 2, Day 1**: KB Pre-Query retrieves these lessons. Analysts explicitly reference prior HOLD outcomes and portfolio concentration concerns in their reasoning.
-5. **Result**: Round 2 decisions show increased specificity in reasoning, citing "concentration risk in GOOGL at 27.8%" and referencing the pattern of HOLDs being validated in the previous round.
+5. **Result**: Later decisions show increased specificity in reasoning, citing concentration risk levels and prior validated outcomes. In adverse slices (e.g., Round 4 Day 1), outcome reflections capture failed BUY rationales and add corrective lessons for future pre-query retrieval.
 
 This adaptive behavior — where outcome lessons from Round 1 visibly influenced Round 2's reasoning — is the fundamental differentiator from static multi-agent systems.
 
@@ -337,14 +324,14 @@ Our system uniquely combines these patterns with a domain-specific feedback loop
 
 ### 5.3 Analysis of Conservative Bias
 
-A notable observation from the evaluation is the system's strong conservative bias — 91% of decisions were HOLD. This stems from the interaction between portfolio context and the risk management pipeline. The `balanced_tech` portfolio's GOOGL allocation exceeded the 25% concentration threshold, generating warnings that propagated from portfolio_utils through all analyst prompts, the Risk Manager, and into the Trader's reasoning. While this produced correct predictions (all HOLD decisions aligned with small T+1 movements), it raises the question of whether the system under-generates actionable BUY/SELL signals. Future work should investigate threshold tuning and scenario testing with portfolios that do not trigger concentration warnings.
+A notable observation from the logged evaluation is a conservative action profile: 81.3% HOLD among checked decisions. This stems from the interaction between portfolio context and the risk management pipeline. In `balanced_tech`, GOOGL frequently exceeded the 25% concentration threshold, generating warnings that propagated from portfolio utilities through analyst prompts, the Risk Manager, and the Trader. HOLD outcomes were consistently accurate in these slices, while BUY outcomes were mixed (1/3 correct overall), indicating that directional aggression requires stronger calibration than risk-preserving HOLD behavior.
 
 ### 5.4 Limitations and Future Work
 
 Several limitations merit discussion:
 
 - **Outcome Latency**: Lessons are generated only when actual returns are known (typically T+1 to T+30 days), creating a delay in the feedback loop. Future work could integrate real-time paper trading APIs for automated outcome capture.
-- **Conservative Bias**: The portfolio-aware risk management, while producing correct outcomes, may over-suppress actionable signals. Adaptive threshold tuning based on market regime detection is a promising direction.
+- **Conservative Bias**: The portfolio-aware risk management, while often producing correct outcomes, may over-suppress actionable signals. Adaptive threshold tuning based on market regime detection is a promising direction.
 - **Evaluation Scale**: While the 5-day rolling evaluation protocol demonstrates the feedback loop, a larger-scale evaluation spanning months of trading days with diverse market conditions would strengthen empirical claims.
 - **Backtesting Depth**: The current backtester tracks signal accuracy but does not perform full P&L simulation with position sizing, slippage, and transaction costs.
 - **Knowledge Base Scaling**: As the vector stores grow, retrieval quality may degrade without periodic curation or relevance-based pruning. Implementing time-decay weighting or importance-based compaction is a promising direction.
@@ -356,7 +343,7 @@ Several limitations merit discussion:
 
 This paper presented KARMA, a multi-agent framework that advances the state of Agentic RAG by introducing an Active Knowledge Base Agent for financial investment decisions. The KB Agent's three-phase lifecycle — pre-query, post-learn, and outcome reflection — creates a self-improving system that accumulates institutional memory through a closed feedback loop, without requiring LLM retraining. The framework orchestrates 12 specialized agents through a LangGraph pipeline, grounded by three ChromaDB knowledge stores that separate market insights, trade history, and lessons learned.
 
-Experimental evaluation across two 5-day rolling rounds on three major equities (AAPL, GOOGL, AMZN) with T+1 outcome checking demonstrated a 100% prediction accuracy rate (9/9 checked decisions), with the system exhibiting portfolio-aware conservative behavior appropriate to the concentrated tech holdings. The knowledge base grew from 0 to 39 documents across the evaluation, with Round 2 analyses visibly benefiting from Round 1's stored context and outcome lessons — demonstrating the active learning loop in practice.
+Evaluation on logged session data (16 checked T+1 decisions across March 2026 slices) yielded 87.5% directional accuracy overall, with strong HOLD reliability in concentrated portfolios and weaker BUY reliability in fresh-entry scenarios. This outcome is more realistic than a perfect-win narrative and better reflects regime sensitivity in practical deployment. The knowledge base continued to expand across sessions, and later analyses referenced prior decisions and reflections, demonstrating that the active learning loop is operational.
 
 The outcome learning mechanism enables the system to reference past successes and failures in future analyses — a capability absent from both passive RAG implementations and existing multi-agent trading frameworks. KARMA represents a step toward truly adaptive AI systems in finance: systems that not only analyze markets but learn from their own experience.
 
