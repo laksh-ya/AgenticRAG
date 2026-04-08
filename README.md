@@ -1,6 +1,6 @@
-# AgenticRAG — Multi-Agent Multi-RAG Investment Decision System
+# karma — Multi-Agent Multi-RAG Investment Decision System
 
-A multi-agent system where a **Knowledge Base Agent** actively queries, stores, and **learns from its own trading decisions** via RAG — making it *Agentic RAG*, not passive retrieval.
+A multi-agent system where a **Knowledge Base Agent** actively queries, stores, and **learns from its own trading decisions** via RAG — making it *karma*, not passive retrieval.
 
 ---
 
@@ -20,7 +20,7 @@ Over time, the system gets smarter because its RAG remembers what worked and wha
 ## 📁 Project Structure
 
 ```
-AgenticRAG/
+karma/
 ├── preferences.py              # Central config — LLMs, embeddings, data, tickers
 ├── main.py                     # CLI entry point
 │
@@ -68,7 +68,7 @@ AgenticRAG/
 
 ```bash
 # 1. Clone
-git clone <repo-url> && cd AgenticRAG
+git clone <repo-url> && cd karma
 
 # 2. Environment
 python -m venv venv && source venv/bin/activate
