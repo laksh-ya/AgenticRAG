@@ -1,157 +1,111 @@
-# AgenticRAG — Multi-Agent Multi-RAG Investment Decision System
+# Karma
 
-A multi-agent system where a **Knowledge Base Agent** actively queries, stores, and **learns from its own trading decisions** via RAG — making it *Agentic RAG*, not passive retrieval.
+> **KARMA** = Knowledge-Aware Reinforced Multi-Agent Framework for Autonomous Financial Investment Decision-Making
 
----
+Karma is a multi-agent investment research and decision system with a knowledge base (RAG) loop. It runs analyst, researcher, risk, and trader agents, then stores and reuses decision context and outcomes to improve future runs.
 
-## 🧠 Core Novelty
+## Core Capabilities
 
-| What | How |
-|------|-----|
-| **Pre-Query** | KB Agent searches RAG for past lessons *before* analysts run |
-| **Post-Learn** | Every intraday decision is stored with full context in the knowledge base |
-| **Outcome Learning** | Feed back real intraday returns → the system reflects and stores lessons |
-| **Explainability** | Every decision gets a structured report explaining *why* |
+- Multi-agent orchestration for analysis, debate, risk review, and trade decisioning.
+- Knowledge-base pre-query and post-decision learning.
+- Explainability pipeline for why a decision was made.
+- Cached market, fundamentals, news, and social data ingestion.
+- Evaluation and backtesting support.
 
-Over time, the system gets smarter because its RAG remembers what worked and what didn't in intraday trading scenarios.
+## Project Structure
 
----
-
-## 📁 Project Structure
-
-```
-AgenticRAG/
-├── preferences.py              # Central config — LLMs, embeddings, data, tickers
-├── main.py                     # CLI entry point
-│
-├── agents/                     # All agent logic
-│   ├── kb_agent.py             # ★ THE NOVELTY — Knowledge Base Agent
-│   ├── analysts.py             # 4 analysts (fundamentals, market, news, social)
-│   ├── researchers.py          # Bull + Bear researchers + Research Manager
-│   ├── risk_manager.py         # Portfolio-aware risk assessment
-│   ├── trader.py               # Final decision maker
-│   ├── prompts.py              # All LLM prompts
-│   └── state.py                # Shared TypedDict state
-│
-├── multi_rag/                  # RAG system (ChromaDB)
-│   ├── rag_manager.py          # 3 collections: insights, history, lessons
-│   ├── knowledge_store.py      # Low-level ChromaDB wrapper
-│   ├── embeddings.py           # OpenAI / Gemini / Ollama embeddings
-│   └── explainability.py       # 2-phase: snapshot report + outcome learning
-│
-├── dataflows/                  # ★ Unified data pipeline
-│   ├── sources.py              # Every data fetcher (yfinance, Reddit, AV, RSS)
-│   ├── data_loader.py          # Cache + fallback chain loader
-│   └── yfinance_source.py      # Legacy yfinance helpers
-│
-├── graphs/
-│   └── trading_graph.py        # LangGraph workflow orchestrator
-│
-├── streamlit_apps/             # 6 Streamlit UIs
-│   ├── app_main.py             # Full analysis with live agent reasoning
-│   ├── app_data_test.py        # Test all data sources + cache
-│   ├── app_kb_train.py         # Teach outcomes, upload data, browse KB
-│   ├── app_rag_test.py         # Query RAG directly
-│   ├── app_backtest.py         # Rolling backtest
-│   └── app_metrics.py          # Metrics dashboard + outcome tracking
-│
-├── data_ingestion/             # Teammate's standalone scripts (reference)
-├── evaluation/                 # Backtesting module
-├── paper/                      # Research paper (LaTeX + Markdown)
-├── tests/                      # Unit tests
-└── utils/                      # LLM factory
+```text
+karma/
+├── main.py
+├── requirements.txt
+├── apps/
+│   ├── app_essential.py
+│   ├── app_main.py
+│   └── app_master_eval.py
+├── src/karma/
+│   ├── config.py
+│   ├── agents/
+│   │   ├── analysts.py
+│   │   ├── kb_agent.py
+│   │   ├── prompts.py
+│   │   ├── researchers.py
+│   │   ├── risk_manager.py
+│   │   ├── state.py
+│   │   └── trader.py
+│   ├── data/
+│   │   ├── data_loader.py
+│   │   └── sources.py
+│   ├── evaluation/
+│   │   └── backtester.py
+│   ├── graph/
+│   │   └── trading_graph.py
+│   ├── rag/
+│   │   ├── embeddings.py
+│   │   ├── explainability.py
+│   │   ├── knowledge_store.py
+│   │   └── rag_manager.py
+│   └── utils/
+│       ├── core.py
+│       ├── llm_factory.py
+│       └── portfolio_utils.py
+├── storage/
+│   ├── cache/
+│   ├── kb/
+│   ├── logs/
+│   └── results/
+└── tests/
+       ├── test_kb_agent.py
+       └── test_rag.py
 ```
 
----
-
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
-# 1. Clone
-git clone <repo-url> && cd karma
+# 1) Set up environment
+python -m venv venv
+source venv/bin/activate
 
-# 2. Environment
-python -m venv venv && source venv/bin/activate
-
-# 3. Dependencies
+# 2) Install dependencies
 pip install -r requirements.txt
 
-# 4. API Keys
+# 3) Configure environment variables
 cp .env.example .env
-# Edit .env → add your OPENAI_API_KEY (required)
-# Optional: ALPHA_VANTAGE_API_KEY for news data
+# Edit .env and add required API keys
 
-# 5. Run
+# 4) Run CLI workflow
 python main.py
+```
+
+## Run Streamlit Apps
+
+```bash
 streamlit run apps/app_main.py
 streamlit run apps/app_essential.py
+streamlit run apps/app_master_eval.py
 ```
 
----
+## Configuration
 
-## 📈 Pipeline Flow
+Primary settings live in `src/karma/config.py`:
 
-```
-KB Pre-Query  →  Fundamentals Analyst  →  Market Analyst  →  News Analyst  →  Social Analyst
-                                                                                    ↓
-KB Post-Learn  ←  Explainability Report  ←  Trader  ←  Risk Manager  ←  Research Manager
-                                                                           ↑
-                                                                    Bull ↔ Bear Debate
-```
+- Model/provider configuration.
+- Data source fallback behavior.
+- Cache and storage behavior.
+- Supported ticker and runtime options.
 
----
+## Data and Storage
 
-## 🔌 Data Pipeline
+- Input samples are in `data/`.
+- Runtime caches are in `storage/cache/`.
+- Knowledge base artifacts are in `storage/kb/`.
+- Run outputs and outcomes are in `storage/results/`.
 
-The `DataLoader` handles everything — agents just call `loader.load(ticker, date, data_type)`.
+## Testing
 
-**How it works:**
-1. Check JSON cache in `storage/cache/<subdir>/...` — instant, no network
-2. Walk the fallback chain for that data type, trying each source in order
-3. First source that returns data → auto-cached as JSON for next time
-
-**Fallback chains** (configurable in `src/karma/config.py`):
-
-| Data Type | Source 1 | Source 2 | Source 3 |
-|-----------|----------|----------|----------|
-| fundamentals | yfinance | alpha_vantage | — |
-| market | yfinance (prices) | yfinance (report) | — |
-| news | google_rss | alpha_vantage | — |
-| social | reddit | stocktwits | — |
-
-**Cache TTLs:** fundamentals=7 days, market=1 day, news/social=6 hours.
-
----
-
-## ⚙️ Configuration
-
-Everything is in **`src/karma/config.py`** — no hardcoded values anywhere else.
-
-```python
-# Switch LLM provider
-CONFIG["llm_provider"] = "openai"       # or "gemini" or "ollama"
-CONFIG["deep_model"]   = "gpt-4o"      # for research manager + trader
-CONFIG["quick_model"]  = "gpt-4o-mini"  # for analysts + risk
-
-# Switch embedding provider
-CONFIG["embedding_provider"] = "openai"  # or "gemini" or "ollama"
-
-# Supported tickers
-SUPPORTED_TICKERS = ["AAPL", "MSFT", "GOOGL", "NVDA", "AMZN"]
+```bash
+pytest tests -q
 ```
 
----
+## Contributing
 
-## 📊 Streamlit Apps
-
-| App | Command | What it does |
-|-----|---------|-------------|
-| **Essential Lab** | `streamlit run apps/app_essential.py` | View decisions, edit cached data/KB, and learn from outcomes |
-| **Main Analysis** | `streamlit run apps/app_main.py` | Full pipeline with live agent progress |
-| **Master Eval** | `streamlit run apps/app_master_eval.py` | Controlled 5-day KB mode experiment with result tables |
-
----
-
-## 🤝 Contributing
-
-See **[docs/CONTRIBUTING.md](docs/CONTRIBUTING.md)** for the full guide on how to edit, where to add things, and what NOT to touch.
+Contribution guidelines are available in `docs/CONTRIBUTING.md`.
