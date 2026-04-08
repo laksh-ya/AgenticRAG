@@ -1,0 +1,1184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AgenticRAG — Architecture &amp; Flow Diagrams</title>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<style>
+  :root { --bg: #ffffff; --fg: #1a1a2e; --accent: #0f3460; --card: #f8f9fa; --border: #dee2e6; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Georgia', 'Times New Roman', serif; background: var(--bg); color: var(--fg); line-height: 1.6; }
+  .header { background: var(--accent); color: #fff; padding: 2.5rem 2rem; text-align: center; }
+  .header h1 { font-size: 1.8rem; margin-bottom: 0.3rem; }
+  .header p { font-size: 0.95rem; opacity: 0.85; }
+  .toc { max-width: 900px; margin: 2rem auto; padding: 1.5rem 2rem; background: #f0f4ff; border-left: 4px solid var(--accent); border-radius: 4px; }
+  .toc h2 { font-size: 1.1rem; margin-bottom: 0.8rem; }
+  .toc ol { padding-left: 1.5rem; }
+  .toc li { margin-bottom: 0.3rem; }
+  .toc a { color: var(--accent); text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+  .diagram-section { max-width: 1100px; margin: 2.5rem auto; padding: 0 1.5rem; page-break-inside: avoid; }
+  .diagram-section h2 { font-size: 1.3rem; color: var(--accent); border-bottom: 2px solid var(--accent); padding-bottom: 0.4rem; margin-bottom: 0.6rem; }
+  .diagram-section .caption { font-size: 0.9rem; color: #555; margin-bottom: 1rem; font-style: italic; }
+  .mermaid { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 1.2rem; margin-bottom: 1.5rem; overflow-x: auto; }
+  .note { background: #fff8e1; border-left: 4px solid #ffc107; padding: 0.8rem 1rem; margin: 1rem 0; font-size: 0.88rem; border-radius: 3px; }
+  footer { text-align: center; padding: 2rem; font-size: 0.85rem; color: #888; border-top: 1px solid var(--border); margin-top: 3rem; }
+  @media print {
+    .header { padding: 1rem; }
+    .diagram-section { page-break-inside: avoid; margin: 1rem auto; }
+    .mermaid { border: 1px solid #ccc; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>AgenticRAG: Architecture &amp; Flow Diagrams</h1>
+  <p>A Multi-Agent Framework with Active Knowledge Base Learning for Autonomous Financial Investment Decisions</p>
+  <p style="margin-top:0.5rem; font-size:0.85rem;">Lakshya Sharma &mdash; Department of Computer Science</p>
+</div>
+
+<!-- ════════════════════════════════════════════ -->
+<!-- TABLE OF CONTENTS                            -->
+<!-- ════════════════════════════════════════════ -->
+<div class="toc">
+  <h2>Table of Contents</h2>
+  <ol>
+    <li><a href="#d1">High-Level System Architecture</a></li>
+    <li><a href="#d2">12-Node LangGraph Agent Pipeline</a></li>
+    <li><a href="#d3">KB Agent Three-Phase Lifecycle</a></li>
+    <li><a href="#d4">Multi-RAG Knowledge Store Architecture</a></li>
+    <li><a href="#d5">Data Ingestion &amp; Fallback Chain Pipeline</a></li>
+    <li><a href="#d6">LangGraph StateGraph — State Fields</a></li>
+    <li><a href="#d7">LLM Provider Factory &amp; Model Selection</a></li>
+    <li><a href="#d8">Single Analysis Execution Sequence</a></li>
+    <li><a href="#d9">Outcome Learning &amp; Feedback Loop</a></li>
+    <li><a href="#d10">Explainability Module Workflow</a></li>
+    <li><a href="#d11">Agent Prompt Injection Flow</a></li>
+    <li><a href="#d12">Portfolio-Aware Risk Management</a></li>
+    <li><a href="#d13">Bull/Bear Debate &amp; Research Synthesis</a></li>
+    <li><a href="#d14">Embedding Pipeline (ChromaDB Write/Read)</a></li>
+    <li><a href="#d15">5-Day Rolling Evaluation Protocol</a></li>
+    <li><a href="#d16">Streamlit UI Architecture</a></li>
+    <li><a href="#d17">Knowledge Base Growth Over Sessions</a></li>
+    <li><a href="#d18">Full End-to-End Data Flow</a></li>
+    <li><a href="#d19">Agent Class Hierarchy</a></li>
+    <li><a href="#d20">Configuration &amp; Preferences Module</a></li>
+    <li><a href="#d21">Comparison: Passive RAG vs AgenticRAG</a></li>
+    <li><a href="#d22">Cognitive Architecture Analogy</a></li>
+  </ol>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 1: High-Level System Architecture     -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d1">
+  <h2>1. High-Level System Architecture</h2>
+  <p class="caption">Figure 1 — The four major subsystems of AgenticRAG and their interactions.</p>
+  <div class="mermaid">
+graph TB
+    subgraph DS["<b>Data Sources</b>"]
+        YF["yFinance<br/>(Market + Fundamentals)"]
+        GN["Google News RSS<br/>(50–100 articles)"]
+        RD["Reddit API<br/>(Finance Subreddits)"]
+        ST["StockTwits API<br/>(Social Trading)"]
+        AV["Alpha Vantage<br/>(Fallback)"]
+    end
+
+    subgraph DL["<b>DataLoader</b><br/>TTL Cache + Fallback Chains"]
+        FC["Fallback Chain<br/>Router"]
+        JC["JSON File<br/>Cache"]
+    end
+
+    subgraph AP["<b>Agent Pipeline</b><br/>(12-Node LangGraph StateGraph)"]
+        KB1["KB Pre-Query"]
+        AN["4 Domain Analysts"]
+        RES["Bull/Bear<br/>Researchers"]
+        RM["Research<br/>Manager"]
+        RISK["Risk Manager"]
+        TR["Trader"]
+        EX["Explainability"]
+        KB2["KB Post-Learn"]
+    end
+
+    subgraph KS["<b>Multi-RAG Knowledge System</b><br/>(ChromaDB)"]
+        MI["market_insights"]
+        TH["trade_history"]
+        LL["lessons_learned"]
+    end
+
+    subgraph OL["<b>Outcome Learning</b>"]
+        OR["Outcome<br/>Reflection"]
+        LG["Lesson<br/>Generation"]
+    end
+
+    DS --> DL
+    DL --> AP
+    KB1 <-->|"query all 3 stores"| KS
+    AP --> KB2
+    KB2 -->|"store decisions<br/>& insights"| MI
+    KB2 -->|"store decisions"| TH
+    OL -->|"store lessons"| LL
+    LL -.->|"feedback loop"| KB1
+
+    style DS fill:#e3f2fd,stroke:#1565c0
+    style DL fill:#fff3e0,stroke:#e65100
+    style AP fill:#f3e5f5,stroke:#6a1b9a
+    style KS fill:#e8f5e9,stroke:#2e7d32
+    style OL fill:#fff9c4,stroke:#f9a825
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 2: 12-Node Pipeline                   -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d2">
+  <h2>2. 12-Node LangGraph Agent Pipeline</h2>
+  <p class="caption">Figure 2 — Sequential flow through all 12 nodes with model tiers indicated.</p>
+  <div class="mermaid">
+graph LR
+    START(("START")) --> KB1
+
+    KB1["1. KB Pre-Query<br/><i>RAG retrieval</i>"]
+    FA["2. Fundamentals<br/>Analyst<br/><i>gpt-4o-mini</i>"]
+    MA["3. Market<br/>Analyst<br/><i>gpt-4o-mini</i>"]
+    NA["4. News<br/>Analyst<br/><i>gpt-4o-mini</i>"]
+    SA["5. Social Media<br/>Analyst<br/><i>gpt-4o-mini</i>"]
+    BULL["6. Bull<br/>Researcher<br/><i>gpt-4o-mini</i>"]
+    BEAR["7. Bear<br/>Researcher<br/><i>gpt-4o-mini</i>"]
+    RMG["8. Research<br/>Manager<br/><i>gpt-4o</i>"]
+    RSK["9. Risk<br/>Manager<br/><i>gpt-4o-mini</i>"]
+    TRD["10. Trader<br/><i>gpt-4o</i>"]
+    EXP["11. Explainability<br/><i>deterministic</i>"]
+    KB2["12. KB Post-Learn<br/><i>RAG storage</i>"]
+    ENDN(("END"))
+
+    KB1 --> FA --> MA --> NA --> SA --> BULL --> BEAR --> RMG --> RSK --> TRD --> EXP --> KB2 --> ENDN
+
+    style KB1 fill:#fff9c4,stroke:#f9a825,stroke-width:2px
+    style KB2 fill:#fff9c4,stroke:#f9a825,stroke-width:2px
+    style RMG fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style TRD fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style FA fill:#bbdefb,stroke:#1565c0
+    style MA fill:#bbdefb,stroke:#1565c0
+    style NA fill:#bbdefb,stroke:#1565c0
+    style SA fill:#bbdefb,stroke:#1565c0
+    style BULL fill:#c8e6c9,stroke:#2e7d32
+    style BEAR fill:#ffcdd2,stroke:#c62828
+    style EXP fill:#e0e0e0,stroke:#616161
+    style RSK fill:#ffe0b2,stroke:#e65100
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 3: KB Agent Three-Phase Lifecycle     -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d3">
+  <h2>3. KB Agent Three-Phase Lifecycle</h2>
+  <p class="caption">Figure 3 — The three phases of the Active Knowledge Base Agent: Recall, Consolidation, and Learning.</p>
+  <div class="mermaid">
+graph TB
+    subgraph Phase1["<b>Phase 1: Pre-Analysis Query (Recall)</b>"]
+        Q1["Query market_insights<br/>for ticker patterns"]
+        Q2["Query trade_history<br/>for past decisions"]
+        Q3["Query lessons_learned<br/>for outcome lessons"]
+        SYN["Synthesize<br/>Historical Context"]
+        Q1 --> SYN
+        Q2 --> SYN
+        Q3 --> SYN
+    end
+
+    subgraph Phase2["<b>Phase 2: Post-Decision Storage (Consolidation)</b>"]
+        CAP["Capture Full State:<br/>all reports, debate,<br/>risk, reasoning"]
+        STI["Store insights in<br/>market_insights"]
+        STD["Store decision in<br/>trade_history"]
+        CAP --> STI
+        CAP --> STD
+    end
+
+    subgraph Phase3["<b>Phase 3: Outcome Reflection (Learning)</b>"]
+        CMP["Compare decision<br/>vs actual return"]
+        EVL["Evaluate:<br/>was_correct?"]
+        GEN["LLM generates<br/>reflective lesson"]
+        STL["Store lesson in<br/>lessons_learned"]
+        CMP --> EVL --> GEN --> STL
+    end
+
+    SYN -->|"Inject context into<br/>all analyst prompts"| AGENTS["Agent Pipeline<br/>(Nodes 2–10)"]
+    AGENTS -->|"After Trader<br/>decision"| CAP
+    ACTUAL["Actual Returns<br/>(T+1 to T+30)"] -->|"When available"| CMP
+    STL -.->|"Retrieved in<br/>future Phase 1"| Q3
+
+    style Phase1 fill:#e8f5e9,stroke:#2e7d32
+    style Phase2 fill:#e3f2fd,stroke:#1565c0
+    style Phase3 fill:#fff9c4,stroke:#f9a825
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 4: Multi-RAG Knowledge Store          -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d4">
+  <h2>4. Multi-RAG Knowledge Store Architecture</h2>
+  <p class="caption">Figure 4 — Three specialized ChromaDB vector collections with their read/write patterns.</p>
+  <div class="mermaid">
+graph LR
+    subgraph CHROMA["<b>ChromaDB (Persistent)</b>"]
+        MI["<b>market_insights</b><br/>────────────────<br/>Market patterns<br/>Agent analysis snapshots<br/>Explainability reports<br/>────────────────<br/><i>Write: Phase 2</i><br/><i>Read: Phase 1</i>"]
+        TH["<b>trade_history</b><br/>────────────────<br/>Decision records<br/>Ticker, date, reasoning<br/>Confidence scores<br/>────────────────<br/><i>Write: Phase 2</i><br/><i>Read: Phase 1</i>"]
+        LL["<b>lessons_learned</b><br/>────────────────<br/>Outcome-derived lessons<br/>Success/failure flags<br/>Actual return %<br/>────────────────<br/><i>Write: Phase 3</i><br/><i>Read: Phase 1</i>"]
+    end
+
+    EMB["OpenAI<br/>text-embedding-3-small"]
+    
+    KB1["KB Pre-Query<br/>(Phase 1)"] -->|"query_all()"| MI
+    KB1 -->|"query_all()"| TH
+    KB1 -->|"query_all()"| LL
+
+    KB2["KB Post-Learn<br/>(Phase 2)"] -->|"store_insight()"| MI
+    KB2 -->|"store_decision()"| TH
+
+    OL["Outcome Reflection<br/>(Phase 3)"] -->|"store_lesson()"| LL
+
+    EMB -.->|"embed texts"| MI
+    EMB -.->|"embed texts"| TH
+    EMB -.->|"embed texts"| LL
+
+    style MI fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+    style TH fill:#bbdefb,stroke:#1565c0,stroke-width:2px
+    style LL fill:#fff9c4,stroke:#f9a825,stroke-width:2px
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 5: Data Ingestion                     -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d5">
+  <h2>5. Data Ingestion &amp; Fallback Chain Pipeline</h2>
+  <p class="caption">Figure 5 — The DataLoader's TTL-based caching mechanism with priority-ordered fallback sources.</p>
+  <div class="mermaid">
+graph TB
+    REQ["DataLoader.load(ticker, date, type)"]
+    
+    CACHE{"Cache<br/>fresh?"}
+    REQ --> CACHE
+    CACHE -->|"Yes (within TTL)"| RET["Return cached JSON"]
+    CACHE -->|"No / Missing"| FB["Try Fallback Chain"]
+
+    subgraph FC["Fallback Chains"]
+        direction TB
+        F1["<b>Fundamentals</b><br/>1. yFinance<br/>2. Alpha Vantage<br/><i>TTL: 7 days</i>"]
+        F2["<b>Market Data</b><br/>1. yFinance<br/>2. yFinance Report<br/><i>TTL: 1 day</i>"]
+        F3["<b>News</b><br/>1. Google RSS<br/>2. Alpha Vantage<br/><i>TTL: 6 hours</i>"]
+        F4["<b>Social Media</b><br/>1. Reddit JSON<br/>2. StockTwits API<br/><i>TTL: 6 hours</i>"]
+    end
+
+    FB --> FC
+    FC -->|"First source<br/>that returns data"| SAVE["Save to JSON Cache"]
+    SAVE --> RET
+
+    subgraph DIRS["Cache Directory Structure"]
+        D1["data/fundamentals/{TICKER}.json"]
+        D2["data/stock_data/{TICKER}_{DATE}.json"]
+        D3["data/news/{TICKER}_{DATE}.json"]
+        D4["data/social_media/{TICKER}_{DATE}.json"]
+    end
+
+    SAVE --> DIRS
+
+    style REQ fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    style CACHE fill:#fff9c4,stroke:#f9a825
+    style FC fill:#f3e5f5,stroke:#6a1b9a
+    style DIRS fill:#e0e0e0,stroke:#616161
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 6: LangGraph State                    -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d6">
+  <h2>6. LangGraph StateGraph — State Fields</h2>
+  <p class="caption">Figure 6 — The AgentState TypedDict showing all shared state fields and which nodes produce them.</p>
+  <div class="mermaid">
+classDiagram
+    class AgentState {
+        +str ticker
+        +str date
+        +str historical_context
+        +List~str~ lessons
+        +List~PortfolioHolding~ portfolio
+        +str portfolio_summary
+        +str fundamentals_report
+        +str market_report
+        +str news_report
+        +str social_report
+        +str bull_argument
+        +str bear_argument
+        +str research_summary
+        +str risk_assessment
+        +str final_decision
+        +float confidence
+        +str reasoning
+        +str explainability_report
+        +List~Dict~ agent_log
+    }
+
+    class PortfolioHolding {
+        +str ticker
+        +int shares
+        +float avg_price
+    }
+
+    AgentState --> PortfolioHolding : portfolio contains
+
+    class KBPreQuery {
+        writes: historical_context, lessons
+    }
+    class Analysts {
+        writes: fundamentals_report
+        writes: market_report
+        writes: news_report
+        writes: social_report
+    }
+    class Researchers {
+        writes: bull_argument
+        writes: bear_argument
+        writes: research_summary
+    }
+    class RiskManager {
+        writes: risk_assessment
+    }
+    class Trader {
+        writes: final_decision
+        writes: confidence
+        writes: reasoning
+    }
+    class Explainability {
+        writes: explainability_report
+    }
+
+    KBPreQuery ..> AgentState : updates
+    Analysts ..> AgentState : updates
+    Researchers ..> AgentState : updates
+    RiskManager ..> AgentState : updates
+    Trader ..> AgentState : updates
+    Explainability ..> AgentState : updates
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 7: LLM Factory                        -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d7">
+  <h2>7. LLM Provider Factory &amp; Model Selection</h2>
+  <p class="caption">Figure 7 — The model-agnostic LLM factory supporting three providers with two-tier model selection.</p>
+  <div class="mermaid">
+graph TB
+    CONFIG["src/karma/config.py<br/>CONFIG dict"]
+    
+    subgraph FACTORY["LLM Factory (llm_factory.py)"]
+        CL["create_llm(model, provider, temp)"]
+        GD["get_deep_llm()"]
+        GQ["get_quick_llm()"]
+    end
+
+    subgraph PROVIDERS["Supported Providers"]
+        OP["<b>OpenAI</b><br/>Deep: gpt-4o, gpt-4-turbo<br/>Quick: gpt-4o-mini"]
+        GE["<b>Google Gemini</b><br/>Deep: gemini-2.5-pro<br/>Quick: gemini-2.5-flash-lite"]
+        OL["<b>Ollama (Local)</b><br/>Deep: llama3.1:70b<br/>Quick: llama3.1:8b"]
+    end
+
+    subgraph USAGE["Agent Assignment"]
+        DEEP["<b>Deep Model</b><br/>(Complex Reasoning)<br/>• Research Manager<br/>• Trader"]
+        QUICK["<b>Quick Model</b><br/>(High Throughput)<br/>• 4 Analysts<br/>• Bull/Bear<br/>• Risk Manager<br/>• KB Agent"]
+    end
+
+    CONFIG -->|"llm_provider<br/>deep_model<br/>quick_model"| FACTORY
+    GD --> DEEP
+    GQ --> QUICK
+    CL --> OP
+    CL --> GE
+    CL --> OL
+
+    style FACTORY fill:#e3f2fd,stroke:#1565c0
+    style PROVIDERS fill:#f3e5f5,stroke:#6a1b9a
+    style USAGE fill:#e8f5e9,stroke:#2e7d32
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 8: Sequence Diagram                   -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d8">
+  <h2>8. Single Analysis Execution Sequence</h2>
+  <p class="caption">Figure 8 — Sequence diagram of a complete pipeline run for a single ticker on a single day.</p>
+  <div class="mermaid">
+sequenceDiagram
+    participant User
+    participant TG as TradingGraph
+    participant KB as KB Agent
+    participant RAG as ChromaDB
+    participant DL as DataLoader
+    participant AN as Analysts (4)
+    participant RES as Researchers (3)
+    participant RISK as Risk Manager
+    participant TR as Trader
+    participant EX as Explainability
+
+    User->>TG: run(ticker, date, portfolio)
+    TG->>TG: create_state(ticker, date, portfolio)
+    
+    Note over TG,RAG: Phase 1 — Pre-Analysis Query
+    TG->>KB: pre_query(ticker, date)
+    KB->>RAG: query_all(ticker, n_per_store=3)
+    RAG-->>KB: {insights, history, lessons}
+    KB-->>TG: historical_context + lessons
+
+    Note over TG,DL: Data Loading + Analysis
+    TG->>DL: load(ticker, date, "fundamentals")
+    DL-->>TG: fundamentals JSON
+    TG->>AN: fundamentals_analyst(state)
+    AN-->>TG: fundamentals_report
+    TG->>DL: load(ticker, date, "market")
+    TG->>AN: market_analyst(state)
+    AN-->>TG: market_report
+    TG->>DL: load(ticker, date, "news")
+    TG->>AN: news_analyst(state)
+    AN-->>TG: news_report
+    TG->>DL: load(ticker, date, "social")
+    TG->>AN: social_analyst(state)
+    AN-->>TG: social_report
+
+    Note over TG,RES: Bull/Bear Debate
+    TG->>RES: bull_researcher(state)
+    RES-->>TG: bull_argument
+    TG->>RES: bear_researcher(state)
+    RES-->>TG: bear_argument
+    TG->>RES: research_manager(state)
+    RES-->>TG: research_summary
+
+    Note over TG,TR: Risk Assessment + Decision
+    TG->>RISK: risk_manager(state)
+    RISK-->>TG: risk_assessment
+    TG->>TR: trader(state)
+    TR-->>TG: decision + confidence + reasoning
+
+    Note over TG,RAG: Phase 2 — Post-Decision Storage
+    TG->>EX: generate_report(state)
+    EX-->>TG: explainability_report
+    TG->>KB: post_learn(ticker, date, decision, ...)
+    KB->>RAG: store_decision() + store_insight()
+
+    TG-->>User: {decision, confidence, reasoning, report}
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 9: Outcome Learning Loop              -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d9">
+  <h2>9. Outcome Learning &amp; Feedback Loop</h2>
+  <p class="caption">Figure 9 — How realized market returns flow back through the system to generate lessons that improve future analyses.</p>
+  <div class="mermaid">
+graph TB
+    S1["<b>Session N</b><br/>AgenticRAG issues<br/>BUY for NVDA<br/>@ 0.80 confidence"]
+    
+    WAIT["Wait for<br/>T+1 to T+30<br/>actual returns"]
+    
+    S1 --> WAIT
+
+    subgraph REFLECT["Outcome Reflection (Phase 3)"]
+        CMP["Compare:<br/>Decision vs Actual Return"]
+        EVAL{"Return > 0?<br/>(for BUY)"}
+        SUC["✅ CORRECT<br/>Generate success lesson"]
+        FAIL["❌ WRONG<br/>Generate failure lesson"]
+        
+        CMP --> EVAL
+        EVAL -->|"Yes"| SUC
+        EVAL -->|"No"| FAIL
+    end
+
+    WAIT -->|"Actual: -4.2%"| CMP
+
+    STORE["Store in<br/>lessons_learned:<br/>'FAILED BUY for NVDA<br/>(-4.20%). Missed overbought<br/>RSI and declining volume.'"]
+
+    SUC --> STORE
+    FAIL --> STORE
+
+    subgraph FUTURE["Session N+1"]
+        KB1["KB Pre-Query<br/>retrieves lesson"]
+        ANP["Analysts receive<br/>lesson in prompt"]
+        DEC["More cautious<br/>assessment"]
+        KB1 --> ANP --> DEC
+    end
+
+    STORE -.->|"Semantic retrieval<br/>on next query"| KB1
+
+    style REFLECT fill:#fff9c4,stroke:#f9a825
+    style FUTURE fill:#e8f5e9,stroke:#2e7d32
+    style S1 fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 10: Explainability Module             -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d10">
+  <h2>10. Explainability Module Workflow</h2>
+  <p class="caption">Figure 10 — Two-phase explainability: automatic snapshot after each decision, and outcome learning when returns are known.</p>
+  <div class="mermaid">
+graph TB
+    subgraph SNAP["<b>Phase 1: Snapshot (Automatic)</b>"]
+        IN1["Collect all agent outputs:<br/>fundamentals, market, news,<br/>social, bull, bear, research,<br/>risk, trader reasoning"]
+        GR["generate_report()<br/>Build structured report"]
+        SR["store_report()<br/>→ market_insights"]
+        IN1 --> GR --> SR
+    end
+
+    subgraph LEARN["<b>Phase 2: Outcome Learning (Manual/Auto)</b>"]
+        IN2["Input: actual_return<br/>(e.g., +5.2% or -3.1%)"]
+        EV["_evaluate(decision, return)<br/>→ was_correct: bool"]
+        RF["_llm_reflect()<br/>Generate deep reflection"]
+        SL["store_lesson()<br/>→ lessons_learned"]
+        IN2 --> EV --> RF --> SL
+    end
+
+    REPORT["<b>Report Structure:</b><br/>═══════════════<br/>Ticker | Date | Decision<br/>Confidence | Timestamp<br/>──────────────<br/>§ Fundamentals Analysis<br/>§ Market/Technical Analysis<br/>§ News Analysis<br/>§ Social Media Sentiment<br/>§ Bull Researcher<br/>§ Bear Researcher<br/>§ Research Manager Synthesis<br/>§ Risk Assessment<br/>§ Trader's Final Reasoning<br/>═══════════════"]
+
+    GR --> REPORT
+
+    style SNAP fill:#e3f2fd,stroke:#1565c0
+    style LEARN fill:#fff9c4,stroke:#f9a825
+    style REPORT fill:#f5f5f5,stroke:#424242
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 11: Prompt Injection                  -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d11">
+  <h2>11. Agent Prompt Injection Flow</h2>
+  <p class="caption">Figure 11 — How historical context, data, and portfolio information are injected into each agent's prompt template.</p>
+  <div class="mermaid">
+graph LR
+    subgraph INPUTS["Prompt Inputs"]
+        T["ticker"]
+        D["date"]
+        HC["historical_context<br/><i>(from KB Pre-Query)</i>"]
+        PS["portfolio_summary<br/><i>(from build_portfolio_summary)</i>"]
+        DATA["raw data<br/><i>(from DataLoader)</i>"]
+        LS["lessons<br/><i>(from KB Pre-Query)</i>"]
+    end
+
+    subgraph TEMPLATE["Prompt Template"]
+        PT["You are a {role} analyst...<br/><br/>Historical Context:<br/>{context}<br/><br/>Portfolio:<br/>{portfolio_summary}<br/><br/>Data:<br/>{data}<br/><br/>Lessons Learned:<br/>{lessons}<br/><br/>Analyze {ticker} for {date}...<br/><br/>Provide: BULLISH / BEARISH / NEUTRAL"]
+    end
+
+    subgraph LLM["LLM Call"]
+        CALL["llm.invoke(prompt)"]
+        RESP["Agent Report"]
+    end
+
+    T --> PT
+    D --> PT
+    HC --> PT
+    PS --> PT
+    DATA --> PT
+    LS --> PT
+    PT --> CALL --> RESP
+
+    style INPUTS fill:#e8f5e9,stroke:#2e7d32
+    style TEMPLATE fill:#fff3e0,stroke:#e65100
+    style LLM fill:#e3f2fd,stroke:#1565c0
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 12: Portfolio-Aware Risk              -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d12">
+  <h2>12. Portfolio-Aware Risk Management</h2>
+  <p class="caption">Figure 12 — How portfolio context flows through the system, from preset selection to concentration warnings.</p>
+  <div class="mermaid">
+graph TB
+    subgraph PRESETS["Portfolio Presets"]
+        P1["fresh_entry<br/>0 shares each"]
+        P2["light_holder<br/>5 shares each"]
+        P3["heavy_tech<br/>40 AAPL, 30 NVDA..."]
+        P4["balanced_tech<br/>10-12 shares each"]
+    end
+
+    BUILD["build_portfolio_summary()<br/><i>portfolio_utils.py</i>"]
+    
+    subgraph CALC["Calculations"]
+        FP["Fetch live prices<br/>(yFinance)"]
+        MV["Calculate market values<br/>& allocations %"]
+        CW{"Any holding<br/>> 25%?"}
+        WARN["⚠️ CONCENTRATION<br/>WARNING"]
+        OK["Portfolio balanced"]
+    end
+
+    subgraph OUTPUT["Portfolio Summary String"]
+        PS["Total Value: $50,000<br/>─────────────<br/>AAPL: 10 @ $265 = $2,650 (5.3%)<br/>MSFT: 8 @ $420 = $3,360 (6.7%)<br/>GOOGL: 12 @ $308 = $3,696 (7.4%)<br/>...<br/>─────────────<br/>Target: AAPL — 10 shares<br/>⚠️ GOOGL at 28% > 25%"]
+    end
+
+    PRESETS --> BUILD
+    BUILD --> FP --> MV --> CW
+    CW -->|"Yes"| WARN
+    CW -->|"No"| OK
+    WARN --> PS
+    OK --> PS
+
+    PS -->|"Injected into"| RISK["Risk Manager Prompt"]
+    PS -->|"Injected into"| TRADER["Trader Prompt"]
+    PS -->|"Injected into"| ANALYSTS["All Analyst Prompts"]
+
+    style PRESETS fill:#e3f2fd,stroke:#1565c0
+    style CALC fill:#fff9c4,stroke:#f9a825
+    style OUTPUT fill:#f5f5f5,stroke:#424242
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 13: Bull/Bear Debate                  -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d13">
+  <h2>13. Bull/Bear Debate &amp; Research Synthesis</h2>
+  <p class="caption">Figure 13 — How the adversarial debate structure works, from analyst inputs through synthesis to final decision.</p>
+  <div class="mermaid">
+graph TB
+    subgraph REPORTS["4 Analyst Reports"]
+        FR["Fundamentals:<br/>EPS, D/E, margins"]
+        MR["Market:<br/>RSI, MACD, MAs"]
+        NR["News:<br/>Headlines, impact"]
+        SR["Social:<br/>Sentiment counts"]
+    end
+
+    subgraph DEBATE["Adversarial Debate"]
+        BULL["<b>🟢 Bull Researcher</b><br/>────────────────<br/>Extract ALL positive signals<br/>Build strongest BUY case<br/>Cite specific data points"]
+        BEAR["<b>🔴 Bear Researcher</b><br/>────────────────<br/>Extract ALL negative signals<br/>Build strongest SELL case<br/>Cite specific risk factors"]
+    end
+
+    subgraph SYNTH["Synthesis"]
+        MGR["<b>Research Manager (GPT-4o)</b><br/>────────────────<br/>• Weigh bull vs bear evidence<br/>• Identify which side is stronger<br/>• Consider portfolio context<br/>• Recommend direction"]
+    end
+
+    subgraph DECISION["Final Decision Chain"]
+        RISK["<b>Risk Manager</b><br/>Assess: LOW / MEDIUM / HIGH<br/>Position sizing, stop-loss"]
+        TRADER["<b>Trader (GPT-4o)</b><br/>BUY / HOLD / SELL<br/>Confidence: 0.0–1.0"]
+    end
+
+    FR --> BULL
+    MR --> BULL
+    NR --> BULL
+    SR --> BULL
+    FR --> BEAR
+    MR --> BEAR
+    NR --> BEAR
+    SR --> BEAR
+
+    BULL -->|"bull_argument"| MGR
+    BEAR -->|"bear_argument"| MGR
+
+    MGR -->|"research_summary"| RISK
+    RISK -->|"risk_assessment"| TRADER
+
+    style BULL fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+    style BEAR fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style MGR fill:#e1bee7,stroke:#6a1b9a,stroke-width:2px
+    style TRADER fill:#bbdefb,stroke:#1565c0,stroke-width:2px
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 14: Embedding Pipeline                -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d14">
+  <h2>14. Embedding Pipeline (ChromaDB Write/Read)</h2>
+  <p class="caption">Figure 14 — How documents are embedded, stored, and retrieved via semantic similarity search.</p>
+  <div class="mermaid">
+sequenceDiagram
+    participant App as Application
+    participant RM as RAGManager
+    participant KSt as KnowledgeStore
+    participant Emb as Embeddings
+    participant CDB as ChromaDB Collection
+
+    Note over App,CDB: WRITE PATH (store_decision / store_insight / store_lesson)
+    App->>RM: store_decision(ticker, date, decision, reasoning, confidence)
+    RM->>KSt: add(texts, metadatas)
+    KSt->>Emb: embed_batch(texts)
+    Emb->>Emb: OpenAI text-embedding-3-small
+    Emb-->>KSt: float vectors
+    KSt->>CDB: collection.add(documents, embeddings, metadatas, ids)
+    CDB-->>KSt: OK
+
+    Note over App,CDB: READ PATH (query / query_all)
+    App->>RM: query_all("AAPL analysis", n_per_store=3)
+    loop For each store
+        RM->>KSt: query(query_text, n_results=3)
+        KSt->>Emb: embed(query_text)
+        Emb-->>KSt: query vector
+        KSt->>CDB: collection.query(query_embeddings, n_results)
+        CDB-->>KSt: {documents, metadatas, distances}
+        KSt-->>RM: [{text, metadata, distance}, ...]
+    end
+    RM-->>App: {market_insights: [...], trade_history: [...], lessons_learned: [...]}
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 15: 5-Day Evaluation Protocol         -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d15">
+  <h2>15. 5-Day Rolling Evaluation Protocol</h2>
+  <p class="caption">Figure 15 — The experimental evaluation protocol used to assess system performance over rolling 5-day windows with T+1 outcome checks.</p>
+  <div class="mermaid">
+gantt
+    title 5-Day Rolling Evaluation Protocol (Round 2)
+    dateFormat YYYY-MM-DD
+    axisFormat %b %d
+    
+    section Day 1
+    Log: AAPL, GOOGL, AMZN decisions   :d1log, 2026-03-09, 1d
+    Check T+1 outcomes                   :d1check, 2026-03-10, 1d
+
+    section Day 2
+    Log: AAPL, GOOGL, AMZN decisions   :d2log, 2026-03-10, 1d
+    Check T+1 outcomes                   :d2check, 2026-03-11, 1d
+
+    section Day 3
+    Log: AAPL, GOOGL, AMZN decisions   :d3log, 2026-03-11, 1d
+    Check T+1 outcomes                   :d3check, 2026-03-12, 1d
+
+    section Day 4
+    Log: AAPL, GOOGL, AMZN decisions   :d4log, 2026-03-12, 1d
+    Check T+1 outcomes                   :d4check, 2026-03-13, 1d
+
+    section Day 5
+    Log: AAPL, GOOGL, AMZN decisions   :d5log, 2026-03-13, 1d
+    Check T+1 outcomes                   :d5check, 2026-03-16, 1d
+  </div>
+
+  <div class="note">
+    <b>Protocol:</b> For each of the 5 evaluation days, the system runs the full 12-node pipeline for each ticker (AAPL, GOOGL, AMZN). The next trading day, the T+1 closing price is fetched and compared against the decision to evaluate correctness. After each outcome check, lessons are generated and stored in the KB, creating progressively richer context for subsequent days.
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 16: Streamlit UI Architecture         -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d16">
+  <h2>16. Streamlit UI Architecture</h2>
+  <p class="caption">Figure 16 — The multi-page Streamlit application structure and its integration with the backend.</p>
+  <div class="mermaid">
+graph TB
+    subgraph UI["<b>Streamlit Frontend</b>"]
+      ESS["app_essential.py<br/><b>Essential Lab</b><br/>• View decisions<br/>• Edit cache/KB<br/>• Learn from outcomes"]
+        MAIN["app_main.py<br/><b>Trading Dashboard</b><br/>• Ticker/date selector<br/>• Portfolio presets<br/>• Live pipeline streaming<br/>• Decision display"]
+      MSTR["app_master_eval.py<br/><b>Master Evaluator</b><br/>• Day 1-2 collection mode<br/>• Day 3-5 learning mode<br/>• Phase tables"]
+    end
+
+    subgraph BACKEND["<b>Backend</b>"]
+        TG["TradingGraph"]
+        KBA["KB Agent"]
+        RAGM["RAG Manager"]
+        BK["Backtester"]
+    end
+
+    subgraph STORAGE["<b>Storage</b>"]
+        RES["storage/results/*.json"]
+        SESS["storage/results/_eval_sessions.json"]
+        OUT["storage/results/_outcomes.json"]
+        CDB["ChromaDB stores"]
+    end
+
+    ESS -->|"run() + edit + learn"| TG
+    MAIN -->|"stream()"| TG
+    MSTR -->|"run() + learn_from_outcome()"| TG
+
+    TG --> KBA
+    KBA --> RAGM
+    RAGM --> CDB
+    TG --> RES
+    EVAL --> SESS
+    EVAL --> OUT
+
+    style UI fill:#e3f2fd,stroke:#1565c0
+    style BACKEND fill:#f3e5f5,stroke:#6a1b9a
+    style STORAGE fill:#e8f5e9,stroke:#2e7d32
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 17: KB Growth                         -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d17">
+  <h2>17. Knowledge Base Growth Over Sessions</h2>
+  <p class="caption">Figure 17 — Accumulative growth of the three ChromaDB stores across multiple trading sessions and outcome reflections.</p>
+  <div class="mermaid">
+xychart-beta
+    title "Knowledge Base Document Growth"
+    x-axis ["Initial", "1 Run", "3 Runs", "5 Runs", "+3 Outcomes", "+5 Outcomes", "10 Runs+Out"]
+    y-axis "Document Count" 0 --> 45
+    bar [0, 2, 6, 10, 10, 10, 20]
+    bar [0, 1, 3, 5, 5, 5, 10]
+    bar [0, 0, 0, 0, 3, 5, 10]
+  </div>
+  <div class="note">
+    <b>Legend:</b> Blue = market_insights | Purple = trade_history | Orange = lessons_learned.<br/>
+    Each analysis run deposits ~2 documents in market_insights and 1 in trade_history. Lessons only appear after outcome reflection (Phase 3).
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 18: Full End-to-End Data Flow         -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d18">
+  <h2>18. Full End-to-End Data Flow</h2>
+  <p class="caption">Figure 18 — Complete data flow from external sources through the pipeline to final output and feedback.</p>
+  <div class="mermaid">
+graph TB
+    USER["User Input:<br/>ticker, date, portfolio"]
+    
+    subgraph INGEST["1. Data Ingestion"]
+        YF["yFinance API"]
+        GN["Google News RSS"]
+        RD["Reddit/StockTwits"]
+        CACHE["JSON File Cache<br/>(TTL-based)"]
+        YF --> CACHE
+        GN --> CACHE
+        RD --> CACHE
+    end
+
+    subgraph RECALL["2. Memory Recall"]
+        RAG_Q["ChromaDB<br/>query_all()"]
+        CTX["Historical Context<br/>+ Lessons"]
+    end
+
+    subgraph ANALYSIS["3. Multi-Agent Analysis"]
+        A1["Fundamentals Analyst"]
+        A2["Market Analyst"]
+        A3["News Analyst"]
+        A4["Social Analyst"]
+    end
+
+    subgraph DEBATE["4. Adversarial Debate"]
+        B["Bull Researcher"]
+        BR["Bear Researcher"]
+        RM["Research Manager"]
+    end
+
+    subgraph DECIDE["5. Decision Making"]
+        RSK["Risk Manager"]
+        TRD["Trader Agent"]
+        DEC["BUY / HOLD / SELL<br/>+ Confidence 0–1"]
+    end
+
+    subgraph STORE["6. Knowledge Storage"]
+        EXP["Explainability<br/>Report"]
+        S1["→ market_insights"]
+        S2["→ trade_history"]
+    end
+
+    subgraph LEARN["7. Feedback Loop"]
+        ACT["Actual Returns<br/>(T+1 ~ T+30)"]
+        REF["Outcome Reflection"]
+        S3["→ lessons_learned"]
+    end
+
+    OUTPUT["Output:<br/>Decision + Report<br/>+ JSON file"]
+
+    USER --> INGEST
+    USER --> RECALL
+    RAG_Q --> CTX
+    CACHE --> ANALYSIS
+    CTX --> ANALYSIS
+    ANALYSIS --> DEBATE
+    B --> RM
+    BR --> RM
+    DEBATE --> DECIDE
+    RSK --> TRD --> DEC
+    DEC --> STORE
+    EXP --> S1
+    DEC --> S2
+    DEC --> OUTPUT
+    ACT --> REF
+    REF --> S3
+    S3 -.->|"future queries"| RAG_Q
+
+    style INGEST fill:#fff3e0,stroke:#e65100
+    style RECALL fill:#e8f5e9,stroke:#2e7d32
+    style ANALYSIS fill:#e3f2fd,stroke:#1565c0
+    style DEBATE fill:#fce4ec,stroke:#c62828
+    style DECIDE fill:#f3e5f5,stroke:#6a1b9a
+    style STORE fill:#e8f5e9,stroke:#2e7d32
+    style LEARN fill:#fff9c4,stroke:#f9a825
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 19: Agent Class Hierarchy             -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d19">
+  <h2>19. Agent Class &amp; Module Hierarchy</h2>
+  <p class="caption">Figure 19 — Module-level architecture showing the relationship between all Python modules.</p>
+  <div class="mermaid">
+graph TB
+    subgraph ENTRY["Entry Points"]
+        MAIN["main.py"]
+      ST["apps/<br/>app_*.py"]
+    end
+
+    subgraph CORE["Core Orchestration"]
+      TG["src/karma/graph/<br/>trading_graph.py<br/><b>TradingGraph</b>"]
+    end
+
+    subgraph AGENTS["src/karma/agents/"]
+        STATE["state.py<br/><i>AgentState</i>"]
+        PROMPTS["prompts.py<br/><i>All prompt templates</i>"]
+        ANAL["analysts.py<br/><i>4 analyst factories</i>"]
+        RES["researchers.py<br/><i>Bull/Bear/Manager</i>"]
+        RISKM["risk_manager.py<br/><i>Risk assessment</i>"]
+        TRADER["trader.py<br/><i>Final decision</i>"]
+        KBA["kb_agent.py<br/><i>KnowledgeBaseAgent</i>"]
+    end
+
+    subgraph RAG["src/karma/rag/"]
+        RAGM["rag_manager.py<br/><i>RAGManager</i>"]
+        KST["knowledge_store.py<br/><i>KnowledgeStore</i>"]
+        EMB["embeddings.py<br/><i>Embeddings</i>"]
+        EXPL["explainability.py<br/><i>Explainability</i>"]
+    end
+
+    subgraph DATA["src/karma/data/"]
+        DL["data_loader.py<br/><i>DataLoader</i>"]
+        SRC["sources.py<br/><i>Data fetchers</i>"]
+    end
+
+    subgraph UTIL["src/karma/utils/"]
+        LLM["llm_factory.py"]
+        PORT["portfolio_utils.py"]
+    end
+
+    PREF["src/karma/config.py<br/><i>CONFIG</i>"]
+
+    MAIN --> TG
+    ST --> TG
+    TG --> STATE
+    TG --> KBA
+    TG --> EXPL
+    TG --> ANAL
+    TG --> RES
+    TG --> RISKM
+    TG --> TRADER
+    TG --> DL
+    
+    ANAL --> PROMPTS
+    RES --> PROMPTS
+    RISKM --> PROMPTS
+    TRADER --> PROMPTS
+    
+    KBA --> RAGM
+    EXPL --> RAGM
+    RAGM --> KST
+    KST --> EMB
+    
+    DL --> SRC
+    TG --> LLM
+    TG --> PORT
+    LLM --> PREF
+    DL --> PREF
+    RAGM --> PREF
+
+    style CORE fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px
+    style AGENTS fill:#e3f2fd,stroke:#1565c0
+    style RAG fill:#e8f5e9,stroke:#2e7d32
+    style DATA fill:#fff3e0,stroke:#e65100
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 20: Configuration                     -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d20">
+  <h2>20. Configuration Module</h2>
+  <p class="caption">Figure 20 — Central configuration hub showing all configurable parameters and their consumers.</p>
+  <div class="mermaid">
+graph LR
+    subgraph PREF["<b>src/karma/config.py — CONFIG</b>"]
+        LP["llm_provider: openai"]
+        DM["deep_model: gpt-4o"]
+        QM["quick_model: gpt-4o-mini"]
+        EP["embedding_provider: openai"]
+        SA["selected_analysts:<br/>[fund, market, news, social]"]
+        DD["data_dir: ./storage/cache"]
+        KBD["knowledge_base_dir:<br/>./storage/kb"]
+        RD["results_dir: ./storage/results"]
+    end
+
+    subgraph CONSUMERS["Consumers"]
+        LLM["llm_factory.py<br/>→ model selection"]
+        EMB["embeddings.py<br/>→ embedding model"]
+        DL["data_loader.py<br/>→ cache directories"]
+        RAG["rag_manager.py<br/>→ persist directory"]
+        TG["trading_graph.py<br/>→ analyst selection"]
+    end
+
+    LP --> LLM
+    DM --> LLM
+    QM --> LLM
+    EP --> EMB
+    SA --> TG
+    DD --> DL
+    KBD --> RAG
+    RD --> TG
+
+    style PREF fill:#fff3e0,stroke:#e65100,stroke-width:2px
+    style CONSUMERS fill:#e3f2fd,stroke:#1565c0
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 21: Passive vs Active RAG             -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d21">
+  <h2>21. Comparison: Passive RAG vs AgenticRAG</h2>
+  <p class="caption">Figure 21 — Side-by-side comparison showing the fundamental architectural difference between traditional passive RAG and our active KB Agent approach.</p>
+  <div class="mermaid">
+graph TB
+    subgraph PASSIVE["<b>Passive RAG (Traditional)</b>"]
+        direction TB
+        PQ1["User Query"]
+        PR1["Retrieve Documents<br/>(read-only)"]
+        PG1["Generate Response"]
+        PQ1 --> PR1 --> PG1
+        PDB["Static Document<br/>Store"]
+        PR1 <-->|"Read Only"| PDB
+        PX["❌ No feedback<br/>❌ No memory<br/>❌ No learning"]
+    end
+
+    subgraph ACTIVE["<b>AgenticRAG (Ours)</b>"]
+        direction TB
+        AQ1["User Query +<br/>Ticker + Date"]
+        AKB1["<b>KB Pre-Query</b><br/>Recall history +<br/>lessons"]
+        AA["Multi-Agent<br/>Analysis"]
+        AD["Decision"]
+        AKB2["<b>KB Post-Learn</b><br/>Store decision +<br/>insights"]
+        AKB3["<b>Outcome Reflect</b><br/>Generate lessons"]
+        AQ1 --> AKB1 --> AA --> AD --> AKB2
+        AKB3 -.->|"Feed back"| AKB1
+        ADB["3 Evolving<br/>Vector Stores"]
+        AKB1 <-->|"Read"| ADB
+        AKB2 -->|"Write"| ADB
+        AKB3 -->|"Write"| ADB
+        AX["✅ Temporal memory<br/>✅ Self-improvement<br/>✅ Closed-loop learning"]
+    end
+
+    style PASSIVE fill:#ffebee,stroke:#c62828
+    style ACTIVE fill:#e8f5e9,stroke:#2e7d32
+    style PX fill:#ffcdd2,stroke:#c62828
+    style AX fill:#c8e6c9,stroke:#2e7d32
+  </div>
+</div>
+
+
+<!-- ════════════════════════════════════════════ -->
+<!-- DIAGRAM 22: Cognitive Analogy                 -->
+<!-- ════════════════════════════════════════════ -->
+<div class="diagram-section" id="d22">
+  <h2>22. Cognitive Architecture Analogy</h2>
+  <p class="caption">Figure 22 — Mapping between human cognitive processes (hippocampal memory consolidation) and AgenticRAG's three-phase knowledge lifecycle.</p>
+  <div class="mermaid">
+graph TB
+    subgraph HUMAN["<b>Human Cognition</b>"]
+        H1["<b>Perception</b><br/>Gather information<br/>from environment"]
+        H2["<b>Working Memory</b><br/>Hold and process<br/>current task"]
+        H3["<b>Decision</b><br/>Choose action<br/>based on analysis"]
+        H4["<b>Hippocampal<br/>Consolidation</b><br/>Store experience in<br/>long-term memory"]
+        H5["<b>Reflection</b><br/>Learn from outcomes<br/>update mental models"]
+        H6["<b>Recall</b><br/>Retrieve relevant<br/>past experiences"]
+        
+        H1 --> H2 --> H3 --> H4
+        H4 --> H5
+        H5 -.-> H6
+        H6 -.-> H2
+    end
+
+    subgraph SYSTEM["<b>AgenticRAG</b>"]
+        S1["<b>Data Ingestion</b><br/>Fetch market data,<br/>news, social media"]
+        S2["<b>Agent Pipeline</b><br/>4 analysts + debate +<br/>risk assessment"]
+        S3["<b>Trader Decision</b><br/>BUY / HOLD / SELL<br/>with confidence"]
+        S4["<b>KB Post-Learn</b><br/>Store in trade_history<br/>and market_insights"]
+        S5["<b>Outcome Reflection</b><br/>Compare vs returns,<br/>generate lessons"]
+        S6["<b>KB Pre-Query</b><br/>Retrieve from all<br/>3 ChromaDB stores"]
+        
+        S1 --> S2 --> S3 --> S4
+        S4 --> S5
+        S5 -.-> S6
+        S6 -.-> S2
+    end
+
+    H1 ---|"≈"| S1
+    H2 ---|"≈"| S2
+    H3 ---|"≈"| S3
+    H4 ---|"≈"| S4
+    H5 ---|"≈"| S5
+    H6 ---|"≈"| S6
+
+    style HUMAN fill:#e3f2fd,stroke:#1565c0
+    style SYSTEM fill:#e8f5e9,stroke:#2e7d32
+  </div>
+</div>
+
+
+<footer>
+  <p>AgenticRAG: A Multi-Agent Framework with Active Knowledge Base Learning for Autonomous Financial Investment Decisions</p>
+  <p>Lakshya Sharma — Figures generated with Mermaid.js for journal publication</p>
+  <p style="margin-top:0.5rem; font-size:0.8rem;">To export as PDF: Open in browser → File → Print → Save as PDF (A4, Landscape recommended for wide diagrams)</p>
+</footer>
+
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'default',
+    themeVariables: {
+      fontSize: '14px',
+      fontFamily: 'Georgia, serif'
+    },
+    flowchart: { 
+      useMaxWidth: true,
+      htmlLabels: true,
+      curve: 'basis'
+    },
+    sequence: {
+      useMaxWidth: true,
+      showSequenceNumbers: false
+    }
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,694 @@
+{
+  "ticker": "AMZN",
+  "data_source": "google_rss",
+  "time_window": "last_30_days",
+  "article_count": 98,
+  "articles": [
+    {
+      "source": "CNBC",
+      "headline": "Amazon stock falls 8% on $200 billion spending forecast, earnings miss",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9sVG5STVQ1blB4QTRZX3ZIRlVhdG9vMzRuV00yZU9VQkhkYV80dEwyQnpJVUlDaW5aV19jTVJFT3Fxb2plcklLX2xqdWQ0dzFyMVVnWTBsN2M0QUFKd1FuMmg0MFAxVGNCUjZ5dkFTUnpuN3ZtUEVqU283N0PSAYIBQVVfeXFMTzlWd0g0NmxRWERsbEhCejJTa3JWVDZqdWg5by0zSWgwampvLUhEUl9vMVVwdmhxLXJUMFdIa1hydWNFc1ZQQTZEeEZNMnJUQWNtUXFoT0QzM1oxYzVpdDgwbEdZOGg0dFFHVkNiREVWckE1NDNVUWR3eDZBQWJpdXZnQQ?oc=5\" target=\"_blank\">Amazon stock falls 8% on $200 billion spending forecast, earnings miss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "date": "2026-02-05T17:00:01",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sVG5STVQ1blB4QTRZX3ZIRlVhdG9vMzRuV00yZU9VQkhkYV80dEwyQnpJVUlDaW5aV19jTVJFT3Fxb2plcklLX2xqdWQ0dzFyMVVnWTBsN2M0QUFKd1FuMmg0MFAxVGNCUjZ5dkFTUnpuN3ZtUEVqU283N0PSAYIBQVVfeXFMTzlWd0g0NmxRWERsbEhCejJTa3JWVDZqdWg5by0zSWgwampvLUhEUl9vMVVwdmhxLXJUMFdIa1hydWNFc1ZQQTZEeEZNMnJUQWNtUXFoT0QzM1oxYzVpdDgwbEdZOGg0dFFHVkNiREVWckE1NDNVUWR3eDZBQWJpdXZnQQ?oc=5"
+    },
+    {
+      "source": "Bloomberg.com",
+      "headline": "Amazon Says It Will Spend $200 Billion This Year on AI Build-Out",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3ZQNmZNMkRZRGc5dG1VbE1LbkowYlAwSC1IeXc1YmN5bkFhUk1PNkZUbGlDWmh4UXpidVN1eDJjQmdqWWZCdmNTMTlKWHVoR25IcUZsNTBLTnpKbUthekUzTGJTZkhKd1pOQ3NSbnBESjlEY0hEYTM2enotUFAtU2JIYW9PNlJ0RVU2TGpySXhLdlNiRUYwYkphNmpXRGZBcXZjT1Jic0Vaa1l2X1hETVJR?oc=5\" target=\"_blank\">Amazon Says It Will Spend $200 Billion This Year on AI Build-Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "date": "2026-02-06T14:37:58",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3ZQNmZNMkRZRGc5dG1VbE1LbkowYlAwSC1IeXc1YmN5bkFhUk1PNkZUbGlDWmh4UXpidVN1eDJjQmdqWWZCdmNTMTlKWHVoR25IcUZsNTBLTnpKbUthekUzTGJTZkhKd1pOQ3NSbnBESjlEY0hEYTM2enotUFAtU2JIYW9PNlJ0RVU2TGpySXhLdlNiRUYwYkphNmpXRGZBcXZjT1Jic0Vaa1l2X1hETVJR?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Why Amazon (AMZN) Shares Are Falling Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVZRaXpwTEhNQ3NkTi1mUnJYc0o5aXVMWnBQV1pKRVEzZm5VSnFKR041UmU2Q2l6Q0ZPaHM0eWJVRTNKVVVIY01uVG10WGwtM2tKcGtWLTIwUXdkUXdKWjczUUk0MkNON3Z0bXVHY2lQUTZ3VmRCZTBZdmpxbXFZa3B3?oc=5\" target=\"_blank\">Why Amazon (AMZN) Shares Are Falling Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-05T16:56:03",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVZRaXpwTEhNQ3NkTi1mUnJYc0o5aXVMWnBQV1pKRVEzZm5VSnFKR041UmU2Q2l6Q0ZPaHM0eWJVRTNKVVVIY01uVG10WGwtM2tKcGtWLTIwUXdkUXdKWjczUUk0MkNON3Z0bXVHY2lQUTZ3VmRCZTBZdmpxbXFZa3B3?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Amazon: Stock to Avoid or Once-in-a-Decade Buying Opportunity?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0xVSWlTdnJFYURId0pFMFpGM1NjQmVjR0hQeTlyYk1Qemo4c3dRb1BQVHM3bmlnWTRibnQ1d1YwRmZnYWpwajZYQkc1WHg3M2o1aThEdWRBUHlqWkpGakZVdDlNU3Atcm5naGhPMDJoR0tFZXZEYl9LNUNHYUpGbXZNT1VaN3hMZTBxMFNGdw?oc=5\" target=\"_blank\">Amazon: Stock to Avoid or Once-in-a-Decade Buying Opportunity?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-06T14:08:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0xVSWlTdnJFYURId0pFMFpGM1NjQmVjR0hQeTlyYk1Qemo4c3dRb1BQVHM3bmlnWTRibnQ1d1YwRmZnYWpwajZYQkc1WHg3M2o1aThEdWRBUHlqWkpGakZVdDlNU3Atcm5naGhPMDJoR0tFZXZEYl9LNUNHYUpGbXZNT1VaN3hMZTBxMFNGdw?oc=5"
+    },
+    {
+      "source": "Business Insider",
+      "headline": "Amazon earnings recap: Stock plunges as capex-spending plans blow away estimates",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOcy1MRHJWQlEyVjdOSGFYTHNLOU9aWWFXUDlPcjlRS0hvYnpGbUhiWkJxeGJJOWpsRUNVU3poZHNZU2ZqbzNnQ2QwUk1ienJiRlBZWThvdFRvTGJCWENwS0x1VXlmUUJVYzlNOENCM2pmR2NvOThJc19VR3hiNW1jY2VGaG5hSGhkYnFXQjV6WDAxSkdKb1B4Rg?oc=5\" target=\"_blank\">Amazon earnings recap: Stock plunges as capex-spending plans blow away estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+      "date": "2026-02-05T23:18:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcy1MRHJWQlEyVjdOSGFYTHNLOU9aWWFXUDlPcjlRS0hvYnpGbUhiWkJxeGJJOWpsRUNVU3poZHNZU2ZqbzNnQ2QwUk1ienJiRlBZWThvdFRvTGJCWENwS0x1VXlmUUJVYzlNOENCM2pmR2NvOThJc19VR3hiNW1jY2VGaG5hSGhkYnFXQjV6WDAxSkdKb1B4Rg?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "What analysts are saying about Amazon after its capex shocker (AMZN:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZHMGY4MmNJNWJ2cDFOYkM2cy1ZTV9EYjFBSnNDWWJCSWZZU0Fma3FzNklQQ2ljSGpkaTFfbmFEZ1laSHZsSTRXdVVQQXFoUWxtVXNYbGxXTjdxcWsyS3dZcjNGVDdVM0JaXzFUOWdSNHJJSFFkTDZYLWhuNHoxeFlPTnI5ZktPOEJPSW1KaDlrVlNpQklYT2hEbGViSHZS?oc=5\" target=\"_blank\">What analysts are saying about Amazon after its capex shocker (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T11:49:19",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVZHMGY4MmNJNWJ2cDFOYkM2cy1ZTV9EYjFBSnNDWWJCSWZZU0Fma3FzNklQQ2ljSGpkaTFfbmFEZ1laSHZsSTRXdVVQQXFoUWxtVXNYbGxXTjdxcWsyS3dZcjNGVDdVM0JaXzFUOWdSNHJJSFFkTDZYLWhuNHoxeFlPTnI5ZktPOEJPSW1KaDlrVlNpQklYT2hEbGViSHZS?oc=5"
+    },
+    {
+      "source": "MarketWatch",
+      "headline": "Amazon's stock sinks due to massive spending plans. What Wall Street has to say.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgNBVV95cUxNQmE4Wk9jSzAyUTBaSTFwMC1GeElCcXN0eEtwMTBrT2JQLWVxRFowdUVKRlU1ZXNfdTgwVTVYa05lWHRSejVneTJldVJxazMxcmxRbHAyQ0FZRTdEQmZ0c180VDlZcExHRXptZmhZdUI1bldQOFJ0eXhkMjhGR1Q4aTFzYkRuOGotNklZSUc0S09XOHFmVFQxM25tWG9ZYlpMTWlGNHY3OTZLMjh1YTc5MmlfZzFNYWJUalFJTHdVeUdIdHBQbUFtMFNnSnVZSWFRYzBuYlJ0ZmEzbE8zSHYyeUZYN3piUDJEQVhBSGhiNmdOWm5lYUM4WldRTmhMNWJVYlRNVHhvRUZPN2VNWThDSFFUY1BUakR3UlpaRkNJcGZQTVBuNURiaXRQYk9MaUdjbHB2SXU1OF9ZSWlmTEFmWjdjUnRSZFBhV1JGZG9RZDR5eWNVUVg5WGk1UnNDRU9MaE1nWE1QYVBJeXlKN1NmdlR1azFUT1E2Uy1hS1JWTVNHQUNhcHIxeDZDam10RjJ5bkxYdW1R?oc=5\" target=\"_blank\">Amazon's stock sinks due to massive spending plans. What Wall Street has to say.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "date": "2026-02-06T11:17:00",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNQmE4Wk9jSzAyUTBaSTFwMC1GeElCcXN0eEtwMTBrT2JQLWVxRFowdUVKRlU1ZXNfdTgwVTVYa05lWHRSejVneTJldVJxazMxcmxRbHAyQ0FZRTdEQmZ0c180VDlZcExHRXptZmhZdUI1bldQOFJ0eXhkMjhGR1Q4aTFzYkRuOGotNklZSUc0S09XOHFmVFQxM25tWG9ZYlpMTWlGNHY3OTZLMjh1YTc5MmlfZzFNYWJUalFJTHdVeUdIdHBQbUFtMFNnSnVZSWFRYzBuYlJ0ZmEzbE8zSHYyeUZYN3piUDJEQVhBSGhiNmdOWm5lYUM4WldRTmhMNWJVYlRNVHhvRUZPN2VNWThDSFFUY1BUakR3UlpaRkNJcGZQTVBuNURiaXRQYk9MaUdjbHB2SXU1OF9ZSWlmTEFmWjdjUnRSZFBhV1JGZG9RZDR5eWNVUVg5WGk1UnNDRU9MaE1nWE1QYVBJeXlKN1NmdlR1azFUT1E2Uy1hS1JWTVNHQUNhcHIxeDZDam10RjJ5bkxYdW1R?oc=5"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "headline": "Amazon Shares Sink as Company Boosts AI Spending by Nearly 60%",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxPbUVTQnlVcmx2TUtSNzZ6N3VCVV9vZlJueGhyR0NaRG5vR01XenBqb1R0SnZrMEtjTk9sR21GZFMxN1BnV3pLT3JweElGMUZXRUxPTjlOQ1h1QUZyQWRIb0JaUkpiZGtTdzBjQ2NuSXdoTE5YS1Z4RmhVRzJKcHZlQzlvVWd2RDdOamI2ZkpCaDUxbjF0ZFhYSkhrVVFiQ0ZMWlNqc3FfZXFrRW1Zd0ViLUJPOGs3djNnekc4bEV6azQwY2ZrbU9objRMOXR0dG5kX3BxQWY4RWRsMVNwTXQ4TTl4akZkUkktZHpINnBmc0s2THBkbFJRRW9XaWRQMVRITmt6SGd0UndUbXMwVnFobVBjMXhBR1BneEN1WmFjdjB5Vk9ZYlR4X3VDaWtIRll5RlJxX0F1cGlvY2kzcFhZT2tCSklKRUE2Rmxqbkl0VTlnWVVLTm9pellvR2FlMHBSenpIbHpnazJ4MmI2R1o2Rno2RWZWRk54WGI2b09zajNTV2ZvOVZJWEZHVFFDUQ?oc=5\" target=\"_blank\">Amazon Shares Sink as Company Boosts AI Spending by Nearly 60%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Wall Street Journal</font>",
+      "date": "2026-02-06T14:47:00",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPbUVTQnlVcmx2TUtSNzZ6N3VCVV9vZlJueGhyR0NaRG5vR01XenBqb1R0SnZrMEtjTk9sR21GZFMxN1BnV3pLT3JweElGMUZXRUxPTjlOQ1h1QUZyQWRIb0JaUkpiZGtTdzBjQ2NuSXdoTE5YS1Z4RmhVRzJKcHZlQzlvVWd2RDdOamI2ZkpCaDUxbjF0ZFhYSkhrVVFiQ0ZMWlNqc3FfZXFrRW1Zd0ViLUJPOGs3djNnekc4bEV6azQwY2ZrbU9objRMOXR0dG5kX3BxQWY4RWRsMVNwTXQ4TTl4akZkUkktZHpINnBmc0s2THBkbFJRRW9XaWRQMVRITmt6SGd0UndUbXMwVnFobVBjMXhBR1BneEN1WmFjdjB5Vk9ZYlR4X3VDaWtIRll5RlJxX0F1cGlvY2kzcFhZT2tCSklKRUE2Rmxqbkl0VTlnWVVLTm9pellvR2FlMHBSenpIbHpnazJ4MmI2R1o2Rno2RWZWRk54WGI2b09zajNTV2ZvOVZJWEZHVFFDUQ?oc=5"
+    },
+    {
+      "source": "Investor's Business Daily",
+      "headline": "Amazon Stock Slides As $200 Billion AI Spending Plan Spooks Investors",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQzg3QmV3M3dmRFk1aEhXU2RFYTRKVVlES3BiWW5UNFd1RXJYcjI4M1hDV0hyZUFScHEzV0xjZkppY01taU9sOHd2Z1JVbWxDZl9uTkt1NzU3UjVBWmZJbVdUMjVTTExtWVd2cWxyWEE3LUkzb2R1WDZWRFllSDNOWkJ3cw?oc=5\" target=\"_blank\">Amazon Stock Slides As $200 Billion AI Spending Plan Spooks Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "date": "2026-02-06T13:42:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQzg3QmV3M3dmRFk1aEhXU2RFYTRKVVlES3BiWW5UNFd1RXJYcjI4M1hDV0hyZUFScHEzV0xjZkppY01taU9sOHd2Z1JVbWxDZl9uTkt1NzU3UjVBWmZJbVdUMjVTTExtWVd2cWxyWEE3LUkzb2R1WDZWRFllSDNOWkJ3cw?oc=5"
+    },
+    {
+      "source": "Investing.com",
+      "headline": "Amazon stock plunges 9% as 2026 capex guidance blows past expectations",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWxYWEhpeWtIMUpNR3plMW1wclFXMlRLOG83NFQ1RjJMT1ptZ040Q2R2T3dzcXNON05rUTlTTWxtVzc5cVJ4MklqRnBLQkZyLXJPQ1ZHMk10Zk1KSVI3VHZCR21FZU54bjVsSVBzODdTRERuRVZjcnFLM3BjOHJnNDZfV0U0RDlJclJ3OEtRWEZ5MTN0X3JfVThiZjRydXBSc2VRS3UtMjV3TnFZZU1GY2t1VVNLekZoSEZaVldOd2hZako5?oc=5\" target=\"_blank\">Amazon stock plunges 9% as 2026 capex guidance blows past expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+      "date": "2026-02-06T10:07:30",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWxYWEhpeWtIMUpNR3plMW1wclFXMlRLOG83NFQ1RjJMT1ptZ040Q2R2T3dzcXNON05rUTlTTWxtVzc5cVJ4MklqRnBLQkZyLXJPQ1ZHMk10Zk1KSVI3VHZCR21FZU54bjVsSVBzODdTRERuRVZjcnFLM3BjOHJnNDZfV0U0RDlJclJ3OEtRWEZ5MTN0X3JfVThiZjRydXBSc2VRS3UtMjV3TnFZZU1GY2t1VVNLekZoSEZaVldOd2hZako5?oc=5"
+    },
+    {
+      "source": "Zacks Investment Research",
+      "headline": "Should Investors Buy Amazon Stock Ahead of Q4 Earnings Release?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeklET0VVRUVnOFVVX19VaFF6MzE2d3l5Tk5BTGJHX0JSMFp2RHFsTThOSkhFb1ZITTlrcHliTE96UjhJYWpsUG94THJIcHZOU2lfQXJMUTJXWmNKM0tvVlhybHJPaW1oOXBVVXJ0UjJKMmlaUms1SG0yNm5uMmtMbzFwTnZfWkh1YlhmNVQ1MXFNVkFmbWZJdHprUzJzVk0tNEVWdU1R?oc=5\" target=\"_blank\">Should Investors Buy Amazon Stock Ahead of Q4 Earnings Release?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>",
+      "date": "2026-02-03T16:57:11",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeklET0VVRUVnOFVVX19VaFF6MzE2d3l5Tk5BTGJHX0JSMFp2RHFsTThOSkhFb1ZITTlrcHliTE96UjhJYWpsUG94THJIcHZOU2lfQXJMUTJXWmNKM0tvVlhybHJPaW1oOXBVVXJ0UjJKMmlaUms1SG0yNm5uMmtMbzFwTnZfWkh1YlhmNVQ1MXFNVkFmbWZJdHprUzJzVk0tNEVWdU1R?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Live Earnings: Will Amazon Shares Soar if AWS Blows Out Q4 Expectations?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUpicUJkWUJpZC02MVQwLTVKcE1iMlZTZjM4V1JMeUJ1djJQVHZHM1JhWlVsWkNUQmVTaEdCRDNtbGVWY1djUF9lNVJtazAtXzhNTnpxc1hxMWxYd29acFVCc2VmeHkwTlBsVmRqT21NQjA5VzMzcVpJdnJERy1CbmhSWG9RRkh5eFdKY1VLdEdLQmtabmZjcGY0RXM4enZhbFBHbmhKMVRralFjSDEzb2haZWQ?oc=5\" target=\"_blank\">Live Earnings: Will Amazon Shares Soar if AWS Blows Out Q4 Expectations?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-05T20:24:08",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUpicUJkWUJpZC02MVQwLTVKcE1iMlZTZjM4V1JMeUJ1djJQVHZHM1JhWlVsWkNUQmVTaEdCRDNtbGVWY1djUF9lNVJtazAtXzhNTnpxc1hxMWxYd29acFVCc2VmeHkwTlBsVmRqT21NQjA5VzMzcVpJdnJERy1CbmhSWG9RRkh5eFdKY1VLdEdLQmtabmZjcGY0RXM4enZhbFBHbmhKMVRralFjSDEzb2haZWQ?oc=5"
+    },
+    {
+      "source": "marketscreener.com",
+      "headline": "Earnings Flash (AMZN) Amazon.com Posts Q4 EPS $1.95, vs. FactSet Est of $1.97",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN015Sk01WHM5eWVwZ2ZGOU1KemkybDdpc21aQ05KaksxWUNYbEF3eTgtTXM4T1M2b2pfQ0U3bFhqNlRieHRvMGk5TFByVk81UUpkdmcxS1JxSnIzSUhRSnRzVEVUZmVTUDkxYklmUnhWc2dJZFdhUjRJVUZsaFNUZ2hwN3laa0ViWEFTNEZOeXlVbEJGTGV3NGVaa0NiNnJFWWN0LURZMUdCY2RKUzBTWi1yWlVzLVJKVlR5b2lWRmZRQQ?oc=5\" target=\"_blank\">Earnings Flash (AMZN) Amazon.com Posts Q4 EPS $1.95, vs. FactSet Est of $1.97</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "date": "2026-02-05T21:03:12",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN015Sk01WHM5eWVwZ2ZGOU1KemkybDdpc21aQ05KaksxWUNYbEF3eTgtTXM4T1M2b2pfQ0U3bFhqNlRieHRvMGk5TFByVk81UUpkdmcxS1JxSnIzSUhRSnRzVEVUZmVTUDkxYklmUnhWc2dJZFdhUjRJVUZsaFNUZ2hwN3laa0ViWEFTNEZOeXlVbEJGTGV3NGVaa0NiNnJFWWN0LURZMUdCY2RKUzBTWi1yWlVzLVJKVlR5b2lWRmZRQQ?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Amazon (AMZN) Stock Depends on AWS Growth as Trainium AI Chips Take the Lead",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdElFUXBMcHpueS0tem9YTXhzU1NxWjlHWEEtUlY1QUJwcC1TN0hKNjlvcEdYcy1pOFc0OFRZZVUwWGF1ZXNxRWZiVUgyVnhBRXdfZ3pYbXg0d25Vdl9ZWWtCRGVTTE5kTF9BYlUtT2NTQjVJZktabUEtazllTUsxdi1BYzA3MjdOV19qY0c3azJiblNBWUNYUGdWNHJhTHZCVFk2QnBfZw?oc=5\" target=\"_blank\">Amazon (AMZN) Stock Depends on AWS Growth as Trainium AI Chips Take the Lead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T15:45:38",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdElFUXBMcHpueS0tem9YTXhzU1NxWjlHWEEtUlY1QUJwcC1TN0hKNjlvcEdYcy1pOFc0OFRZZVUwWGF1ZXNxRWZiVUgyVnhBRXdfZ3pYbXg0d25Vdl9ZWWtCRGVTTE5kTF9BYlUtT2NTQjVJZktabUEtazllTUsxdi1BYzA3MjdOV19qY0c3azJiblNBWUNYUGdWNHJhTHZCVFk2QnBfZw?oc=5"
+    },
+    {
+      "source": "thestreet.com",
+      "headline": "Bank of America resets Amazon stock price target after earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXk3MVRxQnFoNExjYkFQWHgzczNTRjB4YWxTVnRrNmZxQTVmRTVOd0dIRjF6NzEyQXFQcnlVczV3UXpzUGctUGZwX3Q0M2Q2aFo4amFWMDR4ZXR1S3ZvbzFXYzZsTWtBVjVpQUNvM29DbGxhenNYY1RFVDlEZi1uNk9BUnVRWnd3UmxLbDhHZkFPSm1CQ0VEVEMtbnBXUm5DUnl2emJvNHl1Zw?oc=5\" target=\"_blank\">Bank of America resets Amazon stock price target after earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "date": "2026-02-06T20:50:33",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXk3MVRxQnFoNExjYkFQWHgzczNTRjB4YWxTVnRrNmZxQTVmRTVOd0dIRjF6NzEyQXFQcnlVczV3UXpzUGctUGZwX3Q0M2Q2aFo4amFWMDR4ZXR1S3ZvbzFXYzZsTWtBVjVpQUNvM29DbGxhenNYY1RFVDlEZi1uNk9BUnVRWnd3UmxLbDhHZkFPSm1CQ0VEVEMtbnBXUm5DUnl2emJvNHl1Zw?oc=5"
+    },
+    {
+      "source": "stocktitan.net",
+      "headline": "Amazon plans $200B 2026 investment in AI, chips and satellites",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0V1TUlpZWlyVVRTc25jNmZLejJXVnhlT0pBUi1fXzQyMFJCRU9qa1VFODJIQzl6bTdqcUxZNndHVjFvWDJWRHh1M1JGSjVDZHRiZTBlRzF3R2dMN011TzdNNjlmc2VMUlJZQUVIVEJuR1BlYVJEV1l2YV9kd0tycFJhUHdOb2l2aldsc1RKWkREb0ow?oc=5\" target=\"_blank\">Amazon plans $200B 2026 investment in AI, chips and satellites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stocktitan.net</font>",
+      "date": "2026-02-05T21:01:00",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0V1TUlpZWlyVVRTc25jNmZLejJXVnhlT0pBUi1fXzQyMFJCRU9qa1VFODJIQzl6bTdqcUxZNndHVjFvWDJWRHh1M1JGSjVDZHRiZTBlRzF3R2dMN011TzdNNjlmc2VMUlJZQUVIVEJuR1BlYVJEV1l2YV9kd0tycFJhUHdOb2l2aldsc1RKWkREb0ow?oc=5"
+    },
+    {
+      "source": "GeekWire",
+      "headline": "Amazon stock sinks 10% after Q4 profit miss as Jassy signals $200B in capital spending",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2YzOGh4dXRMUHA5dl9XVVBMYXdudHh0ekdTaUZYUXY4SklUdThBTUZwVmhhWC1ZQkJtMkZzVE1aWVdWYTFsNHZjWWNGSjE5dVBXNzZNXzNjYWVwOGh0TmRlWUZmOTdiUmozcWpxM0tPU0kyUzRfc3JFcVphY1ZKdGk1R0NXQXlOUVJWN3AyOHNUUHE1U2xGTG1vWTZ5WkNHTGFsaHdRMWhUM3ZfaFdpNmtxZmVnZw?oc=5\" target=\"_blank\">Amazon stock sinks 10% after Q4 profit miss as Jassy signals $200B in capital spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>",
+      "date": "2026-02-05T21:30:51",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2YzOGh4dXRMUHA5dl9XVVBMYXdudHh0ekdTaUZYUXY4SklUdThBTUZwVmhhWC1ZQkJtMkZzVE1aWVdWYTFsNHZjWWNGSjE5dVBXNzZNXzNjYWVwOGh0TmRlWUZmOTdiUmozcWpxM0tPU0kyUzRfc3JFcVphY1ZKdGk1R0NXQXlOUVJWN3AyOHNUUHE1U2xGTG1vWTZ5WkNHTGFsaHdRMWhUM3ZfaFdpNmtxZmVnZw?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Here's How Much Amazon Stock Is Expected to Move After Earnings Thursday",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnZQeldTMlZFcXFTaXUtMkpVMm5hTHg2ZlVBM3VQUGNEWTRaLXVhZWd6RDZka0Y3d2o0dklYSWNFalZJNUJXZGJ4ckFMM3J5X3JwSWNXbFN2X0s5b2o5MWc0ZVk1ZGpISklXc2lNYmZoRmRjdS1sbU15YkVKVFZGVTkyUEJKMEJ4SHZZS2tEaXhkNl9TRzlDQ2dJUW8tazdGdXZ3bEpGRnIzZ3RIM194QkVDMlptSEU?oc=5\" target=\"_blank\">Here's How Much Amazon Stock Is Expected to Move After Earnings Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-03T20:43:37",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnZQeldTMlZFcXFTaXUtMkpVMm5hTHg2ZlVBM3VQUGNEWTRaLXVhZWd6RDZka0Y3d2o0dklYSWNFalZJNUJXZGJ4ckFMM3J5X3JwSWNXbFN2X0s5b2o5MWc0ZVk1ZGpISklXc2lNYmZoRmRjdS1sbU15YkVKVFZGVTkyUEJKMEJ4SHZZS2tEaXhkNl9TRzlDQ2dJUW8tazdGdXZ3bEpGRnIzZ3RIM194QkVDMlptSEU?oc=5"
+    },
+    {
+      "source": "TradingView",
+      "headline": "Amazon earnings preview: the number AWS must beat for AMZN stock to rally",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcU81T2J5c2xXMHNaYnhLMzNva1BjNE5rYmRhNDliVzdCWjV6ZU5CNElWb0hKSEJDbTJRdVdLbkhjQnZjQ2o1eFZBT0xDcjEwcHNiejZwYVJWSGdmejlfTmJpckhkYW1Dd09sZ3p6Ykt6ci04VE01MWVsdzNpU1FpUm5xLVloaWNGX003NWFrMzQ3d1FYSVd6M0x2cW13b3pQOXBOcmRsc01vWWlXQ2lTdEdhZUZla0VpRDlmZWJZcFEyZkNDdEN5RA?oc=5\" target=\"_blank\">Amazon earnings preview: the number AWS must beat for AMZN stock to rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "date": "2026-02-04T15:58:28",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcU81T2J5c2xXMHNaYnhLMzNva1BjNE5rYmRhNDliVzdCWjV6ZU5CNElWb0hKSEJDbTJRdVdLbkhjQnZjQ2o1eFZBT0xDcjEwcHNiejZwYVJWSGdmejlfTmJpckhkYW1Dd09sZ3p6Ykt6ci04VE01MWVsdzNpU1FpUm5xLVloaWNGX003NWFrMzQ3d1FYSVd6M0x2cW13b3pQOXBOcmRsc01vWWlXQ2lTdEdhZUZla0VpRDlmZWJZcFEyZkNDdEN5RA?oc=5"
+    },
+    {
+      "source": "Proactive financial news",
+      "headline": "Amazon shares sink on earnings miss, $200B spending plan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVp2d182cnJoeFcwV09sa0VrSko4MllydGJGcnRXU045WXR6aGVZUzh3MjNVbHJ5MnQ3N3ZILVlxdzMwbHZFRXpsa2lwV0txNVgyXzk0UjkwZm5UaUpvZFhsVzM2RThBekg2LUhTdG5SMWN3UWVGMXRoU3AyalEtRTJIWl9reG9JZ0libF9zRG92QWp3TUR2c2tJckN1YW5QQWtnUGxPSEdGdnFYQ2tfUTFpZ0E4NDNVcDhyWmNZbmhyWWM?oc=5\" target=\"_blank\">Amazon shares sink on earnings miss, $200B spending plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Proactive financial news</font>",
+      "date": "2026-02-05T21:30:00",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVp2d182cnJoeFcwV09sa0VrSko4MllydGJGcnRXU045WXR6aGVZUzh3MjNVbHJ5MnQ3N3ZILVlxdzMwbHZFRXpsa2lwV0txNVgyXzk0UjkwZm5UaUpvZFhsVzM2RThBekg2LUhTdG5SMWN3UWVGMXRoU3AyalEtRTJIWl9reG9JZ0libF9zRG92QWp3TUR2c2tJckN1YW5QQWtnUGxPSEdGdnFYQ2tfUTFpZ0E4NDNVcDhyWmNZbmhyWWM?oc=5"
+    },
+    {
+      "source": "Benzinga",
+      "headline": "Amazon Stock In Focus Ahead Of Q4 Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzNtU1A3VXhObnhDTl9YWVRoc1pDRmd2M3RuUTltZEhtX3cxcTBZd2c5ZS01cGYxd0Mta0RMM1hESERVak4xM1prbTJqelpZN01qZ3M4NG1TcTRibndlck81UUlvc0dQZDVxcEY4MGVCdl9nUDFOQWNRaTF0c2ZoVVlna0FoU3JqTm9yRHQycmxkM1dRZFlSdEVOQ0M4TmkzbUFfb0pB?oc=5\" target=\"_blank\">Amazon Stock In Focus Ahead Of Q4 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "date": "2026-02-05T15:21:39",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzNtU1A3VXhObnhDTl9YWVRoc1pDRmd2M3RuUTltZEhtX3cxcTBZd2c5ZS01cGYxd0Mta0RMM1hESERVak4xM1prbTJqelpZN01qZ3M4NG1TcTRibndlck81UUlvc0dQZDVxcEY4MGVCdl9nUDFOQWNRaTF0c2ZoVVlna0FoU3JqTm9yRHQycmxkM1dRZFlSdEVOQ0M4TmkzbUFfb0pB?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon: Strong Business, Worsening Risk/Reward (Downgrade) (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVIweEN5dXFpWE9CbUtVUjMyMW5COXdEd0MtMC1oUjhEdVR0clVvRDVzLXRLMXpSdzhJeld2MGJkQUhnUDZqalFCalB2WlRkOGd4cjA4QWRKajVqSmw4UWthY0pIZkRKMHo0WktyR0ZSTTFtd3pzTVhnT0hHSGxaTk9WSWk0dXozamdPX05mSW5WWnRSMHFFbU13WQ?oc=5\" target=\"_blank\">Amazon: Strong Business, Worsening Risk/Reward (Downgrade) (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-05T23:45:16",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVIweEN5dXFpWE9CbUtVUjMyMW5COXdEd0MtMC1oUjhEdVR0clVvRDVzLXRLMXpSdzhJeld2MGJkQUhnUDZqalFCalB2WlRkOGd4cjA4QWRKajVqSmw4UWthY0pIZkRKMHo0WktyR0ZSTTFtd3pzTVhnT0hHSGxaTk9WSWk0dXozamdPX05mSW5WWnRSMHFFbU13WQ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon slides as investors eye profit guidance, $200B capex forecast (AMZN:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNay1LRWpRQlU1MC1QV0R6WG9sOXFxc1JxVTFKWVZSaTJJbUFNRHBvQTJhMVJ5N2N3eTJTT0FzRHV3ejl1YWRaSG5nQ0xMUVhMU3JNMmhOSklHeE4tbVljRzZRSTA3YWl2bVZXb1F5azY4SDdZdC1GVUlLaGw0M2tnR09ucnRBQjIxRFRDSEdfMXdHOE1nQ24yRkJPNUZKdTZGczBmejNfaw?oc=5\" target=\"_blank\">Amazon slides as investors eye profit guidance, $200B capex forecast (AMZN:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-05T21:16:36",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNay1LRWpRQlU1MC1QV0R6WG9sOXFxc1JxVTFKWVZSaTJJbUFNRHBvQTJhMVJ5N2N3eTJTT0FzRHV3ejl1YWRaSG5nQ0xMUVhMU3JNMmhOSklHeE4tbVljRzZRSTA3YWl2bVZXb1F5azY4SDdZdC1GVUlLaGw0M2tnR09ucnRBQjIxRFRDSEdfMXdHOE1nQ24yRkJPNUZKdTZGczBmejNfaw?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Amazon\u2019s (NASDAQ:AMZN) Q4 CY2025: Beats On Revenue But Stock Drops",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0zV0dmajdzaE11S1F3QWF6RTBhUjE1a3NZdmgzRk5IUThNSm9ocURlVGlLZDlkbzFQM19rdGlUQ0VPVURXMm5YYUlZVVBSWjlFRnpaa3NQUzdFR01kVHIxVzQ1WEhNT002el9iU2Y2MThIZlZoeG05RkZRS3pKcnc?oc=5\" target=\"_blank\">Amazon\u2019s (NASDAQ:AMZN) Q4 CY2025: Beats On Revenue But Stock Drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-05T21:26:00",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zV0dmajdzaE11S1F3QWF6RTBhUjE1a3NZdmgzRk5IUThNSm9ocURlVGlLZDlkbzFQM19rdGlUQ0VPVURXMm5YYUlZVVBSWjlFRnpaa3NQUzdFR01kVHIxVzQ1WEhNT002el9iU2Y2MThIZlZoeG05RkZRS3pKcnc?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Amazon earnings, Fed commentary, mortgage rates: What to Watch",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2JhZi1hNGU2UkJadHpFM2l0aU0wekFCMWMzbVJjU2FKSmFXc2l6eE1CWlFLdkJZR3VSQmRUQmh2Um51cG5FTUpiU2kyQm5ZYS1kWkE5djJhLXF4OVZfUGt4dEMzaHUwTnRvX1JxcExjQVlsZ0pXdkhKRU5RODFOV05JcWVHbGtZcUdtZWNHYw?oc=5\" target=\"_blank\">Amazon earnings, Fed commentary, mortgage rates: What to Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-05T00:00:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2JhZi1hNGU2UkJadHpFM2l0aU0wekFCMWMzbVJjU2FKSmFXc2l6eE1CWlFLdkJZR3VSQmRUQmh2Um51cG5FTUpiU2kyQm5ZYS1kWkE5djJhLXF4OVZfUGt4dEMzaHUwTnRvX1JxcExjQVlsZ0pXdkhKRU5RODFOV05JcWVHbGtZcUdtZWNHYw?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Amazon Shares Stall as Job Cuts Loom Against $35B AI Spending | AMZN Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOek9ELXhyMVV0Tzk2RHJuZ2pFTXo4Z3dMZUNVTGh3NWVzS3BfZm9pVV9GcVlMSHNwd1JVVVlfaFdGdS1xdXFmRlZHOE9EcEF3U1QwZjFmVm1oSDUtdGQtYUppcGg3QlRLZUtfemkzNTlqRk8yZWNhUHFiTVFSX0dadXVvc3JuZzkxZGxjS05lbUstRTh1aUZTb3JDVmgzTXQzOWFMVHFpb3ZHZVE1YzItX20zWXItZw?oc=5\" target=\"_blank\">Amazon Shares Stall as Job Cuts Loom Against $35B AI Spending | AMZN Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-01-26T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOek9ELXhyMVV0Tzk2RHJuZ2pFTXo4Z3dMZUNVTGh3NWVzS3BfZm9pVV9GcVlMSHNwd1JVVVlfaFdGdS1xdXFmRlZHOE9EcEF3U1QwZjFmVm1oSDUtdGQtYUppcGg3QlRLZUtfemkzNTlqRk8yZWNhUHFiTVFSX0dadXVvc3JuZzkxZGxjS05lbUstRTh1aUZTb3JDVmgzTXQzOWFMVHFpb3ZHZVE1YzItX20zWXItZw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon: This Dip Is Your Golden Buying Opportunity (Earnings Review) (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHE5UVIzQVFFX3JJb0c4QTkxNGc3QTF1OG1ORXNUTXJoWktPUlhjUC1pMDF1bFEtQnZESjl1QkVXOGVHMVQ2YUFZQTVaM3NtNzNZSkQ2ZWNLZ3ZLem96WndEVW5nem81SWt2R1N4WWxsSllob2pfUW1FUk5vVjZ3bGF0VnkwM3JqcjRxcWNRV2FXNUFjY05wTV9aaVNka25HYnNNdmU3YVpjTFF0UmJ1LUNR?oc=5\" target=\"_blank\">Amazon: This Dip Is Your Golden Buying Opportunity (Earnings Review) (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T14:46:39",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHE5UVIzQVFFX3JJb0c4QTkxNGc3QTF1OG1ORXNUTXJoWktPUlhjUC1pMDF1bFEtQnZESjl1QkVXOGVHMVQ2YUFZQTVaM3NtNzNZSkQ2ZWNLZ3ZLem96WndEVW5nem81SWt2R1N4WWxsSllob2pfUW1FUk5vVjZ3bGF0VnkwM3JqcjRxcWNRV2FXNUFjY05wTV9aaVNka25HYnNNdmU3YVpjTFF0UmJ1LUNR?oc=5"
+    },
+    {
+      "source": "Barron's",
+      "headline": "Amazon Stock Falls Sharply on Earnings. AI Spending Soars.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxNOHV4cmtUNXFLcWx1UzVHU3plMG8yU28xdGNKZkJ2OWlrblM3QThiRk9XWWtXaHJaSXZFNEViZ05uZkcxSlRlMmxjd1Y3dEtLQVFIS2pib09WUW5obVcyczJNSEpxQ0oxN3kyU01BSzJGb3F5WHlUSXlPQlNqMWZfWXVoalhGQVdvb3BtMFN4dk1adjRfUUtuRXRYSVpxQnRNZ2pzRWxXMzU0WXZWTW10RHh2bGtTZnZmZUd4Z2tKbzFoU2t2aGhINHJtWG9EdjRGZndLcTB6SjZCMmtwenJRNG1wR250Qmpxam05Mk9KU1hfa0Q1S095dHRtX2UtU01ybzAzUy1nUWJyT1h2d3dBdmNWZ0t3cWMtd1A3LTZfUXpVRzJIeEJoZkJLWDlZUVcyOEVWWEZMUENrR2VXQ2JJR3JPR0psY0EzemVOakVhZTIxd0JOOWxfVHhXUnNMQ2QzYzhKWmt1dnFoLVBpZmJ1TlhvYVRTWktBQlZsZVhn?oc=5\" target=\"_blank\">Amazon Stock Falls Sharply on Earnings. AI Spending Soars.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "date": "2026-02-06T15:30:00",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNOHV4cmtUNXFLcWx1UzVHU3plMG8yU28xdGNKZkJ2OWlrblM3QThiRk9XWWtXaHJaSXZFNEViZ05uZkcxSlRlMmxjd1Y3dEtLQVFIS2pib09WUW5obVcyczJNSEpxQ0oxN3kyU01BSzJGb3F5WHlUSXlPQlNqMWZfWXVoalhGQVdvb3BtMFN4dk1adjRfUUtuRXRYSVpxQnRNZ2pzRWxXMzU0WXZWTW10RHh2bGtTZnZmZUd4Z2tKbzFoU2t2aGhINHJtWG9EdjRGZndLcTB6SjZCMmtwenJRNG1wR250Qmpxam05Mk9KU1hfa0Q1S095dHRtX2UtU01ybzAzUy1nUWJyT1h2d3dBdmNWZ0t3cWMtd1A3LTZfUXpVRzJIeEJoZkJLWDlZUVcyOEVWWEZMUENrR2VXQ2JJR3JPR0psY0EzemVOakVhZTIxd0JOOWxfVHhXUnNMQ2QzYzhKWmt1dnFoLVBpZmJ1TlhvYVRTWktBQlZsZVhn?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Amazon stock sinks after company touts $200 billion AI spending plans, offers cautious profit outlook",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRG5keEJWNGxEWXZiZUUwQnpwY0xLUi1DTDM4bGVyY0NPUi11QUFIeXRMNjl2YUVYUWZzeEYyYjZOTk8tNDZiYVVxRmUyRUI1UkNrVC1DQV9sbDlFUkJ1cDIwZ1YxSGliVWlTR2QtQXluTnd6ai02YlFQYzF4cm9FeG84UEs3VlJ5MzNjdlBHb0l1bm8xekdSZHdzUEtCT1RlWldkUG1MQm15SUFRZFBzRHhTRmxkLVNQTXNpVkVtXzJyVThRNmVXZk1LRkRXQ2lORkJwVktYZlMxWTRSYkE?oc=5\" target=\"_blank\">Amazon stock sinks after company touts $200 billion AI spending plans, offers cautious profit outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-06T18:18:22",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRG5keEJWNGxEWXZiZUUwQnpwY0xLUi1DTDM4bGVyY0NPUi11QUFIeXRMNjl2YUVYUWZzeEYyYjZOTk8tNDZiYVVxRmUyRUI1UkNrVC1DQV9sbDlFUkJ1cDIwZ1YxSGliVWlTR2QtQXluTnd6ai02YlFQYzF4cm9FeG84UEs3VlJ5MzNjdlBHb0l1bm8xekdSZHdzUEtCT1RlWldkUG1MQm15SUFRZFBzRHhTRmxkLVNQTXNpVkVtXzJyVThRNmVXZk1LRkRXQ2lORkJwVktYZlMxWTRSYkE?oc=5"
+    },
+    {
+      "source": "Finviz",
+      "headline": "Why Amazon (AMZN) Stock Is Down Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5PUGwza215T0J4d1FHS0ZtdkRrM0JqeFJzUDJnWk1ZeGV0Q2JwenJ5aXFGSEU4QTZYLTZ4VEdNc2ZrUkR4LWdhWnZZTENYSDQ4NFVzcmE5VTkwbi1GX3FsNzdUU09WTGZVLS1OeDF1SUU3X3Y5?oc=5\" target=\"_blank\">Why Amazon (AMZN) Stock Is Down Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
+      "date": "2026-02-06T21:25:06",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PUGwza215T0J4d1FHS0ZtdkRrM0JqeFJzUDJnWk1ZeGV0Q2JwenJ5aXFGSEU4QTZYLTZ4VEdNc2ZrUkR4LWdhWnZZTENYSDQ4NFVzcmE5VTkwbi1GX3FsNzdUU09WTGZVLS1OeDF1SUU3X3Y5?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Amazon's Cloud Business Is Accelerating. Time to Buy the Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1BHTlU3X2dZOG9ucG1pbUVwQ3NLZEs2QkRjQnpVQ0x0Qm12WE9HeGY4c0MteUwwTEcwRi1mdGt0OWZjUWpTR3hmYXFkd2hfeTdxMzI3elQySG81d3BDemxTS3ZJS2dTYkpFeTRrcFBoeEJJWVVDcmxPaGtsWXJOLURkQ3Ntelo1aEhHdUxzSEdJNGFLLTRHWA?oc=5\" target=\"_blank\">Amazon's Cloud Business Is Accelerating. Time to Buy the Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-05T22:09:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1BHTlU3X2dZOG9ucG1pbUVwQ3NLZEs2QkRjQnpVQ0x0Qm12WE9HeGY4c0MteUwwTEcwRi1mdGt0OWZjUWpTR3hmYXFkd2hfeTdxMzI3elQySG81d3BDemxTS3ZJS2dTYkpFeTRrcFBoeEJJWVVDcmxPaGtsWXJOLURkQ3Ntelo1aEhHdUxzSEdJNGFLLTRHWA?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Stock Market Today, Feb. 5: Amazon Shares Drop on Tech Sell-Off Ahead of Earnings and AWS Growth Outlook",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE55amFJd19WaXJ5QWhILW82ZUVzNWp6bmkybm5BMU92TEYxNUJ6ODN2QzhNc1hNTnhWSjJUYXcyY1FoY0xoM21XYm1FWjZ4N3Y3d2tHalpEQ1BCSDRFWXhBYzliZElXMm5DN2JDOHo4c0h2T3BEMEJsajV3?oc=5\" target=\"_blank\">Stock Market Today, Feb. 5: Amazon Shares Drop on Tech Sell-Off Ahead of Earnings and AWS Growth Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-05T23:02:50",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55amFJd19WaXJ5QWhILW82ZUVzNWp6bmkybm5BMU92TEYxNUJ6ODN2QzhNc1hNTnhWSjJUYXcyY1FoY0xoM21XYm1FWjZ4N3Y3d2tHalpEQ1BCSDRFWXhBYzliZElXMm5DN2JDOHo4c0h2T3BEMEJsajV3?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon Q4: Mixed Report, Scary Guide, But Now A Buy (Rating Upgrade)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOb24yQm5vTjNtc3lva29xUUNuTGRJRERUdkREOG5ZdVVTbEhrbVE0Znp3a20wbVRNSkN5V0NYUTd6TVdWdjl3VUtpZk9jMnZvVzc3YUdtYTI3WGhHMHJqZFh4STRyQmYwVFBNQWh6NEhRbTFhM280Y0NISE9aVktZbld0ZWxvNXVSZjZJZjJ3Mk9pN01mLVEyUzJyMA?oc=5\" target=\"_blank\">Amazon Q4: Mixed Report, Scary Guide, But Now A Buy (Rating Upgrade)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T00:33:31",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb24yQm5vTjNtc3lva29xUUNuTGRJRERUdkREOG5ZdVVTbEhrbVE0Znp3a20wbVRNSkN5V0NYUTd6TVdWdjl3VUtpZk9jMnZvVzc3YUdtYTI3WGhHMHJqZFh4STRyQmYwVFBNQWh6NEhRbTFhM280Y0NISE9aVktZbld0ZWxvNXVSZjZJZjJ3Mk9pN01mLVEyUzJyMA?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon\u2019s Q4: This Drop Is A Gift For Shareholders (Upgrade) (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1diWk9sSzBPbU8yNUJmMWFkdjdWY3Q4aVFLZUg3ZzBFNVZzNjg4ME1TZGJINTE1S0tGZ2Z5SE5ORGdfclpCSHhxQ0h0d3lOWFJBVVRFamluZEhQT09hTVg1Yml2VmFHQ1I0RWY3RzdaajgwdmdNbDFCSFlEbkxCUUhPbnRpYnhoXzFSSzRJZmM0Z09qU3FCT2d2MA?oc=5\" target=\"_blank\">Amazon\u2019s Q4: This Drop Is A Gift For Shareholders (Upgrade) (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-05T22:45:11",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1diWk9sSzBPbU8yNUJmMWFkdjdWY3Q4aVFLZUg3ZzBFNVZzNjg4ME1TZGJINTE1S0tGZ2Z5SE5ORGdfclpCSHhxQ0h0d3lOWFJBVVRFamluZEhQT09hTVg1Yml2VmFHQ1I0RWY3RzdaajgwdmdNbDFCSFlEbkxCUUhPbnRpYnhoXzFSSzRJZmM0Z09qU3FCT2d2MA?oc=5"
+    },
+    {
+      "source": "Palmetto Grain Brokerage",
+      "headline": "Palmetto Grain Brokerage -",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHd0QlY0al9TaFV1TXZWMmFsTTk4emFRUEY4ZE5hLU4wNjU2OUp0TmlUbnN6TXROZFg5RTNRa1VTSlBzWjB1OFQ3cnR3ODBhLS1SRk00Ymc5Y0VoMzJEU3JOS3VkaXR6WHhxWnNTOFplNG5GMlhlWGd5VFdpbTg3XzdhRXo4YVV6elZVX0o2aF9sdzNaUE9nVGNqZjBtTXN4ZVlSWmlhelFpZXJfVUlKRW9vYUVVcmM?oc=5\" target=\"_blank\">Palmetto Grain Brokerage -</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palmetto Grain Brokerage</font>",
+      "date": "2026-02-06T19:15:33",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHd0QlY0al9TaFV1TXZWMmFsTTk4emFRUEY4ZE5hLU4wNjU2OUp0TmlUbnN6TXROZFg5RTNRa1VTSlBzWjB1OFQ3cnR3ODBhLS1SRk00Ymc5Y0VoMzJEU3JOS3VkaXR6WHhxWnNTOFplNG5GMlhlWGd5VFdpbTg3XzdhRXo4YVV6elZVX0o2aF9sdzNaUE9nVGNqZjBtTXN4ZVlSWmlhelFpZXJfVUlKRW9vYUVVcmM?oc=5"
+    },
+    {
+      "source": "The Economic Times",
+      "headline": "Why Amazon stock (AMZN) is falling again today \u2014 key factors driving the decline",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1FWSGZvbzNsWG90cU5xd2hXZzJJdXMwQ2V1TFFFblhVcEgtMG5Vc0lBejEzaU1fMC1XWWFGQ3BHUjBySTJpbGZhWEtKVmxnTm03dnNZUzltczFrSVNnNmlrMU5vVnVGQWVoM0QyRTJqTHBTMFhfTnFCV1Ayd0xjcTEzcVZiYjVEQnRtRkNscW90b3d2VFhqY2pqWlYxNzM2c1BXNmQ1MGtoaXdoUS1wMmt3bUFmNF9JUnBGU1djVzlHX1lCd0pKUzRtR1dOdzJBTHl0NGZqY1l0bW13SF9ycmZ4SWNTLXPSAewBQVVfeXFMTnZMQ1dwMFpIREtTMUppREd3NHZmbTBoUGdoVExIZE9zTHgzbXJSQUhpN0RsTjNBbHpwUkxReDZ2ZTE0dzcwQWZ5VjNqNE9SUnN0bE9xbXdXUDJMajZaZWlnR1ZNamdYVVF2c01WeVVsa3p6SElRT213WDZxUDZhT216MWJ0UEFYOXAwRGw3TC12cnRIMUlsZmN6VWJzeTNkYzlpODg2ckVNNWFLcFE0dlZlQmZiN0Y0ckdwby10MXVZV0pBVmUwU1RUWmthdV9ySUswMGxVUnU0OU0yc0tzVEUwbDBZaG0xd1FpUW8?oc=5\" target=\"_blank\">Why Amazon stock (AMZN) is falling again today \u2014 key factors driving the decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "date": "2026-02-06T12:28:41",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1FWSGZvbzNsWG90cU5xd2hXZzJJdXMwQ2V1TFFFblhVcEgtMG5Vc0lBejEzaU1fMC1XWWFGQ3BHUjBySTJpbGZhWEtKVmxnTm03dnNZUzltczFrSVNnNmlrMU5vVnVGQWVoM0QyRTJqTHBTMFhfTnFCV1Ayd0xjcTEzcVZiYjVEQnRtRkNscW90b3d2VFhqY2pqWlYxNzM2c1BXNmQ1MGtoaXdoUS1wMmt3bUFmNF9JUnBGU1djVzlHX1lCd0pKUzRtR1dOdzJBTHl0NGZqY1l0bW13SF9ycmZ4SWNTLXPSAewBQVVfeXFMTnZMQ1dwMFpIREtTMUppREd3NHZmbTBoUGdoVExIZE9zTHgzbXJSQUhpN0RsTjNBbHpwUkxReDZ2ZTE0dzcwQWZ5VjNqNE9SUnN0bE9xbXdXUDJMajZaZWlnR1ZNamdYVVF2c01WeVVsa3p6SElRT213WDZxUDZhT216MWJ0UEFYOXAwRGw3TC12cnRIMUlsZmN6VWJzeTNkYzlpODg2ckVNNWFLcFE0dlZlQmZiN0Y0ckdwby10MXVZV0pBVmUwU1RUWmthdV9ySUswMGxVUnU0OU0yc0tzVEUwbDBZaG0xd1FpUW8?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon Q4: Topping The AI Spending Race, Shares A Hold (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3JBenFib1dKQlZFWDRpQ19qUWdJdjRYUzVWR0l3UUpSYUJIS0xIRFY3U3E3MmNSZmM1QWxFdVNVdFBMb2QxTWZRODhReUpjY0R4X3FwMHBXcFQyTWI0cXk3TEJrS19YNVEtMDJ4ZVVieUQtLVJESm82MGxGVVBIZnRrdXRyQTJlSEN0bmhUR3U4TkMwMVZKMQ?oc=5\" target=\"_blank\">Amazon Q4: Topping The AI Spending Race, Shares A Hold (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T14:26:35",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3JBenFib1dKQlZFWDRpQ19qUWdJdjRYUzVWR0l3UUpSYUJIS0xIRFY3U3E3MmNSZmM1QWxFdVNVdFBMb2QxTWZRODhReUpjY0R4X3FwMHBXcFQyTWI0cXk3TEJrS19YNVEtMDJ4ZVVieUQtLVJESm82MGxGVVBIZnRrdXRyQTJlSEN0bmhUR3U4TkMwMVZKMQ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon: Why I\u2019m Downgrading My Favorite Stock (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZyVXQzaXRVcnExNTkzWXh0REplQ1JrZ0RUY1ZuQnFpX0xSSGdHRFhSLVZIMGtmM0VtVDlMWHFnUTFKaDBHTGhoOXY0UFMyM2E3VlVRel9PeWswZFlpTnF1WmZ1WnQtU1RYcEkwUFNYdFlqXzBRakk4U001VmJrSEF5Z0R6ZElQaHNldQ?oc=5\" target=\"_blank\">Amazon: Why I\u2019m Downgrading My Favorite Stock (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T13:39:08",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZyVXQzaXRVcnExNTkzWXh0REplQ1JrZ0RUY1ZuQnFpX0xSSGdHRFhSLVZIMGtmM0VtVDlMWHFnUTFKaDBHTGhoOXY0UFMyM2E3VlVRel9PeWswZFlpTnF1WmZ1WnQtU1RYcEkwUFNYdFlqXzBRakk4U001VmJrSEF5Z0R6ZElQaHNldQ?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Even More Layoffs Are Coming at Amazon. What Does That Mean for AMZN Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkpBaHd6U2hicXA3anN0RUxCa0NoTGt0Z19DTk1Jb1dQV0ROYTNPb3FZbGptOE1UYzVwUmo5QklpSkdqMWhPYWVES1BzY3Zza3BUYmpwOTN3eHVNS0NFY2g5TVIyeWE1eUlmYk0wbTFaU2FRMkU0Y3lSdUtEX2NiYVJGTQ?oc=5\" target=\"_blank\">Even More Layoffs Are Coming at Amazon. What Does That Mean for AMZN Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-04T15:09:12",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkpBaHd6U2hicXA3anN0RUxCa0NoTGt0Z19DTk1Jb1dQV0ROYTNPb3FZbGptOE1UYzVwUmo5QklpSkdqMWhPYWVES1BzY3Zza3BUYmpwOTN3eHVNS0NFY2g5TVIyeWE1eUlmYk0wbTFaU2FRMkU0Y3lSdUtEX2NiYVJGTQ?oc=5"
+    },
+    {
+      "source": "TIKR.com",
+      "headline": "Amazon Stock Sinks 11% as Andy Jassy Announces $200 Billion Spending Plan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGxXS2ZMUm9VZE5iQzFjQ0tfSldEU2VRYXBvako1LXQwTER2UmN2bWxuZFRJaFlqVUxncGxDclRmUTNVa3p0UndDYTRCc2EtaEQyQkQtSEZfYzNPS3M1c1RUaXJWQncwZUpMY1ZnNlkwWGFjcGdiU2JnUkRXWmhKYk55SlVPQUdCaHJiUUc3N3VVcjNUTU5QdV80U1FYdjNJUW53aUxlSTNGdy1yM0E?oc=5\" target=\"_blank\">Amazon Stock Sinks 11% as Andy Jassy Announces $200 Billion Spending Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TIKR.com</font>",
+      "date": "2026-02-06T09:10:33",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGxXS2ZMUm9VZE5iQzFjQ0tfSldEU2VRYXBvako1LXQwTER2UmN2bWxuZFRJaFlqVUxncGxDclRmUTNVa3p0UndDYTRCc2EtaEQyQkQtSEZfYzNPS3M1c1RUaXJWQncwZUpMY1ZnNlkwWGFjcGdiU2JnUkRXWmhKYk55SlVPQUdCaHJiUUc3N3VVcjNUTU5QdV80U1FYdjNJUW53aUxlSTNGdy1yM0E?oc=5"
+    },
+    {
+      "source": "Barron's",
+      "headline": "Nvidia Stock Rises. What Amazon\u2019s Huge Spending Means for the Chip Maker.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwNBVV95cUxQSjJETDczaWVrSTRoMlo5T0FXRFdST3IxdExEQUdGLWM0OW5TUmpTZW5HVm0zaTk4LVlWRExqS2tVdy1YdTlHSFVYRi1obExqYTI3TlVTREVvczhXcDJMbW1QYUV5NnlDa1hGVWg3Q0pha1BnbWpRbHVIY28zLXNzV09NOXJWWDAyOHJ2ak4taG5MWW5tZVRqeXV3Q2NJQ2xqTVY1dUFXUVFkUjlUdkdJdlg2cVFWcHlnXzBqak5ZMjJIakJIQm9KSURWRWs1T21hc2xxWWU2T2s3RmR5MnN5eE5RaGpCVHY0cE1pSHg4dTJCRWZaWjRBNFVPUXpMTl9aWGxKT1U4UG5pZ0t4eDZkeFFOMHc5NGd1ZzlyaERJdzRKQzA0RTFKS3FOeDUxQ0NQZXBWZVlpMC1DWVRrZ2duMXVmakduYUdtckhDcXhGaGJVSjloVzRhOGJndXJ0QzQ5QUVwSnhJUjQ2XzBnOGtVeTA5bDFFR1FaczVTZU13c2ZicE0yRFlZ?oc=5\" target=\"_blank\">Nvidia Stock Rises. What Amazon\u2019s Huge Spending Means for the Chip Maker.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "date": "2026-02-06T16:39:00",
+      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQSjJETDczaWVrSTRoMlo5T0FXRFdST3IxdExEQUdGLWM0OW5TUmpTZW5HVm0zaTk4LVlWRExqS2tVdy1YdTlHSFVYRi1obExqYTI3TlVTREVvczhXcDJMbW1QYUV5NnlDa1hGVWg3Q0pha1BnbWpRbHVIY28zLXNzV09NOXJWWDAyOHJ2ak4taG5MWW5tZVRqeXV3Q2NJQ2xqTVY1dUFXUVFkUjlUdkdJdlg2cVFWcHlnXzBqak5ZMjJIakJIQm9KSURWRWs1T21hc2xxWWU2T2s3RmR5MnN5eE5RaGpCVHY0cE1pSHg4dTJCRWZaWjRBNFVPUXpMTl9aWGxKT1U4UG5pZ0t4eDZkeFFOMHc5NGd1ZzlyaERJdzRKQzA0RTFKS3FOeDUxQ0NQZXBWZVlpMC1DWVRrZ2duMXVmakduYUdtckhDcXhGaGJVSjloVzRhOGJndXJ0QzQ5QUVwSnhJUjQ2XzBnOGtVeTA5bDFFR1FaczVTZU13c2ZicE0yRFlZ?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Why This Analyst Thinks Amazon Is a Cheap Stock to Buy Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlNSaEQ5Z2diWDNYUWQ3WWpxUGE3ZnNUaDhSVG5GcWVKT0ZLQW9QNnpjbm9oeTRNMnNHWnY5YnlfTWQ5Y3BpRjlMR2VfUnRBOHVIbERWZWhZMjlvYm1UNHdPUlctWEtkeGxESzZvZEpBRG8wUHhRWlFOQzlLTzhSN3ZCZw?oc=5\" target=\"_blank\">Why This Analyst Thinks Amazon Is a Cheap Stock to Buy Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-03T16:39:37",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlNSaEQ5Z2diWDNYUWQ3WWpxUGE3ZnNUaDhSVG5GcWVKT0ZLQW9QNnpjbm9oeTRNMnNHWnY5YnlfTWQ5Y3BpRjlMR2VfUnRBOHVIbERWZWhZMjlvYm1UNHdPUlctWEtkeGxESzZvZEpBRG8wUHhRWlFOQzlLTzhSN3ZCZw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon Stock: CapEx Shock (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBVTkk4SUs2dldhMTdBVHhVOERsNGNaVlNOR2RuVWlPWldBX09ZUU1SMmZCMmZXbUJtQ0ZRRU1td041Yjlzb0xqbnJGWC02aUpUTFk4UWw4TGxUdHhUZG05aldpUWt4UXhwSmx3?oc=5\" target=\"_blank\">Amazon Stock: CapEx Shock (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T15:12:31",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVTkk4SUs2dldhMTdBVHhVOERsNGNaVlNOR2RuVWlPWldBX09ZUU1SMmZCMmZXbUJtQ0ZRRU1td041Yjlzb0xqbnJGWC02aUpUTFk4UWw4TGxUdHhUZG05aldpUWt4UXhwSmx3?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon Stock Is Cheap Heading Into Q4 Earnings (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2xqVXdySVk0UXBzUUR2WTYzQUhMTGNvN0JLeEphVkdVbEdQUGlGRDdSR3lfbnI4NTd2RmctcHB4SGxQeVpIQ2VpOFp2aktjN3Joc1prS0ZjMGU5ZXhIMmFBeTg5bnhtRXYzVWJVVHVhRDN4QWVOSG5QN3dqN25WRTFNRjZrU0xQckhoRWNRZFo?oc=5\" target=\"_blank\">Amazon Stock Is Cheap Heading Into Q4 Earnings (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-02T19:02:51",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2xqVXdySVk0UXBzUUR2WTYzQUhMTGNvN0JLeEphVkdVbEdQUGlGRDdSR3lfbnI4NTd2RmctcHB4SGxQeVpIQ2VpOFp2aktjN3Joc1prS0ZjMGU5ZXhIMmFBeTg5bnhtRXYzVWJVVHVhRDN4QWVOSG5QN3dqN25WRTFNRjZrU0xQckhoRWNRZFo?oc=5"
+    },
+    {
+      "source": "Yahoo Finance Singapore",
+      "headline": "Earnings live: Strategy gets caught in bitcoin crash, Amazon stock plunges, Roblox surges",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPelgzUWVUcG5wa2RHelBkXy1ZMnFjbGZDbXZ2MldIYnZ0Ukc0VDQyaUN4bXpxWWFvbHlHeDc0bGc4TVV3ZDNpN09EWUg2OTFkZ2Rad0VOR1B1R3RPZVJDUFdWNVZEOW1YdmJVaWFiZkkzU2N5NVlTbDBEX0FrUkdNQjh2ckc5T2pYS3ZtblBWdXRfbHJJQWFUdjd5aXQ3MHFzbl9kTFp2U2hOTlA2aEwxdjdLLXVleUZxRzJPMktXZExRZFhWR0U2djNGUkZMaEFl?oc=5\" target=\"_blank\">Earnings live: Strategy gets caught in bitcoin crash, Amazon stock plunges, Roblox surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+      "date": "2026-02-05T21:30:43",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPelgzUWVUcG5wa2RHelBkXy1ZMnFjbGZDbXZ2MldIYnZ0Ukc0VDQyaUN4bXpxWWFvbHlHeDc0bGc4TVV3ZDNpN09EWUg2OTFkZ2Rad0VOR1B1R3RPZVJDUFdWNVZEOW1YdmJVaWFiZkkzU2N5NVlTbDBEX0FrUkdNQjh2ckc5T2pYS3ZtblBWdXRfbHJJQWFUdjd5aXQ3MHFzbl9kTFp2U2hOTlA2aEwxdjdLLXVleUZxRzJPMktXZExRZFhWR0U2djNGUkZMaEFl?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "AMZN Earnings: Amazon Stock Sinks after EPS Miss",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFhNZ2RBcld3dHZuY3dDRjlHeXdOdWdMUXBiVFBuamx0bmJvWTdZcEdXV0g4N2o4ZDU4OXNkcy0yZzFTZExTNmhoblMxdng3bU9tanROZndGRXBPQmtzaThZdGtWVjR6QTBrT0NnYWU2RnB1eno2M0JIMjZyMGtCN2ZXTQ?oc=5\" target=\"_blank\">AMZN Earnings: Amazon Stock Sinks after EPS Miss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T22:05:51",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFhNZ2RBcld3dHZuY3dDRjlHeXdOdWdMUXBiVFBuamx0bmJvWTdZcEdXV0g4N2o4ZDU4OXNkcy0yZzFTZExTNmhoblMxdng3bU9tanROZndGRXBPQmtzaThZdGtWVjR6QTBrT0NnYWU2RnB1eno2M0JIMjZyMGtCN2ZXTQ?oc=5"
+    },
+    {
+      "source": "Yahoo Finance UK",
+      "headline": "FTSE and Wall Street rebound from week-long rout as traders reassess AI and Big Tech spending",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDVBZEhnTkJ3eU4zX1NYbGdTMXRpOVBCM3NjOFVGRXFtX3FxZ0Z4dkpEejJ5LWt0SFA4TlppVkJVczZKVkJFVlROWnJZSGpoQ2RhVjZRSTRMM21zTW82ME9JRU0xWEp3ejRrcjFoVU5LMi1reFg1dlc3MC1ad1hJeGRNSXd1X1FTdUFSS3ZEa0paRVoxYTlTTW55ZWtmSUV1Q0VCQVlySktYdkU2YjVPMlZR?oc=5\" target=\"_blank\">FTSE and Wall Street rebound from week-long rout as traders reassess AI and Big Tech spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+      "date": "2026-02-06T16:33:20",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDVBZEhnTkJ3eU4zX1NYbGdTMXRpOVBCM3NjOFVGRXFtX3FxZ0Z4dkpEejJ5LWt0SFA4TlppVkJVczZKVkJFVlROWnJZSGpoQ2RhVjZRSTRMM21zTW82ME9JRU0xWEp3ejRrcjFoVU5LMi1reFg1dlc3MC1ad1hJeGRNSXd1X1FTdUFSS3ZEa0paRVoxYTlTTW55ZWtmSUV1Q0VCQVlySktYdkU2YjVPMlZR?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Amazon\u2019s Earnings Miss Was Small, But the Market\u2019s Message Wasn\u2019t",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQemZBaU5Vb0NVajBFRjhZRGlWd0h1MlVkUTRSNTNySXF1MXVhYUs2SGtnNlNMYVFOTmV5dlhjZ21WNndMSW16NklUd2pZa0Q2Y25kVUlfLVhEcjlGUDJjMnRLOGQzMVFCT28xQWF1MVhlTVBSRzZQUnNTSTFBeWNfUkpmTGNONTlseEo0eHBBQ0xUSmtGM2syRmRYV0FBbmtN?oc=5\" target=\"_blank\">Amazon\u2019s Earnings Miss Was Small, But the Market\u2019s Message Wasn\u2019t</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-06T18:16:26",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemZBaU5Vb0NVajBFRjhZRGlWd0h1MlVkUTRSNTNySXF1MXVhYUs2SGtnNlNMYVFOTmV5dlhjZ21WNndMSW16NklUd2pZa0Q2Y25kVUlfLVhEcjlGUDJjMnRLOGQzMVFCT28xQWF1MVhlTVBSRzZQUnNTSTFBeWNfUkpmTGNONTlseEo0eHBBQ0xUSmtGM2syRmRYV0FBbmtN?oc=5"
+    },
+    {
+      "source": "The Economic Times",
+      "headline": "Amazon stock crashes after $200 billion AI spending shocks investors \u2013 Why AMZN, MSFT, NVDA, META, GOOG an",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgJBVV95cUxNZ0s3QnZRdEM2cWlPLWdCMGRydE11dXdmbF8xelVGZjdzWW0zOE9tYkxVam5HLW5NSDZaZnktS1F5WFdFZi1lM3d0YlN6aURtZ3ZSbVRmTmk3ZmpxblVvUHhURVVXbEFUeGp1OVhKNkZraHcxNjI1Y0VlV1pyYk9XZXJZR1cxbzBJTEM2VDY5T1pZVEJyM2FscmM0T3lUSXdyVE81WFotSUtIOEhMMThHVmJGdlN4RVFweHAwajFuN3JYSWFyZy1Gdm9LYWRrWGRzcmkwOGhneXY2QV9aRmhMY200MmNvSERNQ1lTTVNrVElmbkpEMXplZGlOcWF2cFg2OWlybFZ4cnNQNW40S1pNQTdfc01YaFRaX3ozb3NvLTBFaUJ1dG1DbUZXTmhkQ1lhYzlFZGhSNWR1cWcxMFJyTmZn0gHHAkFVX3lxTE5FeDNDa2VUWG9mZmdpYndINkZVbTBLSm9fOHhFdFNfQy11WklOX0FzZnNkeXhTZ05SRkM0ejdPSXZHVXItUmhMLVg1eUJxb0RKMHlGZElIZGNsY051Yk1GaVJtMG1vTldDZWNNX1ozUUpabXE4Z1JVZUlDY1BIc0otb005WDJtTElJTEVoRjVQWkJSdGo1dVR4LVE0andNYTZKWFB2bXU3NE8wckF5ekgwdzA4d3JWd010M3dyaV81RzdqQVdiY1BiWGpHSkVqYVdsaTBWb0kxQ2JjQ0pvOVhuOGJ1OFIwV3VVLWpUWDNiRGhMZk9mcGpaZWdud2RoMkplOUJoMWM4RlVORGVGb0ZVajJMdmYtU2ZfNi0wb1RtTXFScmdvdDgtRFhZZVB2QjExNzRtbEF4UUY2MzNBZFJQbHV6QU03bw?oc=5\" target=\"_blank\">Amazon stock crashes after $200 billion AI spending shocks investors \u2013 Why AMZN, MSFT, NVDA, META, GOOG an</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "date": "2026-02-06T16:12:29",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNZ0s3QnZRdEM2cWlPLWdCMGRydE11dXdmbF8xelVGZjdzWW0zOE9tYkxVam5HLW5NSDZaZnktS1F5WFdFZi1lM3d0YlN6aURtZ3ZSbVRmTmk3ZmpxblVvUHhURVVXbEFUeGp1OVhKNkZraHcxNjI1Y0VlV1pyYk9XZXJZR1cxbzBJTEM2VDY5T1pZVEJyM2FscmM0T3lUSXdyVE81WFotSUtIOEhMMThHVmJGdlN4RVFweHAwajFuN3JYSWFyZy1Gdm9LYWRrWGRzcmkwOGhneXY2QV9aRmhMY200MmNvSERNQ1lTTVNrVElmbkpEMXplZGlOcWF2cFg2OWlybFZ4cnNQNW40S1pNQTdfc01YaFRaX3ozb3NvLTBFaUJ1dG1DbUZXTmhkQ1lhYzlFZGhSNWR1cWcxMFJyTmZn0gHHAkFVX3lxTE5FeDNDa2VUWG9mZmdpYndINkZVbTBLSm9fOHhFdFNfQy11WklOX0FzZnNkeXhTZ05SRkM0ejdPSXZHVXItUmhMLVg1eUJxb0RKMHlGZElIZGNsY051Yk1GaVJtMG1vTldDZWNNX1ozUUpabXE4Z1JVZUlDY1BIc0otb005WDJtTElJTEVoRjVQWkJSdGo1dVR4LVE0andNYTZKWFB2bXU3NE8wckF5ekgwdzA4d3JWd010M3dyaV81RzdqQVdiY1BiWGpHSkVqYVdsaTBWb0kxQ2JjQ0pvOVhuOGJ1OFIwV3VVLWpUWDNiRGhMZk9mcGpaZWdud2RoMkplOUJoMWM4RlVORGVGb0ZVajJMdmYtU2ZfNi0wb1RtTXFScmdvdDgtRFhZZVB2QjExNzRtbEF4UUY2MzNBZFJQbHV6QU03bw?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Can Amazon\u2019s Q4 Earnings Report Push AMZN Stock Higher?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOanJPZjN5ZjhySmpWNmxNQXhMbmdJMV9rYnlCd29oZnIwNk1HYUpSOWZ4Zm5nb1JEblFxOXlxbnAyamRlbE9tNk4wbm1OYW1xemxTRHVVOUxTOXQ4SnM5UGhSRUlueEU5YnFDY09LZnNtcnZ1T2tieHFKNVlFRVg4VjRn?oc=5\" target=\"_blank\">Can Amazon\u2019s Q4 Earnings Report Push AMZN Stock Higher?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-03T19:59:35",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOanJPZjN5ZjhySmpWNmxNQXhMbmdJMV9rYnlCd29oZnIwNk1HYUpSOWZ4Zm5nb1JEblFxOXlxbnAyamRlbE9tNk4wbm1OYW1xemxTRHVVOUxTOXQ4SnM5UGhSRUlueEU5YnFDY09LZnNtcnZ1T2tieHFKNVlFRVg4VjRn?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "\u2018Losing Its Lead:\u2019 DA Davidson Downgrades Amazon Stock (AMZN) over AWS Market Share Concerns",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQl9GbE8wajhMaEJoX0dJR1ZxS29RbG9GUlBnNHg0T0FwRGh3QnBBdzBGRklOUV9nd2tHRC11VUk0UWhRbHh0anJPR0U3cklNQ0dxb0l0dkduSjBsVU14amFkZmIxcUdrQWRRTkMyR2xpODg5VVI5bHY0Qm50TDE3TmdxYVRnSHVDSE9YdjBCczEwUjhWZ1YwWGdvXzlvYjlSRkJvc2psTjZkcXdsNDRQczdRazl5RUdS?oc=5\" target=\"_blank\">\u2018Losing Its Lead:\u2019 DA Davidson Downgrades Amazon Stock (AMZN) over AWS Market Share Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-06T14:16:34",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQl9GbE8wajhMaEJoX0dJR1ZxS29RbG9GUlBnNHg0T0FwRGh3QnBBdzBGRklOUV9nd2tHRC11VUk0UWhRbHh0anJPR0U3cklNQ0dxb0l0dkduSjBsVU14amFkZmIxcUdrQWRRTkMyR2xpODg5VVI5bHY0Qm50TDE3TmdxYVRnSHVDSE9YdjBCczEwUjhWZ1YwWGdvXzlvYjlSRkJvc2psTjZkcXdsNDRQczdRazl5RUdS?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Why Amazon Stock (AMZN) Is Down Today and What UBS Expects Before Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3V4VmdUdUswc0pyUklxcHRZUTdFdGY4UEg2YTlHN2prUzNIaF9tbDBHQ0NycDVBWVpiNlVjTldFTmxRWUNjdEdQaHRIb1ZqcVhLZTNES29PQ0QxSXRCTWM5UmhHRVVEOFpUT2c2MkVXbnBiRnhLVU5BdThYekRxejVRemltUG1lSGE3MGptNTVSZ3ItSUlwT2x1RndEN0cwbVdNbg?oc=5\" target=\"_blank\">Why Amazon Stock (AMZN) Is Down Today and What UBS Expects Before Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T16:43:53",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3V4VmdUdUswc0pyUklxcHRZUTdFdGY4UEg2YTlHN2prUzNIaF9tbDBHQ0NycDVBWVpiNlVjTldFTmxRWUNjdEdQaHRIb1ZqcVhLZTNES29PQ0QxSXRCTWM5UmhHRVVEOFpUT2c2MkVXbnBiRnhLVU5BdThYekRxejVRemltUG1lSGE3MGptNTVSZ3ItSUlwT2x1RndEN0cwbVdNbg?oc=5"
+    },
+    {
+      "source": "CNBC",
+      "headline": "Amazon cloud unit beats on revenue and profit as parent company ramps up AI spending",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1vMURVZEZCUjJtOTFTX1JBRzc5N3BIQzFiUVRzaWNuUjlhRlVXVk5lNmlhU0VnOXlXRDdWdFYxYjkyQnZ3b1luR0RxaTRhY29PNDFCdmpXalhIZGlmcWtKWHVFX0Zob0w4aUZUYm9VOXdBQdIBd0FVX3lxTE0xNU9VcGdwR2NyeDltZTYwOU9RYzZtS2Z0eE9BSFp4RGdxVGVybjQzUzFPc01fNjY5RGhzSGloRE94OHFsSTc3NXlVWUM0VXNrWUx0WlBSX3B2aHNWRGt4Z00tQkFBU2puTlh5RXFxS1RMa2FZN05r?oc=5\" target=\"_blank\">Amazon cloud unit beats on revenue and profit as parent company ramps up AI spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "date": "2026-02-05T21:22:49",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vMURVZEZCUjJtOTFTX1JBRzc5N3BIQzFiUVRzaWNuUjlhRlVXVk5lNmlhU0VnOXlXRDdWdFYxYjkyQnZ3b1luR0RxaTRhY29PNDFCdmpXalhIZGlmcWtKWHVFX0Zob0w4aUZUYm9VOXdBQdIBd0FVX3lxTE0xNU9VcGdwR2NyeDltZTYwOU9RYzZtS2Z0eE9BSFp4RGdxVGVybjQzUzFPc01fNjY5RGhzSGloRE94OHFsSTc3NXlVWUM0VXNrWUx0WlBSX3B2aHNWRGt4Z00tQkFBU2puTlh5RXFxS1RMa2FZN05r?oc=5"
+    },
+    {
+      "source": "marketpulse.com",
+      "headline": "Amazon (AMZN) Earnings: The $700 billion milestone and the AI crossroads",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3ZUcG1nTlpQOTBxdm5xU2ZDQ3Bwd2tpZ3ZUZ0lWT0RDM1NUNnpPZ29DT2I2alQ3RDBZRXVscjFnS1FNcWQ5c0FqRVg0ZDA4NG1hZnJ2Zk15WVl5N1BGNV85ZnhWbWE2d0VacEtPNXhqaHZ3ZXVXdVJ1UTZJRmh5ajhseVVZVEIwTFdEY051b1NOQ2hZcURUMGR0ZUVYY25FR2FhM2huamI?oc=5\" target=\"_blank\">Amazon (AMZN) Earnings: The $700 billion milestone and the AI crossroads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketpulse.com</font>",
+      "date": "2026-02-04T16:34:00",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3ZUcG1nTlpQOTBxdm5xU2ZDQ3Bwd2tpZ3ZUZ0lWT0RDM1NUNnpPZ29DT2I2alQ3RDBZRXVscjFnS1FNcWQ5c0FqRVg0ZDA4NG1hZnJ2Zk15WVl5N1BGNV85ZnhWbWE2d0VacEtPNXhqaHZ3ZXVXdVJ1UTZJRmh5ajhseVVZVEIwTFdEY051b1NOQ2hZcURUMGR0ZUVYY25FR2FhM2huamI?oc=5"
+    },
+    {
+      "source": "Benzinga",
+      "headline": "Amazon Stock Enters 'Prove It Mode': Analysts Are Cautious, But Say 'AI Position Is Underappreciated'",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPNUZjcEptTVhnM0kzTFVKam5zWm1LOVlhSWJ1dFRNSjJLX0x3eFMtZVp4WWNTdFA3bUtOYkx0c20xaFprOF8zNDFVbWE5T3p6VWFjMkk0SkdiUXZKSFRUNkFGRGJWcVIwZTZMWGhsdWx4NzdiVmVDTlBhZEdSSjMyUTVfUmExb3pmMTA0OFROazZXTHdBdkVlVzBaQS1YcGVxbVJJa3g3TVVXREZLUVJvOHNTVFVJMjNQOUFYaEJQM2E0V1BBaXJHZkZVY3RyazFZTkpvUFpUdGlnejBadm9kSmRKNzE0bU1FeFR2NWl5b0UxMjY1UFB2UFNtTmlld1lw?oc=5\" target=\"_blank\">Amazon Stock Enters 'Prove It Mode': Analysts Are Cautious, But Say 'AI Position Is Underappreciated'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "date": "2026-02-06T15:45:10",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNUZjcEptTVhnM0kzTFVKam5zWm1LOVlhSWJ1dFRNSjJLX0x3eFMtZVp4WWNTdFA3bUtOYkx0c20xaFprOF8zNDFVbWE5T3p6VWFjMkk0SkdiUXZKSFRUNkFGRGJWcVIwZTZMWGhsdWx4NzdiVmVDTlBhZEdSSjMyUTVfUmExb3pmMTA0OFROazZXTHdBdkVlVzBaQS1YcGVxbVJJa3g3TVVXREZLUVJvOHNTVFVJMjNQOUFYaEJQM2E0V1BBaXJHZkZVY3RyazFZTkpvUFpUdGlnejBadm9kSmRKNzE0bU1FeFR2NWl5b0UxMjY1UFB2UFNtTmlld1lw?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Amazon Plans Its Own Big Boost In AI Spending. The Stock Is Tumbling.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGFPcnozdXl4cUZRVFFfLXFkQ1pNUlNJN3FPZm9paXRsejlvaEtiS1RKamNNRGdTN3Nuc0F4aEYxekxGaFFwV0pYUGZiclN3RXNMdjF1YndmNXhQRVl6eHpuT0toUXRQbjRJQjBsSXREdzF5VlVQczNHaEZKMWNsbFd5RWxic0FpR1J4bHZNN0JYR0ZLR0tKOE05NmNKNTR0aXZZeXB1TTItbHBaRUl4WUpxQlIyaHNQbUFKY3BqQldRakp2amFN?oc=5\" target=\"_blank\">Amazon Plans Its Own Big Boost In AI Spending. The Stock Is Tumbling.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-05T22:38:16",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGFPcnozdXl4cUZRVFFfLXFkQ1pNUlNJN3FPZm9paXRsejlvaEtiS1RKamNNRGdTN3Nuc0F4aEYxekxGaFFwV0pYUGZiclN3RXNMdjF1YndmNXhQRVl6eHpuT0toUXRQbjRJQjBsSXREdzF5VlVQczNHaEZKMWNsbFd5RWxic0FpR1J4bHZNN0JYR0ZLR0tKOE05NmNKNTR0aXZZeXB1TTItbHBaRUl4WUpxQlIyaHNQbUFKY3BqQldRakp2amFN?oc=5"
+    },
+    {
+      "source": "Nasdaq",
+      "headline": "Amazon.com is Now Oversold (AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE54TndSU05XaXRTeW1FVGhIeDNGYlFtLVVldktBcjZwYmVwVlYxbGxQV1V5M0FlNjZ1dEE2MWhidW9BRDJCV3BkZ1l2TXUzSEU2anB6V05oUUNMTF9CX2l1UHp1WTRWN2JGRjlZ?oc=5\" target=\"_blank\">Amazon.com is Now Oversold (AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "date": "2026-02-06T17:08:00",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TndSU05XaXRTeW1FVGhIeDNGYlFtLVVldktBcjZwYmVwVlYxbGxQV1V5M0FlNjZ1dEE2MWhidW9BRDJCV3BkZ1l2TXUzSEU2anB6V05oUUNMTF9CX2l1UHp1WTRWN2JGRjlZ?oc=5"
+    },
+    {
+      "source": "MarketWatch",
+      "headline": "Options on Amazon's stock are priced for a 9% post-earnings move in the stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirARBVV95cUxNZGM2NWEzT3JyTGhJMC0zOWFCcWRNeXFzSFQxUzVDZ3JQUjhqcFVDV2FuS3ZMaHpwVlpHRGNxTW95NUVPczJKLWVFS0oyRnVlVGNObkh1TU5yMXNaeGlrd1lEZU9wazVvRjVYeWFhTUtPWGdja1B5WlRrdlNLaENoVUFwS0dNRlNOTWUtcXdlYnRPQm5IMU13Z1djUVdpSENIZXQ1VEJCT2JjdkU4VUt2Sm1zV013RmpadGpEV1NneWdwalAxdTJfYmYzT2ZQRE16UFEyNkEtMUMtX2xTYXZSUDJXdmJWeEVvUDY1dkNIa0dWRnAzbnJqYlhDeWtYcHFpRHR2c19XUlF6cGtucHJqMUV3Rl9IRlpQTW5ScXdJaWtYMkgzc2p6NUxIQm9LUUxsMHl1TzBYTUtHTTBibGJNS0p5bjk2X1dSakxPc3J2UFZnZk4yaFJuUThqQ2ExUmRiY0R2dG94OTFTYlJiZl9XeWpRUk4zbmNLSVJHNnRReHZ5OXJsa3pSUTBSMmE4OEIwdGVXWDVBYWM5LUEya1E3YmVNWkU3UkxERHhaZS1JQWNkUGVmNHMyc2NBU3pENkk3ZjR0Q2luTlcyel9aSk93ZnFlOXFMWGhIRkpVUkZOd1I5TEhGVFFWM20wYllpWVY1bUN5WnBsMk1WeTdPd3psX25zeDl3TzF2LUdpWFNmcW16UzVZV0xzNnlpQV9WQmRqZmYtMDg5dUFycExy?oc=5\" target=\"_blank\">Options on Amazon's stock are priced for a 9% post-earnings move in the stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "date": "2026-02-05T21:52:04",
+      "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxNZGM2NWEzT3JyTGhJMC0zOWFCcWRNeXFzSFQxUzVDZ3JQUjhqcFVDV2FuS3ZMaHpwVlpHRGNxTW95NUVPczJKLWVFS0oyRnVlVGNObkh1TU5yMXNaeGlrd1lEZU9wazVvRjVYeWFhTUtPWGdja1B5WlRrdlNLaENoVUFwS0dNRlNOTWUtcXdlYnRPQm5IMU13Z1djUVdpSENIZXQ1VEJCT2JjdkU4VUt2Sm1zV013RmpadGpEV1NneWdwalAxdTJfYmYzT2ZQRE16UFEyNkEtMUMtX2xTYXZSUDJXdmJWeEVvUDY1dkNIa0dWRnAzbnJqYlhDeWtYcHFpRHR2c19XUlF6cGtucHJqMUV3Rl9IRlpQTW5ScXdJaWtYMkgzc2p6NUxIQm9LUUxsMHl1TzBYTUtHTTBibGJNS0p5bjk2X1dSakxPc3J2UFZnZk4yaFJuUThqQ2ExUmRiY0R2dG94OTFTYlJiZl9XeWpRUk4zbmNLSVJHNnRReHZ5OXJsa3pSUTBSMmE4OEIwdGVXWDVBYWM5LUEya1E3YmVNWkU3UkxERHhaZS1JQWNkUGVmNHMyc2NBU3pENkk3ZjR0Q2luTlcyel9aSk93ZnFlOXFMWGhIRkpVUkZOd1I5TEhGVFFWM20wYllpWVY1bUN5WnBsMk1WeTdPd3psX25zeDl3TzF2LUdpWFNmcW16UzVZV0xzNnlpQV9WQmRqZmYtMDg5dUFycExy?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Is Amazon Stock (AMZN) a Buy Ahead of Earnings? Wall Street Stays Bullish",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ01WZDJDNXhSTHJqcDBYYUN4S1R1R0tOeERSOS14N1RzV1dzZHVVM1ZkamFnWkp0TFltZzU0MTctSDdZYXR4WHpScGYxcWtlZHpZT2JyM0Y0ZEhBZk1VQ0E5QmFiSVhESEVrRHNKc0h0YlhkNlVpci1fS2xCVHlaZkFLMUdzZWR4RHZhdG1EekNyTDJfZC00SU9rdHduLThNblE?oc=5\" target=\"_blank\">Is Amazon Stock (AMZN) a Buy Ahead of Earnings? Wall Street Stays Bullish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-05T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ01WZDJDNXhSTHJqcDBYYUN4S1R1R0tOeERSOS14N1RzV1dzZHVVM1ZkamFnWkp0TFltZzU0MTctSDdZYXR4WHpScGYxcWtlZHpZT2JyM0Y0ZEhBZk1VQ0E5QmFiSVhESEVrRHNKc0h0YlhkNlVpci1fS2xCVHlaZkFLMUdzZWR4RHZhdG1EekNyTDJfZC00SU9rdHduLThNblE?oc=5"
+    },
+    {
+      "source": "CNBC",
+      "headline": "Stocks making the biggest moves after the bell: Amazon, Reddit, Molina Healthcare, Fortinet and more",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFNWbEJMYlFsNGlBMktZMlhpZklLRkpXMGptUjJKMVpJQmtGS2tCS3B2NHM4TTZXSWlHZjUzQWxlZ2J0dFVBSl8zQ2hCejhaeXQ1YkhQQlBQMHdMX2dpZHU1aldod3V6ZmNLU1R4eER3dm16c0Yxc25TQmpLMzlHNDdLTXF6UFN1bTFIVkVkV0t4dllZeXA1TjNKTDMySG1OVWxEbQ?oc=5\" target=\"_blank\">Stocks making the biggest moves after the bell: Amazon, Reddit, Molina Healthcare, Fortinet and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "date": "2026-02-05T22:07:44",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFNWbEJMYlFsNGlBMktZMlhpZklLRkpXMGptUjJKMVpJQmtGS2tCS3B2NHM4TTZXSWlHZjUzQWxlZ2J0dFVBSl8zQ2hCejhaeXQ1YkhQQlBQMHdMX2dpZHU1aldod3V6ZmNLU1R4eER3dm16c0Yxc25TQmpLMzlHNDdLTXF6UFN1bTFIVkVkV0t4dllZeXA1TjNKTDMySG1OVWxEbQ?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Amazon shares sink on earnings miss, $200B spending plan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPM19yNnM0VkY5cHFDdVVzVnVUM2pDUTEzUzR2cHRhWnJLelRpbnhyTGJ4c0hhOUtPQXpOUlRxeDJLTWtpVDVVQ05KWTdSSE1JVm55OXlDOF85SzBzSlgwTXdJRDlSdmtCVFdqX2lDRWxoWjR2MFJ6T0FyTkNLaU1NSVI3U0g?oc=5\" target=\"_blank\">Amazon shares sink on earnings miss, $200B spending plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-05T21:30:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM19yNnM0VkY5cHFDdVVzVnVUM2pDUTEzUzR2cHRhWnJLelRpbnhyTGJ4c0hhOUtPQXpOUlRxeDJLTWtpVDVVQ05KWTdSSE1JVm55OXlDOF85SzBzSlgwTXdJRDlSdmtCVFdqX2lDRWxoWjR2MFJ6T0FyTkNLaU1NSVI3U0g?oc=5"
+    },
+    {
+      "source": "Stocktwits",
+      "headline": "AMZN Stock Falls To 8-Month Lows In Pre-Market After Declining Below 200-DMA For First Time Since October",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGhpbzdRYkxJdEhSUnVISEcwMGxtNkVFdjZzQk8xM2lWRDVLWHJ6T1JtWjFmUEFvTEhRYkp3RXRsZnFISjZKRlZpY2ZYUUdST1M3V2kyenl4R0xJcHZENW9oZTZJTXBsaDE4Tl9qbVd5bWpzVWZPM3JURGptOHdBRlRJcXgxUHZtTk5DUW5NX0hjSjhnd05LOHFJeDNGMlBJZVV2bUtyWEo5MllaemJTM1l3c3p2OFB0a3NMbHBNc19BY2hpSEVF?oc=5\" target=\"_blank\">AMZN Stock Falls To 8-Month Lows In Pre-Market After Declining Below 200-DMA For First Time Since October</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "date": "2026-02-06T11:48:45",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGhpbzdRYkxJdEhSUnVISEcwMGxtNkVFdjZzQk8xM2lWRDVLWHJ6T1JtWjFmUEFvTEhRYkp3RXRsZnFISjZKRlZpY2ZYUUdST1M3V2kyenl4R0xJcHZENW9oZTZJTXBsaDE4Tl9qbVd5bWpzVWZPM3JURGptOHdBRlRJcXgxUHZtTk5DUW5NX0hjSjhnd05LOHFJeDNGMlBJZVV2bUtyWEo5MllaemJTM1l3c3p2OFB0a3NMbHBNc19BY2hpSEVF?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Wall Street Shook by Amazon Earnings Miss and $200 Billion AI Spending Shocker",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUFOUHUwRjJiVmF4WXZBMkZKTW54cjVMMzRkaWIxVHhyOUs5TWFSWkYtcFdmblV2MHY1dW1sQmE5cHVGRlJvTFFMblp5alBSU3hJZ09jYW5ocUZpMnhBNUpjZk9qLWdIQ1ZuemVaX2ZLMHBXbmZwaGIwNmV6YmV6bU83dGd3QXJkSnpkVXRrWnZrTW5vbk9VRTF1OXdjV1NOV28xZkctQmYwd1FGV08tMVJtMTl4WFJjVmlWa2hB?oc=5\" target=\"_blank\">Wall Street Shook by Amazon Earnings Miss and $200 Billion AI Spending Shocker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-06T13:15:22",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUFOUHUwRjJiVmF4WXZBMkZKTW54cjVMMzRkaWIxVHhyOUs5TWFSWkYtcFdmblV2MHY1dW1sQmE5cHVGRlJvTFFMblp5alBSU3hJZ09jYW5ocUZpMnhBNUpjZk9qLWdIQ1ZuemVaX2ZLMHBXbmZwaGIwNmV6YmV6bU83dGd3QXJkSnpkVXRrWnZrTW5vbk9VRTF1OXdjV1NOV28xZkctQmYwd1FGV08tMVJtMTl4WFJjVmlWa2hB?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Why Amazon (AMZN) Stock Is Down Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9MdE80czZrNnNzQ2EzeTJBU0pMakFlc1BVXzVyV0c4dXVRdGp3dlNseDRBaGY0OEdFZFRneVhFdmNqOTJXMDhrTWxfbGlUZUdFXzNCQzBNTU8wVEw0dXBTNEl2U0RTTWpvQUFQdFB1aE5PblVXSktReGNvNDQ?oc=5\" target=\"_blank\">Why Amazon (AMZN) Stock Is Down Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-20T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MdE80czZrNnNzQ2EzeTJBU0pMakFlc1BVXzVyV0c4dXVRdGp3dlNseDRBaGY0OEdFZFRneVhFdmNqOTJXMDhrTWxfbGlUZUdFXzNCQzBNTU8wVEw0dXBTNEl2U0RTTWpvQUFQdFB1aE5PblVXSktReGNvNDQ?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Amazon Stock Forecast: Analysts Double Down On AI Upside",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnNlbHdpY0dmLTJoSVBDZEN1WUNDM0g2ZTdoWFBCejE3cnU2T2NwZkFfak5UVzhGVURNVVpDRmplTDNOYTMwOWJNNWotS0pUZmVxazItY0lEelhOUEhONW5DNzN4cWRUUTZfTEJ6YTFUU1daRUZxbi1kbFFiWTJJbkZIZ2d4VnNhejlGekRPLTlhRXphY1NUVXdxR0hlTm1ic2xSLTRDbEkzdkE?oc=5\" target=\"_blank\">Amazon Stock Forecast: Analysts Double Down On AI Upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-06T14:01:28",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnNlbHdpY0dmLTJoSVBDZEN1WUNDM0g2ZTdoWFBCejE3cnU2T2NwZkFfak5UVzhGVURNVVpDRmplTDNOYTMwOWJNNWotS0pUZmVxazItY0lEelhOUEhONW5DNzN4cWRUUTZfTEJ6YTFUU1daRUZxbi1kbFFiWTJJbkZIZ2d4VnNhejlGekRPLTlhRXphY1NUVXdxR0hlTm1ic2xSLTRDbEkzdkE?oc=5"
+    },
+    {
+      "source": "marketscreener.com",
+      "headline": "Earnings Flash (AMZN) Amazon.com, Inc. Reports Q4 Revenue $213.39B, vs. FactSet Est of $211.44B",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXNXUFhjSWo2UjBtZ2dQNC1pUThyX0VpMENrazhOQmNFMmQ3R2twcHNQVTNHemVkYV9kNnNpeEZtLXZqQnBoRExuU2hZME1mUE5zRzEzb212NEh2VGJuV3N3UkxIa1Axc2dqNktybVllMWJmdTEwNHFyMHllYzlUemx3Zm1SQ3hSU2tSbXoySUFURjA0S1R6QXFCdjFQTE5qVWRqLTBDUUx6ZWp1b1RpbTIxV3FPMWdneTROdTA4VXdOdVhLY0ZJejhzTnZpMDBJX1BSLWhvQQ?oc=5\" target=\"_blank\">Earnings Flash (AMZN) Amazon.com, Inc. Reports Q4 Revenue $213.39B, vs. FactSet Est of $211.44B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+      "date": "2026-02-05T21:03:35",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXNXUFhjSWo2UjBtZ2dQNC1pUThyX0VpMENrazhOQmNFMmQ3R2twcHNQVTNHemVkYV9kNnNpeEZtLXZqQnBoRExuU2hZME1mUE5zRzEzb212NEh2VGJuV3N3UkxIa1Axc2dqNktybVllMWJmdTEwNHFyMHllYzlUemx3Zm1SQ3hSU2tSbXoySUFURjA0S1R6QXFCdjFQTE5qVWRqLTBDUUx6ZWp1b1RpbTIxV3FPMWdneTROdTA4VXdOdVhLY0ZJejhzTnZpMDBJX1BSLWhvQQ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Biggest stock movers Friday: Crypto stocks, LUMN, AMZN, STLA, and more (DOCS:NYSE)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUFVbGs0bjlZY1hLZjNZbWNjdWhlSENNS3VoUU1tLWI0R0RSYktsc2pyRjFza2JYbXNCam5KeUdwbWxIMUhwRzNGb3B5VGE5ME9keTAyYkxQMnVVZGhrYWJBUDVVTUVRajNkWTlLWTgzc3hkc2l2bHJ5dDdXTGNMdVJQb0NINHhCSzJGUA?oc=5\" target=\"_blank\">Biggest stock movers Friday: Crypto stocks, LUMN, AMZN, STLA, and more (DOCS:NYSE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T15:22:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUFVbGs0bjlZY1hLZjNZbWNjdWhlSENNS3VoUU1tLWI0R0RSYktsc2pyRjFza2JYbXNCam5KeUdwbWxIMUhwRzNGb3B5VGE5ME9keTAyYkxQMnVVZGhrYWJBUDVVTUVRajNkWTlLWTgzc3hkc2l2bHJ5dDdXTGNMdVJQb0NINHhCSzJGUA?oc=5"
+    },
+    {
+      "source": "DailyForex",
+      "headline": "Amazon.com (NASDAQ:AMZN) Stock Signal: Should You Buy AMZN Ahead of Its Highly Anticipated Earnings Release?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjNSbGJsSGxWNXJ2ZURxanBsZFRhX3pWVWhsNWl1OHVySk1halhZd1FLQVY1QXd1UkRfN2ZIa21rUkpXcU1NbGhMR2tnVGN0dHBiS0xzeFJ2ai0xU2dBR29zSXNCUWNzcTR2aGNWR0tNcUI1eTlQWUVHMnJxejg1LXA1a2tSMi1MSWhrU255TTlIYzFuaG1z?oc=5\" target=\"_blank\">Amazon.com (NASDAQ:AMZN) Stock Signal: Should You Buy AMZN Ahead of Its Highly Anticipated Earnings Release?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DailyForex</font>",
+      "date": "2026-02-03T09:28:02",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjNSbGJsSGxWNXJ2ZURxanBsZFRhX3pWVWhsNWl1OHVySk1halhZd1FLQVY1QXd1UkRfN2ZIa21rUkpXcU1NbGhMR2tnVGN0dHBiS0xzeFJ2ai0xU2dBR29zSXNCUWNzcTR2aGNWR0tNcUI1eTlQWUVHMnJxejg1LXA1a2tSMi1MSWhrU255TTlIYzFuaG1z?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "headline": "Amazon sees 50% boost to capital spending this year, shares tumble",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGU1U3dqeHJLczJCUTZ4Q0NFdW4ySkg5T0FwUXhJUDBjZ05TM2pkWDJ5dG5qbFdROVpUd0U5QmtsQlQxZVNnOXh1VHVzS1cyTW9FUVU4eUpjVUR3ZXVXY3FtUjBBeFB6Q3d2NDRVcGV6NGNGejBJd05ROEZMMzkxQ01DcmJrZGZlOUZuWGRhX1lDMkNPb3FJNUVWVXlTOHZZUUxBVFA1VFcxNllzdV9sQ1JTSXlldw?oc=5\" target=\"_blank\">Amazon sees 50% boost to capital spending this year, shares tumble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "date": "2026-02-05T21:05:29",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGU1U3dqeHJLczJCUTZ4Q0NFdW4ySkg5T0FwUXhJUDBjZ05TM2pkWDJ5dG5qbFdROVpUd0U5QmtsQlQxZVNnOXh1VHVzS1cyTW9FUVU4eUpjVUR3ZXVXY3FtUjBBeFB6Q3d2NDRVcGV6NGNGejBJd05ROEZMMzkxQ01DcmJrZGZlOUZuWGRhX1lDMkNPb3FJNUVWVXlTOHZZUUxBVFA1VFcxNllzdV9sQ1JTSXlldw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon: Gigantic $200 Billion Spending Plan Sends Shares Lower (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVZWdVkwZnlfWHdGRC1UTEhBZ1NsdkRXM1pFNWdsWFVzalBPNXlqWnNhb1VNUGhZVVQ5b3R5U05ZX3RDSGpxTHN0OGRxLW94c3RodGVlSi1MZzlCT2JjeEtFb3NBNFZOVkRHV293a3VWa0pXT2VuLWUwZFdWS1MyUjJJaU1MZG9SX1d1TURsNlN6RTNIYld6X0l4dGN6NklpUGVR?oc=5\" target=\"_blank\">Amazon: Gigantic $200 Billion Spending Plan Sends Shares Lower (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-05T23:00:03",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVZWdVkwZnlfWHdGRC1UTEhBZ1NsdkRXM1pFNWdsWFVzalBPNXlqWnNhb1VNUGhZVVQ5b3R5U05ZX3RDSGpxTHN0OGRxLW94c3RodGVlSi1MZzlCT2JjeEtFb3NBNFZOVkRHV293a3VWa0pXT2VuLWUwZFdWS1MyUjJJaU1MZG9SX1d1TURsNlN6RTNIYld6X0l4dGN6NklpUGVR?oc=5"
+    },
+    {
+      "source": "TradingView",
+      "headline": "AMZN: Amazon Stock Tanks 12% as Spending Plans Knock Investors\u2019 Confidence",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkFkZGJMZFFqME43cXptMTNWeVBMNjY3MnJfak9qSjRxUnJUWWI5dkNjVGpqVkRUSTktdmJwVDZtbVZDTktSZzludC01N0tmMW93eEpiZlNzVUN3di04ODg3bHlyMXhaejBZZ2l5b25nd1htUDB4dnFxVFE0Qno5RkRwMEZ1R1JqcEpqWE5mdGREckx5RmR0WmdQQVdueGhTalF6bEpUZy02Zy1lSlV1YkVZSmJoT0xCTno1NXpHUW1XQXN6aTFNWTg0QTZCdw?oc=5\" target=\"_blank\">AMZN: Amazon Stock Tanks 12% as Spending Plans Knock Investors\u2019 Confidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "date": "2026-02-06T08:34:42",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkFkZGJMZFFqME43cXptMTNWeVBMNjY3MnJfak9qSjRxUnJUWWI5dkNjVGpqVkRUSTktdmJwVDZtbVZDTktSZzludC01N0tmMW93eEpiZlNzVUN3di04ODg3bHlyMXhaejBZZ2l5b25nd1htUDB4dnFxVFE0Qno5RkRwMEZ1R1JqcEpqWE5mdGREckx5RmR0WmdQQVdueGhTalF6bEpUZy02Zy1lSlV1YkVZSmJoT0xCTno1NXpHUW1XQXN6aTFNWTg0QTZCdw?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "Amazon Q4 Earnings Miss Estimates, Shares Slide on $200B Capex Plan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREt0Y3puRjNQQ2RXLXU3RHM1Wnl1Z0RCbGRVdUQzYlQzMGxWZ1JUaGtaWjZjdlNLeERYeU1jaFljRmdPWV9ldjhBNHQxRkU4eFBwZXVjSlJtWjFJLU9KQU9PTWNCZ01IcDJoM0hDNDVoWVZXdWZ6VlU1SmlLWHVlTlBfTE5CWmVMYjlCbDQwdTYwQnRTc2x2WG1KUGxnbmhBd3UtVDFfTE9CREhHeHlhZ1QwNVJxQTQ3UFp3RWZaVU9WTFF0Z0VBejNac2RjY2xncmM3c2piVndqRFBaMlNpWGxB?oc=5\" target=\"_blank\">Amazon Q4 Earnings Miss Estimates, Shares Slide on $200B Capex Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-02-06T17:14:08",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPREt0Y3puRjNQQ2RXLXU3RHM1Wnl1Z0RCbGRVdUQzYlQzMGxWZ1JUaGtaWjZjdlNLeERYeU1jaFljRmdPWV9ldjhBNHQxRkU4eFBwZXVjSlJtWjFJLU9KQU9PTWNCZ01IcDJoM0hDNDVoWVZXdWZ6VlU1SmlLWHVlTlBfTE5CWmVMYjlCbDQwdTYwQnRTc2x2WG1KUGxnbmhBd3UtVDFfTE9CREhHeHlhZ1QwNVJxQTQ3UFp3RWZaVU9WTFF0Z0VBejNac2RjY2xncmM3c2piVndqRFBaMlNpWGxB?oc=5"
+    },
+    {
+      "source": "Schaeffer's Investment Research",
+      "headline": "AMZN Plummets Amid AI Spending Plans, Earnings Miss",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUE1T2loX01vRmI0Nlh0TTJVdDVYd0h5NGtsUWctcFV0RlVfNmRDSkJFdWg1SWdfZFhHT0FISUxMaE14QWhKZk42VWd0VUdHNGk2MjJET3Z1LWo1MVgxenhzMDhaU3NRcFhfSUxEVHhLX2Z3TkdranpubTRlR0I3VllKOVRFNDFCQ2VuZDlKZVl5QXA1TFlBdWd3OTRRYXJoZjNUWmw4SXhOV3duX1E?oc=5\" target=\"_blank\">AMZN Plummets Amid AI Spending Plans, Earnings Miss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Schaeffer's Investment Research</font>",
+      "date": "2026-02-06T15:47:26",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUE1T2loX01vRmI0Nlh0TTJVdDVYd0h5NGtsUWctcFV0RlVfNmRDSkJFdWg1SWdfZFhHT0FISUxMaE14QWhKZk42VWd0VUdHNGk2MjJET3Z1LWo1MVgxenhzMDhaU3NRcFhfSUxEVHhLX2Z3TkdranpubTRlR0I3VllKOVRFNDFCQ2VuZDlKZVl5QXA1TFlBdWd3OTRRYXJoZjNUWmw4SXhOV3duX1E?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon.com, Inc. 2025 Q4 - Results - Earnings Call Presentation (NASDAQ:AMZN) 2026-02-05",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWJBLXBmbHhtZ3NtMnpfSVhNT1ZyUGRIV3RmN0NFQ0dZeEhrLXd6ZzA1amVzYTNvQ3Z3NVNnZ2JiYy1SRmx6ZWRlS2tlRktkZHhKR0hVT3kxdnQ0VVlEOHBNTzYwdThlbF9hWDRYYzlDMVllcm1DTUN3dzZhZndCU1ZsczJOdWVlNk1rd2JnbjBmNUJ4bGFxdXFEWlBweWc?oc=5\" target=\"_blank\">Amazon.com, Inc. 2025 Q4 - Results - Earnings Call Presentation (NASDAQ:AMZN) 2026-02-05</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-06T03:30:57",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWJBLXBmbHhtZ3NtMnpfSVhNT1ZyUGRIV3RmN0NFQ0dZeEhrLXd6ZzA1amVzYTNvQ3Z3NVNnZ2JiYy1SRmx6ZWRlS2tlRktkZHhKR0hVT3kxdnQ0VVlEOHBNTzYwdThlbF9hWDRYYzlDMVllcm1DTUN3dzZhZndCU1ZsczJOdWVlNk1rd2JnbjBmNUJ4bGFxdXFEWlBweWc?oc=5"
+    },
+    {
+      "source": "Barchart.com",
+      "headline": "Amazon Is Widely Launching Alexa+. Can That Move the Needle for AMZN Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjk3RWVnOGZHYWJoN2xVWjJyaDlKMy1RNTRoQjczYzNYTUV4Um15RmJSeW0wVFFhWUVPR190cm5QS24zb2F4QU5QVTNLVzhKU2Joek4wbFVmX09fa0NzWU9veUZ5bWx0OTk0SS1GSE5GOFhWeFNSSG5KdVRHcWtmdlpnNHEyV3BLelkweGVlY3dfamsyY3daNS1fQ1FSUVZHYUhiYzZOdXRZOU1ZWThWcjdtdDg?oc=5\" target=\"_blank\">Amazon Is Widely Launching Alexa+. Can That Move the Needle for AMZN Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "date": "2026-02-04T20:44:10",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjk3RWVnOGZHYWJoN2xVWjJyaDlKMy1RNTRoQjczYzNYTUV4Um15RmJSeW0wVFFhWUVPR190cm5QS24zb2F4QU5QVTNLVzhKU2Joek4wbFVmX09fa0NzWU9veUZ5bWx0OTk0SS1GSE5GOFhWeFNSSG5KdVRHcWtmdlpnNHEyV3BLelkweGVlY3dfamsyY3daNS1fQ1FSUVZHYUhiYzZOdXRZOU1ZWThWcjdtdDg?oc=5"
+    },
+    {
+      "source": "Meyka",
+      "headline": "Amazon (NASDAQ: AMZN) Stock Drops After Weak Q1 Outlook, $200B Capex Plan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPakRlT0ROSGliQWozVFhKZ2lyR0xVUUtqUmxLNDdmRTMzdHRlQVlXYVZnSy1MeHpuMTN5aG9ib3oyQm9CTGZQS2V2YUx4S3FuVm5hWTRoRGhvcXJHckxRT0RoT3R0TXVVTHBGUlp0Y3JxSERyTzI2akpnU0p1RGJVemQ3UGQybTh6QWJEb3M0THFFOHE2QVhF?oc=5\" target=\"_blank\">Amazon (NASDAQ: AMZN) Stock Drops After Weak Q1 Outlook, $200B Capex Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+      "date": "2026-02-06T12:56:15",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakRlT0ROSGliQWozVFhKZ2lyR0xVUUtqUmxLNDdmRTMzdHRlQVlXYVZnSy1MeHpuMTN5aG9ib3oyQm9CTGZQS2V2YUx4S3FuVm5hWTRoRGhvcXJHckxRT0RoT3R0TXVVTHBGUlp0Y3JxSERyTzI2akpnU0p1RGJVemQ3UGQybTh6QWJEb3M0THFFOHE2QVhF?oc=5"
+    },
+    {
+      "source": "thestreet.com",
+      "headline": "Analysts reset Amazon stock price target before earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlJKNlA0dDJkSUN0eGNLYkl3SjFfdlRQSXY4NFVLbFZUT2tIWmYxYTU1RjlpRzlUMTRab21CYzR6eTZ5VlN1cGhaeWk2U1ZBVGN1YmttMEJ2NjdLN1FLaG5ZUzJPUG5KRjVMZ1EyMGl5NkZDMjBpYTNBUUJ1TzJUdmRJNXlILVRZZTRBd1REOHB4cTRNeWNzeXBLMU5mXzVU?oc=5\" target=\"_blank\">Analysts reset Amazon stock price target before earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "date": "2026-02-03T15:17:00",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlJKNlA0dDJkSUN0eGNLYkl3SjFfdlRQSXY4NFVLbFZUT2tIWmYxYTU1RjlpRzlUMTRab21CYzR6eTZ5VlN1cGhaeWk2U1ZBVGN1YmttMEJ2NjdLN1FLaG5ZUzJPUG5KRjVMZ1EyMGl5NkZDMjBpYTNBUUJ1TzJUdmRJNXlILVRZZTRBd1REOHB4cTRNeWNzeXBLMU5mXzVU?oc=5"
+    },
+    {
+      "source": "Barchart.com",
+      "headline": "Amazon\u2019s Q4 Earnings Could Impress: Should You Buy, Sell, or Hold AMZN Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVRWUk4xclZVZXBDYnBwMVgtVTBrS2hxSExENHdhUkF2MVNBbXVWcVB2T3pvV3dZWTFqYmRfXzVwSDFBMWNUX3RqbFJwQ3YycFUwVnlpV29DeXBGNTJ6MTQwVnNvWm84U1UyZ2I2M0lGMkVsUGtycENWZVlLT2pEMUxrR21ONXlvMk92ODcxXzc1RVlmQk5pNmxpaS11a2JNNGlhMjNIMWJVOGJjdENUbHdoakM?oc=5\" target=\"_blank\">Amazon\u2019s Q4 Earnings Could Impress: Should You Buy, Sell, or Hold AMZN Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "date": "2026-02-04T18:45:16",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVRWUk4xclZVZXBDYnBwMVgtVTBrS2hxSExENHdhUkF2MVNBbXVWcVB2T3pvV3dZWTFqYmRfXzVwSDFBMWNUX3RqbFJwQ3YycFUwVnlpV29DeXBGNTJ6MTQwVnNvWm84U1UyZ2I2M0lGMkVsUGtycENWZVlLT2pEMUxrR21ONXlvMk92ODcxXzc1RVlmQk5pNmxpaS11a2JNNGlhMjNIMWJVOGJjdENUbHdoakM?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Amazon stock price slides 4% on German antitrust hit as AMZN heads into earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWHpMdXBvc3VabkNHSkl3ak1PaEx0dEZHdW9iRDZhV0dMVGF3TGFPWEN5RDk3T3pjOFJIWDJXZDV1S0pROWZOeTJVUWdaSmpXdWtwNnh1SlA5UFJFOWVpMmVYaWtiVWN5d1BnQ2hFX190cGkyYVBGRDdVOTZRWnJELWVod255N0NIOTJieXZoeThWTXZMZ1doNmItMWNzdUE4LXc?oc=5\" target=\"_blank\">Amazon stock price slides 4% on German antitrust hit as AMZN heads into earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-05T20:29:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWHpMdXBvc3VabkNHSkl3ak1PaEx0dEZHdW9iRDZhV0dMVGF3TGFPWEN5RDk3T3pjOFJIWDJXZDV1S0pROWZOeTJVUWdaSmpXdWtwNnh1SlA5UFJFOWVpMmVYaWtiVWN5d1BnQ2hFX190cGkyYVBGRDdVOTZRWnJELWVod255N0NIOTJieXZoeThWTXZMZ1doNmItMWNzdUE4LXc?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "AMZN Stock Down 8% after Earnings \u2014 What Spooked Investors",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZThYdEVlNUxUNFZHWnpoV2lNLTgtdDFXemJWVTYzQ3RUVkx5dkN3NkdKa2puYk9qMDdyNkJwOHhYY3ppU1NoemMzbTF2Sl9sMmVXX29XV3ZfTkNBYjhSWERuNUFYTUxpNFBEZ2lCVmNWSU1SbnA5ZkZFVUwyX1BuUTlnTTY0dklZVkR4Y0tEYVhKZw?oc=5\" target=\"_blank\">AMZN Stock Down 8% after Earnings \u2014 What Spooked Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-06T05:17:03",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZThYdEVlNUxUNFZHWnpoV2lNLTgtdDFXemJWVTYzQ3RUVkx5dkN3NkdKa2puYk9qMDdyNkJwOHhYY3ppU1NoemMzbTF2Sl9sMmVXX29XV3ZfTkNBYjhSWERuNUFYTUxpNFBEZ2lCVmNWSU1SbnA5ZkZFVUwyX1BuUTlnTTY0dklZVkR4Y0tEYVhKZw?oc=5"
+    },
+    {
+      "source": "Eudaimonia and Co",
+      "headline": "Amazon (AMZN) Shares Slide Ahead of Q4 Earnings Release",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14S1NnTzNjNlNXVHhlVWhyaUJiaEstSUttZXFyYVhBT3VHaGF4MGxYRndnVzJDRkx6VmhaS1pGQmg1RWt3R05DZ0xsc1BSSzZHcXM1M3pQUkRsOXFuR1BjMXRmaVRGWTFrWjA1dkZJV2NvcDJ2akE?oc=5\" target=\"_blank\">Amazon (AMZN) Shares Slide Ahead of Q4 Earnings Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eudaimonia and Co</font>",
+      "date": "2026-02-05T06:03:16",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14S1NnTzNjNlNXVHhlVWhyaUJiaEstSUttZXFyYVhBT3VHaGF4MGxYRndnVzJDRkx6VmhaS1pGQmg1RWt3R05DZ0xsc1BSSzZHcXM1M3pQUkRsOXFuR1BjMXRmaVRGWTFrWjA1dkZJV2NvcDJ2akE?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Cantor Fitzgerald Reduces PT on Amazon.com (AMZN) Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXRaWEdkLUg2VUlhODFtZFJGaEtPXzVBazdkMTNkR2RYcE01NHhYZ1RUSGJmQjhsSURVQXZhYkUwaWp0TkVxNEsweEVOZ1JIX0Q4bm9nZ1ZEUHBlZE9oX3hEa2doZVJJWVhwaVp0MkxGcDBySFJDTHRQYm8yUE5qbVJzRkRLRm9U?oc=5\" target=\"_blank\">Cantor Fitzgerald Reduces PT on Amazon.com (AMZN) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-14T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXRaWEdkLUg2VUlhODFtZFJGaEtPXzVBazdkMTNkR2RYcE01NHhYZ1RUSGJmQjhsSURVQXZhYkUwaWp0TkVxNEsweEVOZ1JIX0Q4bm9nZ1ZEUHBlZE9oX3hEa2doZVJJWVhwaVp0MkxGcDBySFJDTHRQYm8yUE5qbVJzRkRLRm9U?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "Amazon Inc. (AMZN) Stock Analysis After Earnings Report",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0xxaVV4OW5XdTV4T0EyRm1JWFQ3Y18xNUt4X2FuUjR6R04yTzdEejI0bDZ5dEdvZW5WSi13TmtEZ0RlcV9KSWNRVEtNbEN2YjRlUlRkaE8xbzQ0dmlwVUZLQWhYSnVNQnFGZjMwajNOY29IMFBTZko3Q1NEaXVnaDhuQmFLQ3h6WUthb3c4RUhHLXJoVXZMTGh4VHhvalZLQW5WTmRialFLYnVSaUlkbzgxcDZqeDBLZnhNTlBXU2JJU1RlRVJlelBqZy0xOXhv?oc=5\" target=\"_blank\">Amazon Inc. (AMZN) Stock Analysis After Earnings Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-02-06T03:42:50",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0xxaVV4OW5XdTV4T0EyRm1JWFQ3Y18xNUt4X2FuUjR6R04yTzdEejI0bDZ5dEdvZW5WSi13TmtEZ0RlcV9KSWNRVEtNbEN2YjRlUlRkaE8xbzQ0dmlwVUZLQWhYSnVNQnFGZjMwajNOY29IMFBTZko3Q1NEaXVnaDhuQmFLQ3h6WUthb3c4RUhHLXJoVXZMTGh4VHhvalZLQW5WTmRialFLYnVSaUlkbzgxcDZqeDBLZnhNTlBXU2JJU1RlRVJlelBqZy0xOXhv?oc=5"
+    },
+    {
+      "source": "Benzinga",
+      "headline": "Amazon, AutoNation And 3 Stocks To Watch Heading Into Friday - Amazon.com (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkpYWEY3Y3p0UFBuazE3blJ1bDVYaFJDMHhUVnlGMWR5T1FGWS1LYjFsVXRIcy1QT1hvTXVtWFRsRXFOQjVWVzJ6QTYtbkJYY2xDNG9BaXZQRXl2RFZuMFBHb0dlRTJqWldiUjZmc251OUpXNTVMc2RsR3RBRXhiRlpmZm5RdWx2czNxTE1FdjJ2SlA5QzBsVGpHNUU2aGs0NC1meFpwSGx3UVRpLXNsRWIyS1RoUnM?oc=5\" target=\"_blank\">Amazon, AutoNation And 3 Stocks To Watch Heading Into Friday - Amazon.com (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "date": "2026-02-06T06:41:52",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkpYWEY3Y3p0UFBuazE3blJ1bDVYaFJDMHhUVnlGMWR5T1FGWS1LYjFsVXRIcy1QT1hvTXVtWFRsRXFOQjVWVzJ6QTYtbkJYY2xDNG9BaXZQRXl2RFZuMFBHb0dlRTJqWldiUjZmc251OUpXNTVMc2RsR3RBRXhiRlpmZm5RdWx2czNxTE1FdjJ2SlA5QzBsVGpHNUU2aGs0NC1meFpwSGx3UVRpLXNsRWIyS1RoUnM?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Stock Market Futures Slip as Amazon (AMZN) Earnings Weigh on Tech Stocks",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVJTX3VBNm9MRERWdXA1OEx4TTROZDhfd2VMeFI4RXJoNTF1RHg2U2xtZDZ1NjNMelRlamE0aF9qdmM2N2dTeURDV3RSQVhCeGhsUkhsU0l5aEtxU2pmYjhZU3lodkd4SGVvdnBTTTVpV1czYlhVZWt0WVpaWUpJVUZsTWVXOUhqNEJPM2w1VFgxbEdwY1JENGJxd1RTN1JKdXc?oc=5\" target=\"_blank\">Stock Market Futures Slip as Amazon (AMZN) Earnings Weigh on Tech Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-06T01:30:08",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVJTX3VBNm9MRERWdXA1OEx4TTROZDhfd2VMeFI4RXJoNTF1RHg2U2xtZDZ1NjNMelRlamE0aF9qdmM2N2dTeURDV3RSQVhCeGhsUkhsU0l5aEtxU2pmYjhZU3lodkd4SGVvdnBTTTVpV1czYlhVZWt0WVpaWUpJVUZsTWVXOUhqNEJPM2w1VFgxbEdwY1JENGJxd1RTN1JKdXc?oc=5"
+    },
+    {
+      "source": "Meyka",
+      "headline": "AMZN Stock Today: Shares Slide on $200B AI Capex Plan \u2013 February 6",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzV5RDVmOEpRRm9FVldfYXhReFN5NGRmdFNqZ0NtM3o2dWk0Y3U0ZmI5NlZHM0JiTDI5MlhSUTByNzdkMlZneFd4eHpteEFfT1p5N0U2WGdRNVRobFRCeEJfRXVzY2JEdUtBekEtVWtIRElsdEt5aTZzMmp1c19pMTVLNk5WTlVvQmlfeGlkTEU2a2JaSVE?oc=5\" target=\"_blank\">AMZN Stock Today: Shares Slide on $200B AI Capex Plan \u2013 February 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+      "date": "2026-02-06T18:54:14",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzV5RDVmOEpRRm9FVldfYXhReFN5NGRmdFNqZ0NtM3o2dWk0Y3U0ZmI5NlZHM0JiTDI5MlhSUTByNzdkMlZneFd4eHpteEFfT1p5N0U2WGdRNVRobFRCeEJfRXVzY2JEdUtBekEtVWtIRElsdEt5aTZzMmp1c19pMTVLNk5WTlVvQmlfeGlkTEU2a2JaSVE?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "3 Reasons to Buy Amazon Stock Right Now",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVpmUUFzRERyTUpxUGR2UHk4cW9hcDRJLUg5NUJxRTFvX1NIdFhONmo5aG9jYTUySHlFMkE3R0tEVy12U3R3VmxzWVA5X1o3dkVXUnl3QzM4MklYT202QmFrX29RbHNaZHJZTGYxU0ZUbS05SWV1WkdhR1pLOEtuYTVfWnQtUzFETFE?oc=5\" target=\"_blank\">3 Reasons to Buy Amazon Stock Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-01-27T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVpmUUFzRERyTUpxUGR2UHk4cW9hcDRJLUg5NUJxRTFvX1NIdFhONmo5aG9jYTUySHlFMkE3R0tEVy12U3R3VmxzWVA5X1o3dkVXUnl3QzM4MklYT202QmFrX29RbHNaZHJZTGYxU0ZUbS05SWV1WkdhR1pLOEtuYTVfWnQtUzFETFE?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Amazon.com (AMZN) Set to Report Earnings as UBS Raises Price Target on AWS Outlook",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE55YVVVUmdHQ1J3cU5reUxvYllvanRhMkRaVC02QlFTVHdHZ2d5TmxGTmM1UmhrbXBBbENVcEZrendSQnNJaWsyRVIyWTJpWm15MDlVbUkxUzRLWXJHWmhhQkpKdnIzbS1PYlZqM005WF9Wc1d6SzJOc2FkNUM?oc=5\" target=\"_blank\">Amazon.com (AMZN) Set to Report Earnings as UBS Raises Price Target on AWS Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-05T06:58:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55YVVVUmdHQ1J3cU5reUxvYllvanRhMkRaVC02QlFTVHdHZ2d5TmxGTmM1UmhrbXBBbENVcEZrendSQnNJaWsyRVIyWTJpWm15MDlVbUkxUzRLWXJHWmhhQkpKdnIzbS1PYlZqM005WF9Wc1d6SzJOc2FkNUM?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Amazon stock price tumbles as $200 billion 2026 capex plan hits AI trade (AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbnlsZHdLZUVPUFF2eWpBak5ES1Y1eGlyemtERGhsbXdmU2NzblZ2RFc3T1ZfdHYzS0lsRXVLUGE4NWc1aTlib1RXa0otT2EtclFzRkRjNklSWXlveE11UUt5WmV1bjIyUHVkR29fOE83anRHdXBTTDJxMkhabDVnZ0xvX0FoV0hwZXU2MThJdmpzRzVtdHF4dFRtYVJsUQ?oc=5\" target=\"_blank\">Amazon stock price tumbles as $200 billion 2026 capex plan hits AI trade (AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-06T14:50:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnlsZHdLZUVPUFF2eWpBak5ES1Y1eGlyemtERGhsbXdmU2NzblZ2RFc3T1ZfdHYzS0lsRXVLUGE4NWc1aTlib1RXa0otT2EtclFzRkRjNklSWXlveE11UUt5WmV1bjIyUHVkR29fOE83anRHdXBTTDJxMkhabDVnZ0xvX0FoV0hwZXU2MThJdmpzRzVtdHF4dFRtYVJsUQ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Amazon: Why Falling Margins Are The Signal (NASDAQ:AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnMwUG1iQUI4dE50QW5xQWJ0clVPZXB6V3BzRkhoYi1jeERLUXlsWlA2OHZfQXBVakpyX2htWXdoQ2E4MTFpcEF0YUxSZG12b2FwTndMTy1mRmNpUHJPd0RKMlJzdFhXRHJnS29mZFRJelA4YWRVLUdJRlhYTTBUTi10aHhsYU1kY2c?oc=5\" target=\"_blank\">Amazon: Why Falling Margins Are The Signal (NASDAQ:AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-03T17:25:07",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnMwUG1iQUI4dE50QW5xQWJ0clVPZXB6V3BzRkhoYi1jeERLUXlsWlA2OHZfQXBVakpyX2htWXdoQ2E4MTFpcEF0YUxSZG12b2FwTndMTy1mRmNpUHJPd0RKMlJzdFhXRHJnS29mZFRJelA4YWRVLUdJRlhYTTBUTi10aHhsYU1kY2c?oc=5"
+    },
+    {
+      "source": "EBC Financial Group",
+      "headline": "Amazon Earnings Today: What Results Could Move AMZN Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGVMcWZxaTU5WmViZmphTkg2RzBIZDlUTHBqUGozMV9DRmlpVHFJbFNJMXF0SHM1cDlQZEFUYmozMG1ycGlCQlNpaVdmTG9yUHM5Tm9LcDRaQXRZRkEzN2hNdW5iaVZyRjlWSV81cF9RS3UyR3p2MmNqSTJGSU5fbEpaMG5lVFRvS3c?oc=5\" target=\"_blank\">Amazon Earnings Today: What Results Could Move AMZN Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EBC Financial Group</font>",
+      "date": "2026-02-05T09:58:00",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGVMcWZxaTU5WmViZmphTkg2RzBIZDlUTHBqUGozMV9DRmlpVHFJbFNJMXF0SHM1cDlQZEFUYmozMG1ycGlCQlNpaVdmTG9yUHM5Tm9LcDRaQXRZRkEzN2hNdW5iaVZyRjlWSV81cF9RS3UyR3p2MmNqSTJGSU5fbEpaMG5lVFRvS3c?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "3 Reasons to Buy Amazon Stock Like There's No Tomorrow",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWl5NGdLTnU2cWw4aGFZWXJPVmJSUzVfbEkyWXZHbjZVc2FMUlA3NV9xeHlmTktEaDNVZE52bWU0VDFENDh4a3ZPTlNtdU9mQ3hHZ1lVaWg4dXNuMEkydF9SYi1TT20zMUdFS3JqaUZ4Z3lmQmJ2cmpUSEgyR21qT200SE1oVkVTQmNiVXJsNjdsZ3ZaVXIwUw?oc=5\" target=\"_blank\">3 Reasons to Buy Amazon Stock Like There's No Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-01-19T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWl5NGdLTnU2cWw4aGFZWXJPVmJSUzVfbEkyWXZHbjZVc2FMUlA3NV9xeHlmTktEaDNVZE52bWU0VDFENDh4a3ZPTlNtdU9mQ3hHZ1lVaWg4dXNuMEkydF9SYi1TT20zMUdFS3JqaUZ4Z3lmQmJ2cmpUSEgyR21qT200SE1oVkVTQmNiVXJsNjdsZ3ZaVXIwUw?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Amazon (NASDAQ: AMZN) Stock Price Prediction for 2030: Bull, Bear, & Baseline Forecasts (Jan 30)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQamdwN2lvckpHV01yYUNoTE5jMlF6dllpZDVkVzFYN3kxZURXcWlDZ3N2TXM2Tmh2UlRqRThwNGxycGNpOFJ0elI4MWVPa25idXN5cWQzc0Ffb0RfbGZKdFRlTTk1bkdKZ0pfOTc4QWJXWVMwQjJUVU16dzJDQjJQWHpINFZxMERJcWdTLVNWbFlSekF3dnBKcUY4MFM4T3pDQmxXSzFTWEhqYVdkUHA1Tg?oc=5\" target=\"_blank\">Amazon (NASDAQ: AMZN) Stock Price Prediction for 2030: Bull, Bear, & Baseline Forecasts (Jan 30)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-01-30T12:50:58",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamdwN2lvckpHV01yYUNoTE5jMlF6dllpZDVkVzFYN3kxZURXcWlDZ3N2TXM2Tmh2UlRqRThwNGxycGNpOFJ0elI4MWVPa25idXN5cWQzc0Ffb0RfbGZKdFRlTTk1bkdKZ0pfOTc4QWJXWVMwQjJUVU16dzJDQjJQWHpINFZxMERJcWdTLVNWbFlSekF3dnBKcUY4MFM4T3pDQmxXSzFTWEhqYVdkUHA1Tg?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Here\u2019s What Analysts Think About Amazon.com (AMZN)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQXpLcWFMRERORENxY0lUZ1F0TmRBMVd1VWNWR2IwSS15RS1jazJEVGF4bW1EU2VuYVlFQVZLZlZ6WWVWOG5PZFl4MEtQMXUwVVViMlZMYnM5QUFPSW01MXVVUEVsUm1nTFhqZ3RnYmVZTVdHd2FpNE5fLS0tN0xFNHRR?oc=5\" target=\"_blank\">Here\u2019s What Analysts Think About Amazon.com (AMZN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-01-18T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQXpLcWFMRERORENxY0lUZ1F0TmRBMVd1VWNWR2IwSS15RS1jazJEVGF4bW1EU2VuYVlFQVZLZlZ6WWVWOG5PZFl4MEtQMXUwVVViMlZMYnM5QUFPSW01MXVVUEVsUm1nTFhqZ3RnYmVZTVdHd2FpNE5fLS0tN0xFNHRR?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Amazon (NASDAQ: AMZN) Stock Price Prediction for 2026: Where Will It Be in 1 Year",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObk9xamdNSWZFSmRLcUluSFZDdTFLazNxejdwb3dHVlNMVHNkdU9tTjNFOUlOWHRmdFAxa0JZRFd6TXpkeXZMLUQyUFJTTkkwWlJ2TEpWS0JEbEtTekE1RFFPQ0ZGck9tYnlvTXRUM3k0X1NVTHkzdzZmVWY1b1hPaXp6dERGU1o1eW94NHgwOG16cHBzOTRTT2EzRnNpeWI2M0E?oc=5\" target=\"_blank\">Amazon (NASDAQ: AMZN) Stock Price Prediction for 2026: Where Will It Be in 1 Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-01-26T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObk9xamdNSWZFSmRLcUluSFZDdTFLazNxejdwb3dHVlNMVHNkdU9tTjNFOUlOWHRmdFAxa0JZRFd6TXpkeXZMLUQyUFJTTkkwWlJ2TEpWS0JEbEtTekE1RFFPQ0ZGck9tYnlvTXRUM3k0X1NVTHkzdzZmVWY1b1hPaXp6dERGU1o1eW94NHgwOG16cHBzOTRTT2EzRnNpeWI2M0E?oc=5"
+    },
+    {
+      "source": "CryptoRank",
+      "headline": "Amazon earnings preview: the number AWS must beat for AMZN stock to rally",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0JSYjEwNjdnQkIzNzNYZW84Y2R6Z3NSN01NX2JsanNzZWVYNzB4Q1RjWnBlOHpnMDhMc2h5OHdFb2ExbXZpZkVMTVFkUF9OVVpxWEExMVp3cEhrSnhicWhkSG42QTctdGl0YUc2RHNBM2poZTRMRUxUelVrWGdZVEpqOTNaOTlVLUdBUzhIREtzRTVnRjQ1dkpkcXF1dnVmV2w2eklYVUtGOF9hSEhB?oc=5\" target=\"_blank\">Amazon earnings preview: the number AWS must beat for AMZN stock to rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoRank</font>",
+      "date": "2026-02-04T17:23:21",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0JSYjEwNjdnQkIzNzNYZW84Y2R6Z3NSN01NX2JsanNzZWVYNzB4Q1RjWnBlOHpnMDhMc2h5OHdFb2ExbXZpZkVMTVFkUF9OVVpxWEExMVp3cEhrSnhicWhkSG42QTctdGl0YUc2RHNBM2poZTRMRUxUelVrWGdZVEpqOTNaOTlVLUdBUzhIREtzRTVnRjQ1dkpkcXF1dnVmV2w2eklYVUtGOF9hSEhB?oc=5"
+    },
+    {
+      "source": "Meyka",
+      "headline": "AMZN Amazon.com, Inc. (NASDAQ) 05 Feb 2026 earnings close: AWS margin outlook key",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDE1MHRpdEdhNTFuSnV3Z010aVROTmRCLTZqMjJBNUQ0eS1Ba0dFUU1DTEFrVUNXN0E0TmptU0tobEZfdjl4T1B5eFNOdEJSQVJIX1UzYmJMWlBWcl9raktEblJDNjJDdFZCbmF5ZnE1UmxpTXZMMUF6Y2xDek1xSXlVQjNRYWY2cERtNVYwYkNINDVkbWVNSjZSR2JZZDhwNmpIU0ZiTQ?oc=5\" target=\"_blank\">AMZN Amazon.com, Inc. (NASDAQ) 05 Feb 2026 earnings close: AWS margin outlook key</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+      "date": "2026-02-05T23:11:12",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDE1MHRpdEdhNTFuSnV3Z010aVROTmRCLTZqMjJBNUQ0eS1Ba0dFUU1DTEFrVUNXN0E0TmptU0tobEZfdjl4T1B5eFNOdEJSQVJIX1UzYmJMWlBWcl9raktEblJDNjJDdFZCbmF5ZnE1UmxpTXZMMUF6Y2xDek1xSXlVQjNRYWY2cERtNVYwYkNINDVkbWVNSjZSR2JZZDhwNmpIU0ZiTQ?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Should You Buy Amazon Stock Before Feb. 5?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0hzUjVrczRlNksydEFlUXluRjFpbU9NVVdzM01tVi1aWE9rTWpzMmtGbkhGZHNveGZMNmxlTGRSX2gzT2l4Y01kOEZQS1FjVzlsaUllQldSSnMwMjlVUGFqSjVSS3NKdnJIMTMxYWlWaGFHUFZTSWZuSlFOVld1b0JydHJUYW02d2dv?oc=5\" target=\"_blank\">Should You Buy Amazon Stock Before Feb. 5?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-01-29T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0hzUjVrczRlNksydEFlUXluRjFpbU9NVVdzM01tVi1aWE9rTWpzMmtGbkhGZHNveGZMNmxlTGRSX2gzT2l4Y01kOEZQS1FjVzlsaUllQldSSnMwMjlVUGFqSjVSS3NKdnJIMTMxYWlWaGFHUFZTSWZuSlFOVld1b0JydHJUYW02d2dv?oc=5"
+    }
+  ]
+}

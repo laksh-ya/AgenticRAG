@@ -1,0 +1,35 @@
+{
+  "company": "Apple Inc.",
+  "ticker": "AAPL",
+  "data_source": "yfinance",
+  "as_of": "2026-03-26",
+  "fundamentals": {
+    "valuation": {
+      "market_cap": 3714974220288,
+      "pe_ratio": 31.953857,
+      "forward_pe": 27.134136,
+      "peg_ratio": null,
+      "price_to_book": 42.13988,
+      "valuation_signal": "fair"
+    },
+    "profitability": {
+      "eps": 7.91,
+      "operating_margin": 0.35374,
+      "net_margin": 0.27037,
+      "roe": 1.5202099,
+      "profitability_signal": "strong"
+    },
+    "financial_health": {
+      "free_cash_flow": 106312753152,
+      "debt_to_equity": 102.63,
+      "cash_on_hand": 66907000832,
+      "current_ratio": 0.974,
+      "health_signal": "moderate"
+    },
+    "growth": {
+      "revenue_growth_yoy": 0.157,
+      "eps_growth_yoy": 0.183,
+      "growth_signal": "strong"
+    }
+  }
+}

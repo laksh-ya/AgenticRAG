@@ -1,0 +1,19 @@
+{
+  "ticker": "GOOGL",
+  "data_source": "reddit",
+  "post_count": 2,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "valueinvesting",
+      "text": "Buy the Dip on Google or wait",
+      "date": "2026-03-06"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Google is selling 100 year debt",
+      "date": "2026-02-09"
+    }
+  ]
+}

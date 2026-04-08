@@ -1,0 +1,35 @@
+{
+  "company": "Alphabet Inc.",
+  "ticker": "GOOGL",
+  "data_source": "yfinance",
+  "as_of": "2026-03-26",
+  "fundamentals": {
+    "valuation": {
+      "market_cap": 3463250444288,
+      "pe_ratio": 26.459335,
+      "forward_pe": 21.330591,
+      "peg_ratio": null,
+      "price_to_book": 8.33377,
+      "valuation_signal": "fair"
+    },
+    "profitability": {
+      "eps": 10.82,
+      "operating_margin": 0.31568,
+      "net_margin": 0.32810003,
+      "roe": 0.35705003,
+      "profitability_signal": "strong"
+    },
+    "financial_health": {
+      "free_cash_flow": 38088376320,
+      "debt_to_equity": 16.133,
+      "cash_on_hand": 126843002880,
+      "current_ratio": 2.005,
+      "health_signal": "very strong"
+    },
+    "growth": {
+      "revenue_growth_yoy": 0.18,
+      "eps_growth_yoy": 0.311,
+      "growth_signal": "strong"
+    }
+  }
+}

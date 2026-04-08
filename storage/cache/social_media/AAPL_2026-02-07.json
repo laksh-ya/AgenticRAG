@@ -1,0 +1,25 @@
+{
+  "ticker": "AAPL",
+  "data_source": "reddit",
+  "post_count": 3,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "AAPL Quarterly Revenue $143.8 billion (up 15.7% YoY)",
+      "date": "2026-01-29"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "valueinvesting",
+      "text": "AAPL valuation check: 33.6 P/E makes me flinch, but I keep circling back",
+      "date": "2026-01-20"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "Could Apple's stock price really drop to $200? I'm waiting to average down\uff0c am I being too patient?",
+      "date": "2026-01-06"
+    }
+  ]
+}

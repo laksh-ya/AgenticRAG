@@ -1,0 +1,31 @@
+{
+  "ticker": "GOOGL",
+  "data_source": "reddit",
+  "post_count": 4,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "GOOGLE $GOOGL REPORTED EARNINGS",
+      "date": "2026-02-04"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "GOOGL Quarterly Revenue $113.8 billion (up 18% YoY)",
+      "date": "2026-02-04"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "valueinvesting",
+      "text": "GOOGL's hidden stock risks",
+      "date": "2026-01-26"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Google is selling 100 year debt",
+      "date": "2026-02-09"
+    }
+  ]
+}

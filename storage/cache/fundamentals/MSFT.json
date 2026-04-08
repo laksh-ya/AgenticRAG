@@ -1,0 +1,35 @@
+{
+  "company": "Microsoft Corporation",
+  "ticker": "MSFT",
+  "data_source": "yfinance",
+  "as_of": "2026-02-07",
+  "fundamentals": {
+    "valuation": {
+      "market_cap": 2981424267264,
+      "pe_ratio": 25.10263,
+      "forward_pe": 21.256594,
+      "peg_ratio": null,
+      "price_to_book": 7.6240616,
+      "valuation_signal": "fair"
+    },
+    "profitability": {
+      "eps": 15.98,
+      "operating_margin": 0.47094002,
+      "net_margin": 0.39044,
+      "roe": 0.34390998,
+      "profitability_signal": "strong"
+    },
+    "financial_health": {
+      "free_cash_flow": 53640626176,
+      "debt_to_equity": 31.539,
+      "cash_on_hand": 89461997568,
+      "current_ratio": 1.386,
+      "health_signal": "very strong"
+    },
+    "growth": {
+      "revenue_growth_yoy": 0.167,
+      "eps_growth_yoy": 0.598,
+      "growth_signal": "strong"
+    }
+  }
+}

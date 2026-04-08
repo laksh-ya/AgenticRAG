@@ -1,0 +1,13 @@
+{
+  "ticker": "GOOGL",
+  "data_source": "reddit",
+  "post_count": 1,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Google is selling 100 year debt",
+      "date": "2026-02-09"
+    }
+  ]
+}

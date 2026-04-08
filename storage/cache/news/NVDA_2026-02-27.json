@@ -1,0 +1,652 @@
+{
+  "ticker": "NVDA",
+  "data_source": "google_rss",
+  "time_window": "last_30_days",
+  "article_count": 92,
+  "articles": [
+    {
+      "source": "CNBC",
+      "headline": "Nvidia's blowout earnings report disappoints Wall Street as stock sinks 5%",
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1VX19yRFBMblVGcUJRaC1fbGpJbzBmaVhBLTBYUGxMbWNYc3ZIU00wMVBOZUh1Ql8wVWdPM1E0VDlSZmxnTVRpNnZ0dVpXOVpOclZpY3JXX2RXc1RUaG1IMzIzSlNtN0xUWVJQMDBtRGJiQTZoVjhJUXROc1rSAYIBQVVfeXFMUGhDMDQ0UUpkcXVvMzJIZ1VuY3ZfVG9ZanZOdUtDaVhkTy13d0YwZ3p2ZGNMMmFCNkNTS29vRFdCRGxTV2JLbUFRRl9aVU9YMTVDNHFwOUNmek5OcE92a0x3Nm5PQ2FTcFZuWmZHY2VNMm1hNzNKUkQ0NGNVZjhJZWN1UQ?oc=5\" target=\"_blank\">Nvidia's blowout earnings report disappoints Wall Street as stock sinks 5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWGMxcFdWNDRTaTRzOXo4QlhMRHFtRFdMS0QySUVhRzRvU1FGWGJyYk16UjF0UmZ5TktXVkE1ZWpteF9adHk2OE54ZERmdFVBMFY1Znl4MTYzSWtvUDFxdUNRQmtRNWZQV2lvLWl5QXZIdjdvbVdLY0RzRHhsSjk0VkVNSDRQUlo4N1cxdDlpa0pZY1Y3UkJPc0tmT093cmVvREFYcFpzZ3FyM0dqdllvNjBDMDNiclgxOF9SNk1Pb2tXY25EZVZpSXhwNEJlZ2piQllCUWpBcw?oc=5\" target=\"_blank\">Nvidia earnings live: Nvidia stock pops as earnings beat, guidance stifles some AI concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzgybEljcVRLTUR4OGs0Z0FZVVR5RXF2UEJmN2tqR2lSRU8yN09XeWw1Tmpha0JhZXVRbmZkNGU0dW1SUWsxcmlTeUNNcTV0NHZwTHo5VGhVbGVOVHA0MTVzZmoxRWdYbjNGVEtGQzUtaHYtZU9uUlhRVUd1RWRjajdHb291c0JmemwyaGpScXdtM1NVVXpEcHlNLTYyNTFUSm82VXRoamYwcnl4OW5UdklDZXE?oc=5\" target=\"_blank\">Nvidia\u2019s Upbeat Sales Forecast Gets Lackluster Investor Response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTNvLTJNZDV1ek5DZE5jMEl2S0JabG9CSjRTYzRNek1GRTFSWVEwU1YzczdXVDhXMkdPY1ZzbmJBblZJZjhodTBPS04yckRkVy1qYkVQaDNacklXV2RRMjFRWDRDZTJ4ZUZHWmUwNjBNRXk4UVgweVlaa0Z6bW5TMDZYN2tYVmw5U1Rzb1JtU04?oc=5\" target=\"_blank\">Nvidia: What The Market Still Doesn't Understand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQdC1lYld0LUh6U3N4c0xrX0F5Y0FJQWhLQmdtSWItN003enZyS3ZleUZNM3pjbllublJmRjRWOU9oVjVMZUNlOE8xTmJTZzk3Yk5QdFFNSUlMRGdsNU93cld3My1PclV3blluVEVEdFB5NTZtRHNORlEtSFN1RU9LclJ0cWtUSnc2c2RhMGZxVEczWU04dmtyV3pzVVNWQmJ5ck11N3BVejdiTTlMMnZ5cXlVbWJoeHo3TC1ISmhwek8xc2EyNWdOWTBNUHV3NFk?oc=5\" target=\"_blank\">Despite Blockbuster Results, Nvidia Faces Downbeat Market Reaction Amid Weak Sentiment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEFDdUtWY04tUE9SbmhSUE1BRFBsb0g5bjY5VXNpcjQyNU91UXpZR0puUkwtaDVHNFpmcXpCN0ZlZi10NmVIRmNqNmxFVHR6WGRRclVGcUxnazVfTmJLOEJfR3lxNTdjS0l4OUUydTc5SVlHOWVpUVlmVVljRmxGazYwYlNBbzl0RWVjbQ?oc=5\" target=\"_blank\">Nvidia Beats Wall Street Targets. Stock Edges Higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNy1PUmRkbUxPaGZpak9wWjRtMUgyUjhMcmFqcDV5eWZSVE5HaXlVZ1UtOTVSOWttakRaZVhlMlYyZktxaUZfUzhHaGVDTU1LcUtxMTF6ZldIQVdDNXJkdVZiaWsxZVZfU3UzUWNwRnNBdEs1UEFNSHpUY2wtaFloS3p0MU82U203czNESnZXdWViQkNuY251dA?oc=5\" target=\"_blank\">Why Nvidia Stock is Dragging the Stock Market Lower Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSzBfYzF1d3JSS2VBLXBKVWgzS0tyQ1ZlZnNGQW1vdTdlM0x4UXhud3JYMHdOS0FNdzNXdnV1VHNpa2NsSnEwd2tTa0RfLThCSnRjSVV6anJKUEFHaDFuQ0hMeFV2NkhxekZ1Z3JwdXhkN1dWVEtPaHpmY05ZLXoxVzBFQnEtRVlBWEsyZkphVHlIeFpKZzhMcm85WHpmYWM0YkV5R1E2WnBxQjJLTTI3NUdRb296eXVDNjQyWUtRYk50N1NXOHVKMEZOLXJudmF1LUE?oc=5\" target=\"_blank\">Nvidia earnings smashed expectations as the world\u2019s largest company CEO says AI is only getting better</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWE0TlZiOXI3N0prZUdDQ0VvMzk5cE9ja0hXeUZ6ZlNwd2laWnE3aWZCX2lHZTg4bktiSDNEOVYwTC02TEp6eGR0WF8ybXZzb0JfZjhlUUJTWFFtbndjeTFPanl2TmlhNVlxaksyeGJwWDMwbHFrbUNRbEs4MW4zdl9zejByQVJTM3BGdVdFX2NuLV83R1JlaVpIelNta0NhZmlicThPSElPbmFtejFjMDBRMlJtOTh2TFBsNi1MMlAzck0?oc=5\" target=\"_blank\">Here\u2019s the $200 Billion Reason Wall Street Is Nervous for NVIDIA\u2019s Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font></li></ol>",
+      "date": "2026-02-26T09:22:13",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VX19yRFBMblVGcUJRaC1fbGpJbzBmaVhBLTBYUGxMbWNYc3ZIU00wMVBOZUh1Ql8wVWdPM1E0VDlSZmxnTVRpNnZ0dVpXOVpOclZpY3JXX2RXc1RUaG1IMzIzSlNtN0xUWVJQMDBtRGJiQTZoVjhJUXROc1rSAYIBQVVfeXFMUGhDMDQ0UUpkcXVvMzJIZ1VuY3ZfVG9ZanZOdUtDaVhkTy13d0YwZ3p2ZGNMMmFCNkNTS29vRFdCRGxTV2JLbUFRRl9aVU9YMTVDNHFwOUNmek5OcE92a0x3Nm5PQ2FTcFZuWmZHY2VNMm1hNzNKUkQ0NGNVZjhJZWN1UQ?oc=5"
+    },
+    {
+      "source": "Investor's Business Daily",
+      "headline": "The Market Awaits Nvidia But This Data Center Builder Is Already Soaring On Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2I1Q0JUSjdCOFBwY2JwYXlyZHNLSXJ1ZjVWRW02cXVhOV9taTlXd3NnVHgySjBqNUJhbkYtSmt4Q2hJeTRKaURpY0hRRWU4LW11Zy1jZXlwZzNuVDdFNmk1QjN2NlpoWjU4YTRHb1E4UlE0Ulg0N05YMDZVb0huUDBGZG5kQ2JsVVVya2lONzlxcnZxdkI0cS1R?oc=5\" target=\"_blank\">The Market Awaits Nvidia But This Data Center Builder Is Already Soaring On Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+      "date": "2026-02-25T21:02:00",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2I1Q0JUSjdCOFBwY2JwYXlyZHNLSXJ1ZjVWRW02cXVhOV9taTlXd3NnVHgySjBqNUJhbkYtSmt4Q2hJeTRKaURpY0hRRWU4LW11Zy1jZXlwZzNuVDdFNmk1QjN2NlpoWjU4YTRHb1E4UlE0Ulg0N05YMDZVb0huUDBGZG5kQ2JsVVVya2lONzlxcnZxdkI0cS1R?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Bank of America resets Nvidia price target after earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEJqenc5R29vMXgxQ2hteEFkMGN3NGpwYmVhM0VMSzNENWJlSDNaUnU1N0FWZzU4a0FkWlBELVg5cV9SSC1hV1RzTFZZSjYtYmUtTVJveU9kdS11eEl0NXgyMXJ1bWc1SjZ6ckFNQ0Y1WnIwbU9WbDFhcktjSjNOamM2YkE?oc=5\" target=\"_blank\">Bank of America resets Nvidia price target after earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-27T02:03:00",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEJqenc5R29vMXgxQ2hteEFkMGN3NGpwYmVhM0VMSzNENWJlSDNaUnU1N0FWZzU4a0FkWlBELVg5cV9SSC1hV1RzTFZZSjYtYmUtTVJveU9kdS11eEl0NXgyMXJ1bWc1SjZ6ckFNQ0Y1WnIwbU9WbDFhcktjSjNOamM2YkE?oc=5"
+    },
+    {
+      "source": "NVIDIA Newsroom",
+      "headline": "NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlZ3eURLTmdvaFlhVjRTR3d3TE5qSzBTSlhEN0tnRjJNQm9YSF9jOXpfaldkTzZ0OEpxV2JfY3NMZzE2ZWowcVFERk9RMzJucWJqbS01YmJlb0Q5Z0V6TXhKdXFUZHB1aFRvQ2pjdERKTUI5bXFYbGI3YkNiRDFkUHNjQnhjeXRuazVVUEVsUW9tOXUwTHVaNWtTVjcxdExYRGJQU093?oc=5\" target=\"_blank\">NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NVIDIA Newsroom</font>",
+      "date": "2026-02-25T23:52:12",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlZ3eURLTmdvaFlhVjRTR3d3TE5qSzBTSlhEN0tnRjJNQm9YSF9jOXpfaldkTzZ0OEpxV2JfY3NMZzE2ZWowcVFERk9RMzJucWJqbS01YmJlb0Q5Z0V6TXhKdXFUZHB1aFRvQ2pjdERKTUI5bXFYbGI3YkNiRDFkUHNjQnhjeXRuazVVUEVsUW9tOXUwTHVaNWtTVjcxdExYRGJQU093?oc=5"
+    },
+    {
+      "source": "Barron's",
+      "headline": "Nvidia Stock: Why Shares Are Down Today After Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgNBVV95cUxQM0FyUVczRXVNdkI1ZVZBalVISXNQUTFXZThJdlJFMnlITkhRbG1qQmxnYzcxRjd4Y1l5MEpBRTV3Z01XaC1YMVlGS29FRFFKc3lMOHlNOXFnM2kxeFhhV3VsM0Jhb3QtaGtMMXFVR005TVRXOXlkWmxOSXNDcFRXVjRCaGdxb3hrRmxBNUhRVlNza2dOUmd1WEt1eWZNNmlBRmhBcG9WMTlKSWw0RnFINzF4SHFsb2N5aFh0VzRnd3dHSm5Xek1taDhpTTRnMHBaNjNleGtBdlRmRE1NZTlRR2ZlcWF0dzR6dnN3TFVtLWRMSGlSdllXY01odzZNakhUQlZmRVBFUFhlRmxHNVI3aE4teko2czEzRUJ4TnRxZzNnOFNJd2pCMWRLVXU0SWFkeVBOMHZjSEM1QUhkV2JPb29TVXlOMWRlSFBTNjRzS3R5MklMTXJGWVEzNC15RVFTMTNTdzFPN2VVOE81QklieDkxVlBCcmFQUFRZenpMcG1aRnVxTmc?oc=5\" target=\"_blank\">Nvidia Stock: Why Shares Are Down Today After Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+      "date": "2026-02-26T21:20:00",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQM0FyUVczRXVNdkI1ZVZBalVISXNQUTFXZThJdlJFMnlITkhRbG1qQmxnYzcxRjd4Y1l5MEpBRTV3Z01XaC1YMVlGS29FRFFKc3lMOHlNOXFnM2kxeFhhV3VsM0Jhb3QtaGtMMXFVR005TVRXOXlkWmxOSXNDcFRXVjRCaGdxb3hrRmxBNUhRVlNza2dOUmd1WEt1eWZNNmlBRmhBcG9WMTlKSWw0RnFINzF4SHFsb2N5aFh0VzRnd3dHSm5Xek1taDhpTTRnMHBaNjNleGtBdlRmRE1NZTlRR2ZlcWF0dzR6dnN3TFVtLWRMSGlSdllXY01odzZNakhUQlZmRVBFUFhlRmxHNVI3aE4teko2czEzRUJ4TnRxZzNnOFNJd2pCMWRLVXU0SWFkeVBOMHZjSEM1QUhkV2JPb29TVXlOMWRlSFBTNjRzS3R5MklMTXJGWVEzNC15RVFTMTNTdzFPN2VVOE81QklieDkxVlBCcmFQUFRZenpMcG1aRnVxTmc?oc=5"
+    },
+    {
+      "source": "MarketWatch",
+      "headline": "Why Nvidia\u2019s stock is falling despite a historic earnings beat",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirANBVV95cUxNTEZiekJiVkVFbFA5aTlzTkE3ZkVNUEJac2xMSVI3a1d3blNnYXVFbEIzOGdRX21fUW9JVnhYdk5yZGhHeGJhaGpyd0dSYnN1bXpsWU45N0NLclFRUVlySlVMVGhYbnZCUXpRUHFOalMyQkg0dTZzWVZsRVZSUFpMajBzNXJoa1p6RmF6WmJHMFRWQU9BUWFBU3BjMkk2UFZkaVlhZ0QyTWNpblJLLXNMZHYxcmdLbjdLMkluemEtU2M0d2NYazNlYzBleFFydVQ4YS1rV2xOdjgwNFlHcG52NmotQlVEb0h2QThVV1JRWXNQYTYtZUVOWDRTdEFUekdpekVCWFN6S0NCZnNOQjlHeFJFYjA0UWR2OHdYakxwQmp0RVNPSUxmNlJLYkpfeTBBemVEMmNhNFJ1VmV3am9IdjNKVUF5WW9MQ0dtaWlJLURKZnVWV1djWHlTZjZFOThEM0JJTGQ0dEo2bU9rYWlSSkprUkdRNzdqdkR1YkI5ZlpXTmM4WFM1LS1wdURCT1B0bm4zZE1FcGIyLWdhSExGN0Zid2lSbGxMVExocw?oc=5\" target=\"_blank\">Why Nvidia\u2019s stock is falling despite a historic earnings beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketWatch</font>",
+      "date": "2026-02-26T15:36:00",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNTEZiekJiVkVFbFA5aTlzTkE3ZkVNUEJac2xMSVI3a1d3blNnYXVFbEIzOGdRX21fUW9JVnhYdk5yZGhHeGJhaGpyd0dSYnN1bXpsWU45N0NLclFRUVlySlVMVGhYbnZCUXpRUHFOalMyQkg0dTZzWVZsRVZSUFpMajBzNXJoa1p6RmF6WmJHMFRWQU9BUWFBU3BjMkk2UFZkaVlhZ0QyTWNpblJLLXNMZHYxcmdLbjdLMkluemEtU2M0d2NYazNlYzBleFFydVQ4YS1rV2xOdjgwNFlHcG52NmotQlVEb0h2QThVV1JRWXNQYTYtZUVOWDRTdEFUekdpekVCWFN6S0NCZnNOQjlHeFJFYjA0UWR2OHdYakxwQmp0RVNPSUxmNlJLYkpfeTBBemVEMmNhNFJ1VmV3am9IdjNKVUF5WW9MQ0dtaWlJLURKZnVWV1djWHlTZjZFOThEM0JJTGQ0dEo2bU9rYWlSSkprUkdRNzdqdkR1YkI5ZlpXTmM4WFM1LS1wdURCT1B0bm4zZE1FcGIyLWdhSExGN0Zid2lSbGxMVExocw?oc=5"
+    },
+    {
+      "source": "Forbes",
+      "headline": "What\u2019s The Next Multi-Billion Dollar Catalyst For NVDA Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNOW83eW56QUo5Z0xqd3hMNmM4akJsUG1xSm8xODh5ZU56T25rUEhsSVFLS2c5bHZFZnJjeHZwRmU0S0hkU294NHQ5a3lCQ2tEaFhHWFIwcGtyUWdOMUgzT3g0NUs4Ti0yWV9PTHFQOG9fTnZ6aVhZNE9xc05UREpnZWNUVk9KYl9xNjVObDd6RVNST3N0cjk0QUlZclgtckF3MFVaamxBdk9oaDU2MG93M213MFUzZjZKcEE?oc=5\" target=\"_blank\">What\u2019s The Next Multi-Billion Dollar Catalyst For NVDA Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "date": "2026-02-26T13:58:48",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOW83eW56QUo5Z0xqd3hMNmM4akJsUG1xSm8xODh5ZU56T25rUEhsSVFLS2c5bHZFZnJjeHZwRmU0S0hkU294NHQ5a3lCQ2tEaFhHWFIwcGtyUWdOMUgzT3g0NUs4Ti0yWV9PTHFQOG9fTnZ6aVhZNE9xc05UREpnZWNUVk9KYl9xNjVObDd6RVNST3N0cjk0QUlZclgtckF3MFVaamxBdk9oaDU2MG93M213MFUzZjZKcEE?oc=5"
+    },
+    {
+      "source": "WSJ",
+      "headline": "Nvidia Beats Back Bubble Fears With Record $68 Billion in Sales in Fourth Quarter",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgNBVV95cUxQMktYRWVWYkh5UzNxcEUyQlpiZWVaaDd2US1EUExXSkRLSTRVUW5BS2pmZFJCMlhCMlVJbUd6WVdzckVvNWI3d1YwTndlY3RKbk1Zc2d1YnVpRGVMRUhNMjFEMnBpUElfUV83MjJmRkdzamZNMUJWZ3ZWZjdkTVFENE16SlY5SFNqd0h4alR1QkN6eGNtQUZ0bDJaWk9KLURJTG81QkFoLVVJQ0R3TU9nUWRmb1RFSDJoYW9Oa1RkVnNyNDhYQ0hHVnVaenFURkRRODBqbFphdmJzdzF5YzR4RkVWMXBHRThsZDZTT2NMNlM5SVFjdXlvOWppU3lsc3VDYkRYTHBxOVpXRWpxQ3B6TWg3RnBlUERnQkVXTWFuZHRXcGNnS09UWGJfYXZUaTNJUlZ1QXlXWkpwejVFNE1LV004amY3dmpTaUZwSkhlQmJXMFZ5NE5jUC1FbFFrMmZNb0lXZkZCM0ZTclVjdXppSmNtcnhuNGtxSWpBdjB2VGRIN0JaZGZsUnhlQzdMQQ?oc=5\" target=\"_blank\">Nvidia Beats Back Bubble Fears With Record $68 Billion in Sales in Fourth Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>",
+      "date": "2026-02-26T00:11:00",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQMktYRWVWYkh5UzNxcEUyQlpiZWVaaDd2US1EUExXSkRLSTRVUW5BS2pmZFJCMlhCMlVJbUd6WVdzckVvNWI3d1YwTndlY3RKbk1Zc2d1YnVpRGVMRUhNMjFEMnBpUElfUV83MjJmRkdzamZNMUJWZ3ZWZjdkTVFENE16SlY5SFNqd0h4alR1QkN6eGNtQUZ0bDJaWk9KLURJTG81QkFoLVVJQ0R3TU9nUWRmb1RFSDJoYW9Oa1RkVnNyNDhYQ0hHVnVaenFURkRRODBqbFphdmJzdzF5YzR4RkVWMXBHRThsZDZTT2NMNlM5SVFjdXlvOWppU3lsc3VDYkRYTHBxOVpXRWpxQ3B6TWg3RnBlUERnQkVXTWFuZHRXcGNnS09UWGJfYXZUaTNJUlZ1QXlXWkpwejVFNE1LV004amY3dmpTaUZwSkhlQmJXMFZ5NE5jUC1FbFFrMmZNb0lXZkZCM0ZTclVjdXppSmNtcnhuNGtxSWpBdjB2VGRIN0JaZGZsUnhlQzdMQQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "JPMorgan Chase & Co. Issues Positive Forecast for NVIDIA (NASDAQ:NVDA) Stock Price",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmNid2g4Y2JvWk1lLWl5MFdNYzRjZXdNYU9EdlpId2dyV2d5SlZOLVJ6bi1OeDBsNjZxemIydzVMTnBHd1M1RjVQV0J2M0VDXzZrQXZNWlJqNEtQWFpDMjlyXzhhNEI0b0xrNzZRRTN3M1kzWC1BVU82X3ZlTWhKTldoWmc3aWVTUXpnUG42eHBsWVc1a1liek5IQzF0SUNZV0NGdEh1RlB5Qy1OTzVRRUdTOVh3NWxDampURzJuNFNTNzBLSnRqWDBn?oc=5\" target=\"_blank\">JPMorgan Chase & Co. Issues Positive Forecast for NVIDIA (NASDAQ:NVDA) Stock Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-26T21:56:40",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmNid2g4Y2JvWk1lLWl5MFdNYzRjZXdNYU9EdlpId2dyV2d5SlZOLVJ6bi1OeDBsNjZxemIydzVMTnBHd1M1RjVQV0J2M0VDXzZrQXZNWlJqNEtQWFpDMjlyXzhhNEI0b0xrNzZRRTN3M1kzWC1BVU82X3ZlTWhKTldoWmc3aWVTUXpnUG42eHBsWVc1a1liek5IQzF0SUNZV0NGdEh1RlB5Qy1OTzVRRUdTOVh3NWxDampURzJuNFNTNzBLSnRqWDBn?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Nvidia Stock Slips: Time to Buy on the Dip?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjlfdVFDc0VMYWM1NWlxcmxoSnFrb2xTbkFJc3JRczJORHNpa0RhWUVLVG5saFJUWUN2dzE4SzlUZ0NKRUJ3c1VtYzlVZFNSckRsbHBlRnpuOGlXYjgwNXNpZ3lPdWZ2VWR3OUZfdzNzenVzd01uei12dDdnUzZPTDQxRS0wbndueWxBMg?oc=5\" target=\"_blank\">Nvidia Stock Slips: Time to Buy on the Dip?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-26T22:22:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjlfdVFDc0VMYWM1NWlxcmxoSnFrb2xTbkFJc3JRczJORHNpa0RhWUVLVG5saFJUWUN2dzE4SzlUZ0NKRUJ3c1VtYzlVZFNSckRsbHBlRnpuOGlXYjgwNXNpZ3lPdWZ2VWR3OUZfdzNzenVzd01uei12dDdnUzZPTDQxRS0wbndueWxBMg?oc=5"
+    },
+    {
+      "source": "Meyka",
+      "headline": "NVDA Stock Today: Shares Dip on China Risk After Record Results, February 27",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0ZoM3dxWjVoSk8tUk1LYTF1QWRHcWZQUjNZMkl6WVpTS2owTnVqMGpUSFV4UEd3YnVZV3hjc1BORElpX3hXbTFCVjdOU25VU1ExeVc4RldNQ2ktNVVtVVBmMUJSdG53aWJCdF9SeWREdnlxaEpMeVduTjNtaVUxM1NCMXA3YllYaVNXQnY3TVAyUGl4NHcxS1M0elJBRDRhZS1lUHdB?oc=5\" target=\"_blank\">NVDA Stock Today: Shares Dip on China Risk After Record Results, February 27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+      "date": "2026-02-27T04:47:39",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0ZoM3dxWjVoSk8tUk1LYTF1QWRHcWZQUjNZMkl6WVpTS2owTnVqMGpUSFV4UEd3YnVZV3hjc1BORElpX3hXbTFCVjdOU25VU1ExeVc4RldNQ2ktNVVtVVBmMUJSdG53aWJCdF9SeWREdnlxaEpMeVduTjNtaVUxM1NCMXA3YllYaVNXQnY3TVAyUGl4NHcxS1M0elJBRDRhZS1lUHdB?oc=5"
+    },
+    {
+      "source": "CNBC",
+      "headline": "Nvidia reports earnings and guidance beat as AI boom pushes data center revenue up 75%",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1iLXZVcjBUR3VzN20xRjc2YmdLQzZnbHRRc29WdmlrZFpTWlhya1NKaW8zaHdEUEltSWZxSHlpUDdHTkRKZ0VPUnZoUERidklMMG1NMEtsdWNyQjFQTDBIU3ZheFoxOG41RC04R09pV2g0SWppTTZ2Ml9JNlnSAYIBQVVfeXFMTllhSnNweWV6ay1JRkFBOW5heFFQTHlsdVFnNGU0OExpZFJraHlCYm5NOVBYd0szYkozUS1QQVhYSVRreW1ubGlrQVpDM1FtRmpTVHhXMEFLcmRVZXJfZ2RGLWg0cEJVeGQ3QmduUXdnVlpuNnJZamhTdzh3QjhnaS1qZw?oc=5\" target=\"_blank\">Nvidia reports earnings and guidance beat as AI boom pushes data center revenue up 75%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "date": "2026-02-25T17:00:01",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iLXZVcjBUR3VzN20xRjc2YmdLQzZnbHRRc29WdmlrZFpTWlhya1NKaW8zaHdEUEltSWZxSHlpUDdHTkRKZ0VPUnZoUERidklMMG1NMEtsdWNyQjFQTDBIU3ZheFoxOG41RC04R09pV2g0SWppTTZ2Ml9JNlnSAYIBQVVfeXFMTllhSnNweWV6ay1JRkFBOW5heFFQTHlsdVFnNGU0OExpZFJraHlCYm5NOVBYd0szYkozUS1QQVhYSVRreW1ubGlrQVpDM1FtRmpTVHhXMEFLcmRVZXJfZ2RGLWg0cEJVeGQ3QmduUXdnVlpuNnJZamhTdzh3QjhnaS1qZw?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Bank of America Forecasts Strong Price Appreciation for NVIDIA (NASDAQ:NVDA) Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ1poU0pmQ1FHV29BeFJyclR2NXNXZWFlWFdVM0U0R1BXUVdkamxjeEp2YWVaYWcxRHlmNnFRcVpLNlU2SVV6ZnBnaFBsenhoY2thaVdZSVFVSmtYSUhKYU11UzFrV0d3VERIOE0ybmcwZ1JDU21oaWc5V1B1QlQ3cDdQeXE0WC1YUkZudm81bWdpbTVUYVFlY0t1UUtURUw1V3Y1bWVGQmtrdnY1MzJjOXZlYkFJbjNIbU0zVU1VUVA0WElvaUhoMWl5Z0xkZw?oc=5\" target=\"_blank\">Bank of America Forecasts Strong Price Appreciation for NVIDIA (NASDAQ:NVDA) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-26T13:47:14",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ1poU0pmQ1FHV29BeFJyclR2NXNXZWFlWFdVM0U0R1BXUVdkamxjeEp2YWVaYWcxRHlmNnFRcVpLNlU2SVV6ZnBnaFBsenhoY2thaVdZSVFVSmtYSUhKYU11UzFrV0d3VERIOE0ybmcwZ1JDU21oaWc5V1B1QlQ3cDdQeXE0WC1YUkZudm81bWdpbTVUYVFlY0t1UUtURUw1V3Y1bWVGQmtrdnY1MzJjOXZlYkFJbjNIbU0zVU1VUVA0WElvaUhoMWl5Z0xkZw?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Nvidia stock stalls despite $6B revenue guide beat. Here's why.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3d1dHl1Rno5T3o5UGlRaUZ6Y1h4TXVJbGlzdFByX0RNN183R2MzVTh0M2c5WnhyQkc4a2J4VGhpU3NtQmdyWkRHME5RaF9FajUxbXhZVXJWdUN6UjVXVDlQTUMyXzlMQjRGb2V5SXNTVHdDMncyMzZnZ1Q3bkl6VFVJUQ?oc=5\" target=\"_blank\">Nvidia stock stalls despite $6B revenue guide beat. Here's why.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-26T16:36:47",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3d1dHl1Rno5T3o5UGlRaUZ6Y1h4TXVJbGlzdFByX0RNN183R2MzVTh0M2c5WnhyQkc4a2J4VGhpU3NtQmdyWkRHME5RaF9FajUxbXhZVXJWdUN6UjVXVDlQTUMyXzlMQjRGb2V5SXNTVHdDMncyMzZnZ1Q3bkl6VFVJUQ?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Should You Buy the Dip in Nvidia Stock Today?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRmFRbDFBak56SkdPLWNHNl83clJfRDdHMDhvM0ZmQ0RLWkZWMlZ2LVZSMm5GU2xFXzBFVFlNZS1QUGJDZU51OEpPTno0cWcxMUh1cExOeW1tYkh4WVJuSl9TZVNRaHQ0aFoyemM5SUVJVHBDUzJ5R05Gd1E?oc=5\" target=\"_blank\">Should You Buy the Dip in Nvidia Stock Today?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-26T20:29:16",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRmFRbDFBak56SkdPLWNHNl83clJfRDdHMDhvM0ZmQ0RLWkZWMlZ2LVZSMm5GU2xFXzBFVFlNZS1QUGJDZU51OEpPTno0cWcxMUh1cExOeW1tYkh4WVJuSl9TZVNRaHQ0aFoyemM5SUVJVHBDUzJ5R05Gd1E?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Why Did Nvidia Stock Crash Today After Blowout Earnings?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1OWFBpM1RycjVPdHN0bHVocDZQem5EU0dLNmMxTUdveW9MNXVEZmhCRERFcW1xenIzdEd1bUlnZGVaa1VHaGs5ZFluWnRVMWFYVEtPVncxbG9qaTRsSHg3T3JKUUduUVVWY2NiOEFqMG90b3JWV1RMc1NTWlk?oc=5\" target=\"_blank\">Why Did Nvidia Stock Crash Today After Blowout Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-26T16:51:32",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OWFBpM1RycjVPdHN0bHVocDZQem5EU0dLNmMxTUdveW9MNXVEZmhCRERFcW1xenIzdEd1bUlnZGVaa1VHaGs5ZFluWnRVMWFYVEtPVncxbG9qaTRsSHg3T3JKUUduUVVWY2NiOEFqMG90b3JWV1RMc1NTWlk?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Here's Why Nvidia's Earnings Could Move Your Portfolio Even If You Don't Hold the Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUhRVEJvLWpFYTg5YUFlcm9JOGx2eFV6WmFldGp4ODFKTVc4SGNYUmNGQnMzSXlleWVnU1FKSGxVUlpWa1RwSjNmRGlkVlVkbnJJV1dEbmpQVGlWUkQzaFY3RC1DSXhpNnIwY2pXckIycUo1NU1ZR1FUd0VoWVFPWnpKMmZHMFhzSUZoblNQOGlzZmxtSGlHSHJ3MUIwVUo0bXBLNTA5SlhXRlZZWnVvVGNXbk5Eb2JMSFRuVXVjLU8xQ2NTcjdsSnh5NDFwdW1Q?oc=5\" target=\"_blank\">Here's Why Nvidia's Earnings Could Move Your Portfolio Even If You Don't Hold the Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-25T16:45:00",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUhRVEJvLWpFYTg5YUFlcm9JOGx2eFV6WmFldGp4ODFKTVc4SGNYUmNGQnMzSXlleWVnU1FKSGxVUlpWa1RwSjNmRGlkVlVkbnJJV1dEbmpQVGlWUkQzaFY3RC1DSXhpNnIwY2pXckIycUo1NU1ZR1FUd0VoWVFPWnpKMmZHMFhzSUZoblNQOGlzZmxtSGlHSHJ3MUIwVUo0bXBLNTA5SlhXRlZZWnVvVGNXbk5Eb2JMSFRuVXVjLU8xQ2NTcjdsSnh5NDFwdW1Q?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Sanford C. Bernstein Issues Positive Forecast for NVIDIA (NASDAQ:NVDA) Stock Price",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0dzVFhyTWQzdnpUQlN2LXNuZldHY2JSb3ExZU9EWnRpTUo1aFU5WGtSaVdNNEVFOXF2QUVFd0xGcUg2NUtyaGJ1NmtvYzFVY0czazF1ZmExWkgwLWg5RDRscjRHdEh1Nk42Z0xQbEZSSzROZXpYSXVsc1VCLThwd2YwV2d5NFRyQV9FcXYtcEZxVFF6YVNybkxPbFNtRzNYM1gwdjYtWi1RSG9LMEFueURubmcwS3drS2VQRG1VUi1lOUx4VWVQVE9MeTE?oc=5\" target=\"_blank\">Sanford C. Bernstein Issues Positive Forecast for NVIDIA (NASDAQ:NVDA) Stock Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-26T14:39:19",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0dzVFhyTWQzdnpUQlN2LXNuZldHY2JSb3ExZU9EWnRpTUo1aFU5WGtSaVdNNEVFOXF2QUVFd0xGcUg2NUtyaGJ1NmtvYzFVY0czazF1ZmExWkgwLWg5RDRscjRHdEh1Nk42Z0xQbEZSSzROZXpYSXVsc1VCLThwd2YwV2d5NFRyQV9FcXYtcEZxVFF6YVNybkxPbFNtRzNYM1gwdjYtWi1RSG9LMEFueURubmcwS3drS2VQRG1VUi1lOUx4VWVQVE9MeTE?oc=5"
+    },
+    {
+      "source": "The Economic Times",
+      "headline": "Why did NVDA stock drop after Nvidia earnings beat estimates? Here's why investors are worrying about lon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNV1p5QzdWZTFUbVRLX01jZjZTTjA3R09lZXJvSWljZnFmbVJVSVpuaHFTVWJKai1qWGZLWkpyV1JTRnF2aG1nbmFFcnl1a1pYOEVpVXVKdWs5dkFYRXlJdW1ZZUNVSk5MN2xUOV91RFhfSXFpMEF4UGVtQURQWmRaSzQtOElhY1UwQ0V1ZEN3aUd2dnVsOWlWT0lMSWIzUzU4WlRmZFdJdk1PLWpoM190X1dFU2owM1VxU3pVYnJqT1NQRHR2bFdBQVhDNVctb016SkUwRFNCU0R2aDlEY1YxM3hjUjBSRXFVdmk1RVViSjJkRmJVNzJCV2tBaENJdFpqbDNGTUg5WlZpLTFobExETWFRNlVUbEtYQmZJN3Q3QkVQZnVkRzA0eWk4RllyT1nSAbQCQVVfeXFMUEhWeEYwdGpNU05OaHRYWFFncG5ZY1JzUGM3VUl3SW01UGpvdzJNTlV6MVBvWnZqOV9TcFc5Q09qZklEVGdhWjFVTHhkWHlqSXozbU9adU95NEZOUENPRUU4aDZuWGd6R2hFYVZuZEpueTAwZ3F1MXpuX3VXV2gxeG5aaERIRUh5RmZnZkEyVW9LTnRsTEdKN1REWl9ibmtZSHQ5ZnpaMGRIVkEwQURJMkdWbk83Mld5VTFPZThPY09FcjhLaWdRVkd4ODBEUzdRSjJsQUU5b2xuSEY4LTB3YXlOQ0hvdWZNNUN6c01KWnRwY2s0UzVSbEduVjJpRW1QTkpSTWRQTW84NnEzNWk1QnJ1WWpBd3YyNmJ5YzNPc2E0bi1RN0N5UEtHcElLbE5RWjNjZi0?oc=5\" target=\"_blank\">Why did NVDA stock drop after Nvidia earnings beat estimates? Here's why investors are worrying about lon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "date": "2026-02-26T15:22:59",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNV1p5QzdWZTFUbVRLX01jZjZTTjA3R09lZXJvSWljZnFmbVJVSVpuaHFTVWJKai1qWGZLWkpyV1JTRnF2aG1nbmFFcnl1a1pYOEVpVXVKdWs5dkFYRXlJdW1ZZUNVSk5MN2xUOV91RFhfSXFpMEF4UGVtQURQWmRaSzQtOElhY1UwQ0V1ZEN3aUd2dnVsOWlWT0lMSWIzUzU4WlRmZFdJdk1PLWpoM190X1dFU2owM1VxU3pVYnJqT1NQRHR2bFdBQVhDNVctb016SkUwRFNCU0R2aDlEY1YxM3hjUjBSRXFVdmk1RVViSjJkRmJVNzJCV2tBaENJdFpqbDNGTUg5WlZpLTFobExETWFRNlVUbEtYQmZJN3Q3QkVQZnVkRzA0eWk4RllyT1nSAbQCQVVfeXFMUEhWeEYwdGpNU05OaHRYWFFncG5ZY1JzUGM3VUl3SW01UGpvdzJNTlV6MVBvWnZqOV9TcFc5Q09qZklEVGdhWjFVTHhkWHlqSXozbU9adU95NEZOUENPRUU4aDZuWGd6R2hFYVZuZEpueTAwZ3F1MXpuX3VXV2gxeG5aaERIRUh5RmZnZkEyVW9LTnRsTEdKN1REWl9ibmtZSHQ5ZnpaMGRIVkEwQURJMkdWbk83Mld5VTFPZThPY09FcjhLaWdRVkd4ODBEUzdRSjJsQUU5b2xuSEY4LTB3YXlOQ0hvdWZNNUN6c01KWnRwY2s0UzVSbEduVjJpRW1QTkpSTWRQTW84NnEzNWk1QnJ1WWpBd3YyNmJ5YzNPc2E0bi1RN0N5UEtHcElLbE5RWjNjZi0?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Nvidia's AI-Powered Earnings Beat and Revenue Guidance Crushed Wall Street's Estimates",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2I5OXZLSFZydFFXM21iUGZad1hob2V2MEVib0hHdmlUQURGVFU4dldVeG1tNXVFNWVQd0FFZ3ptblhJZHA5SGFqaDlBOGdiVzBjX1I4YVVnZ1BjemxWcVpFbUprVFh1Nl9BdHZFbmFmd3V1SW1TR2lqTVc4OVZVbXR2YXNPd0ZQNmN2Sw?oc=5\" target=\"_blank\">Nvidia's AI-Powered Earnings Beat and Revenue Guidance Crushed Wall Street's Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-26T01:48:00",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2I5OXZLSFZydFFXM21iUGZad1hob2V2MEVib0hHdmlUQURGVFU4dldVeG1tNXVFNWVQd0FFZ3ptblhJZHA5SGFqaDlBOGdiVzBjX1I4YVVnZ1BjemxWcVpFbUprVFh1Nl9BdHZFbmFmd3V1SW1TR2lqTVc4OVZVbXR2YXNPd0ZQNmN2Sw?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "Why Nvidia (NVDA) Stock Is Trading Lower Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOT3dxN2lMODRNSUpxSXh5RDJTS014a1kzcElOVG9FenFiVzZ2UndibHZrbjk2bkM2SW5uWVZrZ0JLYlY4a1R0ejlVdTJ3aGN1dnFkSzhBYlNEcWx4NDhWY1QwSFEzcDdYcFVyc043V1FvY3EtajZSV1Jlekh2cVlWZ1JucjQwOTRvb1dRVlU5YjhEMF9wdWFYU2tkVFJpR0F1UG5yNG5seDVDZ3pORW5zOGk3SDhjTlB1WWJlSlNwdE8wTjdScHBR?oc=5\" target=\"_blank\">Why Nvidia (NVDA) Stock Is Trading Lower Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-02-26T18:51:17",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT3dxN2lMODRNSUpxSXh5RDJTS014a1kzcElOVG9FenFiVzZ2UndibHZrbjk2bkM2SW5uWVZrZ0JLYlY4a1R0ejlVdTJ3aGN1dnFkSzhBYlNEcWx4NDhWY1QwSFEzcDdYcFVyc043V1FvY3EtajZSV1Jlekh2cVlWZ1JucjQwOTRvb1dRVlU5YjhEMF9wdWFYU2tkVFJpR0F1UG5yNG5seDVDZ3pORW5zOGk3SDhjTlB1WWJlSlNwdE8wTjdScHBR?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Nvidia's Business is Booming But Its Stock Is Lagging. What Gives?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVJkNnB4TnJlQ1BmZXZnelp5c0hia2VBNk5SZ1A1clVORldqaTdEeGtlNVJ3UTkxQmNvQ2Q0c19oaWNCcVoxZDRUeVlpdTB2bmdYaUdxcnBHcktWQl9MX1B3NWlLcThPYTdFT2ZwSHFIaTA5SlVyUFFWQXhzTHV0cDdNOS1McHBMTy1LZkxsSHpMUXFMM1p4bTMzNFM2UjktZE5NdEJRN1pPWklWMm5faExTYUNoTm50X0pGYg?oc=5\" target=\"_blank\">Nvidia's Business is Booming But Its Stock Is Lagging. What Gives?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-26T21:00:04",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVJkNnB4TnJlQ1BmZXZnelp5c0hia2VBNk5SZ1A1clVORldqaTdEeGtlNVJ3UTkxQmNvQ2Q0c19oaWNCcVoxZDRUeVlpdTB2bmdYaUdxcnBHcktWQl9MX1B3NWlLcThPYTdFT2ZwSHFIaTA5SlVyUFFWQXhzTHV0cDdNOS1McHBMTy1LZkxsSHpMUXFMM1p4bTMzNFM2UjktZE5NdEJRN1pPWklWMm5faExTYUNoTm50X0pGYg?oc=5"
+    },
+    {
+      "source": "investingLive",
+      "headline": "NVDA stock treads water after earnings. Why buyers are cautious despite a huge beat",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlFuVzRVRDV4SGdaaDVJZ1paZC1jLUNJalRfa3lfZ1NxRXBhazd5SVRvOUdDRFNjSkIxYzlsak5HbTRnbjJCMGd2eUNRa2FJSnYyUGx6VGc3OFRzXzc0Z0pXT3lVUUlpRFdPclNKRDk2Nkp5d293UU51MnNDYmJ4bGxySlQyLUMwa3lPcmgzZDNHNk5OM1ZhZ2hEVUFteGVEQnlhTHJtOFVGOGpTTFZtX2pCZmwtRWlNMGJYU3pMa0x0YjTSAcgBQVVfeXFMTWdrVzdCRHZqMWk1d1d0cW14YjJsSC1LLU5aUmNPZXhQejNqY3lENzFEa1JvYmI1aHNXUEo3RHMtWHladG93V0pCMjJLS3ZyLTRoaUtRMnhCU28xVXpPZlZmTkpTNG9VbnY4TVJMNWVselZMaHFaMm9EU2cyX0JDX2ZTbng2aWZLbUhnaEIxNXhGbjJoU1cxc1lnb0U0Q0FkZG9LUFR5eC10NFFGSVA2bVVqblRZY0xvUUlaSDh1SV9vMDZOd2t2WGI?oc=5\" target=\"_blank\">NVDA stock treads water after earnings. Why buyers are cautious despite a huge beat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">investingLive</font>",
+      "date": "2026-02-26T14:56:09",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlFuVzRVRDV4SGdaaDVJZ1paZC1jLUNJalRfa3lfZ1NxRXBhazd5SVRvOUdDRFNjSkIxYzlsak5HbTRnbjJCMGd2eUNRa2FJSnYyUGx6VGc3OFRzXzc0Z0pXT3lVUUlpRFdPclNKRDk2Nkp5d293UU51MnNDYmJ4bGxySlQyLUMwa3lPcmgzZDNHNk5OM1ZhZ2hEVUFteGVEQnlhTHJtOFVGOGpTTFZtX2pCZmwtRWlNMGJYU3pMa0x0YjTSAcgBQVVfeXFMTWdrVzdCRHZqMWk1d1d0cW14YjJsSC1LLU5aUmNPZXhQejNqY3lENzFEa1JvYmI1aHNXUEo3RHMtWHladG93V0pCMjJLS3ZyLTRoaUtRMnhCU28xVXpPZlZmTkpTNG9VbnY4TVJMNWVselZMaHFaMm9EU2cyX0JDX2ZTbng2aWZLbUhnaEIxNXhGbjJoU1cxc1lnb0U0Q0FkZG9LUFR5eC10NFFGSVA2bVVqblRZY0xvUUlaSDh1SV9vMDZOd2t2WGI?oc=5"
+    },
+    {
+      "source": "Barchart.com",
+      "headline": "As Nvidia Launches New AI Laptop Chips, Should You Buy NVDA Stock?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmxFcGx0Rjg1dmtjTlh0X3NodXVRamZLUW4wQ3BSeUdWWE9HcDRpWWJMZ3YxNXlySUxDX3U2M1FhT29VelZ0TkFQdlByUG5aZWVONXRYam0zRDZ4a2ZxMmQxSkRtcHhKZ0NRelF6R2lwQWgzdm9paTlva0M0MTA0enZhaVJWbFBXdXFRbDFoQ1RKY29jR0xTdTNLZV9NNDRWTHRsMHJkTG1rZHM?oc=5\" target=\"_blank\">As Nvidia Launches New AI Laptop Chips, Should You Buy NVDA Stock?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "date": "2026-02-25T21:07:49",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmxFcGx0Rjg1dmtjTlh0X3NodXVRamZLUW4wQ3BSeUdWWE9HcDRpWWJMZ3YxNXlySUxDX3U2M1FhT29VelZ0TkFQdlByUG5aZWVONXRYam0zRDZ4a2ZxMmQxSkRtcHhKZ0NRelF6R2lwQWgzdm9paTlva0M0MTA0enZhaVJWbFBXdXFRbDFoQ1RKY29jR0xTdTNLZV9NNDRWTHRsMHJkTG1rZHM?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Nvidia's Earnings Are Almost Here. Here's the State of the Magnificent 7 Stocks.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDZmNTZwaFlTalBHWkZPeXZ6dDljUWNxdmpVY0UxZ0hRbDVFbDZudE44NC1EVXVEOUdvM3ZxSk0yQTJNamNjWmYtOVRzeUJfLU1yMHl3ek9QWk5vd1BpR0RyeWh4cUlTT21aU2VuY1RDSW5GbkRPZVYxM1BFaDZTOHNabEc3M3l6alFMTzNlVjRDd2lpZlBCSVFwUXp3cjlObklDbWw1Z0owQ042UDZpbzVtS25rVzhBbFdza3VR?oc=5\" target=\"_blank\">Nvidia's Earnings Are Almost Here. Here's the State of the Magnificent 7 Stocks.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-24T16:50:17",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDZmNTZwaFlTalBHWkZPeXZ6dDljUWNxdmpVY0UxZ0hRbDVFbDZudE44NC1EVXVEOUdvM3ZxSk0yQTJNamNjWmYtOVRzeUJfLU1yMHl3ek9QWk5vd1BpR0RyeWh4cUlTT21aU2VuY1RDSW5GbkRPZVYxM1BFaDZTOHNabEc3M3l6alFMTzNlVjRDd2lpZlBCSVFwUXp3cjlObklDbWw1Z0owQ042UDZpbzVtS25rVzhBbFdza3VR?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Time To Sell Peak Nvidia (Rating Downgrade) (NASDAQ:NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGdobDZocUdSZ2k3UlZQaFNMaURTZ3hBQ2hnTGRCNUVYd1JyMGlNQ2RobV9xc3NFTjFLSTk5V3I1LUc0THpEcjNsQ3Q2VmdxX1ExbGN1VGx1d0p1XzgxZ25pa3JsalBhUnl6NFRQNnltUG50VEFHdElRYXJMOW1uUVpla1lvaGsxckE?oc=5\" target=\"_blank\">Time To Sell Peak Nvidia (Rating Downgrade) (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T20:39:19",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGdobDZocUdSZ2k3UlZQaFNMaURTZ3hBQ2hnTGRCNUVYd1JyMGlNQ2RobV9xc3NFTjFLSTk5V3I1LUc0THpEcjNsQ3Q2VmdxX1ExbGN1VGx1d0p1XzgxZ25pa3JsalBhUnl6NFRQNnltUG50VEFHdElRYXJMOW1uUVpla1lvaGsxckE?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "How Much Is Nvidia Stock Expected to Move After the AI Chipmaker Reports Earnings?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdXBNUS1hM01uRVdnMjFXSmZSR3M5MjN5TzlBVGtOYWdvcGFNVDVHWWEzUVEtQ21jdzNBMGVGdDJKNXpGWXEyLWhYOTF2bUZpemQ1MHF5aDRUOXp5QlRRLUREajB3ZFlqR0ZTanNja3A3aGFHWHRUTi1IWFZTNFdXbk9lNGtTeDNUbVJtbUM3bmRmOE52NnBibDdjNDRPeTVMSzl6QnhITVQ4TElTeEprY3N1bjBMODJ2Mkk5T2lrX2I0dkxhVWY0TlV1NzZRZ3VSR2c?oc=5\" target=\"_blank\">How Much Is Nvidia Stock Expected to Move After the AI Chipmaker Reports Earnings?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-25T16:38:00",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdXBNUS1hM01uRVdnMjFXSmZSR3M5MjN5TzlBVGtOYWdvcGFNVDVHWWEzUVEtQ21jdzNBMGVGdDJKNXpGWXEyLWhYOTF2bUZpemQ1MHF5aDRUOXp5QlRRLUREajB3ZFlqR0ZTanNja3A3aGFHWHRUTi1IWFZTNFdXbk9lNGtTeDNUbVJtbUM3bmRmOE52NnBibDdjNDRPeTVMSzl6QnhITVQ4TElTeEprY3N1bjBMODJ2Mkk5T2lrX2I0dkxhVWY0TlV1NzZRZ3VSR2c?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia: Basking In The Glory Of AI CAPEX Windfall",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOa09zbzVTX2RUNmkta2NOdFNUVDktbXUwdlZmM1pzczJ0TnNIYWpMbS12LWhWNnZpU05ROVFBTTlaVmQyUEM1VFJoYzJPYkcyR3hxVXA1T0luT1pFa2ZJM0pURW54dnR2SzY2NnRkUW9DY21rNE1ETTdYUGJnbG1zS05NUDVMa1VqM1VQNDBXNzZXZmM?oc=5\" target=\"_blank\">Nvidia: Basking In The Glory Of AI CAPEX Windfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T00:30:00",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa09zbzVTX2RUNmkta2NOdFNUVDktbXUwdlZmM1pzczJ0TnNIYWpMbS12LWhWNnZpU05ROVFBTTlaVmQyUEM1VFJoYzJPYkcyR3hxVXA1T0luT1pFa2ZJM0pURW54dnR2SzY2NnRkUW9DY21rNE1ETTdYUGJnbG1zS05NUDVMa1VqM1VQNDBXNzZXZmM?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Nvidia earnings 'crushed' Q4 estimates: 2 key takeaways",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDVfVzNvWVhvd3p1WDNjbW9ldmsyYXNCUWdXTEp3V0dHVUJWMmFBZEsySnVwMTlKUmx1X0tWRVNZTUtCWWIzTzNkbWZXODhXcWJlcldkUHlMbjcxcGRUaExxVlBHWm53NUJvTFEwSXpGMzR4eVcxT0hhNWtQWmwxSmF2WjRkS0RmdlVZ?oc=5\" target=\"_blank\">Nvidia earnings 'crushed' Q4 estimates: 2 key takeaways</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-25T22:29:00",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNDVfVzNvWVhvd3p1WDNjbW9ldmsyYXNCUWdXTEp3V0dHVUJWMmFBZEsySnVwMTlKUmx1X0tWRVNZTUtCWWIzTzNkbWZXODhXcWJlcldkUHlMbjcxcGRUaExxVlBHWm53NUJvTFEwSXpGMzR4eVcxT0hhNWtQWmwxSmF2WjRkS0RmdlVZ?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Are You Looking for a Top Momentum Pick? Why Nvidia (NVDA) is a Great Choice",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOaE1ROHhQZ3dTbWZKWUVMWXZySENIWmFfLUh6cDg0Ym0tV1JzZUsxaHY1c1VjaTdJOGVHb0xXMlNyTV9aUlRJQjlRVGdGQWo3aGpLMGFtc084X25udkxjVnluVVRGRGEzUnNrWVRJOWRNUDd2ektORkRBUzd0WXhwRw?oc=5\" target=\"_blank\">Are You Looking for a Top Momentum Pick? Why Nvidia (NVDA) is a Great Choice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-26T17:00:03",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaE1ROHhQZ3dTbWZKWUVMWXZySENIWmFfLUh6cDg0Ym0tV1JzZUsxaHY1c1VjaTdJOGVHb0xXMlNyTV9aUlRJQjlRVGdGQWo3aGpLMGFtc084X25udkxjVnluVVRGRGEzUnNrWVRJOWRNUDd2ektORkRBUzd0WXhwRw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia: Accelerating Revenue Growth Into FY2027, Forward P/E Drops To 25x (Upgrade) (NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0M3dlRHdW9hNTM2VU1xdlJMR05sQzMzRzhMTUdpbE8yU01YTUk5VUdySFhVSXNSX05rMllydXNkQ3JqbUFGemVCZmQyU2h0eXhVNkkxaXZQd3VCRkhtVDNUeEpnRS14TlJwT0FSb29FdjFaelM4dVhSUEN1ZVZqb3BURnNuQlhhb1NXUWZGZWNWZm44NE1makJGeXd4ODJ2Nl9KeDVReFQ4SzM2VFI3cVlVa0hDdmlOZGVZ?oc=5\" target=\"_blank\">Nvidia: Accelerating Revenue Growth Into FY2027, Forward P/E Drops To 25x (Upgrade) (NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T15:15:17",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0M3dlRHdW9hNTM2VU1xdlJMR05sQzMzRzhMTUdpbE8yU01YTUk5VUdySFhVSXNSX05rMllydXNkQ3JqbUFGemVCZmQyU2h0eXhVNkkxaXZQd3VCRkhtVDNUeEpnRS14TlJwT0FSb29FdjFaelM4dVhSUEN1ZVZqb3BURnNuQlhhb1NXUWZGZWNWZm44NE1makJGeXd4ODJ2Nl9KeDVReFQ4SzM2VFI3cVlVa0hDdmlOZGVZ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia drops more than 4% despite upbeat outlook, as rest of Mag 7 trade mixed (NVDA:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXF4U2RhNXJqQXBtLWFYNlhqWmxYdnJ5QnhJWk1RWlNmR3pISnY1ZlY2eEVNXzlFeHRYa0s5ZzlGWXNPMVNHd0t3WnhZZW8xY1djbUhaUEZveFJjRTNRamNsZk50RXoyWTlLSHN2c3VPMU5ONEFJM0Uyc1Uwc1lZSERhZkMwTVNYb2pEN1FNSThSOTdHNzg4aHBVQnFnN1o2QnlUUFhOajBHRzJFb28yZzhUX1NaUTA?oc=5\" target=\"_blank\">Nvidia drops more than 4% despite upbeat outlook, as rest of Mag 7 trade mixed (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T16:41:00",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXF4U2RhNXJqQXBtLWFYNlhqWmxYdnJ5QnhJWk1RWlNmR3pISnY1ZlY2eEVNXzlFeHRYa0s5ZzlGWXNPMVNHd0t3WnhZZW8xY1djbUhaUEZveFJjRTNRamNsZk50RXoyWTlLSHN2c3VPMU5ONEFJM0Uyc1Uwc1lZSERhZkMwTVNYb2pEN1FNSThSOTdHNzg4aHBVQnFnN1o2QnlUUFhOajBHRzJFb28yZzhUX1NaUTA?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "headline": "World shares retreat from record highs amid concerns about tech valuations",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVgxRkJuNDlpaUJ6U2lKTHp3WG5GTkxTbmJvckVSTUo5ZzN1R0ZzY21MWTM3UnAwZGVZTktJUktvWl9wanJ6Y05hcTlpNXBZTl9mejhkU0otTzZKTG4wVU1xRG5TcTY0ZDJiUFgza25LUEotRGVvcDY4eWNyYVZXdl95Zw?oc=5\" target=\"_blank\">World shares retreat from record highs amid concerns about tech valuations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "date": "2026-02-26T01:45:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVgxRkJuNDlpaUJ6U2lKTHp3WG5GTkxTbmJvckVSTUo5ZzN1R0ZzY21MWTM3UnAwZGVZTktJUktvWl9wanJ6Y05hcTlpNXBZTl9mejhkU0otTzZKTG4wVU1xRG5TcTY0ZDJiUFgza25LUEotRGVvcDY4eWNyYVZXdl95Zw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia shares drift from earnings momentum as valuation questions emerge (NVDA:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOV25DNGVMOUdXN2hvMVM1NDVBRWIxamJUbUplYXdmRTBvQ2JubjVyZXgtZGRaZDBLTXMzd2kxOC1fOTFfSW9LUW03RlNfRGlkOC1LWjhOeGhRRHRGOWI5Z3JmVDREc1FlQWFyY1lIdnRNaXkzUGpfdW1XQ2FuN2pzRm9icFdFaXFEaFI2ZVlGRWxHVUxrMVBHck03NlNaYldSVHg1TUNud0l5LTRqV2Jr?oc=5\" target=\"_blank\">Nvidia shares drift from earnings momentum as valuation questions emerge (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-25T12:26:16",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV25DNGVMOUdXN2hvMVM1NDVBRWIxamJUbUplYXdmRTBvQ2JubjVyZXgtZGRaZDBLTXMzd2kxOC1fOTFfSW9LUW03RlNfRGlkOC1LWjhOeGhRRHRGOWI5Z3JmVDREc1FlQWFyY1lIdnRNaXkzUGpfdW1XQ2FuN2pzRm9icFdFaXFEaFI2ZVlGRWxHVUxrMVBHck03NlNaYldSVHg1TUNud0l5LTRqV2Jr?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Nvidia Stock Is Outperforming the Market in 2026. Is It a Buy?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2JuckFmZmlsOHViaXFtYXBWNmF5aXFLcUxHLWR5WE02UkN1SXpyTzV3NEF0MUIyMDNyR3FoVjhmRGVWbGdhNmFXbU11aWYySEhOVE1GSzhpUFhUcGlZclJySG14d0tDT1poN2lIUG5BeVMwT0E1b1NlR2VOMWpyVU5Mb0l2Z2ZHWGpyNjZkZ29nb3JKVGI1dQ?oc=5\" target=\"_blank\">Nvidia Stock Is Outperforming the Market in 2026. Is It a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-24T23:10:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2JuckFmZmlsOHViaXFtYXBWNmF5aXFLcUxHLWR5WE02UkN1SXpyTzV3NEF0MUIyMDNyR3FoVjhmRGVWbGdhNmFXbU11aWYySEhOVE1GSzhpUFhUcGlZclJySG14d0tDT1poN2lIUG5BeVMwT0E1b1NlR2VOMWpyVU5Mb0l2Z2ZHWGpyNjZkZ29nb3JKVGI1dQ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia Keeps Raising The Bar (NASDAQ:NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBqTGpYQjRPWE15RmEycjV0UmNabXBKb1U3NUNRalgtTDhWdnFuYUxTR3pjUDVHMF9hSmRJVHBjb1V0QjJZV2R2QVNlbHRyRTYyRndtOTBfMTVCNTVwRjJ2RUhPNFZBQnRTbU9BZWhudlZLZzh5OGtOcw?oc=5\" target=\"_blank\">Nvidia Keeps Raising The Bar (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T20:11:19",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqTGpYQjRPWE15RmEycjV0UmNabXBKb1U3NUNRalgtTDhWdnFuYUxTR3pjUDVHMF9hSmRJVHBjb1V0QjJZV2R2QVNlbHRyRTYyRndtOTBfMTVCNTVwRjJ2RUhPNFZBQnRTbU9BZWhudlZLZzh5OGtOcw?oc=5"
+    },
+    {
+      "source": "CNBC",
+      "headline": "Stocks making the biggest moves after hours: Nvidia, Salesforce, Snowflake, Nutanix & more",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzJfMEdhZHdNY3VISEFpcFhSdURrRk1WVHlLZlFFdXB2QlRGT1N3T0h1YTB4MzEtVGo1RC1tN2pER3lVSlFicERJaWJuTnM5aTd6S0JDQ1lSWWs3SDdFY2VIZ0FZWkI1ODVSdGxTRVVDcmFYNFIxZ2czZm92NEdOTWM5ZURSbDViQlJUS0ZMQWVjX0k2Z2lfTDNNRkViMTAw?oc=5\" target=\"_blank\">Stocks making the biggest moves after hours: Nvidia, Salesforce, Snowflake, Nutanix & more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+      "date": "2026-02-25T22:21:54",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzJfMEdhZHdNY3VISEFpcFhSdURrRk1WVHlLZlFFdXB2QlRGT1N3T0h1YTB4MzEtVGo1RC1tN2pER3lVSlFicERJaWJuTnM5aTd6S0JDQ1lSWWs3SDdFY2VIZ0FZWkI1ODVSdGxTRVVDcmFYNFIxZ2czZm92NEdOTWM5ZURSbDViQlJUS0ZMQWVjX0k2Z2lfTDNNRkViMTAw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia Q4 Earnings: Jensen's Half-A-Trillion Dollar Revenue Explosion Starts Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3Q1VkFoTXpnVXBOMjlheTFCbUhWa2JXaFpXTUVUZnBPWXEyM1Y5enl3ZHRJTWsweUFzT280RkJPa0Rtb094eUxURGVJekZidGIxa3VfYTJYcHVkZ3RIXzBnN1IzbTJ4bDNkb3FTeWpDck1SaHdmUGI4VHY2VGlEMXc3TW5UY0t0SEwwRHlxX1ZEclNKQk80WGdmalZnN2lDQ1pxTUlESmhyRzJEamw5bWRhbWxsWUJ6dWhRUDNR?oc=5\" target=\"_blank\">Nvidia Q4 Earnings: Jensen's Half-A-Trillion Dollar Revenue Explosion Starts Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-25T14:45:00",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3Q1VkFoTXpnVXBOMjlheTFCbUhWa2JXaFpXTUVUZnBPWXEyM1Y5enl3ZHRJTWsweUFzT280RkJPa0Rtb094eUxURGVJekZidGIxa3VfYTJYcHVkZ3RIXzBnN1IzbTJ4bDNkb3FTeWpDck1SaHdmUGI4VHY2VGlEMXc3TW5UY0t0SEwwRHlxX1ZEclNKQk80WGdmalZnN2lDQ1pxTUlESmhyRzJEamw5bWRhbWxsWUJ6dWhRUDNR?oc=5"
+    },
+    {
+      "source": "Stocktwits",
+      "headline": "Michael Burry Warns Nvidia\u2019s \u2018Purchase Commitments\u2019 Akin To Cisco At The Top Of Dot-Com Bubble \u2014 NVDA Stock Falls 5%",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUhoZlVFOE10aXFTWV9aQ0NfbnFMdWdtcng4R2dYVVFaRm9hUUpUYmtsMUdwdllxMXNDMUduX1RIRldzR21BVUNrdVlpWDJQWEhNZU1pdGJuY1dLamJKbmhFUVNEMkFNTzlXRTQ3RERxTWFDVEtDSVdpT3RmX3dWcVpabVNoNk80T0NJMVFtcXRXeGIxRFFYYzdXRnRONEg5czE3RmFTZGI5a3ZnMUVpeHNaRE11bkJYNVpkZzRRY2QwYlNPeHF6TGNLVnRJTVB4MzVBeTY4ZXE3NGFrcFg4NTNZaWxFbzRjZEtVVQ?oc=5\" target=\"_blank\">Michael Burry Warns Nvidia\u2019s \u2018Purchase Commitments\u2019 Akin To Cisco At The Top Of Dot-Com Bubble \u2014 NVDA Stock Falls 5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stocktwits</font>",
+      "date": "2026-02-26T15:12:00",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaUhoZlVFOE10aXFTWV9aQ0NfbnFMdWdtcng4R2dYVVFaRm9hUUpUYmtsMUdwdllxMXNDMUduX1RIRldzR21BVUNrdVlpWDJQWEhNZU1pdGJuY1dLamJKbmhFUVNEMkFNTzlXRTQ3RERxTWFDVEtDSVdpT3RmX3dWcVpabVNoNk80T0NJMVFtcXRXeGIxRFFYYzdXRnRONEg5czE3RmFTZGI5a3ZnMUVpeHNaRE11bkJYNVpkZzRRY2QwYlNPeHF6TGNLVnRJTVB4MzVBeTY4ZXE3NGFrcFg4NTNZaWxFbzRjZEtVVQ?oc=5"
+    },
+    {
+      "source": "Reuters",
+      "headline": "Wall St ends lower as tech rally stalls, AI fervor wanes after Nvidia results",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkNMZnBnWlVNRzdyY0FSS0NmZTFNem5qb3Z4UHpkOFRGc3hxSG8xM2tUSnNrbDUyWjNqSzRMMGFaVFl6NUo1a0VsT0tzdUwxU1VDcm5CWXF5TEpScldjVlhzVUFBZzF4NlZodTlmdzJqODZJaDYzWS12R3FuZVZHNmtTMVNyMWFtMDVpU3VIVURYQ0I2S3RwWWFIYzRTblhFeFgzY1piNlF1S2gzb0FhUk9oRmpXOEtZTno4?oc=5\" target=\"_blank\">Wall St ends lower as tech rally stalls, AI fervor wanes after Nvidia results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "date": "2026-02-26T11:11:43",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkNMZnBnWlVNRzdyY0FSS0NmZTFNem5qb3Z4UHpkOFRGc3hxSG8xM2tUSnNrbDUyWjNqSzRMMGFaVFl6NUo1a0VsT0tzdUwxU1VDcm5CWXF5TEpScldjVlhzVUFBZzF4NlZodTlmdzJqODZJaDYzWS12R3FuZVZHNmtTMVNyMWFtMDVpU3VIVURYQ0I2S3RwWWFIYzRTblhFeFgzY1piNlF1S2gzb0FhUk9oRmpXOEtZTno4?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia pops Q4 results, guidance blow past Wall Street's forecast (NVDA:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEhUektnZzg5QXo2MnJIVlBLRFI3OFdCNTNtbjdQVkxtVE9fUTlMVmRpVGdtQnVHOWxwTXBpODBFSlp0ZHlVN2hGbW9FNEpsV0dXcE91ZTVSNVpfYTlvMmc3c29sVlVMWm5QN2YwaUgwaThEZGd5aW9md2NjUGZjaHpZRnBGYzJxT2VRcUFoUGVtbmtRTWhjTUVKN0hQNXFhMWNR?oc=5\" target=\"_blank\">Nvidia pops Q4 results, guidance blow past Wall Street's forecast (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-25T21:39:26",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTEhUektnZzg5QXo2MnJIVlBLRFI3OFdCNTNtbjdQVkxtVE9fUTlMVmRpVGdtQnVHOWxwTXBpODBFSlp0ZHlVN2hGbW9FNEpsV0dXcE91ZTVSNVpfYTlvMmc3c29sVlVMWm5QN2YwaUgwaThEZGd5aW9md2NjUGZjaHpZRnBGYzJxT2VRcUFoUGVtbmtRTWhjTUVKN0hQNXFhMWNR?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Nvidia's Earnings Could Be a Make or Break Moment for the Stock Market",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNemppZE9UVldkQi1ZbXY4T05tZHN0N2tQaUprazlCUXozLUF3T0VrSEJpb1hYM09fcGp2cVJnNjlMamNGLW5YZEhrZzk1cGM0dE5yLXVteUg0NUNhVHFubGtsRXN4SDlXOHd4TmN1SEt6M25HTU8yN3RnMWhaQ1RtM1BjS1NQRFpXRjZkaVhnMDZWNV9ZdWh2TDV2bU5GNVFPYkQxcmV6cXJYblY0Yk9hblhGWDR2NDQ1X2cwTXN3?oc=5\" target=\"_blank\">Nvidia's Earnings Could Be a Make or Break Moment for the Stock Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-25T17:17:10",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNemppZE9UVldkQi1ZbXY4T05tZHN0N2tQaUprazlCUXozLUF3T0VrSEJpb1hYM09fcGp2cVJnNjlMamNGLW5YZEhrZzk1cGM0dE5yLXVteUg0NUNhVHFubGtsRXN4SDlXOHd4TmN1SEt6M25HTU8yN3RnMWhaQ1RtM1BjS1NQRFpXRjZkaVhnMDZWNV9ZdWh2TDV2bU5GNVFPYkQxcmV6cXJYblY0Yk9hblhGWDR2NDQ1X2cwTXN3?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Why ASML Stock Was Down Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1LY3R0LXBQWGwxaDIwbE4taGk2YTdVOGRuVk1HWGFjT0RkV1phQ01SNjFhbDZBMXhFOGtIaUZfTWhTQ0pJOE4yZWxIOVUzUGgyaEllem5aVXhkSi16RUdpTlRMcHlaTmhTbm5YYnZBVDJRRWNXbFhkbC1kT0Q?oc=5\" target=\"_blank\">Why ASML Stock Was Down Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-26T17:18:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LY3R0LXBQWGwxaDIwbE4taGk2YTdVOGRuVk1HWGFjT0RkV1phQ01SNjFhbDZBMXhFOGtIaUZfTWhTQ0pJOE4yZWxIOVUzUGgyaEllem5aVXhkSi16RUdpTlRMcHlaTmhTbm5YYnZBVDJRRWNXbFhkbC1kT0Q?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Do Investors Underestimate Nvidia? CEO Jensen Huang Thinks So",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXpMVmItaTNMSFJFX2h0Vmx3d2NTV0VBbGtORE01UFN5dmJMR3ZfR0V0S3l1S3Rtd2I2WGVxMDRoc0tnUzI3b0FieGEwcVU0dG0wS0VsekRPUWl2NUZzeV83OThKcEtnZkVwMXF4SmtVVklBVmo5RkF6LUVYU0NFRFBLSWl4UHlRMW83czZhSXZ2VUk4S0g0R1JOeWVKa1UzUVlWZVJXRUZod1I1MDV0amJrcG12NFE?oc=5\" target=\"_blank\">Do Investors Underestimate Nvidia? CEO Jensen Huang Thinks So</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-26T21:33:26",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXpMVmItaTNMSFJFX2h0Vmx3d2NTV0VBbGtORE01UFN5dmJMR3ZfR0V0S3l1S3Rtd2I2WGVxMDRoc0tnUzI3b0FieGEwcVU0dG0wS0VsekRPUWl2NUZzeV83OThKcEtnZkVwMXF4SmtVVklBVmo5RkF6LUVYU0NFRFBLSWl4UHlRMW83czZhSXZ2VUk4S0g0R1JOeWVKa1UzUVlWZVJXRUZod1I1MDV0amJrcG12NFE?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "There's More Than One Way to Bet on Nvidia's Earnings Report.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHNlLVFNbEpuT0YxTjlUMk5XYXBFQ2ZjcHhXaURta0hMUnJHUXBvZ2d4RWVNNXFfMFBpSWVaR2tTQk9zMWRJTmJvUXdNR3J2VVNDbDgxc3N6TERWSFMzUVEwTmZXS0hpZ3pvck5EVTVaRkFfdVF4RXJDOFNGSHNPR19ySEdVbmlDOWR3X2VBQ0FoTUNQTUhENzJ0UmFJdmZiYUVFVVdnSkJIRm45UkE?oc=5\" target=\"_blank\">There's More Than One Way to Bet on Nvidia's Earnings Report.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-24T18:49:57",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHNlLVFNbEpuT0YxTjlUMk5XYXBFQ2ZjcHhXaURta0hMUnJHUXBvZ2d4RWVNNXFfMFBpSWVaR2tTQk9zMWRJTmJvUXdNR3J2VVNDbDgxc3N6TERWSFMzUVEwTmZXS0hpZ3pvck5EVTVaRkFfdVF4RXJDOFNGSHNPR19ySEdVbmlDOWR3X2VBQ0FoTUNQTUhENzJ0UmFJdmZiYUVFVVdnSkJIRm45UkE?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia: Another Blockbuster Earnings Report (Rating Upgrade) (NASDAQ:NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnJOLVFOQTl6cnQwWDZFbGpCNzNscmFUWllZUm56QlV1MVpLVmtDZWdfazRMUllpSUxQY3dua2FyZzFlZGVqSmlodTFwcHN1eHJEVFNKVHFXMXVnelpMcERhNG5rajR5LVdZMjRXMmVzS0ZYT3JiQnRSQm55MllRblF6MmhYMVhmQjhmd1k2dEpfZXJtN1BqWTh6M0FWdTA?oc=5\" target=\"_blank\">Nvidia: Another Blockbuster Earnings Report (Rating Upgrade) (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-25T22:40:47",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUnJOLVFOQTl6cnQwWDZFbGpCNzNscmFUWllZUm56QlV1MVpLVmtDZWdfazRMUllpSUxQY3dua2FyZzFlZGVqSmlodTFwcHN1eHJEVFNKVHFXMXVnelpMcERhNG5rajR5LVdZMjRXMmVzS0ZYT3JiQnRSQm55MllRblF6MmhYMVhmQjhmd1k2dEpfZXJtN1BqWTh6M0FWdTA?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia's strong execution, guidance means growth concerns are 'overblown,' analysts say (NVDA:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzJaMlc4TmpvMU10QUc3R0JlTTJUaWdjXzBqZ2JBQ2NObHRkRWRDM1VRNC1RdnhPZ2M4Q0tKblROclB1NnJVOFZKWDB3M1dKOEpKVGwzSURMRG1jYzgzTkgyOG9fTWw1c0F3a1c2eWljcndNSFYwTVlKY1hRUk9DaUdiZ2UxaWFqeDhBRGNQXzZhLWZFVWtYaE9wMWdoemhsdXZTREhianlxQ096a2ZlRkptZWtFWXRZb1F4bQ?oc=5\" target=\"_blank\">Nvidia's strong execution, guidance means growth concerns are 'overblown,' analysts say (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T15:05:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzJaMlc4TmpvMU10QUc3R0JlTTJUaWdjXzBqZ2JBQ2NObHRkRWRDM1VRNC1RdnhPZ2M4Q0tKblROclB1NnJVOFZKWDB3M1dKOEpKVGwzSURMRG1jYzgzTkgyOG9fTWw1c0F3a1c2eWljcndNSFYwTVlKY1hRUk9DaUdiZ2UxaWFqeDhBRGNQXzZhLWZFVWtYaE9wMWdoemhsdXZTREhianlxQ096a2ZlRkptZWtFWXRZb1F4bQ?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Palantir Billionaire Peter Thiel Dumped Nvidia, Tesla, Microsoft, and Apple. What Stocks Does He Own for 2026?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORmNULS1DSmMyVTJSTDFrRkthdXZ6aDhMQVVZMG9zcGl3Z1JGaGs3NDA5OUw5Z3NZSklCTG5UV3hNNVdjMUVwN1QtT2g5WWcya2VKRE5KVHF2d045UGt1MHNSRlhGcXZFWlFIUWQzazZxeWh5aU43S2lRcXpMWHZ5bUpMakZUVDMzd1diYzhOM3JZNUhYcEFNbw?oc=5\" target=\"_blank\">Palantir Billionaire Peter Thiel Dumped Nvidia, Tesla, Microsoft, and Apple. What Stocks Does He Own for 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-25T20:26:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmNULS1DSmMyVTJSTDFrRkthdXZ6aDhMQVVZMG9zcGl3Z1JGaGs3NDA5OUw5Z3NZSklCTG5UV3hNNVdjMUVwN1QtT2g5WWcya2VKRE5KVHF2d045UGt1MHNSRlhGcXZFWlFIUWQzazZxeWh5aU43S2lRcXpMWHZ5bUpMakZUVDMzd1diYzhOM3JZNUhYcEFNbw?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Nvidia Earnings: What to Watch for on Feb. 25",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlJlTVQxOERkSmdFVVFycWc5eXh0cU5DeXJ6ZHE3c05VdGpBQ1ZScUlCYmtXT2dGVlZLcDRKY1VpY1l5TE41d2J4eWNLei1sU1BiMHlUT3hYV18yNW5DalRVbEl6Z0NTYVVBNWRodWtxeENfS3RMSFMwQnhiM0w5ZkIybzJDMXdGRjRYbkdBVQ?oc=5\" target=\"_blank\">Nvidia Earnings: What to Watch for on Feb. 25</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-25T02:10:00",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlJlTVQxOERkSmdFVVFycWc5eXh0cU5DeXJ6ZHE3c05VdGpBQ1ZScUlCYmtXT2dGVlZLcDRKY1VpY1l5TE41d2J4eWNLei1sU1BiMHlUT3hYV18yNW5DalRVbEl6Z0NTYVVBNWRodWtxeENfS3RMSFMwQnhiM0w5ZkIybzJDMXdGRjRYbkdBVQ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia: Victim Of Its Own Success (NASDAQ:NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE80QUFDMXhLajFOUHpaVlctVnFNX0VaQ0FpTmpJaElOVnZfU3U3RE9xRmJTeTFZeXlLQldJYTJKZi1Sci1fYkNyZWtEX29pUkJZRTdNQkg0SGhLV1J3WFFyY2xXcElxRDdpU1daZE5uZjBaUkVIMFdOS0RGN3U1UQ?oc=5\" target=\"_blank\">Nvidia: Victim Of Its Own Success (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T15:29:17",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80QUFDMXhLajFOUHpaVlctVnFNX0VaQ0FpTmpJaElOVnZfU3U3RE9xRmJTeTFZeXlLQldJYTJKZi1Sci1fYkNyZWtEX29pUkJZRTdNQkg0SGhLV1J3WFFyY2xXcElxRDdpU1daZE5uZjBaUkVIMFdOS0RGN3U1UQ?oc=5"
+    },
+    {
+      "source": "qz.com",
+      "headline": "Nvidia stock: Wall Street analysts stay bullish as traders balk",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1uNmtETHp2VWRJQ0lFd3BGWVE2NzBzTWNxdVFRT1h2WFM2QXNKVGhmTzJUQ2wxTk4tT3MzZ1pKOXNadkRHemJTLV9EeU1YOVhHU0FiR0JnVjk1c1NyODhoN21TZmtmVllNRFZWZzd5aFBRekxnS3c?oc=5\" target=\"_blank\">Nvidia stock: Wall Street analysts stay bullish as traders balk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">qz.com</font>",
+      "date": "2026-02-26T21:46:06",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uNmtETHp2VWRJQ0lFd3BGWVE2NzBzTWNxdVFRT1h2WFM2QXNKVGhmTzJUQ2wxTk4tT3MzZ1pKOXNadkRHemJTLV9EeU1YOVhHU0FiR0JnVjk1c1NyODhoN21TZmtmVllNRFZWZzd5aFBRekxnS3c?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia confirms it's 'finalizing' deal with OpenAI (NVDA:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnR1STFQemZrdG1OekZWalVfTVpzWUtGU2Q3eE5wamZKaUdDaWo0RVE0YjRDOG4wUnphZVhMRVRLWnNJYV9SendGWnZmZGpCbFJ2VXNoZEpla2FUQjRFV05BbDN5aktZTHlxaEVjcEw2eVdWcWpIWUF1Q01hNFJfMHhhb3RJd0RqeUZsWmRn?oc=5\" target=\"_blank\">Nvidia confirms it's 'finalizing' deal with OpenAI (NVDA:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T13:26:05",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSnR1STFQemZrdG1OekZWalVfTVpzWUtGU2Q3eE5wamZKaUdDaWo0RVE0YjRDOG4wUnphZVhMRVRLWnNJYV9SendGWnZmZGpCbFJ2VXNoZEpla2FUQjRFV05BbDN5aktZTHlxaEVjcEw2eVdWcWpIWUF1Q01hNFJfMHhhb3RJd0RqeUZsWmRn?oc=5"
+    },
+    {
+      "source": "Shacknews",
+      "headline": "NVIDIA (NVDA) spent $40.6 billion on share buybacks in FY 2026",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE04aGM3YXUyVXZhT0xRQklQVmo1NEFVOVdfX05sV0J3ejZ0ZGVkZUZ5MUFObHVYVTRqd3ZnaTYzd19idm5nSURfc2hBNDlJOFozUV8waXlNemtZX2RoNGxnNUVCclNoN0UzeWJFZjhKN01LTThnN0U3NkVfVmM1Z9IBiwFBVV95cUxObFRLMXcwNjVTdGNZb2JITFZxRjNRQ09aOTVCRUZXYU1jUWNEd3RRaVNvV005VEtaVndzSXJPeWtCbUd0VVN5Q3Q1LVBuWVNUTXRhakZzbWppSU1NU090d083bkt5X1RZVnFzMXhaWS12UXhBVzNocThmVmpsZlk4X2Q3WEs3UWlVM1NF?oc=5\" target=\"_blank\">NVIDIA (NVDA) spent $40.6 billion on share buybacks in FY 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shacknews</font>",
+      "date": "2026-02-25T22:15:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04aGM3YXUyVXZhT0xRQklQVmo1NEFVOVdfX05sV0J3ejZ0ZGVkZUZ5MUFObHVYVTRqd3ZnaTYzd19idm5nSURfc2hBNDlJOFozUV8waXlNemtZX2RoNGxnNUVCclNoN0UzeWJFZjhKN01LTThnN0U3NkVfVmM1Z9IBiwFBVV95cUxObFRLMXcwNjVTdGNZb2JITFZxRjNRQ09aOTVCRUZXYU1jUWNEd3RRaVNvV005VEtaVndzSXJPeWtCbUd0VVN5Q3Q1LVBuWVNUTXRhakZzbWppSU1NU090d083bkt5X1RZVnFzMXhaWS12UXhBVzNocThmVmpsZlk4X2Q3WEs3UWlVM1NF?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Nvidia Stock Drops 5% Despite Record Results! Analyst Says, \u2018We Still View Shares as Undervalued\u2019",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1NYWHA0WHRhZklnOEZiM3lRdU1Fc202WTV4TVR1ZldLLVotUzB6eTdpeGZuTGp4R1oxX21oRGpWZG5wYTlrQVhsSEFlX1VIRnQwXzNCelVHZXUyT2VyaGpFQk9hUjNhRE1SeWQ3enVOU002bG9iNENoM2R5Z2hVZE9JZ0dfU1YzV201Vm1CUHUxY1VWcmpKVDRuQVM4SnR6aGZuR3JxVEk1YnVmOHNyQVA0U3p3V0R0TFZnOVVjMUE1QUJlVkc3Skh2Zw?oc=5\" target=\"_blank\">Nvidia Stock Drops 5% Despite Record Results! Analyst Says, \u2018We Still View Shares as Undervalued\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-26T16:16:22",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR1NYWHA0WHRhZklnOEZiM3lRdU1Fc202WTV4TVR1ZldLLVotUzB6eTdpeGZuTGp4R1oxX21oRGpWZG5wYTlrQVhsSEFlX1VIRnQwXzNCelVHZXUyT2VyaGpFQk9hUjNhRE1SeWQ3enVOU002bG9iNENoM2R5Z2hVZE9JZ0dfU1YzV201Vm1CUHUxY1VWcmpKVDRuQVM4SnR6aGZuR3JxVEk1YnVmOHNyQVA0U3p3V0R0TFZnOVVjMUE1QUJlVkc3Skh2Zw?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "This Is How NVIDIA Gets to $250 Per Share",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjNwR1Bta2l2X082Um9PSkRfY0phNERldWZsRVdXQW52T0ZsdVpuQXF5UVFlaFZFT3V5UFR1eld1dklPSmhhUmVWUTBZaFJMaF9ZMFNYbERndjVoak9DUTRtLXNfbUVhSnlaRGFCNFNxd0YwaHAwSm04N1Q2bkdpZ3N5bWZZQVRyTU0yYg?oc=5\" target=\"_blank\">This Is How NVIDIA Gets to $250 Per Share</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-26T16:17:32",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjNwR1Bta2l2X082Um9PSkRfY0phNERldWZsRVdXQW52T0ZsdVpuQXF5UVFlaFZFT3V5UFR1eld1dklPSmhhUmVWUTBZaFJMaF9ZMFNYbERndjVoak9DUTRtLXNfbUVhSnlaRGFCNFNxd0YwaHAwSm04N1Q2bkdpZ3N5bWZZQVRyTU0yYg?oc=5"
+    },
+    {
+      "source": "Fortune",
+      "headline": "In Nvidia we trust: \u2018The agentic AI inflection point has arrived,\u2019 says CEO Jensen Huang",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPaXdZUWVZSUR4UzAtcjgtOHQ5TUFXVFpodFhJcG1KbC1SV09OZ3daUzd0M3RCT3BxclZQN0hEbDlTMW5aTVlPdkRwMGFMeUNWMjRfUll6WlJaUHhyUFoyWkVrY04xOWdHUGNQeVhvaEpraG43YXgyeFJGZEVYOXBxVXdR?oc=5\" target=\"_blank\">In Nvidia we trust: \u2018The agentic AI inflection point has arrived,\u2019 says CEO Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>",
+      "date": "2026-02-25T22:49:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaXdZUWVZSUR4UzAtcjgtOHQ5TUFXVFpodFhJcG1KbC1SV09OZ3daUzd0M3RCT3BxclZQN0hEbDlTMW5aTVlPdkRwMGFMeUNWMjRfUll6WlJaUHhyUFoyWkVrY04xOWdHUGNQeVhvaEpraG43YXgyeFJGZEVYOXBxVXdR?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "Analysts\u2019 Top Technology Picks: Nvidia (NVDA), Broadcom (AVGO)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEtueVd1NWIwMlZQVEJpVDFLRnNFQUNxb0tSNFNYcGVCWFNwdUpYX09RWDFTeHRodXVJZGlhVWlJZlhyb2FQb3NJM3VhWHNXa2pfM2lNS3B2SkhHZDJQNm54eWNfMzU2VWJmTU13YU5wc2dzczgxLVFtNlF2MWtjWVBHOXVCcHpXdWJoT2tYWWsyLXNQVlZVcC1WV0llMXFEOVBIUlU0NU9DT2JOYWNJeGlpNUJjaWVUUEFSbzNXejRiWFFHcGpheDBtQWpsRkl4Tm1RaGFaSmk?oc=5\" target=\"_blank\">Analysts\u2019 Top Technology Picks: Nvidia (NVDA), Broadcom (AVGO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-02-27T05:06:11",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEtueVd1NWIwMlZQVEJpVDFLRnNFQUNxb0tSNFNYcGVCWFNwdUpYX09RWDFTeHRodXVJZGlhVWlJZlhyb2FQb3NJM3VhWHNXa2pfM2lNS3B2SkhHZDJQNm54eWNfMzU2VWJmTU13YU5wc2dzczgxLVFtNlF2MWtjWVBHOXVCcHpXdWJoT2tYWWsyLXNQVlZVcC1WV0llMXFEOVBIUlU0NU9DT2JOYWNJeGlpNUJjaWVUUEFSbzNXejRiWFFHcGpheDBtQWpsRkl4Tm1RaGFaSmk?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Nvidia (NVDA) Q4 Earnings Report Preview: What To Look For",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVRRMzZKVGJCV1ZCQ2tmZmRPYUV1S193a2FHZ1NCVGFrUEtSNFZWOUs1MUpmYXVWRC1zUi1rSWNTckF6bmZXREJCaHM5c01meVdEckNFUDVRTmlsMEhkYVR3bGlBX0NvSmFGd0pQOWJ0b1VWWWo3Wk8yY0p0czhFdlRB?oc=5\" target=\"_blank\">Nvidia (NVDA) Q4 Earnings Report Preview: What To Look For</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-24T15:39:16",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVRRMzZKVGJCV1ZCQ2tmZmRPYUV1S193a2FHZ1NCVGFrUEtSNFZWOUs1MUpmYXVWRC1zUi1rSWNTckF6bmZXREJCaHM5c01meVdEckNFUDVRTmlsMEhkYVR3bGlBX0NvSmFGd0pQOWJ0b1VWWWo3Wk8yY0p0czhFdlRB?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia: Jensen Just Called The 'ChatGPT Moment' For Agentic AI - And It Makes The Stock Cheap",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUJfWDR4R19fbGJCNUt6ZXB5X1NENXN3WTRlalpSVm1rck8zdHI1aVdxRzJKaFJEM1RfZXV4MFJ4TFBOaXdKOVBvUVdKNEEzQ3h4WmY0UnVsdGl2dENWcEVmcm1oSXV0YWpYR3E2WFJycUNWbzI0OENrcG42R3ZoNmgwTmF4Yk8zbk1jRjM3STZKeW5uZ3hyT25iM2Y2ZlBLTzJ5anRBaHdnNndQV1JSb0dvODhabGlH?oc=5\" target=\"_blank\">Nvidia: Jensen Just Called The 'ChatGPT Moment' For Agentic AI - And It Makes The Stock Cheap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T16:22:00",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUJfWDR4R19fbGJCNUt6ZXB5X1NENXN3WTRlalpSVm1rck8zdHI1aVdxRzJKaFJEM1RfZXV4MFJ4TFBOaXdKOVBvUVdKNEEzQ3h4WmY0UnVsdGl2dENWcEVmcm1oSXV0YWpYR3E2WFJycUNWbzI0OENrcG42R3ZoNmgwTmF4Yk8zbk1jRjM3STZKeW5uZ3hyT25iM2Y2ZlBLTzJ5anRBaHdnNndQV1JSb0dvODhabGlH?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "NVIDIA (NASDAQ:NVDA) Shares Down 5.5% - Here's What Happened",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbExvcWRtdlNEbUF2aVBPREFPVW0yeUFyS3dKLXB0dk1EV25OSHA5LUtIZ24yQ2NfT0FnZllJQkwyNktYN1dRVXRybXhrV21pWjQ0WUtDYk9kUGhoRGdlMDd0VHVSWDZLanNFbDZEV05ZMlJzYmtzVHVDcF92MGdTXzVpV01ybGdYR2RtTkVpWGlUOV8tU1N0ZWFMQ2VDZldUb0RUX3NkdldFZw?oc=5\" target=\"_blank\">NVIDIA (NASDAQ:NVDA) Shares Down 5.5% - Here's What Happened</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-26T23:05:07",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbExvcWRtdlNEbUF2aVBPREFPVW0yeUFyS3dKLXB0dk1EV25OSHA5LUtIZ24yQ2NfT0FnZllJQkwyNktYN1dRVXRybXhrV21pWjQ0WUtDYk9kUGhoRGdlMDd0VHVSWDZLanNFbDZEV05ZMlJzYmtzVHVDcF92MGdTXzVpV01ybGdYR2RtTkVpWGlUOV8tU1N0ZWFMQ2VDZldUb0RUX3NkdldFZw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia Enjoys Four Key Advantages (NASDAQ:NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBVR05pTTdKT3lQMjdCNXhyUjZ3SlphTUdmYXp2UnRyYkRSUGE0ZHNQSzhUMG1nQVhPT19FcngxREEyVTM2WlN2ck1sRkZBUDF0LXkySEZsNHZNYldGNnpxVFJJZGZaMVZ0elBocVhpaW1ZbGZ6UU1BVGFFNA?oc=5\" target=\"_blank\">Nvidia Enjoys Four Key Advantages (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T15:01:49",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVR05pTTdKT3lQMjdCNXhyUjZ3SlphTUdmYXp2UnRyYkRSUGE0ZHNQSzhUMG1nQVhPT19FcngxREEyVTM2WlN2ck1sRkZBUDF0LXkySEZsNHZNYldGNnpxVFJJZGZaMVZ0elBocVhpaW1ZbGZ6UU1BVGFFNA?oc=5"
+    },
+    {
+      "source": "Tokenist",
+      "headline": "Why Did NVDA Shares Fall Despite Strong Quarterly Results?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWnhBUl9qRmdWbmVLSkRKUTMySXYxT1pUSU9acUVtOEk1WHFDV2NIczREcHVpUUwtYVd2U0VKdEYzOUotMGZ4RWU3V2xXVnZVN0xCUWpSLXJMejJBMVpXdFdReVlhSV80aHVoRjJPVm1sR2FwWWRJUW9hWUltUHJObXg4RHZjdw?oc=5\" target=\"_blank\">Why Did NVDA Shares Fall Despite Strong Quarterly Results?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tokenist</font>",
+      "date": "2026-02-26T15:47:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWnhBUl9qRmdWbmVLSkRKUTMySXYxT1pUSU9acUVtOEk1WHFDV2NIczREcHVpUUwtYVd2U0VKdEYzOUotMGZ4RWU3V2xXVnZVN0xCUWpSLXJMejJBMVpXdFdReVlhSV80aHVoRjJPVm1sR2FwWWRJUW9hWUltUHJObXg4RHZjdw?oc=5"
+    },
+    {
+      "source": "The Globe and Mail",
+      "headline": "Analysts Offer Insights on Technology Companies: Array Technologies (ARRY) and Nvidia (NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPVG00SHFXWmU5VjIxM0hhS0JQQkVRYmY4NWNrcWRpRlliZXRjcUpLN2JZekhTQkVwWEhqaG1uR0xnNmQwOXFSZVRnVW1aWnNibUM3aDVhTEw4ZXM5REd2TFp4Mm5WVHM1QUlXcHc3ZHNzcEZxUm4zelFqU1RzaFNVQ1hRdUs2Zm5ZVXJoMVZjSWhvTVYwTUZwLXJsN0t2bUJHaDJWSkI2SEJDX3BpMkQyZzl4OVpjN21NMUpGVngxQmpLY3B6a2RJc0FnZHNUdUxDakhnNnJyZ2R4VGRMRUJ5QV8xckdKR3pQb01zRjdpa0lxS0t1b0s2WEFGRk05b3Rf?oc=5\" target=\"_blank\">Analysts Offer Insights on Technology Companies: Array Technologies (ARRY) and Nvidia (NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
+      "date": "2026-02-27T04:03:07",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVG00SHFXWmU5VjIxM0hhS0JQQkVRYmY4NWNrcWRpRlliZXRjcUpLN2JZekhTQkVwWEhqaG1uR0xnNmQwOXFSZVRnVW1aWnNibUM3aDVhTEw4ZXM5REd2TFp4Mm5WVHM1QUlXcHc3ZHNzcEZxUm4zelFqU1RzaFNVQ1hRdUs2Zm5ZVXJoMVZjSWhvTVYwTUZwLXJsN0t2bUJHaDJWSkI2SEJDX3BpMkQyZzl4OVpjN21NMUpGVngxQmpLY3B6a2RJc0FnZHNUdUxDakhnNnJyZ2R4VGRMRUJ5QV8xckdKR3pQb01zRjdpa0lxS0t1b0s2WEFGRk05b3Rf?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "NVIDIA\u2019s AI Boom Isn\u2019t Slowing After Blowout Q4",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3ZXcjgxY2ZDVXBhaUVBZlA5ZTZMVTAyLTVuWkRvb1Bha3lLSDNQRFlxS0k1UGJoNzVUXzFxd0sySjJ3OGdwUV8zZ2Q2R0xZb1lfb21YNDk4QVZpbkN2blhjdFBOSWJZY29YRVNlemI5MmVVMDBSZFNtZmpQa1ZObmE3VW9qUEFWX0o4?oc=5\" target=\"_blank\">NVIDIA\u2019s AI Boom Isn\u2019t Slowing After Blowout Q4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-26T15:05:39",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3ZXcjgxY2ZDVXBhaUVBZlA5ZTZMVTAyLTVuWkRvb1Bha3lLSDNQRFlxS0k1UGJoNzVUXzFxd0sySjJ3OGdwUV8zZ2Q2R0xZb1lfb21YNDk4QVZpbkN2blhjdFBOSWJZY29YRVNlemI5MmVVMDBSZFNtZmpQa1ZObmE3VW9qUEFWX0o4?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Broadcom Falls After Nvidia Earnings, but Here\u2019s Why Investors Should Still Buy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFhfQVdEOEx3WUlTYVlkdXBBWllrXzlNWHpUODV3eXlRVlN2Qmt2aTNuazJIY0hlY1RkVkZjWTRIY0h6bEdQb0V5NC1JRVdqdExFcVNfWFVjUTJsU0Q4ZURPWEp2SmpHRFRoSUx5N0dGTkNzNVREMVJfbFdfMWJUYXJnX0VZXzViLXlxSFhlN0VxMFJpVzBpc0ZuTlhOQ0EydjBVQXNPNmFZcmNHUnBPZ2V1ejZLX21QMEhBb01R?oc=5\" target=\"_blank\">Broadcom Falls After Nvidia Earnings, but Here\u2019s Why Investors Should Still Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-26T17:08:58",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFhfQVdEOEx3WUlTYVlkdXBBWllrXzlNWHpUODV3eXlRVlN2Qmt2aTNuazJIY0hlY1RkVkZjWTRIY0h6bEdQb0V5NC1JRVdqdExFcVNfWFVjUTJsU0Q4ZURPWEp2SmpHRFRoSUx5N0dGTkNzNVREMVJfbFdfMWJUYXJnX0VZXzViLXlxSFhlN0VxMFJpVzBpc0ZuTlhOQ0EydjBVQXNPNmFZcmNHUnBPZ2V1ejZLX21QMEhBb01R?oc=5"
+    },
+    {
+      "source": "Barchart.com",
+      "headline": "\u2018The Collapse of Everything AI\u2019 Could Hinge on Nvidia\u2019s Earnings. What Wall Street Expects from NVDA Stock.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOazlQcjd2MGNKX1RJV3RKRUZSYlZEck9XV2xDcmg4bEVWeTlldjduZ2VjQ0Z2eTZYRUdoYy1DVGZ4bUdRV1FZc0JyeWNrUkRhSGs5NFlFVlVPcUJjMU1tbVN0Z3pPSGQ4OE1KQXcyWmk5SUwzbEF2Uk5faEtCaVBJZmQwb2hOZC1qdnJvM2hWTkZickVWVlBYb00wSV9zcFFRWTloSXVzUXhtNmRQRXpjWERMQ3JMaWI1ZHQxV0lnM2xGYW9YdXJ0d0d6RWhCRlVoUkc1WTBWNFBqYWFLY1E?oc=5\" target=\"_blank\">\u2018The Collapse of Everything AI\u2019 Could Hinge on Nvidia\u2019s Earnings. What Wall Street Expects from NVDA Stock.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "date": "2026-02-25T15:56:00",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOazlQcjd2MGNKX1RJV3RKRUZSYlZEck9XV2xDcmg4bEVWeTlldjduZ2VjQ0Z2eTZYRUdoYy1DVGZ4bUdRV1FZc0JyeWNrUkRhSGs5NFlFVlVPcUJjMU1tbVN0Z3pPSGQ4OE1KQXcyWmk5SUwzbEF2Uk5faEtCaVBJZmQwb2hOZC1qdnJvM2hWTkZickVWVlBYb00wSV9zcFFRWTloSXVzUXhtNmRQRXpjWERMQ3JMaWI1ZHQxV0lnM2xGYW9YdXJ0d0d6RWhCRlVoUkc1WTBWNFBqYWFLY1E?oc=5"
+    },
+    {
+      "source": "The Economic Times",
+      "headline": "Big Nvidia (NVDA) Q4 earnings today: here\u2019s what investors will watch from the Jensen Huang-led chip giant",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxPaFQtaWRlRWxsVWVUemJpNmVwcUxHRXl4SFM5WjlXTTFBZFdwOW1hOVBxdmVseGNxSnlFdTZ5NXlmV19wT0Qtb2EyN1NPQnByZkdqTEtxSm1KNFVoOGJKZjV5Vkt3em5vTGlZdzFmUEY4SUNwNnFnMW81WWpfT2VGSHJmakFkTGtZcDRTd0lDQzd1Y3dWNkRuMTdhZlJucnNSSm5JZ3g2bXowNGNqdXFRTTJqSVVDYzRnVEpKcWxaMU9Tc2l2aC1CZEVFVUFLZ3FtbldJc0I4c3FraWItcUNmekV2NlgxMnlvVk83d0JzOFgtVWtlN3REWEJpdTZ0LVVfQ2FjRTh4bVUxYmhISEFEQWtjQ0tmbHFFeU1xQ2t3S2Vxa3c30gGqAkFVX3lxTE9CY2ViaER3ZlJSaDhFM0xhbjl5eVFJdENQS3N2MzV1cm5NOXl4MUgtT05tZGd1Q1BWX3hfX2NvZVpNU2E0c3BoYm16WHN1dU1jdmkxYWRENF83SlUxdTJNQzd0QU9QQW1EU005S0FhaE9WSGJHWllISVRnSllEa0RUUkdzYXJLZzZXZTJLeWRrQkhiRGN0UnI2LWh3ZTRUQzlySVBnOWphSlIySEoydGlneEtBbEk3Z3ZUdXFGVXk2VkhLX2Y3ckFaMkZIMlVYQ0hXbEVpNEJ2ODM1eTJjamJaaU95WlVUS2k4YUFDOUN6YXRTSWowTV9zRnM1WlVMUTIxeVNQNVF4a1RManFaWHpGQjJGSU0wNTFBLTJ3alpNQ3RMN1pLbHM5TXc?oc=5\" target=\"_blank\">Big Nvidia (NVDA) Q4 earnings today: here\u2019s what investors will watch from the Jensen Huang-led chip giant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+      "date": "2026-02-25T12:10:41",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPaFQtaWRlRWxsVWVUemJpNmVwcUxHRXl4SFM5WjlXTTFBZFdwOW1hOVBxdmVseGNxSnlFdTZ5NXlmV19wT0Qtb2EyN1NPQnByZkdqTEtxSm1KNFVoOGJKZjV5Vkt3em5vTGlZdzFmUEY4SUNwNnFnMW81WWpfT2VGSHJmakFkTGtZcDRTd0lDQzd1Y3dWNkRuMTdhZlJucnNSSm5JZ3g2bXowNGNqdXFRTTJqSVVDYzRnVEpKcWxaMU9Tc2l2aC1CZEVFVUFLZ3FtbldJc0I4c3FraWItcUNmekV2NlgxMnlvVk83d0JzOFgtVWtlN3REWEJpdTZ0LVVfQ2FjRTh4bVUxYmhISEFEQWtjQ0tmbHFFeU1xQ2t3S2Vxa3c30gGqAkFVX3lxTE9CY2ViaER3ZlJSaDhFM0xhbjl5eVFJdENQS3N2MzV1cm5NOXl4MUgtT05tZGd1Q1BWX3hfX2NvZVpNU2E0c3BoYm16WHN1dU1jdmkxYWRENF83SlUxdTJNQzd0QU9QQW1EU005S0FhaE9WSGJHWllISVRnSllEa0RUUkdzYXJLZzZXZTJLeWRrQkhiRGN0UnI2LWh3ZTRUQzlySVBnOWphSlIySEoydGlneEtBbEk3Z3ZUdXFGVXk2VkhLX2Y3ckFaMkZIMlVYQ0hXbEVpNEJ2ODM1eTJjamJaaU95WlVUS2k4YUFDOUN6YXRTSWowTV9zRnM1WlVMUTIxeVNQNVF4a1RManFaWHpGQjJGSU0wNTFBLTJ3alpNQ3RMN1pLbHM5TXc?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia: The 3 Horsemen Of Tokenomics Optimization (Rating Upgrade) (NASDAQ:NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlNtNjh1bVh3OTg5aHpKVGJIYWpqd1NFU0JobW9PcDlicWt2czN4WVF3SzRtRzduY2xnb3Y3cUNac1pQVHpsa3dpMndISGxRclk1WllJb1l4V2ZIS3RpOXhBbFlMazlvUjctX2NUd2NMdjNhZkRTU2ExZkY3a25qakhEYmdad3d5UjYtNEQ4WXVIYXRSeEpjRm9RSEZFOFFIbWtubGRBNA?oc=5\" target=\"_blank\">Nvidia: The 3 Horsemen Of Tokenomics Optimization (Rating Upgrade) (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T19:14:25",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlNtNjh1bVh3OTg5aHpKVGJIYWpqd1NFU0JobW9PcDlicWt2czN4WVF3SzRtRzduY2xnb3Y3cUNac1pQVHpsa3dpMndISGxRclk1WllJb1l4V2ZIS3RpOXhBbFlMazlvUjctX2NUd2NMdjNhZkRTU2ExZkY3a25qakhEYmdad3d5UjYtNEQ4WXVIYXRSeEpjRm9RSEZFOFFIbWtubGRBNA?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Jim Cramer is Still Enthusiastic About NVIDIA (NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3JlS1VWRDJJWFpFeFpSYjNoMFVsT3AyaTZhRnFla3R1UDlybHRBMlJpc3lJTHRiVGdES01ZNlF3SnNxa202MWpBQlA1ak5MYjQ0Tnh1R0s2MDBMTGJydUhLcXlTMklOR09nRWhRZTh1ZXVEZERBU2UtNDliSDdPdXBfRU1FUXI5eVE?oc=5\" target=\"_blank\">Jim Cramer is Still Enthusiastic About NVIDIA (NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-25T16:33:54",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3JlS1VWRDJJWFpFeFpSYjNoMFVsT3AyaTZhRnFla3R1UDlybHRBMlJpc3lJTHRiVGdES01ZNlF3SnNxa202MWpBQlA1ak5MYjQ0Tnh1R0s2MDBMTGJydUhLcXlTMklOR09nRWhRZTh1ZXVEZERBU2UtNDliSDdPdXBfRU1FUXI5eVE?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Is NVIDIA (NVDA) Outperforming Other Computer and Technology Stocks This Year?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVktjVUFPLWxGcllBbGNmN1FsUnBTOUt3RmFTR0pLR0tvVXozZFFSOU96TW1XTy1YR1ktcVUwaWpNYjA5d2RRdzAzZk00UzdOVmNYNW5wUDJ6MHVSUXBTbjdEMGt1blpZZ1pIODVUZzZZcFRzd0h3bk1IWmVpTEVjNkhXZi1HNzdGT05RY1dWdw?oc=5\" target=\"_blank\">Is NVIDIA (NVDA) Outperforming Other Computer and Technology Stocks This Year?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-24T14:40:03",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVktjVUFPLWxGcllBbGNmN1FsUnBTOUt3RmFTR0pLR0tvVXozZFFSOU96TW1XTy1YR1ktcVUwaWpNYjA5d2RRdzAzZk00UzdOVmNYNW5wUDJ6MHVSUXBTbjdEMGt1blpZZ1pIODVUZzZZcFRzd0h3bk1IWmVpTEVjNkhXZi1HNzdGT05RY1dWdw?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "After Strong Earnings, Nvidia (NVDA) CEO Rejects AI Software Panic as Stocks Slide",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkZ1ZWR5Mm9xLU1iWGMtWmRZMlNKNTNwVnJfQU1kaE9ZNUJlRGV3Vy1sUE40bXFSRHNKbm9kOTJKR0d3SU9MYmFzMHN0LTYxdWF4SFhoZFhSMHlZclJ5b2xERkNqYjhteXBjWGJfaWpJUFVuRHQ0RTFlMkpwMGJWNGNhOVpCamR0MmNmRTA2OWNWem1JWDljSEcxUkVzd2JwRERUUFJjTm9oSU5adFE?oc=5\" target=\"_blank\">After Strong Earnings, Nvidia (NVDA) CEO Rejects AI Software Panic as Stocks Slide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-26T12:01:58",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkZ1ZWR5Mm9xLU1iWGMtWmRZMlNKNTNwVnJfQU1kaE9ZNUJlRGV3Vy1sUE40bXFSRHNKbm9kOTJKR0d3SU9MYmFzMHN0LTYxdWF4SFhoZFhSMHlZclJ5b2xERkNqYjhteXBjWGJfaWpJUFVuRHQ0RTFlMkpwMGJWNGNhOVpCamR0MmNmRTA2OWNWem1JWDljSEcxUkVzd2JwRERUUFJjTm9oSU5adFE?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "\u201cHigh-Bar Earnings Setup\u201d: HSBC Analyst Stays Positive as Nvidia (NVDA) Heads into Q4 Results",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQaG94Z29uemZFU0F0TzIzaVFnNnNfWkZ2LXlxVElmWVhNMFhLdVliWlB3U1RROUkyXzkxbEJ5eHNwYW1rZ2FCRVhrYzYzbDZmb2IxU3k3YnZTS3JNVmdxc1c5bGZ4cGkxWjcwbG5pTFowNG5vX0hsUFJLMlI2QkFvUU1CbmtoRHFJNjFzRm1sSDZ1VHFDQVBEYkswcmZaNkh1UlItNW1hVTllZkFJV1FpcTgtazZVOGgtcFE?oc=5\" target=\"_blank\">\u201cHigh-Bar Earnings Setup\u201d: HSBC Analyst Stays Positive as Nvidia (NVDA) Heads into Q4 Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-24T21:36:42",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaG94Z29uemZFU0F0TzIzaVFnNnNfWkZ2LXlxVElmWVhNMFhLdVliWlB3U1RROUkyXzkxbEJ5eHNwYW1rZ2FCRVhrYzYzbDZmb2IxU3k3YnZTS3JNVmdxc1c5bGZ4cGkxWjcwbG5pTFowNG5vX0hsUFJLMlI2QkFvUU1CbmtoRHFJNjFzRm1sSDZ1VHFDQVBEYkswcmZaNkh1UlItNW1hVTllZkFJV1FpcTgtazZVOGgtcFE?oc=5"
+    },
+    {
+      "source": "Quiver Quantitative",
+      "headline": "Nvidia (NVDA) Earnings Loom as Tech Stocks Face Worst Start Since 2022",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenVkYjVXNVpZOFZuNjdXTXRKeGJNMGtzSEV2U2d0UTVaUVhWeWR3R3NYQjRscGJjME1qVUpTOEVJdEhJeDJRRE40Mm5TLXFVd2ZFdUZZMmxkaTB1aW1FQktzUEdiQTVXSWhyTnVlX08xcGQxeWU1QlpiTFBKcUtOVkNlMjJ2SDZFLTRqRzBkVHRWLTROU1RjTzhVMDhGbVV2d1pCV0xaZkRPTUk?oc=5\" target=\"_blank\">Nvidia (NVDA) Earnings Loom as Tech Stocks Face Worst Start Since 2022</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "date": "2026-02-25T16:29:00",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenVkYjVXNVpZOFZuNjdXTXRKeGJNMGtzSEV2U2d0UTVaUVhWeWR3R3NYQjRscGJjME1qVUpTOEVJdEhJeDJRRE40Mm5TLXFVd2ZFdUZZMmxkaTB1aW1FQktzUEdiQTVXSWhyTnVlX08xcGQxeWU1QlpiTFBKcUtOVkNlMjJ2SDZFLTRqRzBkVHRWLTROU1RjTzhVMDhGbVV2d1pCV0xaZkRPTUk?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "'Big Short' Investor Michael Burry Draws Parallel Between Nvidia and This 1920s Era Hot Stock: 'You Would Have Lost Money\u2026'",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzRBUUp0RWNPLThTbkhmMng2LWJpY0JxNnZsa1dDV1BJYUlnc2UyTmVmVFA0TUNNYjI4M0lqa2kyNFg4TDBWNDExYmw5eXJMdXppMGZ4bGo1clQ1am16Uy12aTBVT0V2azN3MEFvdF9NVkVkdkpDSVN0YUVIYzRTSDkxUkc?oc=5\" target=\"_blank\">'Big Short' Investor Michael Burry Draws Parallel Between Nvidia and This 1920s Era Hot Stock: 'You Would Have Lost Money\u2026'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-25T22:30:42",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzRBUUp0RWNPLThTbkhmMng2LWJpY0JxNnZsa1dDV1BJYUlnc2UyTmVmVFA0TUNNYjI4M0lqa2kyNFg4TDBWNDExYmw5eXJMdXppMGZ4bGo1clQ1am16Uy12aTBVT0V2azN3MEFvdF9NVkVkdkpDSVN0YUVIYzRTSDkxUkc?oc=5"
+    },
+    {
+      "source": "Meyka",
+      "headline": "NVDA Stock Today: Record Q4, $78B Q1 Guide Ex-China \u2013 February 26",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVUlsVmVVdjBqTk42S3BtNGFFSDVma0V4THdGSWtmbVN4UE5LN3RkYnFtZExmVmNaVVJmNlBzSjI2dWY4QzB5VWYtYm5FLWh3OUU0XzY1bWdVeDBvbTlwT21JbEFDcmtTUGJyU1B5WUlXcmZmRjRsbDk1UlhrcjJDM3czdWpYVjVEOUNDMjhsRW5zdGM?oc=5\" target=\"_blank\">NVDA Stock Today: Record Q4, $78B Q1 Guide Ex-China \u2013 February 26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+      "date": "2026-02-26T22:46:52",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVUlsVmVVdjBqTk42S3BtNGFFSDVma0V4THdGSWtmbVN4UE5LN3RkYnFtZExmVmNaVVJmNlBzSjI2dWY4QzB5VWYtYm5FLWh3OUU0XzY1bWdVeDBvbTlwT21JbEFDcmtTUGJyU1B5WUlXcmZmRjRsbDk1UlhrcjJDM3czdWpYVjVEOUNDMjhsRW5zdGM?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia: Growth Acceleration, FCF Surge, Agentic AI (NASDAQ:NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWFld2dwTEpxWXZyS1ZnUGZwOGFwcXhpX2NKcHMwNUlBX0pyeEtJb29YVzAtRmxRTThabXBoYWdqYVNlVkdqdzdtN2RTUWtwV0VxbjBTSGV2dXg2bEk0ZHJjcThJZkU3ajZLQk5RNVg4VllTWXdEM3JKQUxYWVpxaS11bmtaSnQ3T1ZJUEw4UUt3UQ?oc=5\" target=\"_blank\">Nvidia: Growth Acceleration, FCF Surge, Agentic AI (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T13:45:59",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWFld2dwTEpxWXZyS1ZnUGZwOGFwcXhpX2NKcHMwNUlBX0pyeEtJb29YVzAtRmxRTThabXBoYWdqYVNlVkdqdzdtN2RTUWtwV0VxbjBTSGV2dXg2bEk0ZHJjcThJZkU3ajZLQk5RNVg4VllTWXdEM3JKQUxYWVpxaS11bmtaSnQ3T1ZJUEw4UUt3UQ?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "NVDA Earnings: Nvidia Stock Rises after Topping Estimates",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZC1obVcwUTExUFc4ekJnZjB1WGRsSUFtcm80VG95TFh0T2xoUWhuNlpPdmZZZkJWSUVsek8xWVZQQWpoZkI5QkxjdFZrakE2bnhiNkxibDNvSFZVai15eDZxWi1NVFhsNzU5bVptREJCTDlXZ1V4U3ZmSVU0VW9ZNWVVRlVZbWFBZWYyLU1ENA?oc=5\" target=\"_blank\">NVDA Earnings: Nvidia Stock Rises after Topping Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-25T23:06:26",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZC1obVcwUTExUFc4ekJnZjB1WGRsSUFtcm80VG95TFh0T2xoUWhuNlpPdmZZZkJWSUVsek8xWVZQQWpoZkI5QkxjdFZrakE2bnhiNkxibDNvSFZVai15eDZxWi1NVFhsNzU5bVptREJCTDlXZ1V4U3ZmSVU0VW9ZNWVVRlVZbWFBZWYyLU1ENA?oc=5"
+    },
+    {
+      "source": "MEXC",
+      "headline": "Nvidia (NVDA) Stock Rises After Q4 Earnings and Guidance Beat \u2013 Data Center Revenue Up 75%",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hdmhkMWpQc0FCaEtGZGZIRVJhTEZtYWVYX2ZhSTR6QXRHZldrU250S0g0WGlya1hzOUJwV2JsUUJqdF85ZTI0?oc=5\" target=\"_blank\">Nvidia (NVDA) Stock Rises After Q4 Earnings and Guidance Beat \u2013 Data Center Revenue Up 75%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "date": "2026-02-26T10:50:12",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hdmhkMWpQc0FCaEtGZGZIRVJhTEZtYWVYX2ZhSTR6QXRHZldrU250S0g0WGlya1hzOUJwV2JsUUJqdF85ZTI0?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Nvidia stock drops 5.5% after earnings beat as investors question AI payoff",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2ZmZWkxOTBRWFg0LV8wTGpNY1p6bTdGQ0pDcFlEV2EwWkMxRjlsNjNONXUyemhVLXRlMkxrUDk2VVVDdUZaRnFTRDdaWGx2LW9wNnQwUzE0X25vT0J2eU1YTUtvZlJRUjU3b1QtSml4UGpQOWhGYXdCUEZYWXdlZ181d2dkbXRXNWFFWjZOTnRiclF4MTBnWWJUTQ?oc=5\" target=\"_blank\">Nvidia stock drops 5.5% after earnings beat as investors question AI payoff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-26T23:02:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU2ZmZWkxOTBRWFg0LV8wTGpNY1p6bTdGQ0pDcFlEV2EwWkMxRjlsNjNONXUyemhVLXRlMkxrUDk2VVVDdUZaRnFTRDdaWGx2LW9wNnQwUzE0X25vT0J2eU1YTUtvZlJRUjU3b1QtSml4UGpQOWhGYXdCUEZYWXdlZ181d2dkbXRXNWFFWjZOTnRiclF4MTBnWWJUTQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "NVIDIA's (NVDA) Buy Rating Reiterated at Benchmark",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZThPRW5reWJfNXVJR2Rybmo2blU3S1RNREZVbm9qWEJnc1Q1dzVCeFp5Y293ZWlnSlpyUHhVanp6dlVpcl9hWEdnY29VdEpmYW5YTUk2ejFlbHpELUFWdUt2NkJSQkFoOXhLY1lpelZObXY4TXhpRTlMbjZSbzBqTGl2Q0Z3V2hsX2tMdzVNeF8tTW82bERLbHFqWXY5ajVpQUJF?oc=5\" target=\"_blank\">NVIDIA's (NVDA) Buy Rating Reiterated at Benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-26T14:15:16",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZThPRW5reWJfNXVJR2Rybmo2blU3S1RNREZVbm9qWEJnc1Q1dzVCeFp5Y293ZWlnSlpyUHhVanp6dlVpcl9hWEdnY29VdEpmYW5YTUk2ejFlbHpELUFWdUt2NkJSQkFoOXhLY1lpelZObXY4TXhpRTlMbjZSbzBqTGl2Q0Z3V2hsX2tMdzVNeF8tTW82bERLbHFqWXY5ajVpQUJF?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Here's Why Nvidia (NVDA) is a Strong Growth Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZ0pKc05EMTRTMXZsQXhBWEI4dDROQmh6ZlFsZ0dIR1BnRFlrOWJUdnBhWjA1bjZ4WThqSENjQmlNQjRmb0J0d0V2SzdqV1NlbGFZeXFaRllTN2g1a1k0bnFFdFU0TzUzYTgzbTZleGI2cEduajJ4Wkh6T0FMYkk?oc=5\" target=\"_blank\">Here's Why Nvidia (NVDA) is a Strong Growth Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-25T14:45:03",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZ0pKc05EMTRTMXZsQXhBWEI4dDROQmh6ZlFsZ0dIR1BnRFlrOWJUdnBhWjA1bjZ4WThqSENjQmlNQjRmb0J0d0V2SzdqV1NlbGFZeXFaRllTN2g1a1k0bnFFdFU0TzUzYTgzbTZleGI2cEduajJ4Wkh6T0FMYkk?oc=5"
+    },
+    {
+      "source": "AOL.com",
+      "headline": "Should You Buy Nvidia (NVDA) Stock Before Aug. 27? Here's What History Says.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9vTDdyNGZtQl9qWVJOd3pPRHRNOGktekRjck90TlFlTzFVdTNVY0dxYjJKQUVPNkFLVFBvQWJETWx2UXMycUxGSVczdFFtTUpRa2t2QXNHaFdrU3ZDRkkyX3p1Z1drcXlnZ3gtOQ?oc=5\" target=\"_blank\">Should You Buy Nvidia (NVDA) Stock Before Aug. 27? Here's What History Says.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "date": "2026-02-25T12:40:01",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vTDdyNGZtQl9qWVJOd3pPRHRNOGktekRjck90TlFlTzFVdTNVY0dxYjJKQUVPNkFLVFBvQWJETWx2UXMycUxGSVczdFFtTUpRa2t2QXNHaFdrU3ZDRkkyX3p1Z1drcXlnZ3gtOQ?oc=5"
+    },
+    {
+      "source": "FOREX.com",
+      "headline": "Nvidia Earnings Preview: Can NVDA Revive the AI Trade?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTlzcEoyU3NINVJBUzIyLVpqdnd3c2otMTJrNjF2M01yMkg1dElkdFRaNGdmVjRSaG1MZUNlZWpqNE5uV2hoVHQ0dk5mSmpBUFZQczhFN25qVlZSU3M3SXAxS0l4V3hsdUZnZDZsd2JqRkxvazVEeWxVcTFkZXQyQUxDNjk0emZVQmItb1JadE5sZHhPRllraUZEdjFUenJr0gGsAUFVX3lxTE9YdHNRZFZwckxYVktocmhHNzJPMmhNUjNrTDkwWmRzVDZWX05nS2Fid2hkYlBwek5kaUJqcklXczg0T09EaVZpNjJTMGZwOXJTLWM5amFSd1djM1pyWGxiSFprVGZzcy1ZeU9jS1F4UENOMER2Y2pwOHgyczVSaVQzS0N5REl6ZWV1cFo4SW1ZeVBjNXJsdDA0MkZFaXZxSWZaaW14SmRjY3J1RnM?oc=5\" target=\"_blank\">Nvidia Earnings Preview: Can NVDA Revive the AI Trade?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOREX.com</font>",
+      "date": "2026-02-23T16:30:03",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTlzcEoyU3NINVJBUzIyLVpqdnd3c2otMTJrNjF2M01yMkg1dElkdFRaNGdmVjRSaG1MZUNlZWpqNE5uV2hoVHQ0dk5mSmpBUFZQczhFN25qVlZSU3M3SXAxS0l4V3hsdUZnZDZsd2JqRkxvazVEeWxVcTFkZXQyQUxDNjk0emZVQmItb1JadE5sZHhPRllraUZEdjFUenJr0gGsAUFVX3lxTE9YdHNRZFZwckxYVktocmhHNzJPMmhNUjNrTDkwWmRzVDZWX05nS2Fid2hkYlBwek5kaUJqcklXczg0T09EaVZpNjJTMGZwOXJTLWM5amFSd1djM1pyWGxiSFprVGZzcy1ZeU9jS1F4UENOMER2Y2pwOHgyczVSaVQzS0N5REl6ZWV1cFo4SW1ZeVBjNXJsdDA0MkZFaXZxSWZaaW14SmRjY3J1RnM?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Nvidia Q4 Earnings Preview: High Stakes For The AI Standard Bearer (NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPalBtWkw2Tl8wYXpFa3lvREpCT19MMGx0UXpvRWhQbDVTZ0xDVE5Lb0tBdlpvWjRDQWMtX3R1c0NSYVVuS1p0cFJ3NTY4NVctcUl4dzRpaVJEaG9YcU9mTlA0MjU5R0lzVDJMdjdQYTR3OTAwWGlDdEhWM01oZU12emtHRVNIS01DWlFEcGtqMjFxRVFqUEk2WHl6elVsSVU?oc=5\" target=\"_blank\">Nvidia Q4 Earnings Preview: High Stakes For The AI Standard Bearer (NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-24T15:28:00",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPalBtWkw2Tl8wYXpFa3lvREpCT19MMGx0UXpvRWhQbDVTZ0xDVE5Lb0tBdlpvWjRDQWMtX3R1c0NSYVVuS1p0cFJ3NTY4NVctcUl4dzRpaVJEaG9YcU9mTlA0MjU5R0lzVDJMdjdQYTR3OTAwWGlDdEhWM01oZU12emtHRVNIS01DWlFEcGtqMjFxRVFqUEk2WHl6elVsSVU?oc=5"
+    },
+    {
+      "source": "Schaeffer's Investment Research",
+      "headline": "How Are Options Traders Playing Nvidia's Post-Earnings Slump?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlc3VU43VWdhd1p4QS0zajNFMnRBZ0N2QnFwS0NVM1MyYThteHgtLXcya2pYQVJfdm5iNmhDVDlBMDlOM055R0VqRHRseDJfSjctX0VncVk0M080WUEycklKR3ViVjJBUXY5Y2xtV2k5dTJJeXQ0UVB2Y2pTc1BDeTliQ2lBMld1V09PLVFPaTlLeTllNjliMGhYQ2ZIUV9NZkRPY1gybk9ldVZDOXIxRjhHTXpNMXdMU1E?oc=5\" target=\"_blank\">How Are Options Traders Playing Nvidia's Post-Earnings Slump?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Schaeffer's Investment Research</font>",
+      "date": "2026-02-26T15:34:51",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUlc3VU43VWdhd1p4QS0zajNFMnRBZ0N2QnFwS0NVM1MyYThteHgtLXcya2pYQVJfdm5iNmhDVDlBMDlOM055R0VqRHRseDJfSjctX0VncVk0M080WUEycklKR3ViVjJBUXY5Y2xtV2k5dTJJeXQ0UVB2Y2pTc1BDeTliQ2lBMld1V09PLVFPaTlLeTllNjliMGhYQ2ZIUV9NZkRPY1gybk9ldVZDOXIxRjhHTXpNMXdMU1E?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "U.S. Stock Futures Steady as Investors Digest Nvidia and Salesforce Earnings",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVVDUjJnckxXTTBzOTBHNHBpRDFUZTdwRUhncWw1cXFoZ1g0ZjdyQXR3d1h1WlBhcHJ5STJVZmtORHBCTWtBeTNZcy1ydGxPNnA0bzBtS0VJVC1RY1JSSE13aUdHbDVSZE1UVklucXBRaVBsUnVtOVd2czdCcmI5czJSSDRLU2FfeHEweVhXZFNDN3BLTmZJbm5DZ25RdmhNbktwa05wNGI?oc=5\" target=\"_blank\">U.S. Stock Futures Steady as Investors Digest Nvidia and Salesforce Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-25T23:30:40",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVVDUjJnckxXTTBzOTBHNHBpRDFUZTdwRUhncWw1cXFoZ1g0ZjdyQXR3d1h1WlBhcHJ5STJVZmtORHBCTWtBeTNZcy1ydGxPNnA0bzBtS0VJVC1RY1JSSE13aUdHbDVSZE1UVklucXBRaVBsUnVtOVd2czdCcmI5czJSSDRLU2FfeHEweVhXZFNDN3BLTmZJbm5DZ25RdmhNbktwa05wNGI?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Nvidia (NVDA) stock price snaps back after early dip as earnings test looms",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3ZLeE56UjRmLXJwUTZlcE05S0ZvZnNfaDBteTNjWkhlSkwzckpCYnlfZGhqajV4MGZ1Q3R1X3hnZGFkU1d2bkdGQWw5eGNncnowZkpiRHhYNS1lZzVKVnJGRUVHMjd2bW5neVg5clBCajNQd3lUVzFoU3lsV18tMzdMWjRkOVhiSkVCZHZVemU2LWZES3Jad01R?oc=5\" target=\"_blank\">Nvidia (NVDA) stock price snaps back after early dip as earnings test looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-24T21:26:32",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3ZLeE56UjRmLXJwUTZlcE05S0ZvZnNfaDBteTNjWkhlSkwzckpCYnlfZGhqajV4MGZ1Q3R1X3hnZGFkU1d2bkdGQWw5eGNncnowZkpiRHhYNS1lZzVKVnJGRUVHMjd2bW5neVg5clBCajNQd3lUVzFoU3lsV18tMzdMWjRkOVhiSkVCZHZVemU2LWZES3Jad01R?oc=5"
+    },
+    {
+      "source": "Trefis",
+      "headline": "What Could Light a Fire Under NVIDIA Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGNRNEphUHNXWm5vRHZWOEh6bEppclFHQVhOTVV5cUFSdEc4RnlFQzhpMEJ5VGFaUTFGSkVNMDAwVUp5dUJZbFVJZHlVWlZHR0VYZUNrU3I1Y1FMQ0hMXzY5M0pSWW1kV3dzU3l5cm96d2NRcnJGRmJybWRydGpUYWtTVGc0STc5Uk5KRGZnT0h6VFRmNEJuTV9lT19SRHM0Y2lVOTJaVkhZcElPdXdKd3B3?oc=5\" target=\"_blank\">What Could Light a Fire Under NVIDIA Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+      "date": "2026-02-26T07:02:19",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGNRNEphUHNXWm5vRHZWOEh6bEppclFHQVhOTVV5cUFSdEc4RnlFQzhpMEJ5VGFaUTFGSkVNMDAwVUp5dUJZbFVJZHlVWlZHR0VYZUNrU3I1Y1FMQ0hMXzY5M0pSWW1kV3dzU3l5cm96d2NRcnJGRmJybWRydGpUYWtTVGc0STc5Uk5KRGZnT0h6VFRmNEJuTV9lT19SRHM0Y2lVOTJaVkhZcElPdXdKd3B3?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Should You Forget IonQ and Buy These 2 Tech Stocks Instead?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2s5Y0hKWF9scUQ0Uk9qT3NUUVB6VXZyYS00WjRDTFMtNW0yZVlMTHBYNnAyLUdsSDZCZkpLYWRieFFoc1lIQjI4aTRvbmc4a0xxWjlUcGp0VDFlZUtUTjhURzQzWWRqWEFVQjd1TnRZZzV2U2pvb3d3bmNReFpKVVhERnBGUEFtRUwwQk1KN1luSEVFOXJUVg?oc=5\" target=\"_blank\">Should You Forget IonQ and Buy These 2 Tech Stocks Instead?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-25T18:45:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2s5Y0hKWF9scUQ0Uk9qT3NUUVB6VXZyYS00WjRDTFMtNW0yZVlMTHBYNnAyLUdsSDZCZkpLYWRieFFoc1lIQjI4aTRvbmc4a0xxWjlUcGp0VDFlZUtUTjhURzQzWWRqWEFVQjd1TnRZZzV2U2pvb3d3bmNReFpKVVhERnBGUEFtRUwwQk1KN1luSEVFOXJUVg?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "NVIDIA Corporation 2026 Q4 - Results - Earnings Call Presentation (NASDAQ:NVDA) 2026-02-26",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTJVWkdpSnRIRUN4bVItVVRhTVM0Z09kQm9leDlWUDFBYlZfNVVlMTcwWmQ5S0ZqNmNFNjk1WFhlZzF5c2hXcWNKM0Y0aVFlZnM5XzM3MWcxUE11Y2pTQXF0TS1zemdHNjhjaXE2SWlaYkpwakVNcml4ejdOdlE4RUVrWlVBeVR0Z1ZndEl3NXhscnZHdTNTSC1mOV9FcjhnRElzSg?oc=5\" target=\"_blank\">NVIDIA Corporation 2026 Q4 - Results - Earnings Call Presentation (NASDAQ:NVDA) 2026-02-26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-26T10:05:00",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTJVWkdpSnRIRUN4bVItVVRhTVM0Z09kQm9leDlWUDFBYlZfNVVlMTcwWmQ5S0ZqNmNFNjk1WFhlZzF5c2hXcWNKM0Y0aVFlZnM5XzM3MWcxUE11Y2pTQXF0TS1zemdHNjhjaXE2SWlaYkpwakVNcml4ejdOdlE4RUVrWlVBeVR0Z1ZndEl3NXhscnZHdTNTSC1mOV9FcjhnRElzSg?oc=5"
+    },
+    {
+      "source": "TradingView",
+      "headline": "NVDA: Nvidia Stock Steady Despite Record Revenue, 94% Profit Jump",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ25vMVNwakNkRndkQ1FoRkhWeFZnODN3eFpGNUdRZzRnS0tTWXVGdjhPZnUyajZCbkpQTlJkUTJRbEhjNDZkSnRRUUFTU0xKZHZLU0JYQ0gyNnV4Wm5qTXNhYXNyS0hrLWY5cnNaVVI2VUxkM1lHbTdkMnY4bnFTNUJaNHphcEZPWmtsS05MUDVvT0NoM0IyRHByZS1BZ3RRa1Z6dnFJSVJHWUIyMGFDTFp0UTltSktkTDBUOHBJM0JvQQ?oc=5\" target=\"_blank\">NVDA: Nvidia Stock Steady Despite Record Revenue, 94% Profit Jump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "date": "2026-02-26T07:32:00",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ25vMVNwakNkRndkQ1FoRkhWeFZnODN3eFpGNUdRZzRnS0tTWXVGdjhPZnUyajZCbkpQTlJkUTJRbEhjNDZkSnRRUUFTU0xKZHZLU0JYQ0gyNnV4Wm5qTXNhYXNyS0hrLWY5cnNaVVI2VUxkM1lHbTdkMnY4bnFTNUJaNHphcEZPWmtsS05MUDVvT0NoM0IyRHByZS1BZ3RRa1Z6dnFJSVJHWUIyMGFDTFp0UTltSktkTDBUOHBJM0JvQQ?oc=5"
+    },
+    {
+      "source": "Benzinga",
+      "headline": "NVIDIA (NVDA) technical analysis - NVIDIA (NASDAQ:NVDA)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkdfY1dpZFYwMzR6UDc4RTZOY0NOYjFNWE1YLVgyd0NGY3ZnV2h1Y2dJRmJoSFAyVG82LXlYM0NSM01laTkybWJGQVNZeUJrS2J3SnpkWnNyVGVfM1EwRWZyaDB6WXJ6ak1DcGVqZzhuNDFRVnAwM0tzV05hSzZzdFROYXhPdlNRdVhMUmxMOHY0RXg2bHF3MkJORmJkMmdLX1pGdEJNTEVZdw?oc=5\" target=\"_blank\">NVIDIA (NVDA) technical analysis - NVIDIA (NASDAQ:NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "date": "2026-02-26T19:21:23",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkdfY1dpZFYwMzR6UDc4RTZOY0NOYjFNWE1YLVgyd0NGY3ZnV2h1Y2dJRmJoSFAyVG82LXlYM0NSM01laTkybWJGQVNZeUJrS2J3SnpkWnNyVGVfM1EwRWZyaDB6WXJ6ak1DcGVqZzhuNDFRVnAwM0tzV05hSzZzdFROYXhPdlNRdVhMUmxMOHY0RXg2bHF3MkJORmJkMmdLX1pGdEJNTEVZdw?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "ticker": "AAPL",
+  "data_source": "google_rss",
+  "time_window": "last_30_days",
+  "article_count": 48,
+  "articles": [
+    {
+      "source": "MarketBeat",
+      "headline": "Apple (NASDAQ:AAPL) Stock Price Expected to Rise, Barclays Analyst Says",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGZKWTZoOWZKX20tYzRwSzRFV2JzN2xkQzNVcFNZUUJDX0UwU1dzWHF1TjZ4NUpXTXpESHpZMUlYZTNEYWlDYV9jdVNCLWZSTHNJb2V5MVpoM0RBM0NBa2tLVFNTSlU5WmptQUNlY2x4enVNMUFKaWdoRlhzTGh1N0taV2d0cGdOcnltMFVoX2hxcVdUQ21fVUxLZFEzSlROZ1VESklTamI5SFR1Z2Q2TzU0ZktoSThBR2xXa2xR?oc=5\" target=\"_blank\">Apple (NASDAQ:AAPL) Stock Price Expected to Rise, Barclays Analyst Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-03T14:13:41",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGZKWTZoOWZKX20tYzRwSzRFV2JzN2xkQzNVcFNZUUJDX0UwU1dzWHF1TjZ4NUpXTXpESHpZMUlYZTNEYWlDYV9jdVNCLWZSTHNJb2V5MVpoM0RBM0NBa2tLVFNTSlU5WmptQUNlY2x4enVNMUFKaWdoRlhzTGh1N0taV2d0cGdOcnltMFVoX2hxcVdUQ21fVUxLZFEzSlROZ1VESklTamI5SFR1Z2Q2TzU0ZktoSThBR2xXa2xR?oc=5"
+    },
+    {
+      "source": "Stock Titan",
+      "headline": "Apple\u2019s new M5 MacBook Air doubles storage and speeds up AI",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONEIwR1JnZ2NTbW84ZjM1S3dxbURMVDZROFFMeXVqNnVnREhHeE43S2ltRHRnWDlDc0g5aXZXdk1id3otc0FiMW1uQ0h3MGUwak5IM09lb2lRV3llM2cxZ3h2LVl5cGRCcmRDcmRUWWJSR2REdGNxX1pJQ2k2dTBYeTVfU0Z3TlpXZmFpeVRtLXhoSGtVNHkwRWZYSUpHdw?oc=5\" target=\"_blank\">Apple\u2019s new M5 MacBook Air doubles storage and speeds up AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "date": "2026-03-03T14:00:00",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEIwR1JnZ2NTbW84ZjM1S3dxbURMVDZROFFMeXVqNnVnREhHeE43S2ltRHRnWDlDc0g5aXZXdk1id3otc0FiMW1uQ0h3MGUwak5IM09lb2lRV3llM2cxZ3h2LVl5cGRCcmRDcmRUWWJSR2REdGNxX1pJQ2k2dTBYeTVfU0Z3TlpXZmFpeVRtLXhoSGtVNHkwRWZYSUpHdw?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Apple: Why Smart Money Holds At $271 (NASDAQ:AAPL)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXNvYTVtWktRRjNzcUNFVl9iUy02NnpUUkR5R0t4TmFQeVF3Rzh1VWNLLXNzR2tGNGh5eVhPbHhTTmVMRFRrbjE0QVV6QTlTUEZxUkNUcVdsWGtIa1AzbGt6M1ZzaVFua1FhSGh2aUs2T3RWcGVHb3M5S2s0bkp2cg?oc=5\" target=\"_blank\">Apple: Why Smart Money Holds At $271 (NASDAQ:AAPL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-02T19:55:43",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYXNvYTVtWktRRjNzcUNFVl9iUy02NnpUUkR5R0t4TmFQeVF3Rzh1VWNLLXNzR2tGNGh5eVhPbHhTTmVMRFRrbjE0QVV6QTlTUEZxUkNUcVdsWGtIa1AzbGt6M1ZzaVFua1FhSGh2aUs2T3RWcGVHb3M5S2s0bkp2cg?oc=5"
+    },
+    {
+      "source": "Quiver Quantitative",
+      "headline": "Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPczdNSE9nLWRMUzRmcGI2aWEzTUhrc2cxWGhveFZJellOMmFJbHhaV29jT3d0MWtUUC1CZVBWWGpxd0NkbDY3M1V2b2lDTFY2amtUMjlubVM2eTBtaHpfcFowSkhOa0d6aUFJQ1ppbjF1M1FGaC1jYlc1VW1Ma1VqUkE3RnFvLVJPeVVGQ1EtaVpralJmRVNYSllieXBIbFlsV3NoTTFaSQ?oc=5\" target=\"_blank\">Apple Stock (AAPL) Opinions on Low-Cost MacBook and AI Developments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "date": "2026-03-01T14:04:00",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczdNSE9nLWRMUzRmcGI2aWEzTUhrc2cxWGhveFZJellOMmFJbHhaV29jT3d0MWtUUC1CZVBWWGpxd0NkbDY3M1V2b2lDTFY2amtUMjlubVM2eTBtaHpfcFowSkhOa0d6aUFJQ1ppbjF1M1FGaC1jYlc1VW1Ma1VqUkE3RnFvLVJPeVVGQ1EtaVpralJmRVNYSllieXBIbFlsV3NoTTFaSQ?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Apple Stock (AAPL) Struggles as Report Flags Growing Dependence on Google for Siri",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObWN3NkZmWW0tR19ncF9BUTZrMzlzd3d1Zi1rUHRFcE5MN2xUQWdvclVndk9Jc1lXcmFYQXZubjNVUGlrOEgzaUw0UnRVMVc4YWRHa1lOUUJtOFgxd01pT0RtQUtGWlZjT2wzS2RiUVNBQy1URTdxUE5wNVpPVENwNVdfczdDMER0REdudnh6V2huelN1MndzaldMenB1ZUZ1X3BPSW9CMFVRQzdXeXdv?oc=5\" target=\"_blank\">Apple Stock (AAPL) Struggles as Report Flags Growing Dependence on Google for Siri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-03-02T19:51:15",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObWN3NkZmWW0tR19ncF9BUTZrMzlzd3d1Zi1rUHRFcE5MN2xUQWdvclVndk9Jc1lXcmFYQXZubjNVUGlrOEgzaUw0UnRVMVc4YWRHa1lOUUJtOFgxd01pT0RtQUtGWlZjT2wzS2RiUVNBQy1URTdxUE5wNVpPVENwNVdfczdDMER0REdudnh6V2huelN1MndzaldMenB1ZUZ1X3BPSW9CMFVRQzdXeXdv?oc=5"
+    },
+    {
+      "source": "CoinCentral",
+      "headline": "Apple (AAPL) Stock: MacBook Air M5 Launches at $1,099 With Double Storage",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3JJY3FWeG1xSjhHblhHcTZFS24zZmU5Yk9DdGttd3hJSmtDUnhVcWJYNW5sRUVjZ1FqV1g5S1ROaWVyZGlMOUZjWGtuZUNza2N6dUVpR2FpSWJNZkRDeTVGeUNSTXRQZGtYanY4bHoyMU43NlB2aXhBd0QwYzFsQjFSMjNtNzZmcG40QUswVWVNeEtaMlc0Xw?oc=5\" target=\"_blank\">Apple (AAPL) Stock: MacBook Air M5 Launches at $1,099 With Double Storage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "date": "2026-03-03T14:35:24",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3JJY3FWeG1xSjhHblhHcTZFS24zZmU5Yk9DdGttd3hJSmtDUnhVcWJYNW5sRUVjZ1FqV1g5S1ROaWVyZGlMOUZjWGtuZUNza2N6dUVpR2FpSWJNZkRDeTVGeUNSTXRQZGtYanY4bHoyMU43NlB2aXhBd0QwYzFsQjFSMjNtNzZmcG40QUswVWVNeEtaMlc0Xw?oc=5"
+    },
+    {
+      "source": "Nasdaq",
+      "headline": "Here's Why Apple (AAPL) is a Strong Momentum Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFlSd0x4bFhmVVhHdUV5bzAxTVM3NnQ2NUxvclgtQVVTaFdjXy0xRFdtZzIza204M2hvWnBDVUlYNWRJaG9BSEdjbjEtVFo3Z05jd2pJVmRybFhGekdXcDByTGRQUFhwWUVmUUV0QThZejdONEdRWkREeldfdS1aWEhR?oc=5\" target=\"_blank\">Here's Why Apple (AAPL) is a Strong Momentum Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "date": "2026-03-02T14:50:00",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFlSd0x4bFhmVVhHdUV5bzAxTVM3NnQ2NUxvclgtQVVTaFdjXy0xRFdtZzIza204M2hvWnBDVUlYNWRJaG9BSEdjbjEtVFo3Z05jd2pJVmRybFhGekdXcDByTGRQUFhwWUVmUUV0QThZejdONEdRWkREeldfdS1aWEhR?oc=5"
+    },
+    {
+      "source": "Barchart.com",
+      "headline": "George Soros Is Doubling Down on Apple Stock. Should You Also Load Up on AAPL in 2026?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDVpSGRsRzI0dE04dVVJTXJSMDZlSEllZ0JaU3ZZVkhGZEs4WDkxdEZnV0c2ek15WVZxamxLV081engtX2tPdnlYSGNSUmY3RlROSkN2YWZvMVRLRENKZDJ1SWlBYXNhbE1pVllUNjdCZGRQTVRCZUV0VXNTazdrZjNmZVhxSzc1bWJvdXBTaHFIRzR6OWZmNVlJYWkwVTJraUJvaFZDUm9QMHo2STFBRHByTExHREhIclJ5YU5Qa0l4ejlwYXc?oc=5\" target=\"_blank\">George Soros Is Doubling Down on Apple Stock. Should You Also Load Up on AAPL in 2026?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart.com</font>",
+      "date": "2026-02-26T15:00:02",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDVpSGRsRzI0dE04dVVJTXJSMDZlSEllZ0JaU3ZZVkhGZEs4WDkxdEZnV0c2ek15WVZxamxLV081engtX2tPdnlYSGNSUmY3RlROSkN2YWZvMVRLRENKZDJ1SWlBYXNhbE1pVllUNjdCZGRQTVRCZUV0VXNTazdrZjNmZVhxSzc1bWJvdXBTaHFIRzR6OWZmNVlJYWkwVTJraUJvaFZDUm9QMHo2STFBRHByTExHREhIclJ5YU5Qa0l4ejlwYXc?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "These New AI Smart Devices Could Boost Apple Stock",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXN6S2ZtZ2xpZVNzRG5nVzdsOElReHlJcEFzMUhub2dEWnpKaHM2YXdwazlmX0czcWttbmlPdVBmdi1ya1VhMjAyZFVjNmFWX0tLVWh1cUFUc1J5MjBaRnlPRU0wQzJ2R3ZSWlRjc2hja0lmT3hGSFRPd3ItcmpWd3NhYWFxTzlzdnd0T1UyQ3UzZ3NsME5lSg?oc=5\" target=\"_blank\">These New AI Smart Devices Could Boost Apple Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-27T12:05:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXN6S2ZtZ2xpZVNzRG5nVzdsOElReHlJcEFzMUhub2dEWnpKaHM2YXdwazlmX0czcWttbmlPdVBmdi1ya1VhMjAyZFVjNmFWX0tLVWh1cUFUc1J5MjBaRnlPRU0wQzJ2R3ZSWlRjc2hja0lmT3hGSFRPd3ItcmpWd3NhYWFxTzlzdnd0T1UyQ3UzZ3NsME5lSg?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Apple stock price holds near $265 after iPhone 17e launch \u2014 what AAPL traders watch next",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXFpQ0R4QklTdVQ5X0doeUlsdXRWR1JNUzhYTUQ1b3pmTllWSHNwelpsRG1CUnllR3JEMFJRY19Vd1pka1RaRXIydktrMnJSREN0dzNFNjBkODV5WWNVVlNJWjRQd0ZYUy1ibW5mYjlCZE9SYWNWSndpcGRobjdlNEZSWVA3eDgwd182c2R6bEVKQkFyRGRtRFoyX1ZucUI1ckhDcWNmZmFUQQ?oc=5\" target=\"_blank\">Apple stock price holds near $265 after iPhone 17e launch \u2014 what AAPL traders watch next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-03-02T21:22:00",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXFpQ0R4QklTdVQ5X0doeUlsdXRWR1JNUzhYTUQ1b3pmTllWSHNwelpsRG1CUnllR3JEMFJRY19Vd1pka1RaRXIydktrMnJSREN0dzNFNjBkODV5WWNVVlNJWjRQd0ZYUy1ibW5mYjlCZE9SYWNWSndpcGRobjdlNEZSWVA3eDgwd182c2R6bEVKQkFyRGRtRFoyX1ZucUI1ckhDcWNmZmFUQQ?oc=5"
+    },
+    {
+      "source": "Investopedia",
+      "headline": "Apple Stock Looked Like It Was Rolling. Now It's on the Back Foot Again",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUNZREphVHlLblhUOUJuQ3R0eTQ1OEJFS3JlTk1pdS1OM0VpMDk0azZBcUZxXzJTeWVVY2JPeEdVWFEtNXEtTVRiY1czR2FQaFRjcF9yNDMxUDBERHpMV1c3dy0yNEtXbzFTcWx4REJHT3dKREpTNDRtYXR3cnJaREZfNjZLWnRCX01vMDFRSzZlVXEzRkZXT212b05TbnJVclNoRG00V250QnZLZFpYYmdoZw?oc=5\" target=\"_blank\">Apple Stock Looked Like It Was Rolling. Now It's on the Back Foot Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investopedia</font>",
+      "date": "2026-02-13T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUNZREphVHlLblhUOUJuQ3R0eTQ1OEJFS3JlTk1pdS1OM0VpMDk0azZBcUZxXzJTeWVVY2JPeEdVWFEtNXEtTVRiY1czR2FQaFRjcF9yNDMxUDBERHpMV1c3dy0yNEtXbzFTcWx4REJHT3dKREpTNDRtYXR3cnJaREZfNjZLWnRCX01vMDFRSzZlVXEzRkZXT212b05TbnJVclNoRG00V250QnZLZFpYYmdoZw?oc=5"
+    },
+    {
+      "source": "Stock Titan",
+      "headline": "New MacBook Pro chips bring 4x AI power for creative pros",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVk9QbUh4OGdxWWhVWmpVcTJCdWg1aTJwaFhCckkwWXZ0QU1JUW1GWWZVUHV4M0lpY2tBSEgwcHNObzI0eUYtRk5wSldLMm9oVWpwNkFGeEFhZTA3S2RFZXlOQkkyLTViNHMxd3R2U2F1Q0czUFFGOFJoVUxzMW0taWdWcE5PLWw1bjhWOEl4OWJPZUdoRWg2Y1g3UnVSVlpaZE1OYzFaUE1QZl9DN3JxT2JOWnpnWmFyVkp2OVJ3U0s?oc=5\" target=\"_blank\">New MacBook Pro chips bring 4x AI power for creative pros</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "date": "2026-03-03T14:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVk9QbUh4OGdxWWhVWmpVcTJCdWg1aTJwaFhCckkwWXZ0QU1JUW1GWWZVUHV4M0lpY2tBSEgwcHNObzI0eUYtRk5wSldLMm9oVWpwNkFGeEFhZTA3S2RFZXlOQkkyLTViNHMxd3R2U2F1Q0czUFFGOFJoVUxzMW0taWdWcE5PLWw1bjhWOEl4OWJPZUdoRWg2Y1g3UnVSVlpaZE1OYzFaUE1QZl9DN3JxT2JOWnpnWmFyVkp2OVJ3U0s?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTNhdWtMVnJHd3JCYm5jOEY3enpuQjQ5X0ZOMXNWMUNrYlJxOTROOHQ4VDV6Rmxlakhvci1pRFkzeFR4S1J0MkdEaURMWVdSMlF5VFBVWnFUNnJOdm54Zmh6TUMxZC0zMzl1NnpuLWYwSUY0RjBoc3B3d3JtdmpHYVhfa3dDVjJDdE5YaUkwLTBYUThnM1BJN0o5SVg?oc=5\" target=\"_blank\">Apple (NASDAQ:AAPL) Shares Down 3.2% - What's Next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-27T22:15:03",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTNhdWtMVnJHd3JCYm5jOEY3enpuQjQ5X0ZOMXNWMUNrYlJxOTROOHQ4VDV6Rmxlakhvci1pRFkzeFR4S1J0MkdEaURMWVdSMlF5VFBVWnFUNnJOdm54Zmh6TUMxZC0zMzl1NnpuLWYwSUY0RjBoc3B3d3JtdmpHYVhfa3dDVjJDdE5YaUkwLTBYUThnM1BJN0o5SVg?oc=5"
+    },
+    {
+      "source": "CoinCentral",
+      "headline": "Apple (AAPL) Stock; Edges Higher on iPhone 17e Launch and AI Features",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVRJRWJjTU5PTkxDcDI3cjZvQjY4VUFaQ2hrYWx5UFR6SlNEZ0s5UTNUakVON0dqanRfT1BRLUtTVnFiVWFwOXI1Y1RiVjZZbEJFWUJKYWxOT21kWmdkaWE0MktHcld0UXJ2cXh2bTFjOTR2dnBWeW80cUlwZFNXbjlZeEFjcldBdmlIcw?oc=5\" target=\"_blank\">Apple (AAPL) Stock; Edges Higher on iPhone 17e Launch and AI Features</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "date": "2026-03-03T10:44:34",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVRJRWJjTU5PTkxDcDI3cjZvQjY4VUFaQ2hrYWx5UFR6SlNEZ0s5UTNUakVON0dqanRfT1BRLUtTVnFiVWFwOXI1Y1RiVjZZbEJFWUJKYWxOT21kWmdkaWE0MktHcld0UXJ2cXh2bTFjOTR2dnBWeW80cUlwZFNXbjlZeEFjcldBdmlIcw?oc=5"
+    },
+    {
+      "source": "Nasdaq",
+      "headline": "Apple (AAPL) is a Top-Ranked Growth Stock: Should You Buy?",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lwUGNqTEFPZTJPMmN4amJpV0oyaEZueUllX0FWNHpFblIxNFdTNGJLeU91QVd4V0I4V1k3Z2VoSjFEQWw3YUlNSU83TEFZRTRWU3JuRkFsVXBKYjR1YmR1WW9ma2hQekgtcWo0T0pkUC1waXBUOHcwQnBEWWt4d2JNYXhqN2tB?oc=5\" target=\"_blank\">Apple (AAPL) is a Top-Ranked Growth Stock: Should You Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "date": "2026-02-19T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lwUGNqTEFPZTJPMmN4amJpV0oyaEZueUllX0FWNHpFblIxNFdTNGJLeU91QVd4V0I4V1k3Z2VoSjFEQWw3YUlNSU83TEFZRTRWU3JuRkFsVXBKYjR1YmR1WW9ma2hQekgtcWo0T0pkUC1waXBUOHcwQnBEWWt4d2JNYXhqN2tB?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Apple: The 2.5 Billion Device Machine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXB0LWxMUlA4MnFkNFlzTXBjRnJNUU9TajNpYlZpWmhtUS1WZVRqN1dwTXVzV2MxUHYzb2dNZmY1YXFWdUxXVEVqVmxjaTdVY1JXN3p0ME1ua2xCVVNkQmhkaFNjM3ZHNHhpZ1g4UFd1OURCdzdSNVI3UUlFcUJXa2V5Zw?oc=5\" target=\"_blank\">Apple: The 2.5 Billion Device Machine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-02-23T13:49:18",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXB0LWxMUlA4MnFkNFlzTXBjRnJNUU9TajNpYlZpWmhtUS1WZVRqN1dwTXVzV2MxUHYzb2dNZmY1YXFWdUxXVEVqVmxjaTdVY1JXN3p0ME1ua2xCVVNkQmhkaFNjM3ZHNHhpZ1g4UFd1OURCdzdSNVI3UUlFcUJXa2V5Zw?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Apple (AAPL) stock slips before the bell as Middle East jitters hit tech; AppleLaunch week ahead",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdDI5Qmw1RnQyM09IVW1aUDYydGljOFZWcU5yejNxUmFyZjhXQm1ISDYySHoweVdxNGM4cktqVXlMUWZtQUFkR3dTTE1rcExSNHBsXzJObTNTUjFPS25vdnB1MU9hOU1sRGpEekg2Z1AyS2hHaEFpTnNwN29ZTmZQNExvN2xaME9wSkVZNTVPaXJMVVJfUTczbGdPTm93MThHUWc2VzB2MmQ4ai0wMGhPcnMtUUk?oc=5\" target=\"_blank\">Apple (AAPL) stock slips before the bell as Middle East jitters hit tech; AppleLaunch week ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-03-02T12:07:00",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdDI5Qmw1RnQyM09IVW1aUDYydGljOFZWcU5yejNxUmFyZjhXQm1ISDYySHoweVdxNGM4cktqVXlMUWZtQUFkR3dTTE1rcExSNHBsXzJObTNTUjFPS25vdnB1MU9hOU1sRGpEekg2Z1AyS2hHaEFpTnNwN29ZTmZQNExvN2xaME9wSkVZNTVPaXJMVVJfUTczbGdPTm93MThHUWc2VzB2MmQ4ai0wMGhPcnMtUUk?oc=5"
+    },
+    {
+      "source": "Nasdaq",
+      "headline": "Here's Why Apple (AAPL) is a Great Momentum Stock to Buy",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPcURrVExmM1Q4VUdMbGtXOTJDQzFRQzduV1lRNk0tMTMtQzhiekhtUENaSEdvc0VWa0JDUFhPV0xIUlBTY3V3VDhyTzFqcVdSaHozUnk5bHNPUzZvRExyVUJ6WFpVVnpVWml3bUdCTkhmeG9FM2Ytbm5qWkkyVTE5bG55UQ?oc=5\" target=\"_blank\">Here's Why Apple (AAPL) is a Great Momentum Stock to Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nasdaq</font>",
+      "date": "2026-02-12T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcURrVExmM1Q4VUdMbGtXOTJDQzFRQzduV1lRNk0tMTMtQzhiekhtUENaSEdvc0VWa0JDUFhPV0xIUlBTY3V3VDhyTzFqcVdSaHozUnk5bHNPUzZvRExyVUJ6WFpVVnpVWml3bUdCTkhmeG9FM2Ytbm5qWkkyVTE5bG55UQ?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Apple unveils new low-cost iPhone 17e, new iPad Air (AAPL:NASDAQ)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1Y0bXZzSENOM0hId0E5RGZQRDBwcnFBQnRKZ2ViZ3ZtYUVsZ2NkRThtRmQzX2puWEpPOEJ5bEpLNzRxRW5Gb1hIb2Jza2swbVFFSEZlSmM5N2ViblVjdnFvWmpoWU5CUUVwLU9vWklBQUg5MHhNS2pZeWZUZzJ3UG1Vak1JalA0R2VvdTNfZFc5QQ?oc=5\" target=\"_blank\">Apple unveils new low-cost iPhone 17e, new iPad Air (AAPL:NASDAQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-02T14:24:54",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1Y0bXZzSENOM0hId0E5RGZQRDBwcnFBQnRKZ2ViZ3ZtYUVsZ2NkRThtRmQzX2puWEpPOEJ5bEpLNzRxRW5Gb1hIb2Jza2swbVFFSEZlSmM5N2ViblVjdnFvWmpoWU5CUUVwLU9vWklBQUg5MHhNS2pZeWZUZzJ3UG1Vak1JalA0R2VvdTNfZFc5QQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Apple Inc. $AAPL Stock Position Lowered by Townsquare Capital LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWM2eDdwNVdENy00Qk1FMnByRnZOcm1qTFdFa1VHUnhROWN2S0RpWU9GY1E0ZU5nbFRvQ1pOMU85eWtvdHVkUmRMRnFZQWp6ZGdNb3VOLVdLVlRzVm02dnRScjRtV1FHU2J4MjY5MHBzSUxralcwTWtaZ0tHZkMxRXBFN3ZmLXg4U0hrRm5UTmtOakRGc0NDNXcteHRiUU1wbUZpVzh5X3pjWS1hMGNjMW42S1VwVFQ5OWF2dkVuc1VwQQ?oc=5\" target=\"_blank\">Apple Inc. $AAPL Stock Position Lowered by Townsquare Capital LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-02T12:52:51",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWM2eDdwNVdENy00Qk1FMnByRnZOcm1qTFdFa1VHUnhROWN2S0RpWU9GY1E0ZU5nbFRvQ1pOMU85eWtvdHVkUmRMRnFZQWp6ZGdNb3VOLVdLVlRzVm02dnRScjRtV1FHU2J4MjY5MHBzSUxralcwTWtaZ0tHZkMxRXBFN3ZmLXg4U0hrRm5UTmtOakRGc0NDNXcteHRiUU1wbUZpVzh5X3pjWS1hMGNjMW42S1VwVFQ5OWF2dkVuc1VwQQ?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Apple Inc. $AAPL Stock Position Raised by Argent Advisors Inc.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzNyLVBmUXdtajdybzE0cVFxQ0ZOZU4tN0c2akY0bzRINnlLazFDYm5PenFvbmVwTE13bi1MZDg5eUlMUjF3ODJhQUU5Y19YLVgyaDRXZFRjbmJWRmhjalRRRGxyZENBOVE4SlpHc3E1WHJFUWFyNkhQZERpTmNGNjM4VEVvQmFBeFV3TmNQOFVNVkpZTTJHMlllUmdCT2FuQXJSNXJ5YVJJVjVfcU0yQ09OeExHQW5ZS2pjWA?oc=5\" target=\"_blank\">Apple Inc. $AAPL Stock Position Raised by Argent Advisors Inc.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-02T08:44:47",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzNyLVBmUXdtajdybzE0cVFxQ0ZOZU4tN0c2akY0bzRINnlLazFDYm5PenFvbmVwTE13bi1MZDg5eUlMUjF3ODJhQUU5Y19YLVgyaDRXZFRjbmJWRmhjalRRRGxyZENBOVE4SlpHc3E1WHJFUWFyNkhQZERpTmNGNjM4VEVvQmFBeFV3TmNQOFVNVkpZTTJHMlllUmdCT2FuQXJSNXJ5YVJJVjVfcU0yQ09OeExHQW5ZS2pjWA?oc=5"
+    },
+    {
+      "source": "Stock Titan",
+      "headline": "$599 iPhone 17e doubles storage and adds faster A19 chip",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkxWRUR6X2tDdFRSYXVsQ2wyNWFYaUtQd3ZoWDRnQkw1MlMtdjBwcjRLSXlkZWtkZ2ZxTXpYbkpCOHplTlpfbXFlaVJYWngtRGxPSERDREpBRmcwRGgwZDkyZVJ2R3g0MmRMX05KT1N5RXRuT3BkT0F6NVYwZVFuMEJlMHhqdw?oc=5\" target=\"_blank\">$599 iPhone 17e doubles storage and adds faster A19 chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "date": "2026-03-02T14:00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkxWRUR6X2tDdFRSYXVsQ2wyNWFYaUtQd3ZoWDRnQkw1MlMtdjBwcjRLSXlkZWtkZ2ZxTXpYbkpCOHplTlpfbXFlaVJYWngtRGxPSERDREpBRmcwRGgwZDkyZVJ2R3g0MmRMX05KT1N5RXRuT3BkT0F6NVYwZVFuMEJlMHhqdw?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Apple Inc. $AAPL Stock Holdings Lessened by GPS Wealth Strategies Group LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPa3J2bTlzUDVLWmEySEtIQm9ZbUE4WWFMS3dSLXlSMlpEU0p4elRsMW4tbGVwSFBic1ZpS1RLc3lySkFNcnFKalN1b0ZDajRlc0ppRGFlLVJLU0R4STJwSS1GakpXNnI2NjZ1aEtybzdIeEp6dEJtakhRcHpFS1JZdzVVZGhjd2VrVzQ2cmkweTVUX1RtaE1XU0p0djB2VHJlc2N3UndTNkRYNVMtRndjZkJqeDNGRFlPRndFeDNoTDVGclFzd3NkOVNOUHh4b2M?oc=5\" target=\"_blank\">Apple Inc. $AAPL Stock Holdings Lessened by GPS Wealth Strategies Group LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-03-01T10:05:12",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPa3J2bTlzUDVLWmEySEtIQm9ZbUE4WWFMS3dSLXlSMlpEU0p4elRsMW4tbGVwSFBic1ZpS1RLc3lySkFNcnFKalN1b0ZDajRlc0ppRGFlLVJLU0R4STJwSS1GakpXNnI2NjZ1aEtybzdIeEp6dEJtakhRcHpFS1JZdzVVZGhjd2VrVzQ2cmkweTVUX1RtaE1XU0p0djB2VHJlc2N3UndTNkRYNVMtRndjZkJqeDNGRFlPRndFeDNoTDVGclFzd3NkOVNOUHh4b2M?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Berkshire Hathaway's Greg Abel Says He Expects Apple Will \"Compound Over Decades\"",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPcm15cFA2eWJXMlpST2FCN1NYVGJNQnllR2wwTFJwakxaeXR3c1hrc1E5dUw3Y2gwbThGSWpUMnZLeE5MbmtJQlU5LWRaLUk0d0JaS20tcm5jd1NyVHJzaGsxeFlnT285Vmo2RmdRQ0V4ZGd3bi02VlUwLTFlSGp0UGlzeVM4YkVJSUppeHVoS181M1RMR0J2SA?oc=5\" target=\"_blank\">Berkshire Hathaway's Greg Abel Says He Expects Apple Will \"Compound Over Decades\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-03-01T00:31:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcm15cFA2eWJXMlpST2FCN1NYVGJNQnllR2wwTFJwakxaeXR3c1hrc1E5dUw3Y2gwbThGSWpUMnZLeE5MbmtJQlU5LWRaLUk0d0JaS20tcm5jd1NyVHJzaGsxeFlnT285Vmo2RmdRQ0V4ZGd3bi02VlUwLTFlSGp0UGlzeVM4YkVJSUppeHVoS181M1RMR0J2SA?oc=5"
+    },
+    {
+      "source": "Seeking Alpha",
+      "headline": "Big Tech Teams Up Against Google, While Apple Reaps The Rewards (NASDAQ:AAPL)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjkwZHJ6SzhWVElqbkh3Ti1vd3YzZWswUnlRUTNfUW1qTGF0aHNEaGVRdEt6RlE3cDZwRlRKQmJ2VTJBa01POXNzaVZrNGp3MlNuVGd1cHQxSXI4eEpXNkNwdURMTUlvMk15R0tkSnY5SWkxMTBxdTR0Q1JrUnA4a2V2aUticGd4OTgzU3JJOEMzWHF6NEVhM0hTOEpyWnpiNWZkTU1FcG4?oc=5\" target=\"_blank\">Big Tech Teams Up Against Google, While Apple Reaps The Rewards (NASDAQ:AAPL)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "date": "2026-03-02T08:46:29",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjkwZHJ6SzhWVElqbkh3Ti1vd3YzZWswUnlRUTNfUW1qTGF0aHNEaGVRdEt6RlE3cDZwRlRKQmJ2VTJBa01POXNzaVZrNGp3MlNuVGd1cHQxSXI4eEpXNkNwdURMTUlvMk15R0tkSnY5SWkxMTBxdTR0Q1JrUnA4a2V2aUticGd4OTgzU3JJOEMzWHF6NEVhM0hTOEpyWnpiNWZkTU1FcG4?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "headline": "Jim Cramer on Apple (AAPL): \u201cDoesn\u2019t Hurt That They\u2019ve Avoided Spending Hundreds of Billions of Dollars on Data Centers\u201d",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBCNG5NWjBNTkZndWNuRlltTkI4bUxncS1yaDUxYTlLQ3RYVGhDTzZqY2hrMEZueU5yZlJ3bFBubWlpX1lvMXlDaXVtcllKMXdDYmJ1WWlYTWdYVUVwX3FFeE92V1gxNWhyM05lQWhSMV8tMUxFUTNfbXpTclZmdw?oc=5\" target=\"_blank\">Jim Cramer on Apple (AAPL): \u201cDoesn\u2019t Hurt That They\u2019ve Avoided Spending Hundreds of Billions of Dollars on Data Centers\u201d</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "date": "2026-02-10T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCNG5NWjBNTkZndWNuRlltTkI4bUxncS1yaDUxYTlLQ3RYVGhDTzZqY2hrMEZueU5yZlJ3bFBubWlpX1lvMXlDaXVtcllKMXdDYmJ1WWlYTWdYVUVwX3FFeE92V1gxNWhyM05lQWhSMV8tMUxFUTNfbXpTclZmdw?oc=5"
+    },
+    {
+      "source": "The Motley Fool",
+      "headline": "Why Apple Stock Fell Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBWUWhuTjNSeTFJb1Q5RDQtS3AtcWEzZ0NneUFVZ3JHa0d0QjUxSGJTVkM0SE9PNFQ1S0VqcmQ0YmdYRTZjOFZZWnZ0YlA1dEN1Y01YQTJKZ0dGaE5UNDlveXp1akRlQWJDUXJGd2pTbXB6SE84WFh5NS1ZdWU?oc=5\" target=\"_blank\">Why Apple Stock Fell Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "date": "2026-02-12T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWUWhuTjNSeTFJb1Q5RDQtS3AtcWEzZ0NneUFVZ3JHa0d0QjUxSGJTVkM0SE9PNFQ1S0VqcmQ0YmdYRTZjOFZZWnZ0YlA1dEN1Y01YQTJKZ0dGaE5UNDlveXp1akRlQWJDUXJGd2pTbXB6SE84WFh5NS1ZdWU?oc=5"
+    },
+    {
+      "source": "Finviz",
+      "headline": "Apple (AAPL) Got The Best Free Ride, Says Jim Cramer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOeTR0U3BHQzJocG5yYlo3RnpLMmtEcElVdXgtckNfYjJRWXphbHgweXF4ZWl2QWV6cngxeWl6dHZTUnNkMHRnRERlMDR2Uk1PdTJGNFpzU2RTejZrV3NKZDZDV0ZWRWZudGRjR2JiMGtzMnUxUG92bW16eFl5WDlKbGRuazZyZGs?oc=5\" target=\"_blank\">Apple (AAPL) Got The Best Free Ride, Says Jim Cramer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finviz</font>",
+      "date": "2026-02-26T15:24:49",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeTR0U3BHQzJocG5yYlo3RnpLMmtEcElVdXgtckNfYjJRWXphbHgweXF4ZWl2QWV6cngxeWl6dHZTUnNkMHRnRERlMDR2Uk1PdTJGNFpzU2RTejZrV3NKZDZDV0ZWRWZudGRjR2JiMGtzMnUxUG92bW16eFl5WDlKbGRuazZyZGs?oc=5"
+    },
+    {
+      "source": "Stock Titan",
+      "headline": "New iPad Air packs Apple\u2019s M4 AI chip, keeps $599 starting price",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOWjVxczBuZFJFa3Q0LUhvMVRwRS1SX0F3cVM5ak5CUDQ2UnNhTUZSUEJFVFlhZWlGclFsUnJSZl8yRkk4TWVfSEJsSUt2T01ONzl3RkptSnh4Rk5sTm5xNVNQcG4xbEszQ2Y5bVlLdHU0d3dxeG1YQk8yVEN3NHlMc3RkOFFVV1FBVTZ2dUYzeDRueFNjUmlZV2t3NDdxcHJWTHc?oc=5\" target=\"_blank\">New iPad Air packs Apple\u2019s M4 AI chip, keeps $599 starting price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "date": "2026-03-02T14:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWjVxczBuZFJFa3Q0LUhvMVRwRS1SX0F3cVM5ak5CUDQ2UnNhTUZSUEJFVFlhZWlGclFsUnJSZl8yRkk4TWVfSEJsSUt2T01ONzl3RkptSnh4Rk5sTm5xNVNQcG4xbEszQ2Y5bVlLdHU0d3dxeG1YQk8yVEN3NHlMc3RkOFFVV1FBVTZ2dUYzeDRueFNjUmlZV2t3NDdxcHJWTHc?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Apple (AAPL) Expected to Gain Share Even as Smartphone Market Could See Biggest-Ever Drop in 2026",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFpQbVFiSEpFeURDTzFkRVlBXzB0YTYwOVpRdGJEeG56UFR0NmV5aDdJd2UtM2lQSjAyeFFzdGx0LUZyUXF1WmhKQU1MRjI0ZXo4bUFXZk1ZRmdBQlo3MTE4WUo0LVBDWVAzREVCcTd3cE5wSHdTR2pUV2dvNE51bngyaUNFRnpyTk9HNXRCM1lvZVlCU2lPcWxicTIySEpfaGNURG16d0xTTUhQYmV4YnM2WElwYllTU1FlN2RsUEl0eHc?oc=5\" target=\"_blank\">Apple (AAPL) Expected to Gain Share Even as Smartphone Market Could See Biggest-Ever Drop in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-27T09:31:54",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWFpQbVFiSEpFeURDTzFkRVlBXzB0YTYwOVpRdGJEeG56UFR0NmV5aDdJd2UtM2lQSjAyeFFzdGx0LUZyUXF1WmhKQU1MRjI0ZXo4bUFXZk1ZRmdBQlo3MTE4WUo0LVBDWVAzREVCcTd3cE5wSHdTR2pUV2dvNE51bngyaUNFRnpyTk9HNXRCM1lvZVlCU2lPcWxicTIySEpfaGNURG16d0xTTUhQYmV4YnM2WElwYllTU1FlN2RsUEl0eHc?oc=5"
+    },
+    {
+      "source": "thestreet.com",
+      "headline": "Top analyst revamps Apple stock price target",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNd0FEM0tkem9mS2s4Qmd1TzBfT3BxY0NXcW94MHNkVDFWaXVfTTVNekF0RHcwM1Y2V2Myem5Nd1oxMFBOcDVFMElobzc1QWtIcDBNLXhULXdVMFdOSk9ScF9KTFhZb3pyTGpaZnZfNHVjYkZxUVN3NjU4aUN1eE00SC01OHNDX2R3MHY2WVhJZTg?oc=5\" target=\"_blank\">Top analyst revamps Apple stock price target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "date": "2026-02-12T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd0FEM0tkem9mS2s4Qmd1TzBfT3BxY0NXcW94MHNkVDFWaXVfTTVNekF0RHcwM1Y2V2Myem5Nd1oxMFBOcDVFMElobzc1QWtIcDBNLXhULXdVMFdOSk9ScF9KTFhZb3pyTGpaZnZfNHVjYkZxUVN3NjU4aUN1eE00SC01OHNDX2R3MHY2WVhJZTg?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Truist Financial Corp Grows Stock Holdings in Apple Inc. $AAPL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmZ0TUJwTGlfT29MREFzRExCbWNCeWNBRGVwS3N6bEJaeTlrSndNNUFoTURUUmRZSGFoSkMwdHJlMjF4WFUyTjNvdU1NRTNWMEpzSmJhRnpHTzhkS1dDWWRCbE1SOTFqelIzLXozRmd1amZaTHRZclI2d0h4Y19HeEhVVXc2WFJwS2w5c3lqSUw1R0N0bGtsQV9OY1NvZkNvREh2NDhKN0psaVhfX0owbFAtcjg1bGVjaGRxMkJn?oc=5\" target=\"_blank\">Truist Financial Corp Grows Stock Holdings in Apple Inc. $AAPL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-27T13:02:11",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmZ0TUJwTGlfT29MREFzRExCbWNCeWNBRGVwS3N6bEJaeTlrSndNNUFoTURUUmRZSGFoSkMwdHJlMjF4WFUyTjNvdU1NRTNWMEpzSmJhRnpHTzhkS1dDWWRCbE1SOTFqelIzLXozRmd1amZaTHRZclI2d0h4Y19HeEhVVXc2WFJwS2w5c3lqSUw1R0N0bGtsQV9OY1NvZkNvREh2NDhKN0psaVhfX0owbFAtcjg1bGVjaGRxMkJn?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Apple Stock Could Surge to $300: Here\u2019s What Needs to Happen",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmdmTE5sLVFvZkY2T1BsUmY3Ty1fUlJNc01aQmdnbkdLb2FvbEliTzctaGpoQlRGMlBqQ2RSYklGc0QxeWhUZWoxa20zcUViT0h3R0hCRXpNUVRsckZVUEh0Qm1ibmxvRk1PNnVXYnh2QUxWcXhaQzA4UmQtOS1zcjlXenRxTkptbHVTSERQOXFrVXVNWnlwZE00X25OaEwteVFz?oc=5\" target=\"_blank\">Apple Stock Could Surge to $300: Here\u2019s What Needs to Happen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-03T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmdmTE5sLVFvZkY2T1BsUmY3Ty1fUlJNc01aQmdnbkdLb2FvbEliTzctaGpoQlRGMlBqQ2RSYklGc0QxeWhUZWoxa20zcUViT0h3R0hCRXpNUVRsckZVUEh0Qm1ibmxvRk1PNnVXYnh2QUxWcXhaQzA4UmQtOS1zcjlXenRxTkptbHVTSERQOXFrVXVNWnlwZE00X25OaEwteVFz?oc=5"
+    },
+    {
+      "source": "Blockonomi",
+      "headline": "Apple (AAPL) Stock: New MacBook Air M5 Debuts With 512GB Base Storage at $1,099",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnVrQTJTTnphanNhV0Q5WmxZR3ptaURsaDVPMnV5eUVyYXJGVmhXcDJlUzBpN1lqdXk2Q3h1NWlhZGQwSFRKQklZSk1EOVFoODdfZ3lDYldCN3ZyNWFjNUl6REMtc2h1SmhvT1I2LS0wZ1l3UjdpUGJSR0hqV0o5TUFEWU5wSmI4SGJEQzZOakdyTklGRXdyVlZ3bHEzZWs?oc=5\" target=\"_blank\">Apple (AAPL) Stock: New MacBook Air M5 Debuts With 512GB Base Storage at $1,099</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Blockonomi</font>",
+      "date": "2026-03-03T14:53:54",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnVrQTJTTnphanNhV0Q5WmxZR3ptaURsaDVPMnV5eUVyYXJGVmhXcDJlUzBpN1lqdXk2Q3h1NWlhZGQwSFRKQklZSk1EOVFoODdfZ3lDYldCN3ZyNWFjNUl6REMtc2h1SmhvT1I2LS0wZ1l3UjdpUGJSR0hqV0o5TUFEWU5wSmI4SGJEQzZOakdyTklGRXdyVlZ3bHEzZWs?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Avant Financial Advisors LLC Trims Stock Position in Apple Inc. $AAPL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOM0xkeUxYcGRHOUpoSjhvc2J4al9tY3pEWGlvZ1dZNTdHdXZXRmNoT0dzUDVHZkVwTHAtM3c1Q3JxRXhTeHhNbDRMVHoyQ3ZvenZTQnNXNkVkczFIUk9tVVN1dU9iYjgtOWlWZm9fMjRGVlMxY0MwTm5BNnJGOGVsY3FrbzFDaEp4VzF2dWkwVkJualpmY081Q25ua3lHY0xMQkFiaVYzNXlWeFZBbG85dmZsNS1WY0NNM0lybEwxVU81bnhBZFhj?oc=5\" target=\"_blank\">Avant Financial Advisors LLC Trims Stock Position in Apple Inc. $AAPL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-27T08:30:49",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM0xkeUxYcGRHOUpoSjhvc2J4al9tY3pEWGlvZ1dZNTdHdXZXRmNoT0dzUDVHZkVwTHAtM3c1Q3JxRXhTeHhNbDRMVHoyQ3ZvenZTQnNXNkVkczFIUk9tVVN1dU9iYjgtOWlWZm9fMjRGVlMxY0MwTm5BNnJGOGVsY3FrbzFDaEp4VzF2dWkwVkJualpmY081Q25ua3lHY0xMQkFiaVYzNXlWeFZBbG85dmZsNS1WY0NNM0lybEwxVU81bnhBZFhj?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "DSG Capital Advisors LLC Decreases Stock Position in Apple Inc. $AAPL",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUdMY0haZkVoQXJCazNhcld2eWk1eW9LVVNLM1JFNkNxTjJNbzhMNERjdGVEa1RUQXdvZjliTWxhVkdJTTdaTmdlV2tEaHVGamNvUUMtMlJlaUxrUHYxd2cwN2QwaE95a3NiYWVGc2pyN19nSHpGb2JZM1VWZHVfakNubWEyd1VGSFlLb0pGS0ZCckRDTVN1bGFRcXpDRFBQVGZSbGtJRUJmeEttMVpVdXR6b0NzMUltd2sya0k0cDJmY2xtbkVV?oc=5\" target=\"_blank\">DSG Capital Advisors LLC Decreases Stock Position in Apple Inc. $AAPL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-27T09:02:56",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUdMY0haZkVoQXJCazNhcld2eWk1eW9LVVNLM1JFNkNxTjJNbzhMNERjdGVEa1RUQXdvZjliTWxhVkdJTTdaTmdlV2tEaHVGamNvUUMtMlJlaUxrUHYxd2cwN2QwaE95a3NiYWVGc2pyN19nSHpGb2JZM1VWZHVfakNubWEyd1VGSFlLb0pGS0ZCckRDTVN1bGFRcXpDRFBQVGZSbGtJRUJmeEttMVpVdXR6b0NzMUltd2sya0k0cDJmY2xtbkVV?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Apple Stock (AAPL) Gets a Price Target Boost on \u2018Strong iPhone Cycle\u2019",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFN1NlQtbWgyaFY2NEl0MWpXMnNQTEliTWJTMkZXak1NNF9nWkQ0SXBwZlg4ZFlBVTNVak1HNmhPeGcxa1d5T3dab01WRndUVkJ5OHRKdGoxSUtOZWhTRXFlWE55cU9qRGE1Vi1UTHBaWkhfMzRHX2tIQktSV1VjalVsWWF5aWlRcGE0RkM3UTFRZ0x3MHhwZWM2TQ?oc=5\" target=\"_blank\">Apple Stock (AAPL) Gets a Price Target Boost on \u2018Strong iPhone Cycle\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-10T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFN1NlQtbWgyaFY2NEl0MWpXMnNQTEliTWJTMkZXak1NNF9nWkQ0SXBwZlg4ZFlBVTNVak1HNmhPeGcxa1d5T3dab01WRndUVkJ5OHRKdGoxSUtOZWhTRXFlWE55cU9qRGE1Vi1UTHBaWkhfMzRHX2tIQktSV1VjalVsWWF5aWlRcGE0RkM3UTFRZ0x3MHhwZWM2TQ?oc=5"
+    },
+    {
+      "source": "TechStock\u00b2",
+      "headline": "Apple stock drops today: AAPL slides as investors weigh Houston production push and China risk vote",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDdfYWZNVjdlTWJrbzlJeVpvVFVqYktXYU9RMDZVaGdISE05OEtmRDhwYUwzR1ZaTVlzZFFsNThNWUZkZzJ6NkJjd2NwV2VFajZ4djVKYlgxVnZjeEJORE5wSXd1UzZQZUZVMC1LNE1mcU51U0lwaVlNaE9scDlaU18yemRWaWVHN0NvQ3NEWF9qdU43U2luV3JKRy1FckhiOWlEekFUekxmXzJqTV9aUVpoWTNGX0lUdDUw?oc=5\" target=\"_blank\">Apple stock drops today: AAPL slides as investors weigh Houston production push and China risk vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechStock\u00b2</font>",
+      "date": "2026-02-26T16:09:24",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDdfYWZNVjdlTWJrbzlJeVpvVFVqYktXYU9RMDZVaGdISE05OEtmRDhwYUwzR1ZaTVlzZFFsNThNWUZkZzJ6NkJjd2NwV2VFajZ4djVKYlgxVnZjeEJORE5wSXd1UzZQZUZVMC1LNE1mcU51U0lwaVlNaE9scDlaU18yemRWaWVHN0NvQ3NEWF9qdU43U2luV3JKRy1FckhiOWlEekFUekxmXzJqTV9aUVpoWTNGX0lUdDUw?oc=5"
+    },
+    {
+      "source": "Trefis",
+      "headline": "Why Apple Stock May Drop Soon",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNZMmJjdV9meFQ0NnhVWVExRWlObmRUamJKNTVXUko4NkFNaW1rdks5eERHT09WRG0zcXJQRDF1OUl0eW15UmQ0TGRseDgxOVkxZzhUSzd2T3VFNEpFeXVheW5fVHVWSU1NRXd6RFI0S0I0ZGpJWTZVRlBoRkpFN1FNaTlQSTByc0dMcEJrWnpFcFZVUmc?oc=5\" target=\"_blank\">Why Apple Stock May Drop Soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trefis</font>",
+      "date": "2026-02-13T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNZMmJjdV9meFQ0NnhVWVExRWlObmRUamJKNTVXUko4NkFNaW1rdks5eERHT09WRG0zcXJQRDF1OUl0eW15UmQ0TGRseDgxOVkxZzhUSzd2T3VFNEpFeXVheW5fVHVWSU1NRXd6RFI0S0I0ZGpJWTZVRlBoRkpFN1FNaTlQSTByc0dMcEJrWnpFcFZVUmc?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Apple Stock\u2019s (AAPL) Bull Case Signals 30%+ Upside in 2026 \u2014 Here\u2019s Why",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkl6MEU4clVjdHBHell4UndZM3Z6bmY4XzVnSjY3cVltcHNsbE5NcnVHZUs5X3dUYzV5cHpadHJON1lWZU4xMlBtdk1DcnNsYld5aTJHN0hiWm93ekk0d1o1czNORFpreFVVSjgtX1dRRDBGRTlzcTAzcHNGQmZVVWQwT2o3bWpxOHdPbEQ3d1oxV0N4TFNOcDJyYWVwaEtEd2MzYmhn?oc=5\" target=\"_blank\">Apple Stock\u2019s (AAPL) Bull Case Signals 30%+ Upside in 2026 \u2014 Here\u2019s Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-14T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkl6MEU4clVjdHBHell4UndZM3Z6bmY4XzVnSjY3cVltcHNsbE5NcnVHZUs5X3dUYzV5cHpadHJON1lWZU4xMlBtdk1DcnNsYld5aTJHN0hiWm93ekk0d1o1czNORFpreFVVSjgtX1dRRDBGRTlzcTAzcHNGQmZVVWQwT2o3bWpxOHdPbEQ3d1oxV0N4TFNOcDJyYWVwaEtEd2MzYmhn?oc=5"
+    },
+    {
+      "source": "Benzinga",
+      "headline": "QXO, Apple, Exxon And A Financial Stock: CNBC\u2019s \u2018Final Trades\u2019 - Apple (NASDAQ:AAPL), Blackstone (NYSE:BX)",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDIwQnN6dFVLTlBZWHlqN0ljamhPT0NiZVcwOFdpTml5U3N0SUxZNVU1Y2oxT08xbkx4WmdLdFlVX1BpOWU4dDB4aXM5Z09iWVhaZDZYYzBaWjExWlY4bUpSSlRRamQ5Tl9KU20yTFFJSms4cEx6ODhTN2Z1dUFYVTJiaHdTcHlNb3pvZHI3UGNIVERmWktUYzJIZlp2MGU2SXVxVktuUFdYNHVic2NMbm1XY1NoN3Q4dHNNTlNEMGp3d3d3NlE?oc=5\" target=\"_blank\">QXO, Apple, Exxon And A Financial Stock: CNBC\u2019s \u2018Final Trades\u2019 - Apple (NASDAQ:AAPL), Blackstone (NYSE:BX)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Benzinga</font>",
+      "date": "2026-03-02T12:53:36",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDIwQnN6dFVLTlBZWHlqN0ljamhPT0NiZVcwOFdpTml5U3N0SUxZNVU1Y2oxT08xbkx4WmdLdFlVX1BpOWU4dDB4aXM5Z09iWVhaZDZYYzBaWjExWlY4bUpSSlRRamQ5Tl9KU20yTFFJSms4cEx6ODhTN2Z1dUFYVTJiaHdTcHlNb3pvZHI3UGNIVERmWktUYzJIZlp2MGU2SXVxVktuUFdYNHVic2NMbm1XY1NoN3Q4dHNNTlNEMGp3d3d3NlE?oc=5"
+    },
+    {
+      "source": "Quiver Quantitative",
+      "headline": "Apple Stock (AAPL) Opinions on AI Upgrade Delays",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUy1fT1lGbEZfSDBYWnN0czU3RjQ5STZRaWxLeWtRT3dtR2dGVU10Nl9TdVNpd21KN1VuSFBDSEtZSjJJSmFOT0ZKbFhJWWh1ZGVIT2FuemU0Y3FPd2MzZEpFb2hnSVZYbUVNT0pkMlBMSkRWbzhpa1JjVFZyeDdPRXlqQ0l3ai1YVDBycnBB?oc=5\" target=\"_blank\">Apple Stock (AAPL) Opinions on AI Upgrade Delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quiver Quantitative</font>",
+      "date": "2026-02-17T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUy1fT1lGbEZfSDBYWnN0czU3RjQ5STZRaWxLeWtRT3dtR2dGVU10Nl9TdVNpd21KN1VuSFBDSEtZSjJJSmFOT0ZKbFhJWWh1ZGVIT2FuemU0Y3FPd2MzZEpFb2hnSVZYbUVNT0pkMlBMSkRWbzhpa1JjVFZyeDdPRXlqQ0l3ai1YVDBycnBB?oc=5"
+    },
+    {
+      "source": "simplywall.st",
+      "headline": "Is Apple (AAPL) Still Priced Fairly After Recent Services Strength And Share Pullback",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3RmZEVLY1c3WFc0NnlmUHkyM2dqTEl4Z2M3WHBYaW11NW0xU010QXBNODRGQU8wQlU2aFU2RElidVh3UXRyWjBkTzlmR21ranF1YjNIS1RLb3JZRXhRanprUlNvU18yZlVQUG5jRkVxR0szd21TdHFxaVlsRUx2Z2IzbHo4VktUVk9tSXBydHUtLW1meS1oUnd5QnB5TVNRVHRGOV9FdUVMU2FlWGZ4OUwtV2lUbVRpYjdicdIBwgFBVV95cUxPbGZwckZMYVpsOTk5TXZzd2VwbzBPZ24xc0UwbkFlZ2VhZ1NvckZIYjlJTjBsYl9mNGRNVU93TXN1QUY1T3dLNHZta2ExOWNTV2xva2dHTjdoU18xMXdEcVlWbXZVdi1sOUZwOWZXemRXSU9qR2F0bFpoeWZvcmlkMWhrVVc1NVZZWWc2bVlWOFdQZkZpTGdGdGlpTHF5TDctZXptM1ctNEhRM3B0TTRUbW9HaGxjT0RZSmw2LUt3SFdWUQ?oc=5\" target=\"_blank\">Is Apple (AAPL) Still Priced Fairly After Recent Services Strength And Share Pullback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+      "date": "2026-02-23T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3RmZEVLY1c3WFc0NnlmUHkyM2dqTEl4Z2M3WHBYaW11NW0xU010QXBNODRGQU8wQlU2aFU2RElidVh3UXRyWjBkTzlmR21ranF1YjNIS1RLb3JZRXhRanprUlNvU18yZlVQUG5jRkVxR0szd21TdHFxaVlsRUx2Z2IzbHo4VktUVk9tSXBydHUtLW1meS1oUnd5QnB5TVNRVHRGOV9FdUVMU2FlWGZ4OUwtV2lUbVRpYjdicdIBwgFBVV95cUxPbGZwckZMYVpsOTk5TXZzd2VwbzBPZ24xc0UwbkFlZ2VhZ1NvckZIYjlJTjBsYl9mNGRNVU93TXN1QUY1T3dLNHZta2ExOWNTV2xva2dHTjdoU18xMXdEcVlWbXZVdi1sOUZwOWZXemRXSU9qR2F0bFpoeWZvcmlkMWhrVVc1NVZZWWc2bVlWOFdQZkZpTGdGdGlpTHF5TDctZXptM1ctNEhRM3B0TTRUbW9HaGxjT0RZSmw2LUt3SFdWUQ?oc=5"
+    },
+    {
+      "source": "CoinCentral",
+      "headline": "Apple (AAPL) Stock: New iPhone 17e Doubles Storage Without Raising Price",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEtuOWpTZ3hqcV9FeDFReVB5bzFtam8zVkJSUDdwUHhtU040NnFoLUlUdzJJOGhyeGwzc1d5Yk5ibDJVNjgxMkVHNU1ac2NHZ3pTb0J0VlpidXdXOUJ3U0xXNXVkMnFkSTRRWV9qTjZPdEJKUGRuTWQtNjZpQTVxNVQ1QXloNmNzMVJOV3hwR2g5TkM0UWZoeXJR?oc=5\" target=\"_blank\">Apple (AAPL) Stock: New iPhone 17e Doubles Storage Without Raising Price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+      "date": "2026-03-02T15:10:38",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEtuOWpTZ3hqcV9FeDFReVB5bzFtam8zVkJSUDdwUHhtU040NnFoLUlUdzJJOGhyeGwzc1d5Yk5ibDJVNjgxMkVHNU1ac2NHZ3pTb0J0VlpidXdXOUJ3U0xXNXVkMnFkSTRRWV9qTjZPdEJKUGRuTWQtNjZpQTVxNVQ1QXloNmNzMVJOV3hwR2g5TkM0UWZoeXJR?oc=5"
+    },
+    {
+      "source": "TipRanks",
+      "headline": "Apple (AAPL) Stock Under FTC Scrutiny Over Apple News Bias Claims",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPejFlc3RBS2lKUmd1V0RrN3Y1cklzUExGUDI3cUhXZHRnM0RCb3h1QS1zRjBoUTVuWGEyZjFYdVQtOUkyazd2dkdwb3BPRlZ6aWt0QVlzTTEwM1JtVUphd1JyTWFvTEsybWdiQUFWbjlNWmQwcTJzSk1TclFuS3U3ZGpkMC15bVVHb01jVTJ1dDR5TFA2cUJHOA?oc=5\" target=\"_blank\">Apple (AAPL) Stock Under FTC Scrutiny Over Apple News Bias Claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "date": "2026-02-12T08:00:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejFlc3RBS2lKUmd1V0RrN3Y1cklzUExGUDI3cUhXZHRnM0RCb3h1QS1zRjBoUTVuWGEyZjFYdVQtOUkyazd2dkdwb3BPRlZ6aWt0QVlzTTEwM1JtVUphd1JyTWFvTEsybWdiQUFWbjlNWmQwcTJzSk1TclFuS3U3ZGpkMC15bVVHb01jVTJ1dDR5TFA2cUJHOA?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "headline": "Apple Inc. $AAPL Stock Holdings Boosted by Stablepoint Partners LLC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEZWOXozS2ZteEVENGljV2gtU2I0MVFYWXl2Z0R2VWRuM1ZHb0tvYm83ejZpeGlYNnVQMkVsbFpZSkFkU1pFLTlneWxydE5pdTVnUm1vRUVldDhndG9hWmZadEVjVWF2cEVBVDVGUHNqV29MMUEzQVBiV1pvZnQtSjQzLTN6dEZvRmFaY0RNakU1MWFpb0VCR0lQcm5JYWRMY09SbGtCMmFLd0NkTmNRdjRQRTVxeW9aSDlhc2luTHJlR1FW?oc=5\" target=\"_blank\">Apple Inc. $AAPL Stock Holdings Boosted by Stablepoint Partners LLC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+      "date": "2026-02-26T10:01:14",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEZWOXozS2ZteEVENGljV2gtU2I0MVFYWXl2Z0R2VWRuM1ZHb0tvYm83ejZpeGlYNnVQMkVsbFpZSkFkU1pFLTlneWxydE5pdTVnUm1vRUVldDhndG9hWmZadEVjVWF2cEVBVDVGUHNqV29MMUEzQVBiV1pvZnQtSjQzLTN6dEZvRmFaY0RNakU1MWFpb0VCR0lQcm5JYWRMY09SbGtCMmFLd0NkTmNRdjRQRTVxeW9aSDlhc2luTHJlR1FW?oc=5"
+    },
+    {
+      "source": "MEXC",
+      "headline": "Why Apple (AAPL) Stock Could Outperform Despite Trading Below $270",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zVGdMR29Hd0lHdVJ0QkUzSjJRdUZhQTMzWkRYQ3BNejFKYnVKS2szWEp6eUJsUTdBdkN4bWhvdmFNc2d2c09B?oc=5\" target=\"_blank\">Why Apple (AAPL) Stock Could Outperform Despite Trading Below $270</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEXC</font>",
+      "date": "2026-02-17T11:21:04",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zVGdMR29Hd0lHdVJ0QkUzSjJRdUZhQTMzWkRYQ3BNejFKYnVKS2szWEp6eUJsUTdBdkN4bWhvdmFNc2d2c09B?oc=5"
+    },
+    {
+      "source": "24/7 Wall St.",
+      "headline": "Apple\u2019s Stock Recovery Is No Recovery At All",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQelBUUnlaR21aeVg5LWZZWmlubVVmUzZDbTVvUVM0U3FLQXdGc3pGQkRJQ3AzdkpqZ2hTcFQ5X25xUXJJTEo5QURzbnhGS0N4cWFvLXJXYWxBeVZoZFNFWjh5ZTNMdVAzX3pyZGNDNUJKdmVvemlZUVN1UnlEZ2djLW1PWXZLQjFKTVFaMVpMTUc4S19CY0E?oc=5\" target=\"_blank\">Apple\u2019s Stock Recovery Is No Recovery At All</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+      "date": "2026-02-23T13:53:11",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQelBUUnlaR21aeVg5LWZZWmlubVVmUzZDbTVvUVM0U3FLQXdGc3pGQkRJQ3AzdkpqZ2hTcFQ5X25xUXJJTEo5QURzbnhGS0N4cWFvLXJXYWxBeVZoZFNFWjh5ZTNMdVAzX3pyZGNDNUJKdmVvemlZUVN1UnlEZ2djLW1PWXZLQjFKTVFaMVpMTUc4S19CY0E?oc=5"
+    }
+  ]
+}
