@@ -1,0 +1,31 @@
+{
+  "ticker": "GOOGL",
+  "data_source": "reddit",
+  "post_count": 4,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "$GOOGL down 3% today and trending all over Reddit, is anyone actually buying this dip?",
+      "date": "2026-03-24"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "valueinvesting",
+      "text": "Buy the Dip on Google or wait",
+      "date": "2026-03-06"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Micron, SanDisk Stocks Tumble After Google Unveils AI Memory Compression Breakthrough",
+      "date": "2026-03-27"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Google is selling 100 year debt",
+      "date": "2026-02-09"
+    }
+  ]
+}

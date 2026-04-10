@@ -1,0 +1,55 @@
+{
+  "ticker": "AAPL",
+  "data_source": "reddit",
+  "post_count": 8,
+  "posts": [
+    {
+      "platform": "reddit",
+      "subreddit": "wallstreetbets",
+      "text": "Gee, no way AAPL can go any lower, better buy calls!",
+      "date": "2026-03-13"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "investing",
+      "text": "I'm getting a lot less bullish on Apple",
+      "date": "2026-03-18"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "valueinvesting",
+      "text": "My 2026 Stock Picks (as of March) Based on My Screening Framework",
+      "date": "2026-03-05"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "Big Six (AAPL, AMZN, GOOGL, META, MSFT, NVDA): Combined Quarterly Revenue $680 billion and Net Income $202 billion",
+      "date": "2026-02-26"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stockmarket",
+      "text": "$950,000,000,000 has been wiped out of the US stock market since open.\ud83d\udd3b",
+      "date": "2026-03-03"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stocks",
+      "text": "AAPL Quarterly Revenue $143.8 billion (up 15.7% YoY)",
+      "date": "2026-01-29"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stockmarket",
+      "text": "Over $2 trillion wiped out from the US stock market this week. So much RED, is this enough winning yet?",
+      "date": "2026-03-27"
+    },
+    {
+      "platform": "reddit",
+      "subreddit": "stockmarket",
+      "text": "$2,000,000,000,000 wiped out from the US stock market in the past month.",
+      "date": "2026-03-13"
+    }
+  ]
+}
